@@ -3,7 +3,7 @@
 ##### TODO #####
 
 ### Jeu ###
-Scènes        : 7/81
+Scènes        : 8/81
 Relecture 1   : 3/81
 Relecture 2   : 0/81
 Images        : 0/?
