@@ -1,4 +1,4 @@
-<0000> ７月１８日(火);;;<0000> 18/07 (mar)
+<0000> ７月１８日(火);;;<0000> 18/07 (mar.)
 <0001> ………。;;;<0001> ..........
 <0002> …目覚めはまぶしい。;;;<0002> ... À mon réveil, je fus ébloui.
 <0003> そして、魚臭かった。;;;<0003> Et ça puait le poisson.
@@ -153,7 +153,7 @@
 <0152> \{\m{A}}「ぶっ…！」;;;<0152> Beurk !
 <0153> 予想もしない異様な感覚に俺は吹き出す。;;;<0153> Je recrachai le liquide par réflexe alors qu'une étrange sensation s'emparait de moi.
 <0154> \{\m{A}}「なんだ、これは…」;;;<0154> Qu'est-ce que c'est que ce truc ?
-<0155> 俺はジュースのラベルを見る。;;;<0155> Je jetai un œil à l'étiquette.
+<0155> 俺はジュースのラベルを見る。;;;<0155> Je jetai un œil à l'emballage.
 <0156> …『どろり濃厚、ピーチ味』;;;<0156> Épaisseur extrême, saveur pêche.
 <0157> \{\m{A}}「………」;;;<0157> .........
 <0158> 俺は紙パックをさかさまにひっくり返し、握りつぶす。;;;<0158> Je retournai le carton et l'écrasai.
@@ -162,7 +162,7 @@
 <0161> それを見た少女が慌てて俺の手を掴んで、やめさせる。;;;<0161> La fille paniqua et m'agrippa le bras pour que j'arrête.
 <0162> \{少女}「どうして、そんなことするかなぁ…」;;;<0162> Pourquoi avoir fait une chose pareille...?
 <0163> また涙目。;;;<0163> Encore les yeux humides.
-<0164> \{\m{A}}「からかってるだろ、俺のこと」;;;<0164> Tu te moques de toi, n'est-ce pas ?
+<0164> \{\m{A}}「からかってるだろ、俺のこと」;;;<0164> Tu te moques de toi, hein ?
 <0165> \{少女}「そんなことないですよぅ」;;;<0165> Pas du tout.
 <0166> 見れば、彼女の分も、同じラベルだった。;;;<0166> Je jetai un coup d'œil et vis que son carton était le même que le mien.
 <0167> \{少女}「おいしいんですよ、これ」;;;<0167> C'est vraiment bon, ça.
@@ -812,7 +812,7 @@
 <0811> じーこじーこじーこ…;;;<0811> \bCliic, cliic, cliic\u...
 <0812> トゥルルルルル…;;;<0812> \bDriiiiing\u...
 <0813> 繋がった。;;;<0813> Il marche.
-<0814> …がちゃ。;;;<0814> \bDécroche\u.
+<0814> …がちゃ。;;;<0814> \bClic\u.
 <0815> 出た。;;;<0815> Quelqu'un a décroché.
 <0816> \{声}『はい、こちら西来軒』;;;<0816> Oui ? SeiraikOui ? Seiraiken à l'appareil.en à l'appareil.
 <0817> \{\m{A}}「ラーメンセットひとつ」;;;<0817> Je vais prendre un menu rāmen.
@@ -953,7 +953,7 @@
 <0952> 玄関のほうからだ。;;;<0952> Elle venait de l'entrée.
 <0953> \{観鈴}「あれ…？  なんだろ」;;;<0953> Hein ? Qui ça peut bien être ?
 <0954> 観鈴が立ち上がり、出てゆく。;;;<0954> Misuzu se leva et alla voir dehors.
-<0955> \{観鈴}「どうしてこんなことするかなぁ…」;;;<0955> Pourquoi avoir fait une chose pareille...?
+<0955> \{観鈴}「どうしてこんなことするかなぁ…」;;;<0955> Pourquoi tu fais des choses pareilles...?
 <0956> 涙目で食卓の上を見る観鈴。;;;<0956> Elle regardait la table à manger, les yeux prêts à pleurer.
 <0957> ラーメンとご飯がそれぞれ４人前に増えていた。;;;<0957> Il y avait maintenant quatre portions de rāmen et de riz sur la table.
 <0958> \{\m{A}}「どっちが早いかと思って」;;;<0958> Je voulais juste voir qui serait le plus rapide.
@@ -1234,7 +1234,7 @@
 <1233> ぱたぱたと戻ってゆく。;;;<1233> Elle repartit en trottinant.
 <1234> 健気な奴だった。;;;<1234> Une vraie pile électrique.
 <1235> 再び家の敷居を跨ぐ。;;;<1235> Je franchis le seuil de nouveau.
-<1236> 結局、ここが今晩の宿となった。;;;<1236> Au final, cette maison fut mon gîte pour cette nuit.
+<1236> 結局、ここが今晩の宿となった。;;;<1236> Finalement, cette maison fut mon gîte pour cette nuit.
 <1237> \{\m{A}}「毛布一枚貸してくれればそれでいい」;;;<1237> Tu peux juste me prêter une couverture.
 <1238> 廊下の先に向かって言う。;;;<1238> Lançai-je en direction du couloir.
 <1239> \{観鈴}「床、硬いよ」;;;<1239> C'est que c'est dur par terre.

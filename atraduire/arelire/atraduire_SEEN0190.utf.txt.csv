@@ -1,4 +1,4 @@
-<0000> ７月１９日(水);;;<0000> 19/07 (mer)
+<0000> ７月１９日(水);;;<0000> 19/07 (mer.)
 <0001> 翌朝…;;;<0001> Le lendemain matin...
 <0002> \{\m{A}}「………」;;;<0002> .........
 <0003> 寝起きはいつになく最悪だった。;;;<0003> Mon réveil fut horrible.
@@ -627,7 +627,7 @@
 <0626> ………。;;;<0626> ..........
 <0627> \{観鈴}「どうして、そんなことするかなぁ…」;;;<0627> Pourquoi tu fais des choses pareilles...?
 <0628> 戻ってくる。;;;<0628> Elle réapparut.
-<0629> 片足をドブに突っ込んで、靴を苔で汚していた。;;;<0629> Une de ses chaussures était recouverte de gadoue. Elle avait marché dans un caniveau.
+<0629> 片足をドブに突っ込んで、靴を苔で汚していた。;;;<0629> Une de ses chaussures était recouverte de crasse. Elle avait marché dans un caniveau.
 <0630> \{\m{A}}「俺はなぁ…」;;;<0630> Je...
 <0631> アイスを食いたかったんだ…。;;;<0631> Je voulais manger une glace...
 <0632> だが、あまりに格好悪くて言えない…。;;;<0632> Mais pour le bien de ma dignité, je ne pouvais pas dire ça...
@@ -719,7 +719,7 @@
 <0718> \{\m{A}}「栗まんじゅうか…悪くない」;;;<0718> Des manjū aux marrons... pas mal.
 <0719> それを胸に抱いて立ち上がる。;;;<0719> Je passai mes bras autour du sac pour le soulever.
 <0720> \{観鈴}「悪くない」;;;<0720> Pas mal.
-<0721> \{\m{A}}「うお…っと」;;;<0721> Wooh...!
+<0721> \{\m{A}}「うお…っと」;;;<0721> Hop-là...!
 <0722> 観鈴が笑顔で立っていた。;;;<0722> Misuzu se tenait là, souriante.
 <0723> \{観鈴}「うんうん、悪くない」;;;<0723> Ouaip, ouaip. Pas mal.
 <0724> \{\m{A}}「なにが」;;;<0724> De quoi ?
@@ -849,7 +849,7 @@
 <0848> \{子供}「うん、いこー」;;;<0848> Ouais, allons-y—.
 <0849> 子供たちは俺の脇を抜けて、立ち去る。;;;<0849> Les enfants me dépassèrent et s'en allèrent.
 <0850> ………。;;;<0850> ..........
-<0851> 俺は手に残されたジュースのラベルを見る。;;;<0851> Je considérai l'étiquette sur le carton que je tenais.
+<0851> 俺は手に残されたジュースのラベルを見る。;;;<0851> Je considérai l'emballage du jus que j'avais en main.
 <0852> …どろり濃厚シリーズ。;;;<0852> ... Collection Épaisseur extrême.
 <0853> 銘柄を確かめなかった俺が悪かった。;;;<0853> Honte à moi pour ne pas avoir vérifié la marque en avance.
 <0854> \{観鈴}「あ、\m{A}さん」;;;<0854> Ah, \m{A}-san.
@@ -1048,17 +1048,17 @@
 <1047> 観鈴がテレビを見ながら笑い出す。;;;<1047> Misuzu pouffa de rire en regardant la télé.
 <1048> 画面には、子犬がボールと戯れる映像が映しだされていた。;;;<1048> À l'écran, un chiot jouait avec une balle.
 <1049> まったく興味が持てない内容だった。;;;<1049> Ce genre de truc ne m'intéressait franchement pas.
-<1050> \{観鈴}「かわいい」;;;<1050> Il est mignon.
+<1050> \{観鈴}「かわいい」;;;<1050> Il est trop chou.
 <1051> \{\m{A}}「そらよかったな」;;;<1051> Content pour toi.
-<1052> \{観鈴}「\m{A}さんも、かわいいって思うよね」;;;<1052> \m{A}-san, tu ne trouves pas qu'il est mignon ?
+<1052> \{観鈴}「\m{A}さんも、かわいいって思うよね」;;;<1052> \m{A}-san, tu ne trouves pas qu'il est trop chou ?
 <1053> 「かわいいな」;;;<1053> 'Ouais, il est mignon'
-<1054> 「激プリチーだな」;;;<1054> 'Il est beau de ouf'
+<1054> 「激プリチーだな」;;;<1054> 'Il a grave la classe'
 <1055> 「かわいくない」;;;<1055> 'Je trouve pas'
 <1056> \{\m{A}}「かわいいな」;;;<1056> Ouais, il est mignon.
 <1057> \{観鈴}「やっぱり、そうだよねー」;;;<1057> On est d'accord—.
-<1058> \{観鈴}「すごくかわいい」;;;<1058> Il est trop, trop mignon.
+<1058> \{観鈴}「すごくかわいい」;;;<1058> Il est trop, trop chou.
 <1059> じぃ～っと見入っていた。;;;<1059> Elle était comme hypnotisée.
-<1060> 可愛いかもしれないが、そんなものいつまでも見ていたら飽きる。;;;<1060> C'était mignon, peut-être, mais on s'en finissait par s'en lasser.
+<1060> 可愛いかもしれないが、そんなものいつまでも見ていたら飽きる。;;;<1060> It était mignon, peut-être, mais on s'en finissait par s'en lasser.
 <1061> \{\m{A}}（なんだ、こりゃ…ずーっと、動物を映してるだけじゃないか…）;;;<1061> Attends, c'est quoi ce truc ? On ne voit que des animaux depuis tout à l'heure.
 <1062> すぐにも退屈し始める。;;;<1062> Je commençais à sérieusement m'ennuyer.
 <1063> リモコンを取り、番組を変えてみる。;;;<1063> Je ramassai la télécommande, et changeai de programme.
@@ -1067,27 +1067,27 @@
 <1066> 観鈴はその前でひっくり返っていた。;;;<1066> Misuzu tomba à la renverse.
 <1067> \{観鈴}「\m{A}さん…」;;;<1067> \m{A}-san...
 <1068> \{\m{A}}「あん？」;;;<1068> Ouais ?
-<1069> \{観鈴}「どうしてそんなことするかなぁ…」;;;<1069> Pourquoi avoir fait une chose pareille...?
+<1069> \{観鈴}「どうしてそんなことするかなぁ…」;;;<1069> Pourquoi tu fais des choses pareilles...?
 <1070> 涙目で起きあがる。;;;<1070> Elle était au bord des larmes.
 <1071> \{\m{A}}「暇だったんだ。変えてもいいだろ？」;;;<1071> On s'ennuie, là. Je peux zapper ?
 <1072> \{観鈴}「ダメっ。わたし、先週の予告から楽しみにしてたのっ」;;;<1072> Non ! Ça fait depuis la semaine dernière que j'attends de pouvoir le regarder, depuis que j'ai vu la bande-annonce.
 <1073> \{\m{A}}「いいじゃないか、ちょっとぐらい…」;;;<1073> Laisse-moi zapper, vite fait...
-<1074> チャンネルを手動で戻される。;;;<1074> Elle remit la chaîne la précédente à l'aide des boutons de la télévision.
-<1075> \{観鈴}「ほら、すごくかわいいよ。一緒に見てようよ」;;;<1075> Regarde, c'est super mignon. On peut regarder à deux.
+<1074> チャンネルを手動で戻される。;;;<1074> Elle remit la chaîne précédente à l'aide des boutons de la télévision.
+<1075> \{観鈴}「ほら、すごくかわいいよ。一緒に見てようよ」;;;<1075> Regarde, c'est super chou. On peut regarder à deux.
 <1076> \{\m{A}}（見ていたから、退屈したんだけどな…）;;;<1076> Si j'ai changé, c'est parce que ça m'ennuyait...
 <1077> 黙って見ていることにする。;;;<1077> Je décidai de me taire et de regarder.
-<1078> \{\m{A}}「激プリチーだな」;;;<1078> Il est beau de ouf.
-<1079> \{観鈴}「だよね。激プリチーだよねー」;;;<1079> Ben oui. Il est beau de ouf—.
+<1078> \{\m{A}}「激プリチーだな」;;;<1078> Il a grave la classe.
+<1079> \{観鈴}「だよね。激プリチーだよねー」;;;<1079> Ben oui. Il a grave la classe—.
 <1080> \{\m{A}}「………」;;;<1080> .........
 <1081> 揶揄していったつもりだったが、そんなものはまるで通用しないようだった。;;;<1081> J'avais dit ça pour me moquer d'elle, mais ce genre d'attaque ne marchait pas sur elle.
 <1082> \{観鈴}「ニワトリが、上に乗っかってるよ。あれはどうかな」;;;<1082> Il y a un poussin maintenant. Tu le trouves comment ?
-<1083> \{\m{A}}「激スリリングだな」;;;<1083> À couper le souffle.
+<1083> \{\m{A}}「激スリリングだな」;;;<1083> Grave à couper le souffle.
 <1084> \{観鈴}「だよねー」;;;<1084> Tout à fait—.
 <1085> \{観鈴}「あ、こんどは猿が近づいてきたよ」;;;<1085> Ah, cette fois c'est un singe qui se rapproche.
-<1086> \{\m{A}}「激モンキーだな」;;;<1086> Un macaque de ouf, hein ?
+<1086> \{\m{A}}「激モンキーだな」;;;<1086> Un macaque grave de ouf, hein ?
 <1087> \{観鈴}「そうそう。そんな感じ」;;;<1087> Exactement. Quelque chose comme ça.
 <1088> どんな感じだよ。;;;<1088> Quelque chose comme quoi ?
-<1089> 激モンキー………激しく猿である。;;;<1089> Le macaque de ouf... est un singe trop ouf.
+<1089> 激モンキー………激しく猿である。;;;<1089> Le macaque grave de ouf... est un singe trop grave.
 <1090> \{\m{A}}「つーか、猿そのものじゃないか…」;;;<1090> M'enfin, ça reste juste un singe...
 <1091> \{観鈴}「ん？  \m{A}さん、独り言？」;;;<1091> Hmm ? Tu parles tout seul ?
 <1092> \{\m{A}}「あ、ああ…気にするな」;;;<1092> O-Ouais... Fais pas attention.
@@ -1102,7 +1102,7 @@
 <1101> \{観鈴}「こういうのに感動できたら、もっと楽しいのに」;;;<1101> Tu apprécierais davantage si tu apprenais à être sensible à ce genre de choses.
 <1102> \{\m{A}}「そのぶん、こういう番組を見る必要もなくなるし、有意義に時間が使える」;;;<1102> Peut-être, mais c'est pas comme si j'étais obligé de regarder ce genre d'émissions. Je peux faire des choses plus utiles de mon temps libre.
 <1103> \{観鈴}「ふぅん、そういう考え方もあるんだね」;;;<1103> Hmmm, c'est une façon de voir les choses.
-<1104> \{観鈴}「ほら、ニワトリ乗せてるよ。すごくかわいい」;;;<1104> On ! Il y a un poussin maintenant. Il est trop, trop mignon.
+<1104> \{観鈴}「ほら、ニワトリ乗せてるよ。すごくかわいい」;;;<1104> Oh ! Il y a un poussin maintenant. Il est trop, trop chou.
 <1105> \{\m{A}}「かわいくないって言ってるだろ」;;;<1105> Je t'ai dit que ces choses n'avaient rien de mignon.
 <1106> 終始観鈴は俺に問いかけてくる。;;;<1106> Misuzu continua de me demander mon avis jusqu'à la fin de l'émission.
 <1107> 結局、かわいくないと答えていようがいまいが、こいつにとっては関係ないのだ。;;;<1107> Mais en fin de compte, ce que je lui disais n'avait aucune importance.
@@ -1115,7 +1115,7 @@
 <1114> \{\m{A}}「後でいい」;;;<1114> J'irai après.
 <1115> \{観鈴}「じゃ、行ってくるね」;;;<1115> Bon ben j'y vais.
 <1116> 立ち上がり、部屋を出ていった。;;;<1116> Elle se leva et quitta la pièce.
-<1117> 結局、ずっとテレビをふたりで見ていた。;;;<1117> En fin de compte, nous n'avions rien fait d'autre que regarder la télévision.
+<1117> 結局、ずっとテレビをふたりで見ていた。;;;<1117> En fin de compte, nous n'avons rien fait d'autre que regarder la télévision.
 <1118> あいつにとっては、それが変わらない日常なのだろう。;;;<1118> Pour elle, ça devait faire partie de sa routine.
 <1119> \{\m{A}}「おまえな…さっきひとりで頑張れって言ったら頷いただろ」;;;<1119> Hé, toi... t'as pas fait 'oui' de la tête quand je t'ai dit de te débrouiller seule ?
 <1120> \{観鈴}「そうなんだけど…やっぱり難しかった」;;;<1120> C'est vrai... mais c'est trop dur.
@@ -1208,7 +1208,7 @@
 <1207> \{晴子}「さて今夜、最初のコーナーは…」;;;<1207> Ce soir, notre première chronique, c'est...
 <1208> \{晴子}「…隠し芸大会」;;;<1208> ... La Chronique des Talents Cachés.
 <1209> \{晴子}「いぇーーーーい」;;;<1209> Yaaaaay !
-<1210> \{\m{A}}（なぜに、一瞬アンニュイな顔…）;;;<1210> C'était quoi cette tête dépitée ?
+<1210> \{\m{A}}（なぜに、一瞬アンニュイな顔…）;;;<1210> C'était quoi cette tête toute abattue ?
 <1211> \{晴子}「ほな、始めてや」;;;<1211> Allez, commence.
 <1212> \{\m{A}}「大会ならみんなに向けて言ってくれ。俺だけを見て言うな」;;;<1212> Je suis pas le seul à participer, alors dis pas ça qu'à moi. Arrête de me fixer.
 <1213> \{晴子}「うちらは観客や」;;;<1213> Nous, on fait le public.
@@ -1229,7 +1229,7 @@
 <1228> \{\m{A}}「けど、これが最後だからな」;;;<1228> Mais je vous préviens, c'est la dernière fois.
 <1229> \{観鈴}「楽しみ」;;;<1229> J'ai hâte de le voir.
 <1230> \{\m{A}}「やらないといったら、やらない」;;;<1230> Quand je dis 'non', c'est non.
-<1231> \{晴子}「そこまで煽っといて見せへんゆーんか」;;;<1231> Tu nous motives comme ça, puis au final, tu fous rien ?
+<1231> \{晴子}「そこまで煽っといて見せへんゆーんか」;;;<1231> Tu nous motives comme ça, puis à la fin, tu fous rien ?
 <1232> \{\m{A}}「煽ったのは、あんたの娘だろ…」;;;<1232> C'est juste ta fille qui te motive...
 <1233> \{晴子}「ええ根性しとる」;;;<1233> T'as du cran.
 <1234> \{晴子}「そんなあんたは、裏庭送りや」;;;<1234> T'as gagné l'jardin.
