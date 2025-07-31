@@ -528,21 +528,21 @@
 <0527> 俺はその頭を鷲掴みにする。;;;<0527> Je coinçai mes bras autour de sa tête et son cou pour l'empêcher de partir.
 <0528> \{観鈴}「ん？」;;;<0528> Hmm ?
 <0529> \{\m{A}}「ん？  じゃないだろっ」;;;<0529> Pas de 'hmm ?' qui tienne !
-<0530> \{\m{A}}「おまえな、俺は誰の頼みを聞いて、芸をしてたんだよっ」;;;<0530> Toi, là. Tu peux m'rappeler qui m'a supplié de lui montré mon tour ?
+<0530> \{\m{A}}「おまえな、俺は誰の頼みを聞いて、芸をしてたんだよっ」;;;<0530> Toi, là. Tu peux m'rappeler qui m'a supplié de lui montré mon numéro ?
 <0531> \{観鈴}「わたし」;;;<0531> Moi.
 <0532> \{\m{A}}「そうだ。おまえの頼みだ」;;;<0532> Exactement. C'est toi qui me l'as demandé.
 <0533> \{観鈴}「でもね、カラスは逃げるから、先に触ってくる」;;;<0533> Mais bon, il faut que j'aille toucher le corbeau, avant qu'il ne s'enfuie.
 <0534> ぱたぱたと駆けていった。;;;<0534> Elle détalla en courant.
 <0535> \{観鈴}「あれ？  なんか元気ない？」;;;<0535> Hé ? Tu n'as pas l'air en forme.
 <0536> 観鈴が戻ってきた。;;;<0536> Misuzu revint.
-<0537> \{\m{A}}「俺の芸は後回し…」;;;<0537> Mon tour passe après ça...
+<0537> \{\m{A}}「俺の芸は後回し…」;;;<0537> Mon numéro passe après ça...
 <0538> \{観鈴}「\m{A}さん？」;;;<0538> \m{A}-san ?
 <0539> \{\m{A}}「なんだ、戻ってきてたのか」;;;<0539> Quoi ? Ah, t'es revenue.
 <0540> \{観鈴}「うん。やっぱり逃げられちゃった」;;;<0540> Oui. Il s'est encore enfui.
 <0541> \{\m{A}}「そら良かったな」;;;<0541> Content pour toi.
 <0542> \{観鈴}「良くないって。ぜんぜんよくないよ」;;;<0542> Mais non. Ça n'a rien de bien, pas du tout.
 <0543> \{\m{A}}「じゃ、帰るか」;;;<0543> Allez, on rentre ?
-<0544> \{観鈴}「まだ見てないよ、\m{A}さんの芸」;;;<0544> Mais je n'ai pas encore vu ton tour.
+<0544> \{観鈴}「まだ見てないよ、\m{A}さんの芸」;;;<0544> Mais je ne l'ai pas encore vu, ton numéro.
 <0545> \{観鈴}「見たいな」;;;<0545> Je veux le voir.
 <0546> \{\m{A}}「おまえは…ほんとガキだよな」;;;<0546> T'es vraiment qu'une gamine... tu sais ça ?
 <0547> \{\m{A}}「カラスは急がないと逃げる。俺は急がないとやる気がなくなるんだ」;;;<0547> C'est vrai que le corbeau risquait de s'enfuir si tu prenais ton temps. Mais moi aussi, je perds ma motivation si tu prends ton temps.
@@ -653,7 +653,7 @@
 <0652> 密かに俺は、落ち込んでいた。;;;<0652> J'essayais de dissimuler ma déprime.
 <0653> この町の人間とはセンスがずれているらしい。;;;<0653> Les gens de ce village ne savent pas apprécier ce qui est bon.
 <0654> もしかしたら、永遠に旅費が稼げず、この町に留まることになるのではないか。;;;<0654> Je commençais à me dire que je n'aurais jamais assez d'argent pour voyager, et que je me ferais de vieux os dans ce village.
-<0655> 爺さんになっても、俺の芸はウケないのではないか。;;;<0655> Vu comment c'était parti, même quand je serai un petit vieux, personne ne saura apprécier mon tour.
+<0655> 爺さんになっても、俺の芸はウケないのではないか。;;;<0655> Vu comment c'était parti, même quand je serais un petit vieux, personne ne saurait apprécier mon numéro.
 <0656> \{子供}「お、この人形蹴って、帰ろうぜ～」;;;<0656> Hé, shootons cette poupée et barrons-nous~.
 <0657> \{\m{A}}「ふぉ…わしの人形を返しなされっ」;;;<0657> Ooh... rendez-la-moi, vilains garnements.
 <0658> ぼむっ！;;;<0658> \bBam\u !
@@ -827,7 +827,7 @@
 <0826> 子供たちはそれぞれに受け取る。;;;<0826> Chaque enfant en reçut un.
 <0827> 都会の子供ならば、こういう好意にも警戒の色を示すところなのだが、さすが田舎。;;;<0827> Si on était en ville, les enfants se seraient méfiés de tant d'attention à leur égard. C'était bien la campagne.
 <0828> もらえるものは、なんでももらっちゃうもんね！という感じである。;;;<0828> Je me disais que j'aurais pu leur refiler n'importe quoi.
-<0829> \{\m{A}}「さぁ、飲みながらでいいからな。お兄ちゃんの芸を見てくれ」;;;<0829> Allez, pendant que vous buvez, je vais vous montrer mon tour.
+<0829> \{\m{A}}「さぁ、飲みながらでいいからな。お兄ちゃんの芸を見てくれ」;;;<0829> Allez, pendant que vous buvez, je vais vous montrer mon numéro.
 <0830> 皆、一様にこくりと頷く。;;;<0830> Ils hochèrent la tête à l'unisson.
 <0831> 今までの失敗が嘘のように、ジュース作戦が功を奏す。;;;<0831> Je n'arrivais pas à croire que mon Opération Jus de Fruit marchât aussi bien.
 <0832> もしかすると、たまたま運悪くひねた性格の子供としか出会っていなかったのかもしれない。;;;<0832> Peut-être que je n'avais pas eu de chance et que tous les enfants que j'avais croisés jusqu'ici étaient tous mal éduqués.

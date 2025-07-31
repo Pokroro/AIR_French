@@ -38,7 +38,7 @@
 <0037> 俺は呼び止める。;;;<0037> Je les stoppai.
 <0038> \{子供たち}「ん？」;;;<0038> Hmm ?
 <0039> ふたりの顔がこちらを向く。;;;<0039> Leurs deux visages se tournèrent vers moi.
-<0040> \{\m{A}}「今からお兄さんが、芸を見せてやるからな」;;;<0040> Je vais vous montrer un tour !
+<0040> \{\m{A}}「今からお兄さんが、芸を見せてやるからな」;;;<0040> Je vais vous montrer un petit numéro !
 <0041> 俺はズボンの後ろのポケットに突っ込んであった人形を取り出すとそれを地面に寝かせる。;;;<0041> Je fourrai ma main dans la poche arrière de mon pantalon et en sortis une marionnette, que j'allongeai par terre.
 <0042> \{\m{A}}「さあ、楽しい人形劇の始まりだ」;;;<0042> C'est l'heure du super spectacle de marionnettes !
 <0043> 俺はその真上に手をかざし、念を込めた。;;;<0043> Je positionnai ma main juste au-dessus d'elle, et commençai à me concentrer.
@@ -52,7 +52,7 @@
 <0051> \{女の子}「あ、それいいね」;;;<0051> Ah, bonne idée.
 <0052> 違う話をしていた。;;;<0052> Ils parlaient d'autre chose.
 <0053> \{\m{A}}（こいつら…）;;;<0053> Ces gosses...
-<0054> まぁいい。こっちは芸を見せたことには変わりはないんだから。;;;<0054> Peu importe. Ça ne changeait rien au fait que je leur avais fait voir mon tour.
+<0054> まぁいい。こっちは芸を見せたことには変わりはないんだから。;;;<0054> Peu importe. Ça ne changeait rien au fait que je leur avais fait voir mon numéro.
 <0055> \{\m{A}}「な、おまえたち、お兄ちゃんの芸を見たんだから払うものがあるだろ？」;;;<0055> Hé, les gamins, je vous ai montré mon tour. Vous avez de quoi payer ?
 <0056> \{男の子}「さっきから、このひとひとりで何いってるの？」;;;<0056> Mais qu'est-ce qu'il raconte depuis tout à l'heure ?
 <0057> \{女の子}「たかし、無視しないとダメっ」;;;<0057> Takahi, il faut l'ignorer !

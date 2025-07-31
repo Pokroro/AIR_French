@@ -49,7 +49,7 @@
 <0048> 違うものを動かして、それでウケるというのであればこの場しのぎとしては使える。;;;<0048> J'allais essayer de faire bouger autre chose. Si j'y arrivais, ça m'aiderait à me sortir de cette situation.
 <0049> 俺は持っていたバッグの中を漁ってみる。;;;<0049> Je pris mon sac dans mes mains et me mis à fouiller à l'intérieur.
 <0050> 出てきたのは、地図と石鹸とタオルと歯ブラシと剃刀。それに下着の着替え。;;;<0050> J'en sortis une carte, du savon, une serviette, une brosse à dents et un rasoir. Il y avait aussi des sous-vêtements de rechange.
-<0051> これらを使って、何か芸が完成するだろうか。;;;<0051> Pouvais-je vraiment m'en servir pour mon tour ?
+<0051> これらを使って、何か芸が完成するだろうか。;;;<0051> Pouvais-je vraiment m'en servir pour mon numéro ?
 <0052> 俺は試しに歯ブラシを地面に置き、指先を当ててみた。;;;<0052> Pour voir, je posai ma brosse à dents par terre, et la touchai du bout du doigt.
 <0053> \{\m{A}}「………」;;;<0053> .........
 <0054> 念じる。;;;<0054> Je me concentrai.
@@ -1337,7 +1337,7 @@
 <1336> \{\m{A}}「ちがう…」;;;<1336> Incorrect.
 <1337> 知らないのに即答すんな…。;;;<1337> Réponds pas comme ça si tu sais pas...
 <1338> \{観鈴の母}「\m{C}さん」;;;<1338> \m{C}-san.
-<1339> 母親が俺へと向き直る。;;;<1339> Sa mère se tournai vers moi.
+<1339> 母親が俺へと向き直る。;;;<1339> Sa mère se tourna vers moi.
 <1340> \{観鈴の母}「…わかった。泊めたる」;;;<1340> ... Compris. Je vais t'héberger...
 <1341> \{観鈴}「やった」;;;<1341> Youpi !
 <1342> 案外、物わかりがいいようだ。;;;<1342> Contrairement à ce que m'avait suggéré ma première impression, elle pouvait faire preuve de compassion.
@@ -1431,7 +1431,7 @@
 <1430> \{\m{A}}「誰が言ってた」;;;<1430> Qui a dit ça ?
 <1431> \{観鈴}「わたし思う」;;;<1431> C'est ce que je me suis dit.
 <1432> \{\m{A}}「だろーな」;;;<1432> N'est-ce pas...
-<1433> 俺は毛布を被り、観鈴から顔を背ける。;;;<1433> Je m'enfonçai sous ma couverture, tournant le dos à Misuzu.
+<1433> 俺は毛布を被り、観鈴から顔を背ける。;;;<1433> Je m'enfonçai sous ma couverture, présentant ainsi mon dos à Misuzu.
 <1434> \{\m{A}}「目つきが悪ければ、目が悪いか、本当に人の悪い奴だ」;;;<1434> Si tu vois quelqu'un au regard mauvais, c'est soit qu'il n'a pas de bons yeux, soit c'est vraiment un mauvais gars.
 <1435> \{\m{A}}「これは俺の持論だ」;;;<1435> C'est là ma théorie à deux sous.
 <1436> \{観鈴}「そうかなー。そんなことないと思うよ」;;;<1436> Vraiment— ? Je ne pense pas que ce soit comme ça.
@@ -1578,7 +1578,7 @@
 <1577> \{晴子}「そうかー。ほな、二、三日後にはハイヤーでさっさかさーと次の町やな」;;;<1577> Vraiment— ? Et puis dans deux-trois jours, te trouver un hep-là pour t'emmener au prochain village ?
 <1578> \{\m{A}}（ハイヤーってなんだ…）;;;<1578> C'est quoi un 'hep-là'...?
 <1579> \{\m{A}}（馬だろうか。ハイヤーッ！と鞭を打つところから由来する…）;;;<1579> Un truc avec les chevaux ? Comme quand il se cabre et que tu cries 'holà'...?
-<1580> \{晴子}「ちなみにな、電車は無理やで」;;;<1580> Tant qu'on y est, sache que tu ne peux pas prendre le train, ici.
+<1580> \{晴子}「ちなみにな、電車は無理やで」;;;<1580> Tant qu'on y est, sache qu'tu peux pas prendre le train, ici.
 <1581> \{晴子}「駅見てきたら、わかるわ」;;;<1581> Tu comprendras quand tu verras la station.
 <1582> \{\m{A}}（カウボーイ・\m{A}。カッコイイかもな…）;;;<1582> \m{A} le cowboy. La classe...
 <1583> \{晴子}「で、あんた、職業はなんなんや？」;;;<1583> Et c'est comment qu'tu gagnes ta vie ?

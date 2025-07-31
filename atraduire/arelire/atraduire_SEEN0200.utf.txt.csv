@@ -62,8 +62,8 @@
 <0061> \{\m{A}}「どうして」;;;<0061> Pour quoi faire ?
 <0062> \{観鈴}「納屋でちゃんと寝られたかなって。目の下にくまできてないか見る」;;;<0062> Je veux m'assurer que tu aies bien dormi dans la remise, et que tu n'aies pas de cernes sous les yeux.
 <0063> \{\m{A}}「快眠だったぞ。灯油缶がいい抱き枕になるんだ」;;;<0063> J'ai dormi comme un loir. Un jerrican d'essence fait un super polochon, tu sais.
-<0064> \{\m{A}}「寝返り打つと、ベコボコいうけどな」;;;<0064> Mais ça fait 'pop' à chaque fois que je me retourne dans mon sommeil.
-<0065> \{観鈴}「いいからこっち向くの」;;;<0065> Peu importe. Tourne-moi vers moi.
+<0064> \{\m{A}}「寝返り打つと、ベコボコいうけどな」;;;<0064> Mais il fait 'pop' à chaque fois que je me retourne dans mon sommeil.
+<0065> \{観鈴}「いいからこっち向くの」;;;<0065> Peu importe. Tourne-toi vers moi.
 <0066> \{\m{A}}「ああ…」;;;<0066> Ouais...
 <0067> 俺は観鈴に向き直る。;;;<0067> Je me tournai vers Misuzu.
 <0068> 無表情は得意だ。俺の嘘は見抜けまい。;;;<0068> J'avais un talent pour faire semblant de rien. Personne ne pouvait déceler quand je mentais.
@@ -452,12 +452,12 @@
 <0451> …ひょこひょこひょこ。;;;<0451> ...\Hop hop hop\u.
 <0452> いつものとおり、人形はひとりでに動き出す。;;;<0452> Comme à chaque fois, la marionnette se mit à marcher toute seule.
 <0453> 謎の生物の周りをぐるりと歩かせてから、静かに念を解いた。;;;<0453> Après avoir fait marcher ma marionnette autour de la mystérieuse créature, je relâchai doucement mon flux de volonté.
-<0454> \{\m{A}}「どうだ、思わず恩を返したくなるような素晴らしい芸だろ？」;;;<0454> Que dis-tu de ça ? Mon tour t'a tellement émerveillé que tu te sens redevable ?
+<0454> \{\m{A}}「どうだ、思わず恩を返したくなるような素晴らしい芸だろ？」;;;<0454> Que dis-tu de ça ? Mon numéro t'a tellement émerveillé que tu te sens redevable ?
 <0455> \{？}「………」;;;<0455> .........
 <0456> 無言かつ真顔だった。;;;<0456> Il me regarda en silence, d'un air neutre.
 <0457> \{\m{A}}「………」;;;<0457> .........
-<0458> 謎の生物にさえ受けない俺の人形芸。;;;<0458> Même cette mystérieuse créature n'avait pas été sensible à mon tour.
-<0459> もしかしたら、俺の芸を理解できる存在はこの宇宙にはいないのか？;;;<0459> Y avait-il personne capable de saisir les subtilités de mon tour dans cet univers ?
+<0458> 謎の生物にさえ受けない俺の人形芸。;;;<0458> Même cette mystérieuse créature n'avait pas été sensible à mon numéro.
+<0459> もしかしたら、俺の芸を理解できる存在はこの宇宙にはいないのか？;;;<0459> Y avait-il personne capable de saisir les subtilités de mon numéro dans cet univers ?
 <0460> \{？}「ぴこぴこぴこ～っ」;;;<0460> Piko piko piko~ !
 <0461> \{\m{A}}「…ふっ」;;;<0461> Fweh...
 <0462> 何を考えているんだ俺は。;;;<0462> Qu'est-ce qui avait bien pu me passer par la tête ?
@@ -649,7 +649,7 @@
 <0648> 陽は頭上に差しかかりつつある。;;;<0648> Le soleil était au zénith.
 <0649> 昼時だった。;;;<0649> Il était midi.
 <0650> 補習も終わっているかもしれない。;;;<0650> Les cours de soutien étaient peut-être terminés.
-<0651> 学校の前までやってくると、案の定、観鈴が門の前で待っていた。;;;<0651> Comme je m'y attendais, Misuzu m'attendait devant le portail de l'école.
+<0651> 学校の前までやってくると、案の定、観鈴が門の前で待っていた。;;;<0651> Comme je m'en doutais, Misuzu m'attendait devant le portail de l'école.
 <0652> 俺は近づいてゆく。;;;<0652> J'allai à sa rencontre.
 <0653> \{\m{A}}「よぅ」;;;<0653> Yo.
 <0654> \{観鈴}「待った？」;;;<0654> Je t'ai fait attendre ?
@@ -984,12 +984,12 @@
 <0983> ポテトは、自らの動きに集中しているようだった。;;;<0983> Il était trop concentré sur ses propres mouvements pour ça.
 <0984> 必死で後ろ足を踏ん張り、バランスを保っている。;;;<0984> Il était désespérément en train d'essayer de garder son équilibre tout en se tenant sur ses pattes arrière.
 <0985> もしかしたら、これが畜生の直立歩行への挑戦の瞬間かもしれない。;;;<0985> Peut-être qu'il essayait de s'élever au rang des bipèdes, ne serait-ce qu'un instant ?
-<0986> \{\m{A}}「俺に芸を見せたところで、餌など持ってないぞ」;;;<0986> Même si tu me montres ton petit tour, je n'ai rien à te donner à manger.
+<0986> \{\m{A}}「俺に芸を見せたところで、餌など持ってないぞ」;;;<0986> Même si tu me montres ton petit numéro, j'ai rien à te donner à manger.
 <0987> \{\m{A}}「もちろん、買ってやる金もないからな」;;;<0987> Et évidemment, je n'ai pas non plus l'argent pour t'acheter quoi que ce soit.
 <0988> \{ポテト}「ぴっこ…ぴっこ…」;;;<0988> Pikko... Pikko...
 <0989> \{\m{A}}「…少しは人の話を聞け」;;;<0989> ... Fais au moins semblant d'écouter les gens quand ils te parlent.
 <0990> \{声}「ふふ…ちがうぞ、君」;;;<0990> Fufu... tu te trompes.
-<0991> \{声}「そいつは、もう一度君の芸を見たがっているんだよ」;;;<0991> Lui, il est en train d'essayer de te faire comprendre qu'il voudrait bien revoir ton tour.
+<0991> \{声}「そいつは、もう一度君の芸を見たがっているんだよ」;;;<0991> Lui, il est en train d'essayer de te faire comprendre qu'il voudrait bien revoir ton numéro.
 <0992> \{\m{A}}「え…」;;;<0992> Hein...
 <0993> 振り返ると、見知らぬ女性が立っていた。;;;<0993> Je me retournai, et vis une femme que je n'avais encore jamais vue.
 <0994> \{女性}「こいつ、君のファンになったらしいぞ」;;;<0994> Il a l'air d'être devenu un de tes fans.
@@ -1042,7 +1042,7 @@
 <1041> \{女性}「ああ。信じられないだろうが、これでも犬なんだよ」;;;<1041> Ouais. C'est assez dur à croire, mais ça, c'est un chien.
 <1042> \{女性}「珍種発見だろ？」;;;<1042> Tu penses qu'on a découvert un spécimen d'une espèce rare ?
 <1043> 珍種どころか、生き物であること自体が衝撃だ。;;;<1043> Rare ou pas, ce fut un choc d'apprendre que cette chose était bien vivante.
-<1044> \{女性}「でな、こいつは、君の芸をもう一度見たがっているんだよ」;;;<1044> Comme je disais, il aimerait bien revoir ton tour encore une fois.
+<1044> \{女性}「でな、こいつは、君の芸をもう一度見たがっているんだよ」;;;<1044> Comme je disais, il aimerait bien voir ton numéro encore une fois.
 <1045> \{\m{A}}「すごいな、あんた。こいつの思考が読めるのか」;;;<1045> Tu m'impressionnes. T'arrives à lire dans ses pensées ?
 <1046> もしかしたら、この町の住人はみんなそうなのか？;;;<1046> Par hasard, est-ce que tous les habitants de ce village savaient faire ça ?
 <1047> \{女性}「そういうわけじゃない」;;;<1047> Non, c'est pas ça.
@@ -1053,7 +1053,7 @@
 <1052> \{\m{A}}「当たり前だ」;;;<1052> C'est évident.
 <1053> 誰がこんな不気味な動きをさせるか。子供が見たら泣くぞ。;;;<1053> Qui la ferait se déplacer de manière aussi repoussante ? Les enfants pleureraient s'ils voyaient ça.
 <1054> \{女性}「ふむ。まあいい」;;;<1054> Ouaip. Si tu le dis.
-<1055> \{女性}「とにかく、こいつにもう一回、君の芸を見せてやってくれないか」;;;<1055> Quoi qu'il en soit, tu veux pas lui montrer ton tour encore une fois ?
+<1055> \{女性}「とにかく、こいつにもう一回、君の芸を見せてやってくれないか」;;;<1055> Quoi qu'il en soit, tu veux pas lui remontrer ton numéro juste une fois ?
 <1056> \{\m{A}}「断る」;;;<1056> Je refuse.
 <1057> \{女性}「そう言わずに、私からも頼む」;;;<1057> Alors, considère ça comme une requête de ma part.
 <1058> \{女性}「このまま放っておいたら、こいつは死ぬまで動き続けるぞ」;;;<1058> Si tu le laisses comme ça, il va continuer de gesticuler jusqu'à la mort.
@@ -1085,7 +1085,7 @@
 <1084> \{女性}「あ、ちょっとまて」;;;<1084> Ah, un instant.
 <1085> \{\m{A}}「なんだ？  俺は急ぐんだ」;;;<1085> Qu'y a-t-il ? C'est que je suis pressé.
 <1086> 大事な約束なんて嘘だがな。;;;<1086> Bien que l'histoire du rendez-vous important fût un mensonge.
-<1087> \{女性}「またここでその芸をしないか？」;;;<1087> Tu reviendras faire ton tour ici ?
+<1087> \{女性}「またここでその芸をしないか？」;;;<1087> Tu reviendras faire ton numéro ici ?
 <1088> \{\m{A}}「大道芸は渡り歩いてこそ大道芸だ」;;;<1088> Un artiste de rue s'appelle un artiste de rue parce qu'il voyage de rue en rue.
 <1089> \{女性}「ここは病院の前だ。人がよく通るぞ」;;;<1089> On est juste devant la clinique. Beaucoup de gens passent ici.
 <1090> \{女性}「それに放っておいても患者が来る」;;;<1090> Tu n'auras pas besoin de les attirer pour que les patients viennent.
@@ -1221,7 +1221,7 @@
 <1220> 言い返したいが、的を射た言葉だけに言い返せない。;;;<1220> Je cherchai une réplique adaptée, mais les mots ne me vinrent pas.
 <1221> \{女性}「なら、また見せてくれよ」;;;<1221> Et donc, tu me le montreras encore.
 <1222> \{\m{A}}「なにをだ」;;;<1222> Montrer quoi ?
-<1223> \{女性}「君の芸だよ」;;;<1223> Ton tour.
+<1223> \{女性}「君の芸だよ」;;;<1223> Ton numéro.
 <1224> \{女性}「今度からは、所場代もタダにするぞ」;;;<1224> À partir de la prochaine fois, tu n'auras plus à payer de frais.
 <1225> \{女性}「やりようによっては、うちの客寄せにならないことはないからな」;;;<1225> Parce que si tu t'y prends bien, tu m'amèneras des clients.
 <1226> \{\m{A}}「俺を利用する気か？」;;;<1226> Tu veux te servir de moi ?
@@ -1242,7 +1242,7 @@
 <1241> \{\m{A}}「人に利用されるのはごめんだ」;;;<1241> Je n'apprécie pas qu'on se serve de moi.
 <1242> \{\m{A}}「悪いがその申し出はことわ──…」;;;<1242> Désolé, mais je vais devoir rejeter——
 <1243> \{女性}「人の好意を無にする輩に人権はないな」;;;<1243> Les droits de l'homme ne s'appliquent pas à ceux qui refusent la bienveillance des autres.
-<1244> \{\m{A}}「…──るのは勿体ないから、ここで芸をしよう」;;;<1244> ...——l'idée de refuser cette proposition, je vais faire mon tour ici. 
+<1244> \{\m{A}}「…──るのは勿体ないから、ここで芸をしよう」;;;<1244> ...——l'idée de refuser cette proposition, je vais faire mon numéro ici. 
 <1245> 自分の身が可愛いので合意する。;;;<1245> Je consentis pour épargner mon joli minois.
 <1246> \{女性}「そうか」;;;<1246> Soit.
 <1247> 女性は満足げに頷いた。;;;<1247> La femme acquiesça, l'air satisfait.
@@ -1299,11 +1299,11 @@
 <1298> \{観鈴}「\m{A}さん」;;;<1298> \m{A}-san.
 <1299> 前に回り込んできた。観鈴だった。;;;<1299> Elle me tourna autour et s'arrêta devant moi. C'était Misuzu.
 <1300> \{\m{A}}「どうした」;;;<1300> Qu'est-ce qu'il y a ?
-<1301> \{観鈴}「それこっちのセリフ」;;;<1301> C'est à moi de te demander ça.
-<1302> \{観鈴}「帰り、遅いなって思って」;;;<1302> Tu en as mis du temps pour rentrer.
+<1301> \{観鈴}「それこっちのセリフ」;;;<1301> C'est à moi de dire ça.
+<1302> \{観鈴}「帰り、遅いなって思って」;;;<1302> Je me disais que tu en mettais du temps, pour rentrer.
 <1303> \{観鈴}「なにしてるの？」;;;<1303> Qu'est-ce que tu faisais ?
 <1304> \{\m{A}}「なんだっていいだろ」;;;<1304> Qu'est-ce que ça peut te faire ?
-<1305> \{観鈴}「気になる」;;;<1305> Je suis curieuse.
+<1305> \{観鈴}「気になる」;;;<1305> Ça m'intéresse.
 <1306> \{\m{A}}「人形を探してたんだ」;;;<1306> J'étais en train de chercher ma marionnette.
 <1307> 適当に答えておく。;;;<1307> Je lui pondis quelque chose de crédible.
 <1308> \{観鈴}「ん？  どうして？  二日前に見つけたよ」;;;<1308> Hmm ? Pourquoi ? On l'a déjà trouvée il y a deux jours.
@@ -1429,7 +1429,7 @@
 <1428> \{晴子}「しっし」;;;<1428> Hihi.
 <1429> いやらしく笑う晴子。その手には、俺の人形があった。;;;<1429> Elle ria d'un rire insupportable. Ma marionnette était dans lsa main.
 <1430> \{\m{A}}「………」;;;<1430> .........
-<1431> \{晴子}「これで、あんたはうちのプレゼントで芸するしかあらへん」;;;<1431> Comme ça, t'es obligé d'faire ton tour avec mon cadeau.
+<1431> \{晴子}「これで、あんたはうちのプレゼントで芸するしかあらへん」;;;<1431> Comme ça, t'es obligé d'faire ton numéro avec mon cadeau.
 <1432> \{晴子}「そうやろ？」;;;<1432> N'est-ce pas ?
 <1433> \{\m{A}}「こんなもんで、するかっ」;;;<1433> Comme si j'allais faire ça !
 <1434> \{晴子}「どうしても、うちのプレゼントを受け取らんて言うんか？」;;;<1434> Quoi qu'il arrive, tu n'accepteras jamais mon cadeau ?
@@ -1524,7 +1524,7 @@
 <1523> 再び、晴子がこっちを向いていた。;;;<1523> Encore une fois, Haruko se tourna dans ma direction.
 <1524> \{晴子}「仕事、紹介したろか」;;;<1524> Je peux te recommander à un boulot, qu'en dis-tu ?
 <1525> \{\m{A}}「………」;;;<1525> .........
-<1526> \{晴子}「あんたの芸じゃ、金なんて稼がれへん」;;;<1526> Sans ton tour, tu ne vas pas pouvoir te faire de sous.
+<1526> \{晴子}「あんたの芸じゃ、金なんて稼がれへん」;;;<1526> Sans ton numéro, tu ne vas pas pouvoir te faire de sous.
 <1527> \{晴子}「ちゃんと地に足のついた仕事し」;;;<1527> Trouve-toi un boulot un peu plus stable.
 <1528> \{晴子}「それで稼いだらええやないの。ひと月も仕事したら、海外へもいけるぐらいになるわ」;;;<1528> Tu pourrais te faire des sous. Après un mois de travail, tu devrais même avoir de quoi quitter le pays.
 <1529> \{晴子}「仕事内容も、あんた向きや」;;;<1529> La description du boulot a l'air faite pour toi.
