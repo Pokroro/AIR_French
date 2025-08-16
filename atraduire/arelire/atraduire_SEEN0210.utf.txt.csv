@@ -364,13 +364,13 @@
 <0363> ぱちんっ。;;;<0363> \bPop\u !
 <0364> \{少女}「わぷっ」;;;<0364> Wapu !
 <0365> \{少女}「んにゅぅ～」;;;<0365> Nnyuu~.
-<0366> 破裂したシャボン玉の水滴を顔面に浴びて、半べそをかく少女が一人。;;;<0366> Une fille au visage trempé par des bulles de savons qui avaient éclaté se tenait là, seule et au bord des larmes.
+<0366> 破裂したシャボン玉の水滴を顔面に浴びて、半べそをかく少女が一人。;;;<0366> Une fille au visage trempé par l'éclatement des bulles de savons se tenait là, seule, au bord des larmes.
 <0367> ごしごし…;;;<0367> \bEssuie essuie\u...
-<0368> 少女は服の裾で顔を拭い、再びふくらましにかかる。;;;<0368> Elle s'essuya le visage à l'aide de l'ourlet de son haut, puis retenta d'en gonfler une.
+<0368> 少女は服の裾で顔を拭い、再びふくらましにかかる。;;;<0368> Elle s'essuya le visage à l'aide du bord de ses habits, puis réessaya d'en gonfler une.
 <0369> \{少女}「ふぅ～～～…」;;;<0369> Fuuuu...
 <0370> ぱちんっ。;;;<0370> \bPop\u !
 <0371> \{少女}「わぷぷっ」;;;<0371> Wapupu !
-<0372> またもや顔面水滴まみれ。;;;<0372> Et son visage fut de nouveau couvert de gouttes.
+<0372> またもや顔面水滴まみれ。;;;<0372> Elle se retrouva de nouveau avec le visage couvert de gouttelettes.
 <0373> \{少女}「んにゅぅ～」;;;<0373> Nnyuu~.
 <0374> ごしごし…;;;<0374> \bEssuie essuie\u...
 <0375> \{少女}「ふぅ～～～…」;;;<0375> Fuuuu...
@@ -381,7 +381,7 @@
 <0380> \{少女}「ふぅ～～～…」;;;<0380> Fuuuu...
 <0381> ぱちんっ。;;;<0381> \bPop\u !
 <0382> \{\m{A}}「………」;;;<0382> .........
-<0383> \{\m{A}}「不憫だ…」;;;<0383> Elle me faisait pitié.
+<0383> \{\m{A}}「不憫だ…」;;;<0383> La pauvre...
 <0384> 同じ失敗を繰り返すこと数回。;;;<0384> Elle se ratait à chaque fois.
 <0385> それは、見ているだけで胸がせつなくなる光景だった。;;;<0385> Rien qu'à la regarder, j'en eus un pincement au cœur.
 <0386> \{\m{A}}（あのガキ、擦りすぎて顔面がテカテカじゃないか）;;;<0386> Cette gamine s'était tellement essuyé le visage que ce dernier luisait.

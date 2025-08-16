@@ -135,7 +135,7 @@
 <0134> 観鈴ちんファイトである。;;;<0134> Misuzu-chin, tu peux le faire.
 <0135> \{観鈴}「あの、遠野さん…」;;;<0135> Euh, Tohno-san...
 <0136> 観鈴の声には、妙に力が入っている。;;;<0136> Misuzu faisait de gros efforts pour parler.
-<0137> \{観鈴}「ほ、本日も実に良いお日柄で」;;;<0137> A-Aujourd'hui encore fut une bien belle journée.
+<0137> \{観鈴}「ほ、本日も実に良いお日柄で」;;;<0137> A-Aujourd'hui fut une bien belle journée.
 <0138> \{\m{A}}「…おい」;;;<0138> ... Hé.
 <0139> わけのわからない切り出しだった。;;;<0139> Elle se mit à parler bizarrement.
 <0140> \{美凪}「………」;;;<0140> .........
@@ -203,7 +203,7 @@
 <0202> \{少女}「ねえねえ美凪っ、ゆうかいまだよっ、ヘンタイだよっ！」;;;<0202> Hé, hé, Minagi ! C'est lui, c'est le kidnappeur ! Le pervers !!
 <0203> \{\m{A}}「言いふらすなっ」;;;<0203> Arrête de dire n'importe quoi !
 <0204> \{美凪}「………」;;;<0204> .........
-<0205> \{美凪}「…ヘンタイ……」;;;<0205> .........
+<0205> \{美凪}「…ヘンタイ……」;;;<0205> ... Pervers......
 <0206> \{\m{A}}「しみじみと言うなっ」;;;<0206> Écoute pas ce qu'elle dit !
 <0207> しかも、ため息混じりに…。;;;<0207> Par-dessus le marché, elle lâchait de petits soupirs.
 <0208> \{美凪}「…ここにきた目的は？」;;;<0208> ... Pourquoi être venu ici ?
@@ -409,7 +409,7 @@
 <0408> \{美凪}「…お弁当…つくってくるから」;;;<0408> ... Je te... préparerai un bentō.
 <0409> \{みちる}「うぅ～～～、んじゃあ、『はんばぁぐ』つくってきてくれる？」;;;<0409> Uu~~~, dans ce cas, tu y mettras du sté-que-ha-ché ?
 <0410> \{美凪}「…うん」;;;<0410> ... Oui.
-<0411> こくりとうなずく。;;;<0411> Elle acquiesça.
+<0411> こくりとうなずく。;;;<0411> Elle hocha la tête.
 <0412> \{みちる}「ほんとっ！」;;;<0412> Pour de vrai ?!!
 <0413> \{美凪}「…うん」;;;<0413> ... Oui.
 <0414> \{みちる}「やったーーー！」;;;<0414> Youpi——— !

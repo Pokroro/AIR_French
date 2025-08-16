@@ -2,16 +2,16 @@
 
 ##### TODO #####
 
-### Jeu ###
-Scènes        : 10/81
+### Traduction Jeu ###
+Scènes        : 13/81
 Relecture 1   : 3/81
 Relecture 2   : 0/81
 Images        : 0/?
 
-### Interface ###
-Texte         : 0/?
-Images        : 0/?
-Vérification  : 0/?
+### Traduction Interface ###
+Texte         : ok
+Images        : ko
+Vérification  : ko
 
 ### Ingénierie ###
 gameexe.ini                : en cours
@@ -23,3 +23,5 @@ Extraction des images      : ok
 Remplacement des images    : ko
 
 ##### Présentation #####
+
+TODO
