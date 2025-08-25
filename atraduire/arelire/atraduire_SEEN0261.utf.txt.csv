@@ -1,0 +1,400 @@
+<0000> ７月２６日(水);;;<0000> 26/07 (mer.)
+<0001> 静けさで目覚めた。;;;<0001> J'ouvris les yeux dans une atmosphère sereine.
+<0002> いつもの神尾家の茶の間。;;;<0002> Toujours le même salon Kamio.
+<0003> 蝉の声と、扇風機が回る音。;;;<0003> Le chant des cigales et le murmure du ventilateur.
+<0004> それ以外に物音がしない。;;;<0004> Aucun autre bruit.
+<0005> いつもなら、もうとっくに観鈴が起きている時間だった。;;;<0005> Misuzu était généralement levée à cette heure-là.
+<0006> 畳の上で寝返りを打つ。;;;<0006> Je pivotais sur le tatami.
+<0007> 背筋の辺りに、何か重いものが淀んでいるような気がした。;;;<0007> J'avais l'impression qu'un grand poids était attaché à mon dos et me tirait vers le bas.
+<0008> 俺は起きあがり、爪先立ちで伸びをした。;;;<0008> Je me levai, et m'étirai, debout sur la pointe des pieds.
+<0009> 観鈴の部屋の前に来た。;;;<0009> Je marchai jusqu'à la chambre de Misuzu.
+<0010> \{\m{A}}「観鈴、入るぞ」;;;<0010> Misuzu, j'entre.
+<0011> 引き戸を開け、中に入った。;;;<0011> Je fis coulissai la porte, et entrai.
+<0012> 観鈴は両足をベッドの上に投げ出して、手でさすっていた。;;;<0012> Misuzu était sur son lit, les deux jambes allongées. Elle se les massait.
+<0013> \{観鈴}「どうしたのかなー」;;;<0013> Mais qu'est-ce qu'elles ont— ?
+<0014> \{観鈴}「なかなか元に戻らないなー」;;;<0014> Elles ne veulent pas revenir comme avant—.
+<0015> \{\m{A}}「…どうしたんだ？」;;;<0015> ... Qu'est-ce qu'il y a ?
+<0016> \{観鈴}「足が痺れたみたいになってる」;;;<0016> Mes jambes sont toutes engourdies.
+<0017> \{観鈴}「んー…」;;;<0017> Hmm—...
+<0018> 自分の足を不思議そうに眺める。;;;<0018> Elle regardait ses propres jambes, l'air perplexe.
+<0019> \{\m{A}}「昨日、歩きすぎたんだろ」;;;<0019> Peut-être que t'as trop marché, hier.
+<0020> \{観鈴}「そんなことないと思う」;;;<0020> Je ne pense pas que ce soit ça.
+<0021> \{観鈴}「この頃、朝はだいたいこんな感じだから」;;;<0021> Ces derniers temps, ils me font ça chaque matin.
+<0022> \{観鈴}「前からたまにあったけど、いつもはすぐに治るの」;;;<0022> Ça m'arrive de temps en temps, mais d'habitude, ça disparaît très vite.
+<0023> \{\m{A}}「ただの低血圧なんじゃないのか？」;;;<0023> C'est pas juste un petit problème de tension ?
+<0024> \{観鈴}「にはは。そうかも」;;;<0024> Nihaha. Peut-être bien.
+<0025> また足をさする。;;;<0025> Elle recommença à masser ses jambes.
+<0026> \{\m{A}}「………」;;;<0026> .........
+<0027> \{観鈴}「ん？  なにか言った？」;;;<0027> Hmm ? Tu as dit quelque chose ?
+<0028> \{\m{A}}「…いや」;;;<0028> ... Nan.
+<0029> \{観鈴}「お腹すいたのかな？」;;;<0029> Tu commences à avoir un petit creux ?
+<0030> \{観鈴}「朝ごはん、ちょっと待っててね」;;;<0030> Sois patient, le petit-déjeuner arrive.
+<0031> \{観鈴}「すぐ歩けるようになると思うから」;;;<0031> Je crois que je vais bientôt pouvoir marcher.
+<0032> \{\m{A}}「朝飯はいいから、寝てろ」;;;<0032> Ne t'embête pas avec le petit-déjeuner, rendors-toi.
+<0033> \{観鈴}「でも、学校はいかないと。それまでによくなるかな」;;;<0033> Mais il fait que j'aille à l'école. Il faut que j'aille mieux d'ici-là.
+<0034> \{\m{A}}「…無理すんなよな」;;;<0034> ... Ne te force pas.
+<0035> \{観鈴}「わたしね、遅刻は多いけど、欠席はしないんだよ」;;;<0035> Tu sais, je suis souvent en retard, mais je n'ai jamais été absente.
+<0036> \{\m{A}}「そらいい子だな」;;;<0036> En voilà une fille sage !
+<0037> \{観鈴}「うん、ちょっといい子」;;;<0037> Oui, j'essaie d'être sage.
+<0038> \{観鈴}「だからね、がんばって行く」;;;<0038> Et donc, il faut que j'y aille.
+<0039> \{\m{A}}「そっか…」;;;<0039> Je vois...
+<0040> \{\m{A}}「すぐによくなるさ」;;;<0040> Je suis sûr que tu ça ira mieux très vite.
+<0041> \{観鈴}「うん、よくなるよ」;;;<0041> Oui, ça ira mieux.
+<0042> ………。;;;<0042> ..........
+<0043> ちこちこと時計の針の音だけがする。;;;<0043> On n'entendait plus que le tictac de l'horloge.
+<0044> 観鈴は黙って、足を揉んだりしていた。;;;<0044> Misuzu continuait à se masser les jambes en silence.
+<0045> その横顔には焦りの色が見える。;;;<0045> Je voyais bien qu'elle s'inquiétait.
+<0046> そろそろ事態の悪さに気づき始めたようだ。;;;<0046> Elle avait commencé à réaliser la sévérité de son état.
+<0047> \{\m{A}}「どうする。病院いくか」;;;<0047> Qu'est-ce qu'on fait ? On va à l'hôpital ?
+<0048> \{観鈴}「ううん、だいじょうぶ。もう少し、休ませてね」;;;<0048> Non, je vais bien. Laisse-moi juste me reposer un petit peu.
+<0049> 結局、授業が始まる時間になっても、観鈴の足はよくならなかった。;;;<0049> En fin de compte, les cours commencèrent et les jambes de Misuzu n'allaient toujours pas mieux.
+<0050> \{観鈴}「うーん…授業始まっちゃった」;;;<0050> Hmm... les cours ont commencé.
+<0051> \{\m{A}}「もう気にするな。行ける状況じゃない」;;;<0051> Ne t'en fais pas pour ça. Tu n'es pas en état d'y aller.
+<0052> \{観鈴}「そうだね…残念」;;;<0052> Je m'en doute... c'est dommage.
+<0053> \{\m{A}}「一日ぐらい行かなくても、大して変わらないだろ」;;;<0053> Simplement manquer un jour ne posera pas de problème.
+<0054> \{\m{A}}「今日は寝てろ」;;;<0054> Aujourd'hui, contente-toi de dormir.
+<0055> \{観鈴}「でも、お昼ご飯…」;;;<0055> Mais, et le petit-déjeuner...
+<0056> \{\m{A}}「その辺のもの勝手に食べるから心配するな」;;;<0056> Je trouverai bien quelque chose à manger, ne t'inquiète pas.
+<0057> \{観鈴}「そうしてくれると、嬉しい」;;;<0057> J'espère que tu trouveras.
+<0058> パジャマの胸元に視線を落としながら、少し不安げに言う。;;;<0058> Elle baissa les yeux vers le haut de son pyjama, et dit d'une voix quelque peu inquiète :
+<0059> \{観鈴}「本当は、ちょっと食欲ないかも」;;;<0059> Pour tout te dire, je n'ai pas beaucoup d'appétit.
+<0060> \{\m{A}}「夏風邪だろ。変なジュースばかり飲むからだ」;;;<0060> C'est sûrement un rhume d'été. En même temps, tu ne bois rien d'autre que ces jus de fruits bizarres.
+<0061> \{観鈴}「それは関係ないと思う」;;;<0061> Je pense que ça n'a rien à voir.
+<0062> \{\m{A}}「じゃあな。大人しくしてろよ」;;;<0062> Allez, à plus. Tiens-toi sage.
+<0063> 俺は部屋を後にした。;;;<0063> Je quittai sa chambre.
+<0064> 台所に行き、水を一杯飲んだ。;;;<0064> J'allai dans la cuisine pour boire un verre d'eau.
+<0065> \{\m{A}}「ふぅ…」;;;<0065> Fiou...
+<0066> 溜息をつく。;;;<0066> Je poussai un soupir.
+<0067> 身体の芯が妙に疲れている。;;;<0067> Je ressentais une sorte de fatigue étrange à l'intérieur de mon corps.
+<0068> \{晴子}「イッター…」;;;<0068> J'ai... mal—...
+<0069> 晴子が現れた。;;;<0069> Haruko apparut.
+<0070> \{晴子}「頭いたいわ…どいてや」;;;<0070> J'ai mal à la tête... écarte-toi.
+<0071> 俺をおしのけていく。;;;<0071> Elle me poussa sur le côté.
+<0072> 台所へと入ると、冷蔵庫から牛乳のパックを取り出し、それを口飲みし始める。;;;<0072> Elle alla dans la cuisine prendre une brique de lait dans le réfrigérateur, et commença à la boire.
+<0073> 相変わらず呑気な母親だった。;;;<0073> Toujours aussi nonchalante, cette mère.
+<0074> \{晴子}「頭、ごっつイタイわ。久々やわ、二日酔いやなんて」;;;<0074> Ma tête m'fait un mal de chien. Ça faisait longtemps qu'j'avais pas eu la gueule de bois, tiens.
+<0075> \{晴子}「でも、仕事やー。一家の生計立てるために、頑張らんとな」;;;<0075> Mais bon, faudra que j'aille au boulot—. J'ai une maison à nourrir, alors je bosse.
+<0076> \{晴子}「貧乏暇ナシや」;;;<0076> La détente, c'est un luxe que j'peux pas m'permettre.
+<0077> \{\m{A}}「………」;;;<0077> .........
+<0078> \{晴子}「なんやねん」;;;<0078> Qu'est-ce qu'il y a ?
+<0079> その顔がこっちに向く。;;;<0079> Elle regarda dans ma direction.
+<0080> \{\m{A}}「観鈴を看てやってくれ」;;;<0080> Va jeter un coup d'œil à Misuzu.
+<0081> \{晴子}「ん？  どないしたん、あの子」;;;<0081> Hmm ? Qu'est-ce qui lui arrive, à cette fille ?
+<0082> \{\m{A}}「具合が悪いんだ」;;;<0082> Elle ne se sent pas bien.
+<0083> \{晴子}「はは…あれやな。落ちてるものでも拾うて食うたんやろ」;;;<0083> Haha... encore ça. Elle a encore mangé un truc trouvé par terre, hein ?
+<0084> \{晴子}「小さいときも、かりんとうと間違えて、ヘンなもの食べそうになった子や」;;;<0084> Quand elle est petite, elle a bouffé un truc bizarre en pensant que c'était du karintō.
+<0085> \{晴子}「口に入れる直前で叩き落としたったから無事やったけどなー」;;;<0085> Si elle s'en est sortie, c'est parce que j'lai fait tomber d'ses mains avant qu'elle le mette à sa bouche.—
+<0086> \{晴子}「あの子、ほんまにそそっかしいわ」;;;<0086> Quelle étourdie, cette-là.
+<0087> 朝食をその牛乳だけで済ませて、居間まで戻ってくる。;;;<0087> Après avoir bu son lait en guise de petit-déjeuner, elle revint dans la salle de séjour.
+<0088> \{晴子}「そしたら、うち昼まで寝るから、後よろしくな」;;;<0088> Et maintenant, je dors jusqu'à midi, j'te laisse t'occuper du reste.
+<0089> \{\m{A}}「顔ぐらいだしてやれよ」;;;<0089> Passe au moins dans sa chambre.
+<0090> \{晴子}「頭痛いねん、うち」;;;<0090> Mais j'ai mal à la tête, moi.
+<0091> \{晴子}「病人がふたり顔を突き合わせても、気が滅入るだけやろ？」;;;<0091> Si tu mets deux malades face-à-face, tu vas juste les déprimer, non ?
+<0092> \{晴子}「それに、あの子もいまさらそんなんで元気でぇへん」;;;<0092> Et de toute façon, c'est pas ça qui la remettre en forme.
+<0093> \{晴子}「あんたがそばにおったったら、それでええやろ」;;;<0093> T'es là pour elle, ça suffit.
+<0094> \{晴子}「ほな、おやすみ」;;;<0094> Allez, bonne nuit.
+<0095> その姿が廊下に消えた。;;;<0095> Elle disparut dans le couloir.
+<0096> \{\m{A}}「………」;;;<0096> .........
+<0097> 晴子が残していった一言が、頭の中に引っかかっている。;;;<0097> Ses derniers mots me tracassaient.
+<0098> 『あんたがそばにおったったら、それでええやろ』;;;<0098> T'es là pour elle, ça suffit.
+<0099> 拳を握りしめている自分に気づいた。;;;<0099> Je remarquai que les poings étaient serrés.
+<0100> 俺は何を苛立っている？;;;<0100> Qu'est-ce qui m'irritait comme ça ?
+<0101> 何を動揺している？;;;<0101> Qu'est-ce qui me faisait trembloter comme ça ?
+<0102> 観鈴の姿を思い返す。;;;<0102> Je revis Misuzu dans mon esprit.
+<0103> ただの夏風邪だ。少し休めば、すぐに元通りになる。;;;<0103> Ce n'est qu'un rhume d'été. Si elle se repose un peu, elle redeviendra comme avant.
+<0104> その裏で、予感が頭をもたげる。;;;<0104> Un horrible pressentiment prenait naissance en mon for intérieur.
+<0105> 格子がついた窓の外で、梢が揺れている。;;;<0105> De l'autre côté des fenêtres à croisillons, les branches oscillaient.
+<0106> その向こうに編みこまれた、青空。;;;<0106> Au-delà se tissait un ciel bleu.
+<0107> 夏は続いてゆく。;;;<0107> L'été avançait.
+<0108> 今までずっと、そうだったように。;;;<0108> Comme il l'avait fait jusqu'à présent.
+<0109> 悲しみの気配なんて、どこにもありはしないのに。;;;<0109> Pas le moindre signe de chagrin à constater.
+<0110> 観鈴は上体を起こし、膝の上でトランプを始めていた。;;;<0110> Misuzu se redressa, et commença à disposer les cartes sur ses genoux.
+<0111> \{観鈴}「トランプ、トランプっ」;;;<0111> Les cartes, les cartes !
+<0112> \{\m{A}}「おまえさ、休んだんだからって遊んでないで、少しは寝たらどうなんだ」;;;<0112> Hé, toi, c'est pas parce que tu vas pas à l'école que tu peux jouer. Dors encore un peu.
+<0113> \{観鈴}「一日中、遊んでられる。うれしい」;;;<0113> Je peux jouer toute la journée. Ça me fait plaisir.
+<0114> \{\m{A}}「だったら、休んだ意味がないだろ？」;;;<0114> Dans ce cas, à quoi ça sert de prendre un jour de repos ?
+<0115> \{観鈴}「だって、眠りたくないもん…」;;;<0115> Mais, je veux pas dormir...
+<0116> 札を集める手を止め、ぽつりと言った。;;;<0116> dit-elle d'une voix plaintive en arrêtant de disposer les cartes.
+<0117> \{\m{A}}「どうしてだよ」;;;<0117> Pourquoi ?
+<0118> \{観鈴}「今朝の夢、ヘンだったから」;;;<0118> Parce que le rêve que j'ai fait cette nuit, il était très bizarre.
+<0119> \{\m{A}}「空の夢じゃなかったのか？」;;;<0119> Tu n'as pas rêvé du ciel ?
+<0120> \{観鈴}「ううん」;;;<0120> Si.
+<0121> 顔が曇る。;;;<0121> Son visage s'assombrit.
+<0122> \{観鈴}「空の夢だったけど…」;;;<0122> J'ai rêvé du ciel, mais...
+<0123> \{観鈴}「今までとぜんぜん違った」;;;<0123> Mais celui-ci était très différent.
+<0124> 何かを思い出したかのように、観鈴の瞳が震えた。;;;<0124> Elle essayait de se rappeler quelque chose, ses yeux tremblaient.
+<0125> \{観鈴}「ぽっかりと月が浮かんでて、すごく明るかった」;;;<0125> Il y avait une énorme lune en suspension dans l'air, et elle brillait super fort.
+<0126> \{観鈴}「わたし、空に昇ろうとしてた」;;;<0126> Et moi, je voulais m'élever dans le ciel.
+<0127> \{観鈴}「体中がずきずき痛くて動かないのに、ずっと高くまで昇ろうとしてた」;;;<0127> Mon corps entier était paralysé par la douleur, mais je n'arrêtais pas d'essayer de m'élever.
+<0128> \{観鈴}「そうしたら…」;;;<0128> Et ensuite...
+<0129> \{観鈴}「声が聞こえてきたの」;;;<0129> J'ai entendu des voix.
+<0130> \{\m{A}}「声？」;;;<0130> Des voix ?
+<0131> \{観鈴}「たくさんの人の声」;;;<0131> Les voix de plein de monde.
+<0132> \{観鈴}「わたし、それでわかった」;;;<0132> Et là, j'ai compris.
+<0133> \{観鈴}「みんなが、わたしを閉じ込めようとしてるって」;;;<0133> Tous ces gens voulaient m'enfermer.
+<0134> \{観鈴}「耳の中がわんわん鳴って、それ以上昇れなくなって、それで…」;;;<0134> Mes oreilles bourdonnaient, je ne pouvais pas m'élever davantage, et malgré ça...
+<0135> その先は、何も言わなかった。;;;<0135> Elle ne compléta pas la phrase.
+<0136> 今まで聞いていた空の夢とは、似ても似つかないものだった。;;;<0136> Ce rêve n'avait rien à voir avec tous ceux dont elle m'avait parlé.
+<0137> 話し終えても、観鈴はまだ不安げだった。;;;<0137> Elle avait beau avoir fini de parler, elle paraissait toujours inquiète.
+<0138> まるで、今にもその『声』が聞こえてくるかのように。;;;<0138> Elle donnait l'impression qu'elle était encore en train d'entendre ces 'voix'.
+<0139> \{観鈴}「もう、見たくないな…」;;;<0139> Je ne veux plus les faire...
+<0140> \{\m{A}}「ただの夢だろ。気にするな」;;;<0140> Ce sont juste des rêves. Pas besoin de t'en faire.
+<0141> 頭にぽんと手を載せてやる。;;;<0141> Je posai ma main sur sa tête.
+<0142> \{観鈴}「うん。それじゃ、気にしないね」;;;<0142> Ok. Alors, je vais arrêter de m'en faire.
+<0143> \{\m{A}}「ああ。しっかり休め」;;;<0143> Ouais. Prends-soin de ton corps.
+<0144> \{観鈴}「うん」;;;<0144> Oui.
+<0145> 頷きながら、トランプに手を伸ばす。;;;<0145> Elle acquiesça, puis tendit une main vers les cartes.
+<0146> \{\m{A}}「おまえなあ…」;;;<0146> Dis-donc, toi...
+<0147> 観鈴がトランプを並べる音だけが聞こえてくる。;;;<0147> On n'entendait plus que le bruit de Misuzu en train d'arrangeait les cartes.
+<0148> 俺はどうすればいいか、それだけを考え続けた。;;;<0148> Je me remis à réfléchir à ce que je devrais faire.
+<0149> どのぐらい経っただろう。;;;<0149> Je ne savais pas combien de temps s'était écoulé.
+<0150> 全く物音がしないのに気づいた。;;;<0150> Je n'entendais absolument pas le moindre bruit.
+<0151> 観鈴の方を見た。;;;<0151> Je jetai un coup d'œil en direction de Misuzu.
+<0152> 膝の上にトランプを広げたまま、すうすうと寝息を立てていた。;;;<0152> On pouvait l'entendre respirer dans son sommeil, les cartes toujours posées sur ses genoux.
+<0153> 夢を見ているのだろうか？;;;<0153> Était-elle en train de rêver ?
+<0154> 最初は空の夢。;;;<0154> Au début, elle rêvait du ciel.
+<0155> それが悲しい空であることに、観鈴は気づいた。;;;<0155> Puis, elle s'était rendu compte que ce ciel était chargé de chagrin.
+<0156> そして今朝、夢が変わった。;;;<0156> Et enfin, cette nuit, le rêve avait changé.
+<0157> 観鈴は以前、夢は時間を遡っていると言った。;;;<0157> Une fois, Misuzu avait dit que ses rêves remontaient le temps.
+<0158> 夢が突然変わったことは、何を意味しているのだろう？;;;<0158> Si ses rêves changeaient soudainement, que cela voulait-il dire ?
+<0159> 次に観鈴は、どんな夢を見るのだろう？;;;<0159> Quel serait son prochain rêve ?
+<0160> \{\m{A}}「………」;;;<0160> .........
+<0161> 観鈴の頭ががくりと動いた。;;;<0161> Sa tête avait bougé.
+<0162> 起きてしまったらしい。;;;<0162> Elle s'était réveillée.
+<0163> きょろきょろと辺りを見回し、俺を見つける。;;;<0163> Elle regarda dans tous les sens, et s'arrêta sur moi.
+<0164> \{観鈴}「…わたし、寝てたんだ」;;;<0164> ... J'ai dormi.
+<0165> \{\m{A}}「夢、見なかったか？」;;;<0165> Tu n'as pas fait de rêve ?
+<0166> 起き抜けの瞳で俺を覗く。;;;<0166> Elle me dévisageait d'un œil mal réveillé.
+<0167> \{観鈴}「うん…」;;;<0167> Non...
+<0168> \{観鈴}「見なかった」;;;<0168> Je n'en ai pas fait.
+<0169> \{\m{A}}「そうか」;;;<0169> Je vois.
+<0170> 答えると、観鈴は大きく伸びをした。;;;<0170> Après m'avoir répondu, Misuzu s'étira de tout son long.
+<0171> \{観鈴}「よし、と」;;;<0171> Bien.
+<0172> てきぱきとカードを片づけ始める。;;;<0172> Elle se mit sur le champ à rassembler les cartes.
+<0173> \{観鈴}「\m{A}さん、ヒマ…だよね？」;;;<0173> \m{A}-san, tu... n'as rien à faire, maintenant ?
+<0174> \{\m{A}}「ん？  なんかあるのか？」;;;<0174> Hmm ? Tu as quelque chose à me dire ?
+<0175> \{観鈴}「うん。海行こうと思って」;;;<0175> Oui? Je voulais aller à la mer.
+<0176> \{\m{A}}「そっか。そうだったな」;;;<0176> Je vois. Je m'en rappelle.
+<0177> それは約束していたことだった。;;;<0177> Je le lui avais promis.
+<0178> しかし今日の観鈴の体で、いけるのだろうか。;;;<0178> Mais était-ce seulement possible vu l'état dans lequel elle se trouvait aujourd'hui ?
+<0179> \{観鈴}「浜辺で遊ぶの」;;;<0179> On ira jouer sur la plage.
+<0180> \{観鈴}「砂を掘ったり、波から逃げたりしながら」;;;<0180> On ira faire des trous dans le sable, et courir pour échapper aux vagues.
+<0181> \{\m{A}}「俺も…か？」;;;<0181> Moi... aussi ?
+<0182> \{観鈴}「いいよ、\m{A}さん見ていてくれるだけでも」;;;<0182> Si tu veux, tu pourras te contenter de regarder.
+<0183> \{\m{A}}「いや、いいよ。約束だからな」;;;<0183> Nan, ça ira. Je te l'ai promis.
+<0184> \{観鈴}「ほんと？  うれしい」;;;<0184> Pour de vrai ? Ça me touche.
+<0185> 満面の笑顔。久々に見た気がする。;;;<0185> Son visage s'orna d'un sourire. Un sourire qu'il me sembla de pas avoir vu depuis longtemps.
+<0186> こいつはこうして何も考えず笑っているのが、一番可愛い。;;;<0186> C'était quand elle souriait l'esprit léger qu'elle était la plus adorable.
+<0187> ずっと、その笑みを見ていたいと思った。;;;<0187> Je voulais admirer ce sourire pour toujours.
+<0188> \{\m{A}}「でもな…」;;;<0188> Mais, tu sais...
+<0189> \{観鈴}「うん？」;;;<0189> Oui ?
+<0190> \{\m{A}}「今日じゃないほうがいいと思うんだ」;;;<0190> Je pense qu'il faudrait y aller un autre jour.
+<0191> 今の観鈴に無理をさせたくなかった。;;;<0191> Dans son état, je ne voulais pas que Misuzu fît trop d'efforts.
+<0192> \{観鈴}「え？」;;;<0192> Hein ?
+<0193> \{\m{A}}「おまえ、まだ具合悪いだろ」;;;<0193> Tu n'es toujours pas très en forme, n'est-ce pas ?
+<0194> \{\m{A}}「よくなってからにしよう」;;;<0194> On fera ça quand tu iras vraiment mieux.
+<0195> \{観鈴}「うーん…」;;;<0195> Hmm...
+<0196> \{\m{A}}「おまえ、楽しいことが待ってたら、頑張れるんだろ？」;;;<0196> Tu iras mieux en un quart de retour avec quelque chose d'aussi bien au bout, non ?
+<0197> \{観鈴}「うん…そだね」;;;<0197> Oui... c'est vrai.
+<0198> \{観鈴}「じゃ、明日いこうね」;;;<0198> Alors, allons-y demain.
+<0199> \{\m{A}}「ああ。そうなるように、頑張れ」;;;<0199> Ouais. Fais de ton mieux pour que ça se réalise.
+<0200> \{観鈴}「うん」;;;<0200> Oui !
+<0201> 観鈴が笑っていたのは、その話をしていた時だけだった。;;;<0201> Seule cette conversation avait réussi à la faire sourire.
+<0202> 結局は、観鈴はベッドに入ったきりで…;;;<0202> En fin de compte, Misuzu passa toute la journée au lit...
+<0203> なにひとつ、変わったことなどなかった。;;;<0203> Rien de rien n'avait changé.
+<0204> しんと静まり返る家。;;;<0204> La maison était plongée dans un silence de mort.
+<0205> 晴子がいれば、まだ賑やかなのだろうが。;;;<0205> Au moins, si Haruko était là, ce serait sûrement plus animé.
+<0206> 当然、夕食をつくる人間はいない。;;;<0206> Forcément, personne n'était disponible pour préparer le dîner.
+<0207> 一応観鈴に訊いたが、食欲がないと答えた。;;;<0207> Quand j'évoquai le sujet à Misuzu, elle me dit qu'elle n'avait pas d'appétit.
+<0208> 食欲がないのは、俺も同じだった。;;;<0208> Je n'avais pas non plus d'appétit.
+<0209> 俺の中に巣くってしまった予感をうち消す方法、それだけを探していた。;;;<0209> J'avais passé tout ce temps à chercher un moyen d'étouffer ce pressentiment qui grandissait en moi.
+<0210> 日付が変わった頃、晴子が帰ってきた。;;;<0210> Haruko revint vers le moment où l'on changeait de date.
+<0211> 案の定、千鳥足で居間に現れた。;;;<0211> Comme on pouvait s'y attendre, elle pénétra dans la salle de séjour en titubant.
+<0212> この女は、本当に酒が入るとダメになる。;;;<0212> Quand elle était ivre, on ne pouvait plus rien pour elle.
+<0213> それがようやくわかってきた。;;;<0213> Je l'avais enfin réalisé.
+<0214> \{晴子}「ほら、土産や」;;;<0214> Hé, cadeau !
+<0215> 手には寿司折。;;;<0215> Elle tenait une boîte de sushis.
+<0216> \{晴子}「今から飲みながら食うで～」;;;<0216> Maintenant, on va picoler un peu en mangeant ça~ !
+<0217> \{晴子}「ん…観鈴ちんは、もう寝てしもたんか」;;;<0217> Hmm... Misuzu-chin est déjà couchée ?
+<0218> \{晴子}「しゃあない。ふたりで食うで。皿出しや～」;;;<0218> Tant pis. On va becqueter à deux. Va chercher les assiettes~ !
+<0219> \{\m{A}}「ひとりで食ってくれ」;;;<0219> Va manger toute seule.
+<0220> \{晴子}「なんや、つきあい悪いやんか」;;;<0220> Qu'est-ce qui te prend ? T'es pas une très bonne compagnie.
+<0221> \{晴子}「一緒に食おうや。おいしいんやでここの寿司」;;;<0221> Mange au moins avec moi. Ils sont très bons les sushis, ici.
+<0222> \{\m{A}}「食わない」;;;<0222> Je ne veux pas manger.
+<0223> \{晴子}「………」;;;<0223> .........
+<0224> \{晴子}「なんで、そないなこと言うねん」;;;<0224> Pourquoi tu dis des choses pareilles ?
+<0225> \{晴子}「ひとりより、ふたりで食べたほうがおいしいやん」;;;<0225> La nourriture est toujours meilleure à deux que tout seul, tu sais ?
+<0226> \{晴子}「お酒飲みながら、つつこ」;;;<0226> Tu pourras manger en picolant !
+<0227> \{晴子}「な」;;;<0227> Ça marche ?
+<0228> \{\m{A}}「………」;;;<0228> .........
+<0229> ここにいたら、俺は何を言い出すかわからない。;;;<0229> Je ne savais pas ce que je serais capable de lui dire si je restais là plus longtemps.
+<0230> この女に何を言ってしまうかわからなかった。;;;<0230> Aucune idée de ce que je cracherais à cette femme.
+<0231> ここにいる;;;<0231> Rester là
+<0232> 部屋から出る;;;<0232> Sortir de la pièce
+<0233> \{晴子}「な、うち今夜は機嫌えーねん」;;;<0233> T'sais, j'suis d'bonne humeur, ce soir—.
+<0234> \{晴子}「楽しい夜になるでっ」;;;<0234> Cette nuit, on va bien s'amuser !
+<0235> 手を握られる。;;;<0235> Elle me prit la main.
+<0236> 俺はそれを振りほどく。;;;<0236> Je la repoussai.
+<0237> \{晴子}「あ…ショックや。今、ごっつ傷ついたわ…」;;;<0237> Ah... quel choc. Tu viens d'sacrément me blesser, là...
+<0238> \{\m{A}}「な…どうして、引き取ったんだよ」;;;<0238> Hé... Pourquoi est-ce que tu l'as recueillie chez toi ?
+<0239> \{晴子}「なにがや」;;;<0239> De quoi tu parles ?
+<0240> \{\m{A}}「どうして、観鈴を引き取ってしまったんだよ」;;;<0240> Pourquoi est-ce que tu as recueilli Misuzu chez toi ?
+<0241> \{晴子}「なんや…あの子、話してたんかいな」;;;<0241> Ah, ça... Elle t'a tout raconté ?
+<0242> \{晴子}「引き取ったんやない」;;;<0242> Je l'ai pas recueillie chez moi. 
+<0243> \{晴子}「押しつけられたんや」;;;<0243> On m'a forcé.
+<0244> \{晴子}「嫌や、言うてんけどなー」;;;<0244> J'ai dit que j'voulais vraiment pas—.
+<0245> \{\m{A}}「そのせいで、あいつはあんたに甘えられないんだろっ！」;;;<0245> Et à cause de ça, elle ne pourra jamais t'aimer comme une mère !!
+<0246> 一喝していた。;;;<0246> aboyai-je.
+<0247> \{晴子}「なんや…あんた」;;;<0247> Qu'est-ce qui te prend...?
+<0248> \{晴子}「自分の面倒もロクにみれん人間が、よう、他人に意見できるな」;;;<0248> Quelqu'un qui n'sait même pas prendre soin d'elle-même n'a pas l'droit d'faire la leçon aux autres.
+<0249> \{晴子}「自分で恥ずかしい思わんのかいな」;;;<0249> Sois-en conscient.
+<0250> \{\m{A}}「………」;;;<0250> .........
+<0251> \{晴子}「ずっとあんた、タダメシ食らってるだけやないか」;;;<0251> Pendant tout ce temps, t'étais juste là pour la bouffe gratuite, hein ?
+<0252> \{\m{A}}「そうだな…」;;;<0252> On peut dire ça...
+<0253> 何も言い返せなかった。;;;<0253> Je ne savais pas quoi répondre.
+<0254> \{晴子}「はは…冗談や」;;;<0254> Haha... je plaisante.
+<0255> \{晴子}「別に怒ってるわけやあらへんよ」;;;<0255> Je ne suis pas fâchée, tu sais ?
+<0256> \{晴子}「あんたが怒鳴るから、うちも、キツぅ言ってしもた」;;;<0256> C'est juste qu'à t'entendre crier, ça m'a donné envie de me lâcher un peu.
+<0257> \{晴子}「メシのことは別に気にせんでええよ」;;;<0257> Cette histoire de bouffe, ça ne me dérange pas.
+<0258> \{\m{A}}「いや、必ず払って出てゆくよ」;;;<0258> Nan, je paierai avant de partir.
+<0259> \{晴子}「いつのことになるやろな～」;;;<0259> Et ce sera quand, ça~ ?
+<0260> \{晴子}「ゆっくり待ってるわ」;;;<0260> Mais j'attendrai tranquillement.
+<0261> 台所へと消えてゆく。;;;<0261> Elle alla disparaître dans la cuisine.
+<0262> もう俺を誘おうとはしなかった。;;;<0262> Elle avait arrêté de me solliciter.
+<0263> \{\m{A}}「………」;;;<0263> .........
+<0264> 俺は居場所を失って、廊下に出る。;;;<0264> Je quittai ma place et sortis dans le couloir.
+<0265> \{晴子}「………」;;;<0265> .........
+<0266> \{晴子}「うちなんかに…」;;;<0266> À propos de moi...
+<0267> \{晴子}「甘えたいわけあらへん、あの子が」;;;<0267> Elle ne voudra jamais s'rapprocher de moi cette fille.
+<0268> \{晴子}「うち、ほんまの親やないから」;;;<0268> J'suis pas sa vraie mère, tu vois.
+<0269> \{\m{A}}「そんなの関係ないだろ…」;;;<0269> Qu'est-ce que ça peut faire...?
+<0270> \{\m{A}}「あいつにとっての、親はあの日から、あんたひとりだけなんだよ」;;;<0270> Pour elle, depuis ce jour-là, t'es son seul parent.
+<0271> \{\m{A}}「自覚しろ…あんたが観鈴のただひとりの母親なんだよ」;;;<0271> Essaie de comprendre... Tu es la seule figure maternelle que Misuzu n'a jamais eue.
+<0272> \{晴子}「はぁ…」;;;<0272> Haa...
+<0273> 晴子はため息をついて、頭を掻いた。;;;<0273> Elle soupira, puis se gratta l'arrière du crâne.
+<0274> \{晴子}「んなこと今さら自覚持てるかいな…」;;;<0274> Tu penses vraiment qu'il est encore temps d'chercher à comprendre ça...?
+<0275> \{晴子}「あの日から何年経ってる思うんや」;;;<0275> Tu sais combien de temps a passé depuis c'jour-là ?
+<0276> \{晴子}「もう時間が経ちすぎとる」;;;<0276> Beaucoup, beaucoup trop d'temps.
+<0277> \{晴子}「なにも取り返すことなんてできへんのや」;;;<0277> Qu'est-ce qu'tu veux qu'fasse pour rattraper tout c'temps perdu ?
+<0278> 台所へと消えていった。;;;<0278> Elle disparut dans la cuisine.
+<0279> これ以上、言うこともなかったから、追わなかった。;;;<0279> N'ayant plus rien à lui dire, je ne cherchai pas à lui courir après.
+<0280> \{\m{A}}「………」;;;<0280> .........
+<0281> 俺は居場所を失って、部屋を後にした。;;;<0281> N'ayant plus rien à faire là, je sortis de la pièce.
+<0282> 俺は部屋を出た。;;;<0282> Je sortis de la pièce.
+<0283> 狭いはずの廊下が、嫌にがらんと感じられた。;;;<0283> L'étroit couloir me parut terriblement désert.
+<0284> \{\m{A}}「………」;;;<0284> .........
+<0285> 頭を冷やして来ようと思った。;;;<0285> Je décidai qu'il me fallait me calmer un peu.
+<0286> 俺は玄関に行き、靴を履いた。;;;<0286> Je marchai jusqu'au vestibule, et y enfilai mes chaussures.
+<0287> 気づかれないよう、玄関の戸をそっと閉める。;;;<0287> Afin de ne pas attirer l'attention, je fermai la porte tout doucement.
+<0288> 田舎町の深夜では、人通りもない。;;;<0288> La nuit, les rues des villages de campagne étaient désertes.
+<0289> 夜気は熱くよどんでいる。;;;<0289> La nuit, l'air restait chaud et lourd.
+<0290> 家の中の方が、涼しいぐらいだった。;;;<0290> Il faisait plus frais à l'intérieur de la maison.
+<0291> あてもなく歩くと、海沿いに出た。;;;<0291> J'errai sans but, et finis par atteindre la côte.
+<0292> そのまま進む。;;;<0292> Je continuai ma route.
+<0293> 結局、着いたのはここだった。;;;<0293> C'est ici que je finis par arriver.
+<0294> 堤防への階段を登り、どっかりと腰を下ろした。;;;<0294> Je montai les marches de la digue, et m'y assis.
+<0295> 波の音がした。;;;<0295> On entendait les bruits des vagues.
+<0296> 海の手前が砂浜になっている。;;;<0296> La mer était bordée d'une plage de sable.
+<0297> 幾重にも打ち寄せる波が、しゅわしゅわと砂に吸い込まれる。;;;<0297> Les unes après les autres, les vagues venaient mourir sur le sable dans une traînée d'écume.
+<0298> 神尾家のことを思い出してみた。;;;<0298> Je pensais à la maison Kamio.
+<0299> 海辺の町の、小さな一軒家。;;;<0299> Une petite maison individuelle dans un village en bord de mer.
+<0300> 子供の頃から、俺は母親と旅をしていた。;;;<0300> Depuis mon enfance, j'avais voyagé avec ma mère.
+<0301> 家族の温かさが染み込んだような、家での暮らしに憧れていた。;;;<0301> Tout en me languissant d'une vie de famille imprégnée de chaleur humaine.
+<0302> だが、あそこにあるのは、くたびれた生活の匂いだけだった。;;;<0302> Mais là-bas, tout ce qui s'était imprégné était la lassitude.
+<0303> 観鈴と晴子は、ああやって暮らしてきたのだ。;;;<0303> Misuzu et Haruko avaient vécu ainsi pendant tout ce temps.
+<0304> お互いの隙間をじっと保ったまま。;;;<0304> En maintenant un gouffre entre elles deux.
+<0305> 目を閉じて、波音に聞き入る。;;;<0305> Je fermai les yeux, et tendis l'oreille aux vagues.
+<0306> 何度でも、それは繰り返す。;;;<0306> À leur routine qui se répétait encore et encore.
+<0307> 頭の奧に耳を澄ます。;;;<0307> Puis je prêtai l'oreille à la petite voix dans ma tête.
+<0308> 言葉が浮かびあがる。;;;<0308> Des mots remontaient.
+<0309> 『海に行きたい…』;;;<0309> Je veux aller à la mer...
+<0310> それは、観鈴の声ではなかった。;;;<0310> Ce n'était pas la voix de Misuzu.
+<0311> 子供の頃に聞いた、なつかしい声。;;;<0311> C'était une voix que j'avais entendue étant enfant.
+<0312> 『…海に行きたいって、その子は言ったの』;;;<0312> '...Je veux aller à la mer', c'est ce que cette fille m'a dit.
+<0313> 『でも、連れていってあげられなかった』;;;<0313> Mais je n'ai jamais pu l'y emmener.
+<0314> 『やりたいことがたくさんあったの』;;;<0314> Tu sais, il avait tellement de choses qu'elle voulait faire.
+<0315> 『でもなにひとつ、してあげられなかった』;;;<0315> Mais je n'ai pas fait la moindre chose pour elle.
+<0316> 『夏はまだ、はじまったばかりなのに…』;;;<0316> L'été venait à peine de commencer...
+<0317> 『知っていたのに、わたしはなにもできなかった』;;;<0317> Je le savais, mais je n'ai rien pu faire.
+<0318> 『誰よりもその子の側にいたのに、救えなかった…』;;;<0318> J'étais plus proche d'elle que quiconque, et je n'ai pourtant pas pu la sauver...
+<0319> 一言一言、ていねいに語る声。;;;<0319> Une voix qui soignait son articulation.
+<0320> 『女の子は、夢を見るの』;;;<0320> Cette fille fera des rêves.
+<0321> 『最初は、空の夢』;;;<0321> Au début, elle rêvera du ciel.
+<0322> 『夢はだんだん、昔へと遡っていく』;;;<0322> Puis, peu à peu, ces rêves commenceront à remonter le temps.
+<0323> 『その夢が、女の子を蝕んでいくの』;;;<0323> Et ces rêves la rongeront.
+<0324> わからない言葉もあった。;;;<0324> Je ne comprenais pas certains de ses mots.
+<0325> でも俺は、一生懸命に話を聞いた。;;;<0325> Mais je l'avais écoutée aussi attentivement que je le pouvais.
+<0326> 大事なことを伝えようとしているのは、わかっていたからだ。;;;<0326> Parce que j'avais compris qu'elle voulait me dire quelque chose d'important.
+<0327> 『最初は、だんだん身体が動かなくなる』;;;<0327> Au tout début, elle perdra peu à peu le contrôle de ses membres.
+<0328> 『それから、あるはずのない痛みを感じるようになる』;;;<0328> Ensuite, elle souffrira de douleurs qui n'auront pas lieu d'exister.
+<0329> 『そして…』;;;<0329> Après ça...
+<0330> 『女の子は、全てを忘れていく』;;;<0330> Elle oubliera tout.
+<0331> 『いちばん大切な人のことさえ、思い出せなくなる』;;;<0331> Elle sera incapable de se rappeler des personnes les plus importantes pour elle.
+<0332> 『そして、最後の夢を見終わった朝…』;;;<0332> Et enfin, le matin suivant le dernier rêve...
+<0333> 『女の子は、死んでしまうの』;;;<0333> Elle expirera.
+<0334> そこで一度、言葉が途切れた。;;;<0334> La voix marqua un temps d'arrêt.
+<0335> こみ上げてくるものを、必死で抑えているようだった。;;;<0335> Comme si elle essayait désespérément de retenir ses larmes.
+<0336> 『友達が近づくだけで、その子は苦しがる』;;;<0336> Il suffira qu'un ami se rapproche d'elle pour qu'elle souffre.
+<0337> 『だからその子は、ずっとひとりぼっち』;;;<0337> Ainsi, elle restera seule toute sa vie.
+<0338> 『二人の心が近づけば、二人とも病んでしまう』;;;<0338> Plus ils seront proches l'un de l'autre, plus ils seront malades.
+<0339> 『二人とも助からない』;;;<0339> Et aucun des deux ne pourra être sauvé.
+<0340> 『だから、その子は言ってくれたの』;;;<0340> C'est pourquoi, cette fille...
+<0341> 『わたしから離れて、って』;;;<0341> M'a demandé que je la quitte.
+<0342> 『やさしくて、とても強い子だったの』;;;<0342> C'était une fille si douce, et si forte.
+<0343> 『だから…』;;;<0343> C'est pourquoi...
+<0344> 『\m{A}。今度こそ、あなたが救ってほしいの』;;;<0344> \m{A}. Cette fois, je veux que tu la sauves.
+<0345> 『その子を救えるのは、あなただけなのだから』;;;<0345> Cette fille, tu es le seul à pouvoir la sauver.
+<0346> 我に返った。;;;<0346> Je revins à la réalité.
+<0347> 少しの間、眠っていたらしかった。;;;<0347> Il me sembla avoir dormi quelque temps.
+<0348> \{\m{A}}（夢…だったのか？）;;;<0348> C'était... un rêve ?
+<0349> 語っていたのは、俺の母親だった。;;;<0349> La voix, c'était celle de ma mère.
+<0350> 確かに覚えている。;;;<0350> Je n'avais rien oublié.
+<0351> 俺は母と、今の会話を交わしたことがある。;;;<0351> Cette conversation, je l'avais déjà eue avec ma mère.
+<0352> ただ、それがいつだったのか、どうしても思い出せない。;;;<0352> Mais j'étais incapable de me rappeler quand.
+<0353> ずっと昔のようでも、ごく最近のことのようでもあった。;;;<0353> Il y a très longtemps, forcément, mais il me semblait qu'elle fût très récente.
+<0354> 『女の子は、夢を見るの』;;;<0354> Cette fille fera des rêves.
+<0355> 『最初は、空の夢』;;;<0355> Au début, elle rêvera du ciel.
+<0356> 『夢はだんだん、昔へと遡っていく…』;;;<0356> Puis, peu à peu, ces rêves commenceront à remonter le temps.
+<0357> そう言えば、観鈴は言っていた。;;;<0357> Misuzu avait dit la même chose.
+<0358> 自分が見る空の夢は時間を遡っている。空気の流れや風の匂いでわかる、と。;;;<0358> Les rêves qu'elles faisaient remontaient le temps. Elle le savait grâce aux mouvements de l'air et à l'odeur du vent.
+<0359> \{\m{A}}（…まるで、観鈴みたいだな）;;;<0359> ... Comme si elle venait de parler de Misuzu.
+<0360> ぼんやりと考えた、その瞬間だった。;;;<0360> J'y réfléchis un instant.
+<0361> 頭に亀裂が走ったように感じた。;;;<0361> Et je sentis ma tête se fendre en deux.
+<0362> 問題は、次の言葉だった。;;;<0362> Le problème venait des phrases suivantes :
+<0363> 『その夢が、女の子を蝕んでいくの』;;;<0363> Et ces rêves la rongeront.
+<0364> 『最初は、だんだん身体が動かなくなる…』;;;<0364> Au tout début, elle perdra peu à peu le contrôle de ses membres.
+<0365> 今朝確かに、観鈴は言っていた。;;;<0365> C'était comme ce que Misuzu m'avait dit le matin :
+<0366> 足が痺れたみたいになってる、と。;;;<0366> Que ses jambes étaient engourdies.
+<0367> もしも…。;;;<0367> Et si...
+<0368> もしも母の言葉が、本当に観鈴のことを言っているとするなら。;;;<0368> Et si ma mère parlait vraiment de Misuzu ?
+<0369> その次に来るのは…。;;;<0369> Ce qui lui arrivera ensuite, c'est...
+<0370> 『それから、あるはずのない痛みを感じるようになる』;;;<0370> Ensuite, elle souffrira de douleurs qui n'auront pas lieu d'exister.
+<0371> 『そして…女の子は、全てを忘れていく』;;;<0371> Après ça... Elle oubliera tout.
+<0372> 『いちばん大切な人のことさえ、思い出せなくなる』;;;<0372> Elle sera incapable de se rappeler des personnes les plus importantes pour elle.
+<0373> 『そして、最後の夢を見終わった朝…』;;;<0373> Et enfin, le matin suivant le dernier rêve...
+<0374> 『女の子は、死んでしまう』;;;<0374> Elle expirera.
+<0375> \{\m{A}}「………」;;;<0375> .........
+<0376> 違う。;;;<0376> Non.
+<0377> そんなことはありえない。;;;<0377> C'était impossible.
+<0378> 母が話していたのは、空にいる少女のことのはずだ。;;;<0378> Ce que m'avait dit ma mère concernait la fille dans le ciel.
+<0379> 俺の母親が、観鈴のことを知っていたはずはない。;;;<0379> Ma mère ne pouvait pas avoir connu Misuzu.
+<0380> だが、偶然とは思えないほど、その言葉は今の観鈴と一致している。;;;<0380> Et pourtant, comme par coïncidence, ses mots décrivaient parfaitement l'état actuel de Misuzu.
+<0381> まるで外れようのない予言を辿るように。;;;<0381> Comme une prophétie déjà en marche.
+<0382> \{\m{A}}「…どういうことだ？」;;;<0382> ... Qu'est-ce que ça veut dire ?
+<0383> 誰もいない闇に、俺はそう問いかけていた。;;;<0383> me demandai-je dans l'obscurité.
+<0384> 必死で記憶をたぐり寄せる。;;;<0384> J'essayais frénétiquement de faire remonter mes souvenirs.
+<0385> なぜ俺はこんなことを覚えているんだ？;;;<0385> Pourquoi m'étais-je rappelé ces choses-là ?
+<0386> なぜ母親は、こんな話を俺にしたんだ？;;;<0386> Pourquoi ma mère me dirait-elle ces choses-là ?
+<0387> 確かに、母はこう言っていた。;;;<0387> Mais j'étais certain qu'elle me les avait dits.
+<0388> 『\m{A}。今度こそ、あなたが救ってほしいの』;;;<0388> \m{A}. Cette fois, je veux que tu la sauves.
+<0389> 『その子を救えるのは、あなただけなのだから』;;;<0389> Cette fille, tu es le seul à pouvoir la sauver.
+<0390> 眼差しや息づかいまで、今でははっきりと思い出せる。;;;<0390> Je me rappelai clairement le regard et la respiration qu'elle avait eus à ce moment-là.
+<0391> ただ、どうやったら救うことができるのか、全くわからなかった。;;;<0391> Et malgré cela, je n'avais pas la moindre idée de comment la sauver.
+<0392> 俺は立ち上がり、暗闇の先を見つめた。;;;<0392> Je me levai, et contemplai les ténèbres.
+<0393> 波音は続いていた。;;;<0393> On entendait toujours le bruit des vagues.
+<0394> そこにあるはずの海。;;;<0394> Ainsi était la mer.
+<0395> この町ではあまりにも近すぎて、誰も気にかけたりしない。;;;<0395> Ce village était tellement proche de la mer que personne n'y ferait attention.
+<0396> 『…海に行きたいって、その子は言ったの』;;;<0396> ... Elle m'a dit qu'elle voulait aller à la mère, cette fille.
+<0397> 『でも、連れていってあげられなかった』;;;<0397> Mais je n'ai jamais pu l'y emmener.
+<0398> 観鈴を海まで連れてくる。;;;<0398> Je vais emmener Misuzu à la mer.
+<0399> それは簡単なことのはずだった。;;;<0399> Ce devrait être simple.

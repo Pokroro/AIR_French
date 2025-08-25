@@ -8,11 +8,11 @@
 <0007> \{観鈴}「え…？」;;;<0007> Hein...?
 <0008> \{観鈴}「町、出るの？」;;;<0008> Tu quittes le village ?
 <0009> \{\m{A}}「ああ」;;;<0009> Ouais.
-<0010> \{\m{A}}「そもそも、長居し過ぎだ。一カ所に腰を落ち着かせるのは好きじゃないんだ」;;;<0010> En premier lieu, ça fait trop longtemps que je suis ici. Je n'aime pas rester sédentaire.
-<0011> \{観鈴}「それは慣れてないからだと思うな。ずっといたらわかるよ。ここ、すごくいい町」;;;<0011> Je pense que c'est juste que tu ne t'y es pas encore habitué. Tu t'en rendras compte en passant plus de temps. Il est super, ce village.
-<0012> \{\m{A}}「ああ。おまえみたいな呑気な奴にはぴったりの町だな」;;;<0012> Ouais. Parfait pour les types insouciants comme toi.
+<0010> \{\m{A}}「そもそも、長居し過ぎだ。一カ所に腰を落ち着かせるのは好きじゃないんだ」;;;<0010> De toute façon, j'ai abusé de votre hospitalité. Je n'aime pas poser mes valises trop longtemps au même endroit.
+<0011> \{観鈴}「それは慣れてないからだと思うな。ずっといたらわかるよ。ここ、すごくいい町」;;;<0011> Je pense que c'est juste que tu ne t'y es pas encore habitué. Tu t'en rendras compte en y passant plus de temps. Il est super, ce village.
+<0012> \{\m{A}}「ああ。おまえみたいな呑気な奴にはぴったりの町だな」;;;<0012> Ouais. Ce village est parfait pour les types insouciants comme toi.
 <0013> \{観鈴}「\m{A}さんには物足りない？」;;;<0013> \m{A}-san, il ne te suffit pas ?
-<0014> \{\m{A}}「そうだな」;;;<0014> C'est bien possible.
+<0014> \{\m{A}}「そうだな」;;;<0014> On peut dire ça.
 <0015> \{観鈴}「\m{A}さん、いろんなところ旅してきて、いろんなこと経験してきてるんだろうし…物足りないかぁ」;;;<0015> \m{A}-san, tu as voyagé à plein d'endroits différents, tu as vécu plein de choses différentes... et lui, il ne te suffit pas...
 <0016> \{観鈴}「うーん…」;;;<0016> Hmm...
 <0017> \{観鈴}「ご飯とかだいじょうぶかな」;;;<0017> Ça ira pour manger et tout ?
@@ -47,37 +47,37 @@
 <0046> \{\m{A}}「おまえ、いつの間に…」;;;<0046> Quand est-ce que...
 <0047> \{観鈴}「間に合ってよかった」;;;<0047> Je suis bien contente d'être arrivée dans les temps.
 <0048> \{\m{A}}「どうした」;;;<0048> Qu'y a-t-il ?
-<0049> 目覚める。;;;<0049> 
-<0050> 背中が痛い。;;;<0050> 
-<0051> 少しの間、忘れていたような痛み。;;;<0051> 
-<0052> 上体を起こし、ベンチに座り直す。;;;<0052> 
-<0053> 早朝だというのに、もうこの暑さ…;;;<0053> 
-<0054> この町にきて、何日目になるだろうか。;;;<0054> 
-<0055> 路銀が底を尽き、途中下車した町。;;;<0055> 
-<0056> けど、いつだって、出られたはずだった。;;;<0056> 
-<0057> 俺には翼はなかったけど、太い二本の足ならある。;;;<0057> 
-<0058> 歩いていけばいい。;;;<0058> 
-<0059> 何日かかろうとも、構わない。;;;<0059> 
-<0060> ゴールは、まだまだ見えず、ラストスパートにも早すぎる。;;;<0060> 
-<0061> ゆっくりゆけばよかった。;;;<0061> 
-<0062> \{\m{A}}（なにを意固地になっていたんだろうな…）;;;<0062> 
-<0063> 手の中の人形に目を落とす。;;;<0063> 
-<0064> \{\m{A}}（自分の力を証明したかっただけか…）;;;<0064> 
-<0065> それを後ろのポケットに仕舞う。;;;<0065> 
-<0066> きっと、違う町ならば、これまで通りに稼ぐことができるだろう。;;;<0066> 
-<0067> この町との相性が悪かっただけだ。;;;<0067> 
-<0068> \{\m{A}}（けど、ただ…）;;;<0068> 
-<0069> 俺は空を見上げる。;;;<0069> 
-<0070> \{\m{A}}（こんなにも、空が広く近く見えるから、俺は…）;;;<0070> 
-<0071> …つんつん…;;;<0071> 
-<0072> つんつん…;;;<0072> 
-<0073> \{\m{A}}「ん？」;;;<0073> 
-<0074> \{観鈴}「おはよー」;;;<0074> 
-<0075> \{\m{A}}「………」;;;<0075> 
-<0076> \{観鈴}「わたし。観鈴」;;;<0076> 
-<0077> \{\m{A}}「ああ、そうだな…おまえだな」;;;<0077> 
-<0078> \{\m{A}}「こんなところまで、どうした」;;;<0078> 
-<0079> \{観鈴}「ううん、まだいるのかなって」;;;<0079> 
+<0049> 目覚める。;;;<0049> Je me réveillai.
+<0050> 背中が痛い。;;;<0050> Mon dos me faisait mal.
+<0051> 少しの間、忘れていたような痛み。;;;<0051> D'une douleur que j'avais temporairement oubliée.
+<0052> 上体を起こし、ベンチに座り直す。;;;<0052> Je me redressai, puis ajustai ma posture, maintenant assis sur le banc.
+<0053> 早朝だというのに、もうこの暑さ…;;;<0053> Le matin venait à peine de commencer, mais il faisait déjà si chaud...
+<0054> この町にきて、何日目になるだろうか。;;;<0054> Combien de jours s'étaient écoulés depuis que j'étais arrivé dans ce village ?
+<0055> 路銀が底を尽き、途中下車した町。;;;<0055> Dans ce village dans lequel j'avais dû m'arrêter parce que je n'avais plus de quoi payer le transport ?
+<0056> けど、いつだって、出られたはずだった。;;;<0056> Mais j'aurais dû pouvoir m'en aller n'importe quand.
+<0057> 俺には翼はなかったけど、太い二本の足ならある。;;;<0057> Je n'avais peut-être pas d'ailes, mais j'avais deux grosses jambes.
+<0058> 歩いていけばいい。;;;<0058> Marcher devrait suffire.
+<0059> 何日かかろうとも、構わない。;;;<0059> Peu importe le nombre de jours.
+<0060> ゴールは、まだまだ見えず、ラストスパートにも早すぎる。;;;<0060> Mon but était encore loin, il était trop tôt pour un dernier sprint.
+<0061> ゆっくりゆけばよかった。;;;<0061> Je pouvais prendre mon temps.
+<0062> \{\m{A}}（なにを意固地になっていたんだろうな…）;;;<0062> Qu'est-ce qui me rendait si têtu...?
+<0063> 手の中の人形に目を落とす。;;;<0063> Mon regard tomba sur la marionnette dans mes mains.
+<0064> \{\m{A}}（自分の力を証明したかっただけか…）;;;<0064> Peut-être que je voulais juste m'assurer de mes pouvoirs...
+<0065> それを後ろのポケットに仕舞う。;;;<0065> Je la fourrai dans ma poche arrière.
+<0066> きっと、違う町ならば、これまで通りに稼ぐことができるだろう。;;;<0066> J'aurais sûrement gagné bien plus de sous dans un autre village.
+<0067> この町との相性が悪かっただけだ。;;;<0067> J'étais tout bonnement incompatible avec ce village.
+<0068> \{\m{A}}（けど、ただ…）;;;<0068> Mais, tout de même...
+<0069> 俺は空を見上げる。;;;<0069> Je levai mon regard vers le ciel.
+<0070> \{\m{A}}（こんなにも、空が広く近く見えるから、俺は…）;;;<0070> Parce que le ciel avait l'air si vaste, et si proche, je...
+<0071> …つんつん…;;;<0071> ... \bTouche touche\u...
+<0072> つんつん…;;;<0072> \bTouche touche\u...
+<0073> \{\m{A}}「ん？」;;;<0073> Hmm ?
+<0074> \{観鈴}「おはよー」;;;<0074> Salut—.
+<0075> \{\m{A}}「………」;;;<0075> .........
+<0076> \{観鈴}「わたし。観鈴」;;;<0076> Moi. Misuzu.
+<0077> \{\m{A}}「ああ、そうだな…おまえだな」;;;<0077> Aah, c'est vrai, ça... C'est toi.
+<0078> \{\m{A}}「こんなところまで、どうした」;;;<0078> Pourquoi tu viens jusqu'ici, un problème ?
+<0079> \{観鈴}「ううん、まだいるのかなって」;;;<0079> Non, je me demandais si tu étais encore là.
 <0080> \{観鈴}「これ、渡したかったから」;;;<0080> Je voulais te remettre ça.
 <0081> 言って、大きなアルミの包みを俺に手渡す。;;;<0081> dit-elle en me passant un grand paquet emballé dans l'aluminium.
 <0082> …重い。;;;<0082> ... C'est lourd.
