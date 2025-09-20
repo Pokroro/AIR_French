@@ -9,7 +9,7 @@
 <0008> 言葉を思い出した。;;;<0008> Puis ces mots me revinrent en mémoire :
 <0009> 『女の子は、夢を見るの』;;;<0009> Cette fille fera des rêves.
 <0010> 『最初は、空の夢』;;;<0010> Au début, elle rêvera du ciel.
-<0011> 『夢はだんだん、昔へと遡っていく』;;;<0011> Puis, peu à peu, ces rêves commenceront à remonter le temps.
+<0011> 『夢はだんだん、昔へと遡っていく』;;;<0011> Puis, peu à peu, ces rêves remonteront le temps.
 <0012> 『でもね、その夢が女の子を蝕んでいくの』;;;<0012> Mais ces rêves la rongeront.
 <0013> \{\m{A}}「………」;;;<0013> .........
 <0014> 首を振り、うち消そうとする。;;;<0014> Je secouai la tête pour arrêter d'y penser.
@@ -58,7 +58,7 @@
 <0057> \{\m{A}}「俺のことも、あんたのこともな」;;;<0057> Elle m'oubliera, et elle t'oubliera.
 <0058> \{\m{A}}「最後の夢を見終わった朝…」;;;<0058> Et enfin, le matin suivant le dernier rêve...
 <0059> \{\m{A}}「たぶん、観鈴は…」;;;<0059> Peut-être que Misuzu...
-<0060> \{\m{A}}「観鈴は死んでしまう」;;;<0060> ... Que Misuzu expirera.
+<0060> \{\m{A}}「観鈴は死んでしまう」;;;<0060> ... Que Misuzu mourra.
 <0061> 自分の言葉が、嫌に空々しく響いた。;;;<0061> Ses mots sonnaient complètement ridicules.
 <0062> 晴子の顔色が一瞬で変わった。;;;<0062> Son expression changea du tac au tac.
 <0063> \{晴子}「…あんたなぁ」;;;<0063> ... Toi alors.
@@ -153,7 +153,7 @@
 <0152> 俺は全く別のことを考えていた。;;;<0152> Mais moi, j'avais autre chose en tête.
 <0153> 『女の子は、夢を見るの』;;;<0153> Cette fille fera des rêves.
 <0154> 『最初は空の夢』;;;<0154> Au début, elle rêvera du ciel.
-<0155> 『夢はだんだん、昔へと遡っていく』;;;<0155> Puis, peu à peu, ces rêves commenceront à remonter le temps.
+<0155> 『夢はだんだん、昔へと遡っていく』;;;<0155> Puis, peu à peu, ces rêves remonteront le temps.
 <0156> 『その夢が、女の子を蝕んでいくの』;;;<0156> Et ces rêves la rongeront.
 <0157> \{\m{A}}「………」;;;<0157> .........
 <0158> \{観鈴}「…\m{A}さん、怖い顔」;;;<0158> ... \m{A}-san, il fait peur, ton visage.
@@ -280,7 +280,7 @@
 <0279> …この空の向こうには、翼を持った少女がいる。;;;<0279> ... De l'autre côté de ce ciel, il y a une fille pourvue d'ailes.
 <0280> …それは、ずっと昔から。;;;<0280> ... Elle y est depuis bien longtemps.
 <0281> …そして、今、この時も。;;;<0281> ... Et encore maintenant.
-<0282> …同じ大気の中で、翼を広げて風を受け続けている。;;;<0282> ... Dans cette même atmosphère, elle laisse le vent s'engouffrer dans ses ailes déployées.
+<0282> …同じ大気の中で、翼を広げて風を受け続けている。;;;<0282> ... Dans le même air, elle étreint le vent de ses ailes déployées.
 <0283> 子供の頃からずっと聞かされていた、詩のような文句。;;;<0283> On m'avait récité ces vers depuis que je n'étais qu'un enfant.
 <0284> 今ではその続きがわかっている。;;;<0284> Et maintenant, j'en connaissais la suite.
 <0285> …そこで少女は、同じ夢を見続けている。;;;<0285> ... Là-haut, cette fille revoit sans cesse le même rêve.
@@ -323,7 +323,7 @@
 <0322> \{\m{A}}「でもな、夢の中のおまえが苦しんでいるとしたら…」;;;<0322> Mais, tu sais, si la toi dans tes rêves est en train de souffrir...
 <0323> \{\m{A}}「このまま夢を見続けたら、おまえもそいつと同じことになるかもしれない」;;;<0323> Si tu continues de faire ces rêves, tu risques de finir comme elle.
 <0324> …この空の向こうには、翼を持った少女がいる。;;;<0324> ... De l'autre côté de ce ciel, il y a une fille pourvue d'ailes.
-<0325> …同じ大気の中で、翼を広げて風を受け続けている。;;;<0325> ... Dans cette même atmosphère, elle laisse le vent s'engouffrer dans ses ailes déployées.
+<0325> …同じ大気の中で、翼を広げて風を受け続けている。;;;<0325> ... Dans le même air, elle étreint le vent de ses ailes déployées.
 <0326> それはもう、漠然としたイメージではなかった。;;;<0326> Ce n'était déjà plus une simple image vague.
 <0327> 少女は空で苦しんでいた。;;;<0327> Il y avait une fille dans le ciel, et elle souffrait.
 <0328> それはずっと昔から。;;;<0328> ... Et depuis bien longtemps.
@@ -355,7 +355,7 @@
 <0354> \{\m{A}}「…もう寝るぞ。お前も寝ろ」;;;<0354> ... Je vais me coucher. Tu devrais faire de même.
 <0355> 『女の子は、夢を見るの』;;;<0355> Cette fille fera des rêves.
 <0356> 『最初は、空の夢』;;;<0356> Au début, elle rêvera du ciel.
-<0357> 『夢はだんだん、昔へと遡っていく』;;;<0357> Puis, peu à peu, ces rêves commenceront à remonter le temps.
+<0357> 『夢はだんだん、昔へと遡っていく』;;;<0357> Puis, peu à peu, ces rêves remonteront le temps.
 <0358> 『その夢が、女の子を蝕んでいくの』;;;<0358> Et ces rêves la rongeront.
 <0359> それが本当だとして、どうやって止められる？;;;<0359> Si c'était vrai, comment pourrais-je y mettre un terme ?
 <0360> 夢見ることを止めるなんて、誰にもできはしないのだ。;;;<0360> Personne ne sera capable de faire cesser ses rêves.
@@ -369,7 +369,7 @@
 <0368> \{観鈴}「…うん」;;;<0368> ... Oui.
 <0369> 『女の子は、夢を見るの』;;;<0369> Cette fille fera des rêves.
 <0370> 『最初は、空の夢』;;;<0370> Au début, elle rêvera du ciel.
-<0371> 『夢はだんだん、昔へと遡っていく』;;;<0371> Puis, peu à peu, ces rêves commenceront à remonter le temps.
+<0371> 『夢はだんだん、昔へと遡っていく』;;;<0371> Puis, peu à peu, ces rêves remonteront le temps.
 <0372> 『その夢が、女の子を蝕んでいくの』;;;<0372> Ces rêves la rongeront.
 <0373> それが本当だとして、俺に何ができる？;;;<0373> Si c'était vrai, que pourrais-je y faire ?
 <0374> 夢見ることを止めるなんて、誰にもできはしないのに。;;;<0374> Personne ne serait capable de faire cesser ses rêves.

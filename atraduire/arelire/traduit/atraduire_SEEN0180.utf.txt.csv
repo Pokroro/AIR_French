@@ -1,13 +1,13 @@
 <0000> ７月１８日(火);;;<0000> 18/07 (mar.)
 <0001> ………。;;;<0001> ..........
-<0002> …目覚めはまぶしい。;;;<0002> ... À mon réveil, je fus ébloui.
+<0002> …目覚めはまぶしい。;;;<0002> ... J'ouvris les yeux et fus ébloui.
 <0003> そして、魚臭かった。;;;<0003> Et ça puait le poisson.
 <0004> \{声}「あんた、いきなり倒れとったで、びっくりしたわ…」;;;<0004> Tu t'es évanoui tout d'un coup, quelle frayeur tu nous as faite !
 <0005> 覗き込む顔のひとつがそう言った。;;;<0005> Quelqu'un me dévisageait.
 <0006> ………。;;;<0006> ..........
-<0007> \{\m{A}}（そうか…俺、行き倒れになって…）;;;<0007> Ah, oui, je... me suis évanoui dans la rue.
-<0008> しかし…魚臭い。;;;<0008> Ça puait vraiment le poisson.
-<0009> \{声}「ここの組合の人間で、かついでここまで運んできたんだが…大変だったで」;;;<0009> Tu vois, les gens de la coopérative, ici... ben on a eu bien du mal à te transporter jusqu'ici, sur nos épaules.
+<0007> \{\m{A}}（そうか…俺、行き倒れになって…）;;;<0007> Ah, oui, je... me suis évanoui en pleine rue.
+<0008> しかし…魚臭い。;;;<0008> Mais vraiment... ça puait le poisson.
+<0009> \{声}「ここの組合の人間で、かついでここまで運んできたんだが…大変だったで」;;;<0009> Tu vois, avec les gens de la coopérative, ici... ben on a eu bien du mal à te transporter jusqu'ici, sur nos épaules.
 <0010> 組合…;;;<0010> Une coopérative...
 <0011> 漁協組合…。;;;<0011> Une coopérative de pêcheurs...
 <0012> 辺りは白いスチロールが山のように積まれている。;;;<0012> J'étais entouré de piles de boîtes blanches en polystyrène.
@@ -19,13 +19,13 @@
 <0018> そこから俺は組合の人たちに囲まれたまま、作りたての朝食を頂いた。;;;<0018> Ensuite, les gens de la coopérative me préparèrent un petit-déjeuner et me portèrent compagnie pendant que je le dégustais.
 <0019> 捨てる神あれば拾う神あり。;;;<0019> Comme quoi, il y a aussi de bonnes âmes ici-bas.
 <0020> \{おばさん}「お兄さん、もうお出かけかい」;;;<0020> Jeune homme, tu pars déjà ?
-<0021> ガレージをくぐって、真夏日の陽光を浴びたところで背中から呼ぶ声がした。;;;<0021> J'entendis une voix m'interpeller de derrière alors que je sortis du garage et fis un pas dans la lumière de l'été.
-<0022> \{おばさん}「お弁当作るから、お昼の分も持っていきなさい」;;;<0022> Je vais te préparer quelque chose à emporter, tu pourras manger ça à midi.
+<0021> ガレージをくぐって、真夏日の陽光を浴びたところで背中から呼ぶ声がした。;;;<0021> Alors que je sortais du garage et faisais un pas dans la lumière de l'été, j'entendis une voix m'interpeller par derrière.
+<0022> \{おばさん}「お弁当作るから、お昼の分も持っていきなさい」;;;<0022> Je vais te préparer un bentō, tu pourras le manger à midi.
 <0023> \{\m{A}}「あんまり時間がないんだ」;;;<0023> Je n'ai plus trop le temps, là.
-<0024> \{おばさん}「じゃ、おにぎりだけ包むから」;;;<0024> Dans ce cas, je vais juste t'emballer des onigiri.
+<0024> \{おばさん}「じゃ、おにぎりだけ包むから」;;;<0024> Dans ce cas, je vais juste t'emballer des onigiris.
 <0025> \{\m{A}}「………」;;;<0025> .........
 <0026> \{おばさん}「いくつぐらいいるかい」;;;<0026> T'en faudrait combien ?
-<0027> \{\m{A}}「ひとつでいい。邪魔になるからな」;;;<0027> Un seul ça suffira, ce sera plus facile à transporter.
+<0027> \{\m{A}}「ひとつでいい。邪魔になるからな」;;;<0027> Un seul, ça suffira. Sinon, ce sera gênant à transporter.
 <0028> \{\m{A}}「その代わり、とびきり大きいのでひとつ頼む」;;;<0028> Mais faites-le bien gros, s'il vous plaît.
 <0029> \{おばさん}「りょうかい。とびきり大きいのね」;;;<0029> Compris. Un bon gros onigiri, alors.
 <0030> 飯代も浮いた。ありがたい。;;;<0030> Comme ça, j'économiserai même le déjeuner. Je lui en étais reconnaissant.
@@ -37,9 +37,9 @@
 <0036> \{\m{A}}「さて…」;;;<0036> Et maintenant...
 <0037> 昼までの食料は確保した。;;;<0037> Mes repas étaient assurés jusqu'à ce midi.
 <0038> 日が暮れるまでに、収入を得ればいいことになる。;;;<0038> La priorité, maintenant, c'était de se faire des sous avant que le soleil ne se couche.
-<0039> そうすれば夕飯は今度こそラーメンセットだ。;;;<0039> Et alors, je pourrais me faire ce menu rāmen au dîner.
-<0040> そしてうまくいけば、そのままこの町を出立できる。;;;<0040> Et si tout se passait bien, je pourrais quitter ce village.
-<0041> \{\m{A}}（だがそれには、人形を探さないと…）;;;<0041> Pour autant, il fallait que je retrouve ma marionnette.
+<0039> そうすれば夕飯は今度こそラーメンセットだ。;;;<0039> Et alors, je pourrais me faire ce rāmen au dîner.
+<0040> そしてうまくいけば、そのままこの町を出立できる。;;;<0040> Et si tout se passait bien, je pourrais ensuite quitter ce village.
+<0041> \{\m{A}}（だがそれには、人形を探さないと…）;;;<0041> Pour autant, il faut que je retrouve ma marionnette...
 <0042> そういえば、と俺は思いつく。;;;<0042> En y réfléchissant, une idée me vint à l'esprit.
 <0043> \{\m{A}}（別に動かせるのは人形だけというわけじゃない）;;;<0043> Rien ne m'empêche d'utiliser autre chose à la place de ma marionnette.
 <0044> \{\m{A}}（とりあえず別の手で、収入を得る、というのもアリだな…）;;;<0044> De toute façon, il n'y a pas qu'un seul moyen de se faire de l'argent...
@@ -49,44 +49,44 @@
 <0048> 違うものを動かして、それでウケるというのであればこの場しのぎとしては使える。;;;<0048> J'allais essayer de faire bouger autre chose. Si j'y arrivais, ça m'aiderait à me sortir de cette situation.
 <0049> 俺は持っていたバッグの中を漁ってみる。;;;<0049> Je pris mon sac dans mes mains et me mis à fouiller à l'intérieur.
 <0050> 出てきたのは、地図と石鹸とタオルと歯ブラシと剃刀。それに下着の着替え。;;;<0050> J'en sortis une carte, du savon, une serviette, une brosse à dents et un rasoir. Il y avait aussi des sous-vêtements de rechange.
-<0051> これらを使って、何か芸が完成するだろうか。;;;<0051> Pouvais-je vraiment m'en servir pour mon numéro ?
+<0051> これらを使って、何か芸が完成するだろうか。;;;<0051> Pouvais-je vraiment me servir de tout ça pour mon numéro ?
 <0052> 俺は試しに歯ブラシを地面に置き、指先を当ててみた。;;;<0052> Pour voir, je posai ma brosse à dents par terre, et la touchai du bout du doigt.
 <0053> \{\m{A}}「………」;;;<0053> .........
 <0054> 念じる。;;;<0054> Je me concentrai.
 <0055> 俺は念を込めたモノを自在に動かすことができた。;;;<0055> J'avais la possibilité de faire se mouvoir des objets par la seule force de ma volonté.
 <0056> 実際にタネもしかけもない。;;;<0056> Il n'y avait vraiment pas le moindre trucage.
 <0057> 俺はこの力を、死んだ母親から受け継いだ。;;;<0057> Ce pouvoir, je l'avais hérité de feu ma mère.
-<0058> 客に説明する時には、母はこの力のことを『法術』と呼んでいた。;;;<0058> Quand ma mère l'expliquait à ses hôtes, elle le désignait sous le nom de \bHoujutsu\u.
+<0058> 客に説明する時には、母はこの力のことを『法術』と呼んでいた。;;;<0058> Quand ma mère l'expliquait à ses hôtes, elle le désignait sous le nom de Houjutsu.
 <0059> 俺の家系に代々伝わる能力だというが、実際はそう大したものじゃない。;;;<0059> Bien que cette aptitude fût passée de génération en génération dans ma famille, elle n'était en réalité rien de bien grandiose.
 <0060> 俺は手を遠ざける。;;;<0060> Je retirai ma main.
 <0061> そして、今度は思いとして念じた。;;;<0061> Cette fois, je l'animais à la seule force de ma pensée.
 <0062> 動け、と。;;;<0062> Bouge !
 <0063> もぞもぞもぞ…;;;<0063> \bRampe rampe rampe\u...
-<0064> 毛虫のように歯ブラシが這いずってゆく。;;;<0064> Ma brosse à dent rampait par terre telle une chenille particulièrement velue.
+<0064> 毛虫のように歯ブラシが這いずってゆく。;;;<0064> Ma brosse à dent rampait par terre, telle une chenille particulièrement velue.
 <0065> \{\m{A}}「こわすぎる…」;;;<0065> Terrifiant...
-<0066> こんな気色の悪い芸に金を払う奴がいるなら見てみたい。;;;<0066> Tout gars qui est prêt à verser de l'argent pour voir quelque chose d'aussi révoltant mérite mon respect.
+<0066> こんな気色の悪い芸に金を払う奴がいるなら見てみたい。;;;<0066> Je veux bien savoir quel genre de gars serait prêt à verser de l'argent pour voir quelque chose d'aussi révoltant.
 <0067> \{\m{A}}「さぁ、歯ブラシが毛虫のように這いずるよ。見ていってごらーん」;;;<0067> Allez, venez regarder une brosse à dent ramper comme une chenille toute velue, sous vos yeux é-ba-his !
 <0068> \{\m{A}}「ボク、触ってみるかい？  ほら、毛の一本一本がうごめいているねぇ」;;;<0068> Hé, tu veux me toucher ? Regarde, chacun de mes poils est en train de remuer !
 <0069> なんて言っても子供は逃げてゆくばかりだろう。;;;<0069> Si je faisais ça, la seule réaction des enfants serait de s'enfuir.
 <0070> \{\m{A}}「くそ…動いて愛嬌のあるモノがない…」;;;<0070> Merde... j'ai rien de plus attirant à faire bouger...
 <0071> 俺はやけになって、持っていたものすべてに念を込める。;;;<0071> Pris de désespoir, je me mis à insuffler ma volonté à tout ce que je transportais.
 <0072> \{\m{A}}「動けっ」;;;<0072> Bougez !
-<0073> びしゅびしゅびしゅびしゅー！;;;<0073> Zap ! Zap ! Za—p !
-<0074> 歯ブラシや石鹸やタオルや下着が地面を走り回る。;;;<0074> Ma brosse à dents, mon savon, ma serviette et mes sous-vêtements, au sol, se mirent à me courir autour.
+<0073> びしゅびしゅびしゅびしゅー！;;;<0073> \bZap\u ! \bZap\u ! \bZaap\u !
+<0074> 歯ブラシや石鹸やタオルや下着が地面を走り回る。;;;<0074> Ma brosse à dents, mon savon, ma serviette et mes sous-vêtements, se mirent à me courir autour par terre.
 <0075> すごい光景だった。;;;<0075> Une vision d'enfer.
-<0076> びしゅ！;;;<0076> Zap !
+<0076> びしゅ！;;;<0076> \bZap\u !
 <0077> 剃刀の刃が俺の頬をかすめて、後方へと飛んでいった。;;;<0077> Le rasoir décolla et manqua de peu ma joue.
-<0078> \{\m{A}}「スリルは満点だが…」;;;<0078> Niveau frissons, on est parfait, mais..
-<0079> あるいは石鹸を人形にかたどって彫ってみる、という手も考えたが、それだと動きがない。;;;<0079> Je pensais même à sculpter mon savon en forme de marionnette, mais ça ne suffirait pas si je voulais le faire bouger.
-<0080> 硬直した格好のまま歩いてゆく人形を思い浮かべると、やはり不気味だった。;;;<0080> J'essayai de m'imaginer une marionnette à la démarche toute rigide en train de se mouvoir. Non, ça ne donnait pas envie...
+<0078> \{\m{A}}「スリルは満点だが…」;;;<0078> Niveau frissons, on est parfait, mais...
+<0079> あるいは石鹸を人形にかたどって彫ってみる、という手も考えたが、それだと動きがない。;;;<0079> Je pensais même à sculpter mon savon en forme de marionnette, mais si je voulais le faire bouger, ça ne suffirait pas.
+<0080> 硬直した格好のまま歩いてゆく人形を思い浮かべると、やはり不気味だった。;;;<0080> J'essayai de m'imaginer une marionnette à la démarche toute rigide en train de gesticuler. Non, ça ne donnait pas envie...
 <0081> やはりあの人形を探すしかないのだ。;;;<0081> On dirait bien que j'étais obligé d'aller trouver cette marionnette.
-<0082> あの人形とはずっと寝食を共にしている。いわば俺の相棒だった。;;;<0082> Cette marionnette était toujours avec moi, même quand je dormais ou mangeais. C'était une sorte de compagnon.
+<0082> あの人形とはずっと寝食を共にしている。いわば俺の相棒だった。;;;<0082> Cette marionnette était toujours avec moi, même quand je dormais ou mangeais. C'était une sorte de compagnon de route.
 <0083> \{\m{A}}（その行方がわからないというのに、別の手を講じるだと？）;;;<0083> Je n'arrive même pas à croire que j'ai imaginé une seule seconde que je pouvais la remplacer !
-<0084> \{\m{A}}「…そんな奴は真の人形使いではないっ」;;;<0084> ... Ce genre de personne ne peut pas prétendre être un vrai marionnettiste !
-<0085> 俺は声に出して、手を握りしめる。;;;<0085> Dis-je en serrant les poings.
+<0084> \{\m{A}}「…そんな奴は真の人形使いではないっ」;;;<0084> ... Ce genre de mec ne peut pas prétendre être un vrai marionnettiste !
+<0085> 俺は声に出して、手を握りしめる。;;;<0085> dis-je en serrant les poings.
 <0086> \{子供}「わーい」;;;<0086> Youpi !
 <0087> キコキコ…;;;<0087> \bCrrrr\u
-<0088> その目の前を三輪車に乗った子供が通っていった。;;;<0088> Je vis passer un enfant en trycicle.
+<0088> その目の前を三輪車に乗った子供が通っていった。;;;<0088> Un enfant en tricycle passa devant moi.
 <0089> \{\m{A}}「………」;;;<0089> .........
 <0090> 俺はサッと握りしめていた手をポケットに隠す。;;;<0090> Je rangeai mes poings dans mes poches.
 <0091> \{\m{A}}「人がこんな状況だってのに呑気な町だ…」;;;<0091> Les gens de ce village sont trop insouciants...
@@ -97,71 +97,71 @@
 <0096> 俺は黙々と藪の中を探し続ける。;;;<0096> Je cherchais dans les buissons.
 <0097> すぐに汗が玉となり、胸元を伝いだす。;;;<0097> Il ne fallut pas longtemps avant que des gouttes de sueurs ne me coulent sur le torse.
 <0098> 午後になると、もっと暑くなるのだろう。;;;<0098> Il ferait encore plus chaud l'après-midi.
-<0099> 今のうちに見つけだしておこう。;;;<0099> Il fallait que je la trouve avant.
+<0099> 今のうちに見つけだしておこう。;;;<0099> Il fallait que je la trouve avant ça.
 <0100> 一時間後…;;;<0100> Une heure plus tard...
-<0101> 俺は堤防の上に座り込み、おむすびの包みを広げていた。;;;<0101> J'étais assis sur la digue et j'ouvrai le paquet qui contenait l'onigiri.
+<0101> 俺は堤防の上に座り込み、おむすびの包みを広げていた。;;;<0101> J'étais assis sur la digue, en train d'ouvrir le paquet qui contenait l'onigiri.
 <0102> \{\m{A}}「やってらんね…」;;;<0102> J'en peux plus.
-<0103> 少しでも空腹になると、やる気がなくなる。;;;<0103> Dès que la faim pointa le bout de son nez, je perdis toute motivation.
+<0103> 少しでも空腹になると、やる気がなくなる。;;;<0103> Dès que la faim avait pointé le bout de son nez, j'avais perdu toute motivation.
 <0104> しかもこの暑さだ。;;;<0104> Sans parler de cette chaleur.
 <0105> 堤防の上は、海から吹き込んでくる風が強く、涼しい場所だった。;;;<0105> Sur la digue, on était agréablement fouetté par le vent frais venu de la mer.
 <0106> 汗が乾いてゆくのがわかる。;;;<0106> Je sentais ma sueur sécher.
 <0107> 見晴らしも良かったから、昼飯を食べるには絶好の場所だった。;;;<0107> Et la vue était superbe, donc c'était l'endroit idéal pour déjeuner.
 <0108> 俺はおむすびを包みから取り出す。;;;<0108> Je retirai l'onigiri du paquet.
-<0109> 重いと思っていたら、ボーリングの玉のように馬鹿でかいおむすびだった。;;;<0109> J'avais noté qu'il était lourd, mais je ne m'attendais pas à qu'elle eût une taille aussi ridicule, celle d'une boule de bowling.
+<0109> 重いと思っていたら、ボーリングの玉のように馬鹿でかいおむすびだった。;;;<0109> J'avais noté qu'il était lourd, mais je ne m'attendais pas à qu'il eût une taille aussi ridicule, en l'occurrence celle d'une boule de bowling.
 <0110> 量的には申し分ない。;;;<0110> Tout ce qu'il me fallait.
 <0111> もぐもぐ…;;;<0111> \bNom nom\u...
-<0112> 海を前にあぐらをかいて、馬鹿でかいおむすびを頬張る。;;;<0112> J'étais assis en tailleur face à la mer, me fourrant la bouche avec de l'onigiri.
+<0112> 海を前にあぐらをかいて、馬鹿でかいおむすびを頬張る。;;;<0112> J'étais assis en tailleur face à la mer, me fourrant la bouche à coups d'onigiri.
 <0113> まるで観光客だった。;;;<0113> J'avais l'air d'un bon gros touriste.
 <0114> \{声}「うーん…」;;;<0114> Hmm...
-<0115> すぐ隣に立ち、一身に風を受ける少女がいた。;;;<0115> Soudainement, une fille apparut à mes côtés. Elle se tenait debout, son corps embrassant le vent.
+<0115> すぐ隣に立ち、一身に風を受ける少女がいた。;;;<0115> Soudainement, je remarquai une jeune fille debout à côté de moi. Elle se tenait debout, son corps semblant embrasser le vent.
 <0116> \{\m{A}}「………」;;;<0116> ..........
-<0117> それはあたかも、空を飛んでいるような。;;;<0117> Comme ça, on aurait vraiment dit qu'elle volait.
+<0117> それはあたかも、空を飛んでいるような。;;;<0117> Comme ça, on aurait vraiment dit qu'elle était dans le ciel en train de voler.
 <0118> 俺は息を呑んで、見入っていた。;;;<0118> Je la fixais. Elle m'avait coupé le souffle.
 <0119> でも、それも一瞬だ。;;;<0119> Mais seulement un instant.
 <0120> 彼女の足元を見た。;;;<0120> Je regardai ses pieds.
 <0121> 俺の座る堤防のコンクリートの上に、彼女は確かに立っていた。;;;<0121> Il ne faisait aucun doute qu'elle se tenait sur la même digue en béton que moi.
 <0122> だから、すぐに興味は失せた。;;;<0122> Et donc, mon intérêt disparut aussitôt.
-<0123> \{少女}「うんっ…」;;;<0123> Hmm...
-<0124> \{少女}「はっ…」;;;<0124> Ah...
+<0123> \{少女}「うんっ…」;;;<0123> Hmmm...
+<0124> \{少女}「はっ…」;;;<0124> Ah...!
 <0125> 長い伸びを終えた少女は、俺の方に向き直るとニコッと笑った。;;;<0125> Après s'être étirée de tout son long, elle se tourna vers moi et esquissa un sourire.
-<0126> 俺は無視して、正面を向いた。;;;<0126> Je l'ignorai, mon regard fixé vers l'avant.
+<0126> 俺は無視して、正面を向いた。;;;<0126> Je l'ignorai, maintenant mon regard fixé vers l'avant.
 <0127> \{少女}「こんにちはっ」;;;<0127> Bonjour !
 <0128> \{少女}「でっかいおむすびですねっ」;;;<0128> C'est un giga onigiri que vous avez là !
-<0129> \{少女}「飲み物なくて、大丈夫ですかっ」;;;<0129> Vous avez rien à boire ? Ça vous dérange pas ?
+<0129> \{少女}「飲み物なくて、大丈夫ですかっ」;;;<0129> Vous n'avez rien à boire ? Ça ne vous embête pas ?
 <0130> 話しかけられているようだ。;;;<0130> Il semblait qu'elle me parlait.
 <0131> \{少女}「買ってきますね」;;;<0131> Je vais vous acheter quelque chose, d'accord ?
-<0132> とっ、と堤防から飛び降りると、目の前を通り過ぎてとてとてと駆けていった。;;;<0132> Cela dit, elle sauta de la digue puis passa devant moi en courant.
-<0133> 昼休みに抜け出してきたのだろうか。;;;<0133> S'est-elle éclipsée pendant la pause déjeuner ?
+<0132> とっ、と堤防から飛び降りると、目の前を通り過ぎてとてとてと駆けていった。;;;<0132> Ces mots prononcés, elle sauta de la digue puis passa devant moi en courant.
+<0133> 昼休みに抜け出してきたのだろうか。;;;<0133> S'était-elle éclipsée pendant la pause déjeuner ?
 <0134> 制服も着ていたし、間違いなく彼女はそこの学校の学生だった。;;;<0134> Elle portait un uniforme, il ne faisait donc aucun doute qu'elle étudiait quelque part.
 <0135> 自販機で紙パックのジュースを買った後、再び駆けてくる。;;;<0135> Elle alla acheter une brique de boisson à un distributeur, puis revint en courant.
 <0136> その途中で、思いっきり転けた。;;;<0136> En chemin, elle trébucha et s'étala de tout son long.
 <0137> ジュースが、それぞれ別の方向へと転がっていった。;;;<0137> Les briques dégringolèrent dans toutes les directions.
 <0138> 涙目になりながら立ち上がり、ぱたぱた走り回ってジュースを回収すると、ようやく俺の場所まで戻ってくる。;;;<0138> Alors que ses yeux se remplissaient de larmes, elle se leva, trottina dans tous les sens pour ramasser les briques, et seulement ensuite regagna ma position.
-<0139> \{少女}「はい」;;;<0139> Voici !
+<0139> \{少女}「はい」;;;<0139> Tenez !
 <0140> 精一杯の笑顔で何事もなかったように、俺にその一本を差し出した。;;;<0140> En s'efforçant d'esquisser son plus beau sourire pour faire comme si rien ne s'était passé, elle me présenta un carton.
 <0141> \{\m{A}}「苦労したな」;;;<0141> Quelle épreuve !
 <0142> \{少女}「が、がお…」;;;<0142> G-Gao...
 <0143> すぐ涙目に戻る。;;;<0143> Les larmes s'accumulaient.
 <0144> \{\m{A}}「怪我したんなら、帰れよ」;;;<0144> Si tu t'es fait mal, rentre chez toi !
 <0145> \{少女}「だいじょうぶ…」;;;<0145> Ce n'est rien...
-<0146> 言って、俺の隣に腰掛けた。;;;<0146> Ayant dit cela, elle s'assit à côté de moi.
-<0147> 別に気を遣ったわけではなく、鬱陶しかっただけだ。;;;<0147> Ce n'est pas que je m'inquiétais pour elle, mais juste qu'elle était en train de pourrir ma journée.
+<0146> 言って、俺の隣に腰掛けた。;;;<0146> affirma-t-elle avant de s'asseoir à côté de moi.
+<0147> 別に気を遣ったわけではなく、鬱陶しかっただけだ。;;;<0147> Ce n'était pas que je m'inquiétais pour elle, mais juste qu'elle était en train de pourrir ma journée.
 <0148> ジュースの容器に、附いていたストローを挿す。;;;<0148> J'insérai la paille qui y était jointe dans le trou de la brique.
 <0149> ずずずずっ。;;;<0149> \bSlurp\u !
-<0150> 喉に流し込む。;;;<0150> Le liquide coulait dans ma gorge.
-<0151> どろっ…;;;<0151> \bGloup\u...
-<0152> \{\m{A}}「ぶっ…！」;;;<0152> Beurk !
-<0153> 予想もしない異様な感覚に俺は吹き出す。;;;<0153> Je recrachai le liquide par réflexe alors qu'une étrange sensation s'emparait de moi.
-<0154> \{\m{A}}「なんだ、これは…」;;;<0154> Qu'est-ce que c'est que ce truc ?
+<0150> 喉に流し込む。;;;<0150> Le liquide coula dans ma gorge.
+<0151> どろっ…;;;<0151> \bGloups\u...
+<0152> \{\m{A}}「ぶっ…！」;;;<0152> Beurk...!
+<0153> 予想もしない異様な感覚に俺は吹き出す。;;;<0153> Je recrachai le liquide par réflexe alors qu'une étrange sensation avait commencé à s'emparer de moi.
+<0154> \{\m{A}}「なんだ、これは…」;;;<0154> Qu'est-ce que c'est que ce truc...?
 <0155> 俺はジュースのラベルを見る。;;;<0155> Je jetai un œil à l'emballage.
-<0156> …『どろり濃厚、ピーチ味』;;;<0156> Épaisseur extrême, saveur pêche.
+<0156> …『どろり濃厚、ピーチ味』;;;<0156> ... 'Épaisseur extrême, saveur pêche'.
 <0157> \{\m{A}}「………」;;;<0157> .........
 <0158> 俺は紙パックをさかさまにひっくり返し、握りつぶす。;;;<0158> Je retournai le carton et l'écrasai.
 <0159> ぼとぼと…;;;<0159> \bSplatch\u...
 <0160> \{少女}「わっ…」;;;<0160> Wah !
-<0161> それを見た少女が慌てて俺の手を掴んで、やめさせる。;;;<0161> La fille paniqua et m'agrippa le bras pour que j'arrête.
-<0162> \{少女}「どうして、そんなことするかなぁ…」;;;<0162> Pourquoi avoir fait une chose pareille...?
-<0163> また涙目。;;;<0163> Encore les yeux humides.
+<0161> それを見た少女が慌てて俺の手を掴んで、やめさせる。;;;<0161> La jeune fille paniqua et m'agrippa le bras pour que j'arrête.
+<0162> \{少女}「どうして、そんなことするかなぁ…」;;;<0162> Pourquoi vous faites une chose pareille...?
+<0163> また涙目。;;;<0163> Les larmes remontèrent.
 <0164> \{\m{A}}「からかってるだろ、俺のこと」;;;<0164> Tu te moques de toi, hein ?
 <0165> \{少女}「そんなことないですよぅ」;;;<0165> Pas du tout.
 <0166> 見れば、彼女の分も、同じラベルだった。;;;<0166> Je jetai un coup d'œil et vis que son carton était le même que le mien.
@@ -169,57 +169,57 @@
 <0168> 嫌がらせではなく、本気で薦めているのだ。;;;<0168> Elle ne cherchait pas à m'embêter, c'était une recommandation honnête.
 <0169> \{少女}「いらないですか？」;;;<0169> Vous n'en voulez pas ?
 <0170> \{\m{A}}「いらない」;;;<0170> J'en veux pas.
-<0171> \{少女}「んー…じゃ、わたしがふたつ共、飲みますね…」;;;<0171> Hmm—... dans ce cas, je vais boire les deux...
-<0172> \{\m{A}}「ああ。もともと、おまえのものだ」;;;<0172> Bien sûr. Et puis, ils sont à toi.
+<0171> \{少女}「んー…じゃ、わたしがふたつ共、飲みますね…」;;;<0171> Hmm~... dans ce cas, je vais boire les deux...
+<0172> \{\m{A}}「ああ。もともと、おまえのものだ」;;;<0172> Bien sûr. De toute façon, ils sont à toi.
 <0173> \{少女}「………」;;;<0173> .........
 <0174> 嫌そうな顔だ。;;;<0174> Elle n'avait pas l'air trop motivée.
-<0175> \{少女}「嬉しいんですからねっ」;;;<0175> J'en suis très contente.
+<0175> \{少女}「嬉しいんですからねっ」;;;<0175> Ça me fait très plaisir.
 <0176> らしい。;;;<0176> Faut croire.
 <0177> 俺はとっとと飯を片づけ、この場を去りたかった。;;;<0177> Il fallait que je me dépêche de finir mon riz, puis que je quitte cet endroit.
-<0178> だが、巨大なおむすびは、まだ半分にもなっていなかった。;;;<0178> Mais, ce truc était tellement énorme, il m'en restait la moitié.
+<0178> だが、巨大なおむすびは、まだ半分にもなっていなかった。;;;<0178> Mais ce truc était tellement énorme qu'il m'en restait la moitié.
 <0179> \{少女}「………」;;;<0179> .........
 <0180> ぷしっ。;;;<0180> \bPop\u !
 <0181> ………。;;;<0181> .......
 <0182> ドクドクドク…;;;<0182> \bGlou glou glou\u...
-<0183> 濃厚な液体が喉を通る音が聞こえてくる。;;;<0183> J'entendais l'épais liquide lui couler dans le gosier.
+<0183> 濃厚な液体が喉を通る音が聞こえてくる。;;;<0183> J'entendais l'épais liquide couler dans son gosier.
 <0184> ごくごくごく…なんていう爽快な音とはほど遠い。;;;<0184> \bGloup gloup gloup\u... C'était loin d'être le son le plus agréable à entendre.
 <0185> その音を聞いているだけで胸焼けがしそうだった。;;;<0185> J'avais mal au cœur rien qu'à entendre ça.
 <0186> とっととおむすびを片づけることにする。;;;<0186> Finir mon onigiri devint ma priorité.
 <0187> もぐもぐ…;;;<0187> \bNom nom\u...
-<0188> \{少女}「喉に詰まったら、言ってくださいね」;;;<0188> Dites-moi si quelque chose se coince dans votre gorge.
+<0188> \{少女}「喉に詰まったら、言ってくださいね」;;;<0188> Dites-le-moi si quelque chose se coince dans votre gorge.
 <0189> \{\m{A}}「おまえもな」;;;<0189> Toi aussi, hein.
-<0190> 俺はおむすびを食べ終わると、堤防から飛び降りる。;;;<0190> Après avoir fini mon onigiri, je sautai de la digue.
-<0191> これから、どうするか…。;;;<0191> Et maintenant, que faire ?
+<0190> 俺はおむすびを食べ終わると、堤防から飛び降りる。;;;<0190> Une fois mon onigiri fini, je sautai de la digue.
+<0191> これから、どうするか…。;;;<0191> Et maintenant, que faire...?
 <0192> 無論、探し物をしないといけないのだが、とりあえず、気色の悪いジュースを飲んでいる奴から離れたい。;;;<0192> Naturellement, il fallait que je reprenne mes recherches. Cela dit, il fallait surtout que je m'éloigne de l'autre avec son jus répugnant.
 <0193> 歩き出す;;;<0193> Partir en marchant
 <0194> 走り出す;;;<0194> Partir en courant
 <0195> 俺は歩き出した。;;;<0195> Je partis en marchant.
 <0196> ぱたっ、と後ろで足音がした。;;;<0196> \bClop\u ! J'entendis des bruits de pas derrière moi.
 <0197> とてとてとて…;;;<0197> \bClop clop clop\u...
-<0198> 振り返ると、案の定、少女がついてきている。;;;<0198> Je tournai la tête, et évidemment, la fille me suivait.
-<0199> 俺と目が合うと、笑ってみせた。;;;<0199> Nos regards se croisèrent et elle m'offrit un sourire.
+<0198> 振り返ると、案の定、少女がついてきている。;;;<0198> Je tournai la tête, et évidemment, elle me suivait.
+<0199> 俺と目が合うと、笑ってみせた。;;;<0199> Nos regards se croisèrent, et elle m'offrit un sourire.
 <0200> 早足で歩くと、今度はぱたぱたと走ってついてきた。;;;<0200> Je pressai le pas, et cette fois, j'entendis qu'on trottait derrière moi.
 <0201> 俺は足を止め、振り返る。;;;<0201> Je m'arrêtai, et tournai de nouveau la tête.
 <0202> \{少女}「………」;;;<0202> .........
 <0203> \{\m{A}}「……？」;;;<0203> ......?
 <0204> \{少女}「………」;;;<0204> .........
 <0205> \{少女}「…ゴミ、ゴミ」;;;<0205> ... La poubelle, la poubelle...
-<0206> 近くにあったゴミ箱に、空になった紙パックを捨てた。;;;<0206> Elle mit son carton maintenant vide à la poubelle.
+<0206> 近くにあったゴミ箱に、空になった紙パックを捨てた。;;;<0206> Elle mit son carton, maintenant vide, à la poubelle.
 <0207> \{\m{A}}「じゃあな」;;;<0207> À plus.
 <0208> \{少女}「待って」;;;<0208> Attends !
 <0209> \{\m{A}}「なんだよ」;;;<0209> Quoi encore ?
-<0210> \{少女}「浜辺にいこっ」;;;<0210> Allons à la plage.
+<0210> \{少女}「浜辺にいこっ」;;;<0210> Allons à la plage !
 <0211> \{\m{A}}「どうして」;;;<0211> Pourquoi ?
-<0212> \{少女}「遊びたいから」;;;<0212> Pzrce que je veux jouer.
+<0212> \{少女}「遊びたいから」;;;<0212> Parce que je veux jouer.
 <0213> \{\m{A}}「はぁ…？」;;;<0213> Hein ?
 <0214> \{少女}「昨日、そこで遊んでたんですよ、子供たちが」;;;<0214> Hier, j'ai vu des enfants qui y jouaient.
 <0215> \{少女}「ずっと眺めてたんです」;;;<0215> Je les ai regardés tout ce temps.
-<0216> \{少女}「楽しそうだなぁ、わたしも遊びたいなって」;;;<0216> Ils avaient l'air de s'amuser. Moi aussi je voulais jouer.
-<0217> \{少女}「ずっと、そう思ってたんですよ」;;;<0217> C'est ce que je me disais pendant tout ce temps...
-<0218> \{少女}「あなたが寝てる隣で」;;;<0218> ... pendant que je vous regardais dormir.
+<0216> \{少女}「楽しそうだなぁ、わたしも遊びたいなって」;;;<0216> Ils avaient l'air de s'amuser. Moi aussi, je voulais jouer.
+<0217> \{少女}「ずっと、そう思ってたんですよ」;;;<0217> C'est ce que je me suis dit pendant tout ce temps...
+<0218> \{少女}「あなたが寝てる隣で」;;;<0218> ... Pendant que je vous regardais dormir.
 <0219> \{\m{A}}「………」;;;<0219> .........
 <0220> \{少女}「夕べ寝てましたよね、さっきの場所で」;;;<0220> Hier soir, vous y dormiez déjà, là-bas.
-<0221> \{少女}「暇なのかと思って、ずっとつついてたんですよ」;;;<0221> Je me disais que vous aviez du temps pour jouer, alors j'ai passé tout ce temps à vous tapoter.
+<0221> \{少女}「暇なのかと思って、ずっとつついてたんですよ」;;;<0221> Je me suis dit que vous aviez du temps pour jouer, alors j'ai passé tout ce temps à vous tapoter.
 <0222> \{少女}「おなかとか背中を、つんつんって」;;;<0222> J'ai tripoté votre ventre et votre dos.
 <0223> \{少女}「でもぜんぜん起きる様子がなかったので、諦めました」;;;<0223> Mais vous vous êtes jamais réveillé, alors j'ai abandonné.
 <0224> \{少女}「よっぽど疲れてたんですね」;;;<0224> Vous deviez être super fatigué.
@@ -232,15 +232,15 @@
 <0231> あるいは何か、下心を持っての行動だろうか。;;;<0231> Ou bien, avait-elle des idées derrière la tête ?
 <0232> 金は持っているだろうか。;;;<0232> Avait-elle des sous sur elle ?
 <0233> たまたま家の部屋がひとつ空いてはいないだろうか。;;;<0233> Aurait-elle une chambre d'amis de libre chez elle ?
-<0234> たまたま父親が残業で帰れなくなって、夕飯が余ったりはしないだろうか…。;;;<0234> Aurait-elle des restes du dîner parce que son père rentrait tard de ses heures supplémentaires ?
-<0235> いろんな考えが渦巻く。;;;<0235> Toutes sortes d'idées me passaient par la tête.
-<0236> いや、とそれらをすべてうち消す。;;;<0236> Non. Je me vidai l'esprit.
-<0237> いくら友好的でも、こういう奴には関わらないのが無難だ。;;;<0237> Peu importe à quel point elle était gentille, il était plus sûr que je ne me laisse pas avoir affaire avec ce genre de personnage.
+<0234> たまたま父親が残業で帰れなくなって、夕飯が余ったりはしないだろうか…。;;;<0234> Aurait-elle des restes du dîner parce que son père rentrait tard de ses heures supplémentaire... ?
+<0235> いろんな考えが渦巻く。;;;<0235> Toutes sortes d'idées fusèrent dans mon esprit.
+<0236> いや、とそれらをすべてうち消す。;;;<0236> Nan. Je me vidai l'esprit.
+<0237> いくら友好的でも、こういう奴には関わらないのが無難だ。;;;<0237> Peu importe à quel point elle était gentille, il était plus sûr que je ne me laissasse pas avoir à faire à ce genre de personnage.
 <0238> \{少女}「さ、いこっ」;;;<0238> Allez, on y va !
-<0239> いつのまにか俺の横に立ち、腕を引っ張っていた。;;;<0239> Pendant ce temps, elle était à côté de moi, et me tirait la manche.
-<0240> \{\m{A}}「いや…俺は忙しいんだ」;;;<0240> Non... je suis occupé, vois-tu.
+<0239> いつのまにか俺の横に立ち、腕を引っ張っていた。;;;<0239> Pendant tout ce temps, elle s'était tenue à côté de moi, en tirant sur ma manche.
+<0240> \{\m{A}}「いや…俺は忙しいんだ」;;;<0240> Non... Je suis occupé, vois-tu.
 <0241> \{少女}「だって、昨日も寝てたし、今もおむすび食べてた」;;;<0241> Mais... hier vous n'avez fait que dormir, et aujourd'hui vous avez mangé un onigiri.
-<0242> \{\m{A}}「それは休憩だ。休憩も必要だろ」;;;<0242> C'était une pause, tout le monde a besoin d'une pause.
+<0242> \{\m{A}}「それは休憩だ。休憩も必要だろ」;;;<0242> C'était une pause, tout le monde a besoin de pauses.
 <0243> \{少女}「その間は暇…」;;;<0243> Mais pendant ce temps vous êtes disponible...
 <0244> \{\m{A}}「………」;;;<0244> .........
 <0245> \{\m{A}}「………」;;;<0245> .........
@@ -248,8 +248,8 @@
 <0247> 目が合っている…。;;;<0247> Nos regards se croisèrent...
 <0248> \{少女}「にはは」;;;<0248> Nihaha.
 <0249> \{\m{A}}「………」;;;<0249> .........
-<0250> \{\m{A}}「ダッシュッ」;;;<0250> \bDash !\u
-<0251> 俺は身を翻し、駆けだした。;;;<0251> Je me retournai et piquai un sprint.
+<0250> \{\m{A}}「ダッシュッ」;;;<0250> \bSprint\u !
+<0251> 俺は身を翻し、駆けだした。;;;<0251> Je fis volte-face et piquai un sprint.
 <0252> \{少女}「わっ…」;;;<0252> Wah !
 <0253> 少女が驚きの声をあげていたが、俺は振り返らない。;;;<0253> Elle lâcha un cri de surprise, mais je ne me retournai pas.
 <0254> そのまま一直線に…;;;<0254> Je continuai à courir en ligne droite...
@@ -269,7 +269,7 @@
 <0268> \{\m{A}}「ああ、なんでもない」;;;<0268> Non, ce n'est rien du tout.
 <0269> \{少女}「…でも、ぴょこぴょこって片足で走ってました」;;;<0269> Mais... vous étiez en train d'essayer de courir en sautillant sur une jambe...
 <0270> \{\m{A}}「子供がいたからな。ちょっとおどけてみせたんだ」;;;<0270> Il y avait un enfant, tu vois, j'étais juste en train de plaisanter un peu avec lui.
-<0271> \{少女}「おもしろかった。思い出しただけで笑える」;;;<0271> C'était drôle. Rien que d'y penser, j'ai envie de rigoler.
+<0271> \{少女}「おもしろかった。思い出しただけで笑える」;;;<0271> C'était rigolo. Rien que d'y penser, j'ai envie de rigoler.
 <0272> \{少女}「にはは」;;;<0272> Nihaha.
 <0273> 最悪だ…。;;;<0273> On ne pouvait pas faire pire comme journée...
 <0274> 少女は笑顔で、飲みかけのジュースのストローに口をつけた。;;;<0274> Elle rapprocha la paille de son visage souriant, et continua à boire son jus à moitié entamé.
@@ -282,14 +282,14 @@
 <0281> \{\m{A}}「どうして」;;;<0281> Pourquoi ?
 <0282> \{少女}「遊びたいから」;;;<0282> Parce que je veux jouer.
 <0283> \{\m{A}}「はぁ…？」;;;<0283> Hein ?
-<0284> \{少女}「昨日、そこで遊んでたんですよ、子供たちが」;;;<0284> Hier, j'ai vu des enfants qui s'y amusaient.
+<0284> \{少女}「昨日、そこで遊んでたんですよ、子供たちが」;;;<0284> Hier, j'ai vu des enfants qui y jouaient
 <0285> \{少女}「ずっと眺めてたんです」;;;<0285> Je les ai regardés tout ce temps.
-<0286> \{少女}「楽しそうだなぁ、わたしも遊びたいなって」;;;<0286> Ils avaient l'air de s'amuser. Moi aussi je voulais jouer.
-<0287> \{少女}「ずっと、そう思ってたんですよ」;;;<0287> C'est ce que je me disais pendant tout ce temps...
-<0288> \{少女}「あなたが寝てる隣で」;;;<0288> ... pendant que je vous regardais dormir.
+<0286> \{少女}「楽しそうだなぁ、わたしも遊びたいなって」;;;<0286> Ils avaient l'air de s'amuser. Moi aussi, je voulais jouer.
+<0287> \{少女}「ずっと、そう思ってたんですよ」;;;<0287> C'est ce que je me suis dit pendant tout ce temps...
+<0288> \{少女}「あなたが寝てる隣で」;;;<0288> ... Pendant que je vous regardais dormir.
 <0289> \{\m{A}}「………」;;;<0289> .........
 <0290> \{少女}「夕べ寝てましたよね、さっきの場所で」;;;<0290> Hier soir, vous y dormiez déjà, là-bas.
-<0291> \{少女}「暇なのかと思って、ずっとつついてたんですよ」;;;<0291> Je me disais que vous aviez du temps pour jouer, alors j'ai passé tout ce temps à vous tapoter.
+<0291> \{少女}「暇なのかと思って、ずっとつついてたんですよ」;;;<0291> Je suis dit que vous aviez du temps pour jouer, alors j'ai passé tout ce temps à vous tapoter.
 <0292> \{少女}「おなかとか背中を、つんつんって」;;;<0292> J'ai tripoté votre ventre et votre dos.
 <0293> \{少女}「でもぜんぜん起きる様子がなかったので、諦めました」;;;<0293> Mais vous vous êtes jamais réveillé, alors j'ai abandonné.
 <0294> \{少女}「よっぽど疲れてたんですね」;;;<0294> Vous deviez être super fatigué.
@@ -303,21 +303,21 @@
 <0302> 金は持っているだろうか。;;;<0302> Avait-elle des sous sur elle ?
 <0303> たまたま家の部屋がひとつ空いてはいないだろうか。;;;<0303> Aurait-elle une chambre d'amis de libre chez elle ?
 <0304> たまたま父親が残業で帰れなくなって、夕飯が余ったりはしないだろうか…。;;;<0304> Aurait-elle des restes du dîner parce que son père rentrait tard de ses heures supplémentaires ?
-<0305> いろんな考えが渦巻く。;;;<0305> Toutes sortes d'idées me passaient par la tête.
+<0305> いろんな考えが渦巻く。;;;<0305> Toutes sortes d'idées fusèrent dans mon esprit.
 <0306> いや、とそれらをすべてうち消す。;;;<0306> Non. Je me vidai l'esprit.
-<0307> いくら友好的でも、こういう奴には関わらないのが無難だ。;;;<0307> Peu importe à quel point elle était gentille, il était plus sûr que je ne me laisse pas avoir affaire avec ce genre de personnage.
+<0307> いくら友好的でも、こういう奴には関わらないのが無難だ。;;;<0307> Peu importe à quel point elle était gentille, il était plus sûr que je ne me laissasse pas avoir à faire à ce genre de personnage.
 <0308> 打撲した足首を回しながら俺はそう考える。;;;<0308> C'est ce que je me dis en faisant pivoter ma cheville endolorie.
 <0309> \{少女}「さ、いこっ」;;;<0309> Allez, on y va !
-<0310> いつのまにか俺の横に立ち、腕を引っ張っていた。;;;<0310> Pendant ce temps, elle était à côté de moi, et me tirait la manche.
+<0310> いつのまにか俺の横に立ち、腕を引っ張っていた。;;;<0310> Pendant tout ce temps, elle s'était tenue à côté de moi, en tirant sur ma manche.
 <0311> \{\m{A}}「いや…俺は忙しいんだ」;;;<0311> Non... je suis occupé, vois-tu.
 <0312> \{少女}「だって、昨日も寝てたし、今もおむすび食べてた」;;;<0312> Mais... hier vous n'avez fait que dormir, et aujourd'hui vous avez mangé un onigiri.
-<0313> \{\m{A}}「それは休憩だ。休憩も必要だろ」;;;<0313> C'était une pause, tout le monde a besoin d'une pause.
-<0314> \{少女}「子供におどけてみせてたし…」;;;<0314> Mais je vous ai vu faire jouer avec un enfant...
+<0313> \{\m{A}}「それは休憩だ。休憩も必要だろ」;;;<0313> C'était une pause, tout le monde a besoin de pauses.
+<0314> \{少女}「子供におどけてみせてたし…」;;;<0314> Mais je vous ai vu jouer avec un enfant...
 <0315> \{\m{A}}「………」;;;<0315> .........
 <0316> \{\m{A}}「探し物をしてるんだ。いつだって、そのことで頭がいっぱいなんだ」;;;<0316> Je suis occupé à chercher quelque chose, j'ai déjà assez de choses à penser comme ça.
 <0317> \{\m{A}}「だから相手できない」;;;<0317> Et donc, je ne peux pas rester avec toi.
 <0318> \{少女}「じゃ、一緒に探しますねー」;;;<0318> Dans ce cas, on n'a qu'à chercher ensemble—.
-<0319> \{少女}「この辺りですか？」;;;<0319> C'était dans le coin ?
+<0319> \{少女}「この辺りですか？」;;;<0319> C'est dans le coin ?
 <0320> \{\m{A}}「北極か南極かのどっちかだと思う」;;;<0320> Si je me rappelle bien, c'était soit au Pôle Nord, soit au Pôle Sud.
 <0321> \{少女}「じゃ、いってきますねー」;;;<0321> Bon ben, je me mets en route alors—.
 <0322> ぱたぱたぱた…;;;<0322> \bClop clop clop\u...
@@ -325,36 +325,36 @@
 <0324> 走って行ってしまった。;;;<0324> La voilà partie en courant.
 <0325> かなり頭が悪いのかもしれない。;;;<0325> À croire que ce n'était pas le couteau le plus affûté du tiroir.
 <0326> 俺は探し物を再開する。;;;<0326> Je repris mes recherches.
-<0327> 陽は真上に近づきつつある。;;;<0327> Le soleil était presque à la verticale.
+<0327> 陽は真上に近づきつつある。;;;<0327> Le soleil était presque à ma verticale.
 <0328> 汗が鼻先から地面に落ちる。;;;<0328> De la sueur me tombait du nez.
 <0329> あまり頭を下げていると、そのままぶっ倒れてしまいそうだった。;;;<0329> Il suffisait que je me penche un peu plus en avant pour m'écrouler au sol.
-<0330> まさか海にまで飛んでいったか…。;;;<0330> J'espérais qu'elle ne fut pas tombée dans la mer.
-<0331> いや、そこまでガキにキック力があるとは思えない。;;;<0331> Non, un gosse n'aurait pas pu l'envoyer aussi loin d'un coup de pied.
+<0330> まさか海にまで飛んでいったか…。;;;<0330> J'espérais qu'elle n'était pas tombée dans la mer.
+<0331> いや、そこまでガキにキック力があるとは思えない。;;;<0331> Non, un gosse n'aurait pas pu l'envoyer aussi loin avec un coup de pied.
 <0332> \{声}「はぁ…はぁ…」;;;<0332> Haa... Haa...
-<0333> すぐ近くで荒い息。俺のじゃない。;;;<0333> Un halètement éreinté se rapprochait. Ça ne venait pas de moi.
-<0334> 振り返ると、さっきの少女がいた。;;;<0334> Je regardai derrière moi, et vis la fille de tout à l'heure.
-<0335> \{少女}「北極も南極もすごく遠い」;;;<0335> Le Pôle Nord et le Pôle Sud sont super loin tous les deux.
-<0336> \{\m{A}}「そうだな。かなり遠い」;;;<0336> Effectivement. Ils sont plutôt loin.
+<0333> すぐ近くで荒い息。俺のじゃない。;;;<0333> Un halètement éreinté se rapprochait. Il ne venait pas de moi.
+<0334> 振り返ると、さっきの少女がいた。;;;<0334> Je regardai derrière moi, et vis la jeune fille de tout à l'heure.
+<0335> \{少女}「北極も南極もすごく遠い」;;;<0335> Le Pôle Nord et le Pôle Sud sont super loin, tous les deux.
+<0336> \{\m{A}}「そうだな。かなり遠い」;;;<0336> C'est bien vrai. Ils sont plutôt loin.
 <0337> \{少女}「バスに乗るところで気づいたの」;;;<0337> En fait je m'en suis rendu compte avant de monter dans le bus.
 <0338> \{少女}「もしかして…嘘かなって」;;;<0338> Est-ce que... vous m'avez menti ?
 <0339> \{\m{A}}「嘘だ」;;;<0339> Ouaip, j'ai menti.
-<0340> \{少女}「どうしてそんな嘘つくかなぁ…」;;;<0340> Pourquoi vous m'avez menti comme ça ?
+<0340> \{少女}「どうしてそんな嘘つくかなぁ…」;;;<0340> Pourquoi vous m'avez menti comme ça...?
 <0341> 泣きそうな顔で言う。;;;<0341> Son visage donnait l'impression qu'elle allait pleurer.
 <0342> \{少女}「今、ここ探してました」;;;<0342> Vous étiez en train de chercher ici ?
-<0343> \{\m{A}}「ああ、そうだな…」;;;<0343> En effet, c'est ça.
+<0343> \{\m{A}}「ああ、そうだな…」;;;<0343> Ouais, c'est ça.
 <0344> \{少女}「一緒に探しますねー」;;;<0344> Cherchons à deux, d'accord— ?
-<0345> 怒っているなら帰ればいいものを…。;;;<0345> Au lieu de te fâcher, tu peux pas juste rentrer chez toi ?
+<0345> 怒っているなら帰ればいいものを…。;;;<0345> Au lieu de te fâcher, elle pouvait pas juste rentrer chez elle...?
 <0346> 彼女はめげずに藪の中に入ってゆく。;;;<0346> Mais au lieu de se décourager, elle fouillait déjà dans les buissons.
 <0347> \{少女}「あ」;;;<0347> Ah !
 <0348> こっちを向く。;;;<0348> Elle se tourna vers moi.
 <0349> \{少女}「探し物ってなんなんですか？」;;;<0349> C'était quoi que vous cherchiez déjà ?
 <0350> \{\m{A}}「北極ぐま」;;;<0350> Un ours polaire.
 <0351> \{少女}「………」;;;<0351> .........
-<0352> \{少女}「それって…嘘ですよね？」;;;<0352> Ça aussi, c'est un mensonge ?
-<0353> \{\m{A}}「本当だって言ったら、北極までいくのか、おまえは」;;;<0353> Si je disais que c'était la vérité, t'irais vraiment jusqu'au Pôle Nord.
+<0352> \{少女}「それって…嘘ですよね？」;;;<0352> Ça aussi... c'est un mensonge ?
+<0353> \{\m{A}}「本当だって言ったら、北極までいくのか、おまえは」;;;<0353> Si je te disais que c'était la vérité, t'irais vraiment jusqu'au Pôle Nord.
 <0354> \{少女}「はぁ…」;;;<0354> Haa...
-<0355> \{少女}「どうしてそんなイジワル言うかなぁ…」;;;<0355> Pourquoi vous dîtes des choses pour m'embêter ?
-<0356> こっちがため息をつきたい気分だ。;;;<0356> C'est moi qui devrais pousser un soupir.
+<0355> \{少女}「どうしてそんなイジワル言うかなぁ…」;;;<0355> Pourquoi vous dîtes des choses pour m'embêter comme ça...?
+<0356> こっちがため息をつきたい気分だ。;;;<0356> C'était moi qui devrais pousser un soupir.
 <0357> どうしたら、構わないでくれるのだろう。;;;<0357> Comment pourrais-je faire en sorte qu'elle s'occupe de ce qui la regarde ?
 <0358> \{\m{A}}「暑いだろ。帰れよ」;;;<0358> Fait chaud. Rentre chez toi.
 <0359> \{少女}「平気ですよ。慣れてるから」;;;<0359> Pas de souci. J'ai l'habitude.
@@ -371,15 +371,15 @@
 <0370> \{少女}「かぶと虫」;;;<0370> Un scarabée-rhinocéros.
 <0371> 彼女の手で巨大なかぶと虫が足を掻いていた。;;;<0371> Un énorme scarabée-rhinocéros remuait ses pattes dans le creux de sa main.
 <0372> \{\m{A}}「そら良かったな」;;;<0372> Content pour toi.
-<0373> \{少女}「あれ？  探し物、ちがう？」;;;<0373> Ah bon ? C'est pas ça que vous cherchiez ?
+<0373> \{少女}「あれ？  探し物、ちがう？」;;;<0373> Ah bon ? C'est pas ça, ce que vous cherchiez ?
 <0374> \{\m{A}}「そんなものをこんなに必死で探すか」;;;<0374> Tu penses vraiment que je ferais autant d'efforts pour trouver un truc pareil ?
 <0375> \{少女}「友達かと思って」;;;<0375> Je pensais que c'était votre ami.
-<0376> \{\m{A}}「なるほど。俺は虫が友達。そんな奴に見えるんだな」;;;<0376> Je vois ! Mes amis sont des insectes ! Faut croire que je donne cette impression.
-<0377> \{少女}「うん。友達。はい」;;;<0377> Oui. Amis. Tiens !
+<0376> \{\m{A}}「なるほど。俺は虫が友達。そんな奴に見えるんだな」;;;<0376> Ah, je vois ! Mes amis, ce sont des insectes ! Faut croire que je donne cette impression.
+<0377> \{少女}「うん。友達。はい」;;;<0377> Oui. Ami. Tiens !
 <0378> 近づいてきて、その昆虫を差し出してくる。;;;<0378> Elle se rapprocha et me tendit la bestiole.
 <0379> なにを考えてんだか、にこにこと笑みを絶やさない。;;;<0379> Je n'avais aucune idée de ce qui lui passait par la tête, mais elle n'arrêtait pas de sourire.
 <0380> \{少女}「はい」;;;<0380> Tiens !
-<0381> じっとしている俺を前にして再び言う。;;;<0381> Répéta-t-elle alors que je la fixais du regard.
+<0381> じっとしている俺を前にして再び言う。;;;<0381> répéta-t-elle alors que je la fixais du regard.
 <0382> その顔は汗でいっぱいだった。;;;<0382> Son visage était recouvert de sueur.
 <0383> この様子じゃ、上半身は汗まみれだろう。;;;<0383> À la regarder, il me semblait même que tout le haut de son corps était trempé de sueur.
 <0384> \{\m{A}}「………」;;;<0384> .........
@@ -388,15 +388,15 @@
 <0387> 早いところ、終わらせたい。;;;<0387> Je voulais que ça se termine vite.
 <0388> \{\m{A}}「人形だ」;;;<0388> C'est une marionnette.
 <0389> \{少女}「人形？」;;;<0389> Une marionnette ?
-<0390> \{\m{A}}「手で縫ってあって、中に綿が詰めてある」;;;<0390> Cousue à la main et remplie de coton.
+<0390> \{\m{A}}「手で縫ってあって、中に綿が詰めてある」;;;<0390> Cousue à la main, et remplie de coton.
 <0391> \{\m{A}}「大きさはこれぐらいだ」;;;<0391> Elle fait à peu près cette taille.
 <0392> 親指と中指をいっぱいに伸ばしてみせた。;;;<0392> J'écartai mon pouce et mon majeur autant que possible pour en indiquer la taille.
 <0393> \{少女}「了解」;;;<0393> Compris.
-<0394> 兵隊のような敬礼をして、戻ってゆく。;;;<0394> Elle m'adressa un salut à l'air militaire, puis repartit chercher.
+<0394> 兵隊のような敬礼をして、戻ってゆく。;;;<0394> Elle m'adressa un salut du genre militaire, puis repartit chercher.
 <0395> ………。;;;<0395> ..........
 <0396> \{\m{A}}「見つからないな…」;;;<0396> Toujours pas...
-<0397> 陽も暮れてきて、俺のほうから少女の元に歩いていった。;;;<0397> Le soleil commençait à se coucher, alors j'allai voir la fille.
-<0398> \{少女}「ですねぇ…」;;;<0398> N'est-ce pas...
+<0397> 陽も暮れてきて、俺のほうから少女の元に歩いていった。;;;<0397> Le soleil commençait à se coucher, alors j'allai voir la jeune fille.
+<0398> \{少女}「ですねぇ…」;;;<0398> Forcément...
 <0399> 彼女はまだごそごそと藪の中を探していた。;;;<0399> Elle était encore en train de fouiller dans les buissons.
 <0400> \{\m{A}}「違うところかもな」;;;<0400> Elle est peut-être ailleurs.
 <0401> \{少女}「かもしれないですね…」;;;<0401> C'est une possibilité...
@@ -407,33 +407,33 @@
 <0406> \{\m{A}}「そりゃあな…」;;;<0406> On peut dire ça...
 <0407> \{少女}「どこで落としたんですかねぇ…」;;;<0407> Vous l'avez fait tomber où ?
 <0408> ごそごそ…;;;<0408> \bFouille fouille\u...
-<0409> \{\m{A}}「いや、落としたんじゃない」;;;<0409> Non, je ne l'ai pas fait tomber.
+<0409> \{\m{A}}「いや、落としたんじゃない」;;;<0409> Nan, je l'ai pas fait tomber.
 <0410> \{少女}「え？  どうしてなくしたんですか？」;;;<0410> Ah bon ? Vous l'avez perdue comment alors ?
 <0411> \{\m{A}}「………」;;;<0411> .........
-<0412> あの屈辱的ななくしかたを説明しろと言うのだろうか。;;;<0412> Devais-je vraiment lui décrire comment je l'avais perdue de manière humiliante ?
+<0412> あの屈辱的ななくしかたを説明しろと言うのだろうか。;;;<0412> Devais-je vraiment lui décrire la manière humiliante dont je l'avais perdue ?
 <0413> 話してみる;;;<0413> Lui dire
 <0414> 黙っておく;;;<0414> Se taire
-<0415> マジでか…？;;;<0415> Sérieux là ?
-<0416> その経緯を話してしまったら、俺は人間的に見下されてしまう気がする…。;;;<0416> J'avais l'impression que si je lui racontais toute l'histoire, elle perdrait tout le respect qu'elle pouvait avoir pour moi.
-<0417> だが、目の前の少女はこの町の人間だ。;;;<0417> Toutefois, la fille devant moi était du coin.
+<0415> マジでか…？;;;<0415> Sérieux là...?
+<0416> その経緯を話してしまったら、俺は人間的に見下されてしまう気がする…。;;;<0416> J'avais l'impression que si je lui racontais toute l'histoire, elle perdrait tout le respect qu'elle pouvait avoir pour moi...
+<0417> だが、目の前の少女はこの町の人間だ。;;;<0417> Toutefois, la jeune fille qui se tenait devant moi était du coin.
 <0418> 蹴り上げられた、ということを考慮すれば行き着きやすい場所を知っていたりするかもしれない。;;;<0418> Elle pouvait savoir où une marionnette qu'on aurait envoyée valser d'un coup de pied aurait bien pu atterrir.
 <0419> \{少女}「教えてほしいな」;;;<0419> Dites-moi, s'il vous plaît.
 <0420> 本人もそう言っているし…。;;;<0420> Si elle le demande d'elle-même...
 <0421> 俺は覚悟を決める。背に腹は代えられない。;;;<0421> Je me préparai au pire. Qui ne tente rien n'a rien.
 <0422> \{\m{A}}「実はな…」;;;<0422> En fait...
 <0423> \{少女}「あ、カブト虫のメス～」;;;<0423> Ah ! Une femelle~ !
-<0424> 突然に少女がしゃがみ込む。;;;<0424> Elle s'accroupit d'un coup.
+<0424> 突然に少女がしゃがみ込む。;;;<0424> Elle s'accroupit tout à coup.
 <0425> \{少女}「メスメス～」;;;<0425> Femelle, femelle~.
-<0426> そして、きゃっきゃっと足もとで騒ぐ。;;;<0426> Caqueta-t-elle à mes pieds.
+<0426> そして、きゃっきゃっと足もとで騒ぐ。;;;<0426> caqueta-t-elle à mes pieds.
 <0427> \{\m{A}}「………」;;;<0427> .........
 <0428> \{\m{A}}「帰れ、おまえ」;;;<0428> Rentre chez toi.
 <0429> \{少女}「さっきのオスと仲良しかなぁ」;;;<0429> Le mâle de tout à l'heure, tu penses que c'est son ami ?
-<0430> …聞いちゃいねぇ。;;;<0430> Elle ne m'écoutait pas.
+<0430> …聞いちゃいねぇ。;;;<0430> ... Elle ne m'écoutait pas.
 <0431> \{少女}「見て見て」;;;<0431> Regarde, regarde !
 <0432> 不意に俺を見上げる。;;;<0432> Elle releva soudainement la tête.
 <0433> \{\m{A}}「見たかねぇ…」;;;<0433> J'veux pas voir ça...
 <0434> その少女の目が俺の顔ではなく、そのずっと後ろを見ていた。;;;<0434> Ses yeux n'étaient pas posés sur mon visage, mais sur ce qu'il y avait derrière moi.
-<0435> \{少女}「あ…あった」;;;<0435> Ah ! Trouvée !
+<0435> \{少女}「あ…あった」;;;<0435> Ah...! Trouvée !
 <0436> \{\m{A}}「なんだよ。今度はカブト虫のなんだ。オカマか」;;;<0436> Quoi encore ? Quel genre de  scarabée-rhinocéros tu nous as trouvé cette fois ? Un travelo ?
 <0437> 俺は振り返る。;;;<0437> Je me retournai.
 <0438> その先は、木だった。;;;<0438> Il y avait un arbre.
@@ -441,16 +441,16 @@
 <0440> \{\m{A}}「え…？」;;;<0440> Hein ?
 <0441> その枝の先…百舌（もず）の速贄（はやにえ）のように俺の大切な人形が串刺しになっていた。;;;<0441> Empalée au bout d'une branche se trouvait ma marionnette, comme si une pie l'avait laissée là pour la dévorer plus tard.
 <0442> 実際、上空ではそれを狙うかのように、鳥が羽ばたいている。;;;<0442> À vrai dire, au-dessus d'elle se trouvaient des oiseaux qui volaient en cercle, prêts à fondre sur leur proie.
-<0443> 黙っておこう。;;;<0443> Je choisis de me taire.
-<0444> いい笑いのタネを与えるだけだ。;;;<0444> Sinon, tout ce que j'aurais gagné, Ç'aurait été des moqueries.
+<0443> 黙っておこう。;;;<0443> Je décidai de me taire.
+<0444> いい笑いのタネを与えるだけだ。;;;<0444> Sinon, tout ce que j'aurais gagné, ç'aurait été des moqueries.
 <0445> \{少女}「ん？  どうかしました？」;;;<0445> Hmm ? Qu'est-ce qu'il y a ?
 <0446> \{\m{A}}「落としたんだよ」;;;<0446> Je l'ai fait tomber.
 <0447> \{少女}「ぽてっと？」;;;<0447> Ça a fait \bpaf\u ?
 <0448> \{\m{A}}「いや、ぼむっと」;;;<0448> Non, plutôt \bbam\u.
 <0449> \{少女}「ぼむ？」;;;<0449> \bBam\u ?
-<0450> \{\m{A}}「いや、すこーーーんっ！かな…」;;;<0450> Non, plutôt \bbadabooooum\u en fait...
-<0451> \{少女}「すこーーーーん…と」;;;<0451> Ça a fait \bbadabooooum\u ?
-<0452> 言葉の通りに少女の目が空の果てまで見渡す。;;;<0452> Prononça-t-elle alors que ses yeux se mirent à scruter le ciel.
+<0450> \{\m{A}}「いや、すこーーーんっ！かな…」;;;<0450> Non, plutôt \bbadabooooum\u, en fait...
+<0451> \{少女}「すこーーーーん…と」;;;<0451> Ça a fait... \bbadabooooum\u ?
+<0452> 言葉の通りに少女の目が空の果てまで見渡す。;;;<0452> prononça-t-elle alors que ses yeux se mirent à scruter le ciel.
 <0453> \{少女}「あった！」;;;<0453> Ah ! Trouvée !
 <0454> \{\m{A}}「え？」;;;<0454> Hein ?
 <0455> 彼女の目が俺の後ろを見ていた。;;;<0455> Ses yeux fixaient quelque chose derrière moi.
@@ -462,23 +462,23 @@
 <0461> 俺は木を駆け登り、それを救い出す。;;;<0461> Je grimpai à l'arbre pour la libérer.
 <0462> \{\m{A}}「危なく食われるところだった…」;;;<0462> T'as failli te faire manger toute crue...
 <0463> \{\m{A}}「しかし、侮りがたし。ガキのキック力…」;;;<0463> Ce morveux devait avoir un sacré coup de pied.
-<0464> 地面に降り立つと、少女が寄ってきた。;;;<0464> Une fois revenu sur la terre ferme, la fille me rejoignit.
+<0464> 地面に降り立つと、少女が寄ってきた。;;;<0464> Une fois revenu sur la terre ferme, la jeune fille me rejoignit.
 <0465> \{少女}「良かったですね」;;;<0465> Contente que vous l'ayez retrouvée.
 <0466> \{\m{A}}「ああ、良かった。おまえのおかげだ」;;;<0466> Ouaip, moi aussi. Et c'est grâce à toi.
-<0467> \{少女}「これで遊べますね」;;;<0467> Maintenant, vous pouvez jouer, hein ?
+<0467> \{少女}「これで遊べますね」;;;<0467> Maintenant, vous pouvez jouer, dites ?
 <0468> \{\m{A}}「誰と」;;;<0468> Avec qui ?
 <0469> \{\m{A}}「この人形とか」;;;<0469> Avec cette marionnette ?
 <0470> \{\m{A}}「寂しすぎるぞ…」;;;<0470> Ce serait trop triste...
 <0471> \{少女}「違います。わたしと」;;;<0471> Mais non. Avec moi.
-<0472> 少女は自分を指さしていた。;;;<0472> Elle tendit son doigt vers elle-même.
+<0472> 少女は自分を指さしていた。;;;<0472> Elle se pointa elle-même du doigt.
 <0473> 俺は時間をさかのぼってみる。;;;<0473> Je me repassai les dernières heures dans ma tête.
 <0474> まさか…;;;<0474> C'est pas vrai...
 <0475> 俺と一緒に遊ぶために、一日を潰して炎天下の中で探し物を手伝っていたというのだろうか。;;;<0475> C'était pour pouvoir jouer avec moi qu'elle avait passé toute la journée à remuer ciel et terre sous un soleil de plomb ?
 <0476> そんなのまるでガキじゃないか。;;;<0476> Mais quelle gamine !
 <0477> やはり、なにかしらの下心があるとしか思えない。;;;<0477> C'était sûr qu'elle avait une idée derrière la tête.
-<0478> \{\m{A}}「遊びってなにをするんだ」;;;<0478> Quand tu dis que tu veux jouer, tu penses à quoi ?
+<0478> \{\m{A}}「遊びってなにをするんだ」;;;<0478> Quand tu dis que tu veux jouer, tu penses à quoi exactement ?
 <0479> \{少女}「だから砂浜で遊ぶの。かけっこしたり、水の掛けあいしたり」;;;<0479> En fait, je veux qu'on aille jouer sur la plage. On fera la course et on s'éclaboussera avec l'eau.
-<0480> 内容も、まんまガキの遊びだ。;;;<0480> Tout ce dont elle parlait étaient des trucs de gamins.
+<0480> 内容も、まんまガキの遊びだ。;;;<0480> Tout ce dont elle parlait, c'étaient des trucs de gamins.
 <0481> \{少女}「そして、最後に」;;;<0481> Et puis, pour finir...
 <0482> 続きがあった。;;;<0482> Et elle continue...
 <0483> \{少女}「また明日、ってお別れするんです」;;;<0483> On se quittera en disant 'à demain'.
@@ -486,9 +486,9 @@
 <0485> \{\m{A}}「友達じゃないか」;;;<0485> ... on était amis ?
 <0486> \{少女}「そう。友達」;;;<0486> C'est ça. Comme des amis.
 <0487> \{少女}「わたしたち、友達」;;;<0487> Nous deux, comme des amis.
-<0488> \{\m{A}}「違う。さっき会ったばかりだろ」;;;<0488> Pas possible. On vient à peine de se rencontrer.
+<0488> \{\m{A}}「違う。さっき会ったばかりだろ」;;;<0488> Comme si. On vient à peine de se rencontrer.
 <0489> \{\m{A}}「そうだ。さっき拾ったかぶと虫。あれと遊んでくれ」;;;<0489> J'ai une idée. Tu vois le scarabée-rhinocéros que t'as ramassé plus tôt ? Va jouer avec lui.
-<0490> \{\m{A}}「先の割れたツノがいなせな、ちょっとイカした奴だぞ」;;;<0490> Tu sais, celui avec la corne cassée qui était un peu cool ?
+<0490> \{\m{A}}「先の割れたツノがいなせな、ちょっとイカした奴だぞ」;;;<0490> Tu sais, celui avec la corne cassée et qui était un peu cool ?
 <0491> \{少女}「あの子はね、つがいだった。メスのかぶと虫とどこか行っちゃった」;;;<0491> Mais celui-là, il a déjà quelqu'un. Il est parti avec le scarabée-rhinocéros femelle.
 <0492> \{\m{A}}「そうか…そりゃ残念だな」;;;<0492> Je vois... Quel dommage.
 <0493> \{少女}「うん、残念…」;;;<0493> Oui, c'est dommage...
@@ -522,8 +522,8 @@
 <0521> 嘘を答える;;;<0521> Mentir
 <0522> 走り出す;;;<0522> S'enfuir en courant
 <0523> マジでか…？;;;<0523> Sérieux là... ?
-<0524> そんなことを答えたら、それこそいい笑いのタネだ。;;;<0524> Si je lui disais la vérité, tout ce que j'y gagnerais serait des éclats de rires moqueurs.
-<0525> しかし、もしかすると、たまたま余っている弁当などを持参していて…;;;<0525> Mais bon, avec un peu de chance, peut-être qu'elle avait par hasard pris un bentō de trop avec elle...
+<0524> そんなことを答えたら、それこそいい笑いのタネだ。;;;<0524> Si je lui disais la vérité, tout ce que j'y gagnerais, ce seraient des éclats de rires moqueurs.
+<0525> しかし、もしかすると、たまたま余っている弁当などを持参していて…;;;<0525> Mais bon, avec un peu de chance, peut-être qu'elle avait emporté un bentō de trop avec elle...
 <0526> \{少女}「よかったら、これ食べてくださいねー」;;;<0526> Vous pouvez manger ça, si vous voulez— !
 <0527> なんて展開もなきにしもあらずだ。;;;<0527> Ce genre de tournure n'était pas complètement impossible.
 <0528> 悩み抜いた末に俺は決意する。背に腹は代えられない。;;;<0528> Après avoir suffisamment ruminé, je me décidai. Qui ne tente rien n'a rien.
@@ -541,16 +541,16 @@
 <0540> \{少女}「わーい」;;;<0540> Youpi !
 <0541> しゃがみ込む。;;;<0541> Elle s'accroupit.
 <0542> \{少女}「二匹もいる。ツガイ、ツガイ～」;;;<0542> Il y en a un autre ! Un couple, un couple~ !
-<0543> そして、ひとりできゃっきゃっと騒ぎ出す。;;;<0543> Caqueta-t-elle plus belle, toute seule.
+<0543> そして、ひとりできゃっきゃっと騒ぎ出す。;;;<0543> caqueta-t-elle de plus belle, toute seule.
 <0544> \{\m{A}}「………」;;;<0544> .........
 <0545> \{\m{A}}「帰れ、おまえ」;;;<0545> Rentre chez toi.
 <0546> \{少女}「仲良し、仲良し」;;;<0546> Copains, copains.
 <0547> \{\m{A}}「聞いちゃいねぇ…」;;;<0547> Elle ne m'écoutait pas.
-<0548> \{少女}「でも、仲良しだから、水入らず」;;;<0548> Mais bon, je veux pas me mêler de leurs affaires de couples/
+<0548> \{少女}「でも、仲良しだから、水入らず」;;;<0548> Mais bon, je veux pas me mêler de leurs affaires de couples.
 <0549> \{少女}「ばいばい」;;;<0549> Bye bye.
 <0550> お別れをしているようだった。;;;<0550> Elle leur fit ses adieux.
 <0551> それを終えると立ち上がって、俺の顔を見る。;;;<0551> Après ça, elle se releva et me dévisagea.
-<0552> \{少女}「えっと…なにかの途中でしたっけ」;;;<0552> Euh... qu'est-ce qu'on disait déjà ?
+<0552> \{少女}「えっと…なにかの途中でしたっけ」;;;<0552> Euh... qu'est-ce qu'on disait, déjà ?
 <0553> \{\m{A}}「おまえが俺に夕飯代をおごる途中だったんだ」;;;<0553> On disait que t'allais m'inviter à dîner.
 <0554> \{少女}「あ、そっか…」;;;<0554> Ah, je vois...
 <0555> \{少女}「足りるかな…今月、お小遣いもう残り少ないし…観鈴ちん、ぴんち」;;;<0555> Est-ce que j'ai assez... il ne me reste plus beaucoup d'argent de poche pour ce mois-ci... Misuzu-chin est dans la mouise.
@@ -558,7 +558,7 @@
 <0557> \{\m{A}}「さぁ」;;;<0557> Qui sait ?
 <0558> \{少女}「あ…また嘘つきました？」;;;<0558> Ah... c'était encore un mensonge ?
 <0559> \{\m{A}}「ついた」;;;<0559> Tout à fait.
-<0560> \{少女}「どうしてそんな嘘つくかなぁ…」;;;<0560> Pourquoi dire des mensonges comme ça ?
+<0560> \{少女}「どうしてそんな嘘つくかなぁ…」;;;<0560> Pourquoi vous m'avez menti comme ça...?
 <0561> また涙目になる。;;;<0561> Ses yeux se remplirent encore une fois de larmes.
 <0562> \{少女}「本当のこと言ってください」;;;<0562> Dites la vérité, s'il vous plaît.
 <0563> \{\m{A}}「おまえには関係ないだろ」;;;<0563> C'est pas ton problème.
@@ -568,7 +568,7 @@
 <0567> \{\m{A}}「車が欲しいんだ」;;;<0567> Je veux une voiture.
 <0568> \{少女}「車？」;;;<0568> Une voiture ?
 <0569> \{\m{A}}「そう。高級な外車だ。屋根がないんだ」;;;<0569> En effet. Un modèle haut de gamme, importé. Le genre qui n'a pas de toit.
-<0570> \{\m{A}}「買ったら女をはべらせて、ドライブに出かけるんだ」;;;<0570> Quand je l'aurai achetée, les femmes courront après moi, et je pourrai partir en balade.
+<0570> \{\m{A}}「買ったら女をはべらせて、ドライブに出かけるんだ」;;;<0570> Quand je l'aurai achetée, les femmes me courront après, et je pourrai partir en balade.
 <0571> \{\m{A}}「考えるだけでウハウハだ」;;;<0571> Je suis tout sourire rien que d'y penser !
 <0572> 俺は嘘に真実味を帯びさせるため、思ってもいないことまで並べ立てる。;;;<0572> Pour rendre mon mensonge plus crédible, je l'agrémentai de choses auxquelles je n'avais jamais pensé.
 <0573> \{\m{A}}「ナウいんだっちゅーの」;;;<0573> J'aurai l'air grave mortel de ouf.
@@ -590,7 +590,7 @@
 <0589> \{\m{A}}「帰れ、おまえ」;;;<0589> Rentre chez toi.
 <0590> \{少女}「仲良し、仲良し」;;;<0590> Copains, copains.
 <0591> \{\m{A}}「聞いちゃいねぇ…」;;;<0591> Elle ne m'écoutait pas.
-<0592> \{少女}「でも、仲良しだから、水入らず」;;;<0592> Mais bon, je veux pas me mêler de leurs affaires de couples/
+<0592> \{少女}「でも、仲良しだから、水入らず」;;;<0592> Mais bon, je veux pas me mêler de leurs affaires de couples.
 <0593> \{少女}「ばいばい」;;;<0593> Bye bye.
 <0594> お別れをしているようだった。;;;<0594> Elle leur fit ses adieux.
 <0595> それを終えると立ち上がって、俺の顔を見る。;;;<0595> Après ça, elle se releva et me dévisagea.
@@ -601,50 +601,50 @@
 <0600> \{少女}「でも…どうしてそんな話になったんでしたっけ？」;;;<0600> Mais... pourquoi on parlait de ça, déjà ?
 <0601> \{\m{A}}「さぁ」;;;<0601> Qui sait ?
 <0602> \{少女}「あ…また嘘つきました？」;;;<0602> Ah... c'était encore un mensonge ?
-<0603> \{\m{A}}「ついた」;;;<0603> Tout à fait.
-<0604> \{少女}「どうしてそんな嘘つくかなぁ…」;;;<0604> Pourquoi dire des mensonges comme ça ?
+<0603> \{\m{A}}「ついた」;;;<0603> Exactement.
+<0604> \{少女}「どうしてそんな嘘つくかなぁ…」;;;<0604> Pourquoi vous m'avez menti comme ça...?
 <0605> また涙目になる。;;;<0605> Ses yeux se remplirent encore une fois de larmes.
 <0606> \{少女}「本当のこと言ってください」;;;<0606> Dites la vérité, s'il vous plaît.
 <0607> \{\m{A}}「おまえには関係ないだろ」;;;<0607> C'est pas ton problème.
 <0608> 俺は相手に背を向ける。;;;<0608> Je tournai le dos à ma partenaire.
 <0609> \{\m{A}}「じゃあな。世話になった」;;;<0609> À plus. Merci pour l'aide.
 <0610> \{\m{A}}「ダッシュッ」;;;<0610> \bSprint\u !
-<0611> 俺は身を翻し、またも駆けだした。;;;<0611> Je pivotai et me mis à courir.
+<0611> 俺は身を翻し、またも駆けだした。;;;<0611> Je fis volte-face et piquai un sprint.
 <0612> \{少女}「わっ…」;;;<0612> Wah !
 <0613> 少女が驚きの声をあげていたが、俺は振り返らない。;;;<0613> Elle lâcha un cri de surprise, mais je ne me retournai pas.
 <0614> そのまま一直線に…;;;<0614> Je m'enfuis en ligne droite.
 <0615> ぽこッ！;;;<0615> \bBam\u !
-<0616> \{\m{A}}「ぽこ？」;;;<0616> Bam ?
-<0617> 足もとを見ると、三輪車の子供が頭を押さえていた。;;;<0617> En regardant à mes pied, je vis un enfant monté sur un tricycle qui se tenait la tête entre els mains.
-<0618> \{\m{A}}「もしかして、今、蹴っちっまったか？」;;;<0618> Par le plus grand des hasards... ne me dites pas que je viens de lui donner un coup de pied ?
+<0616> \{\m{A}}「ぽこ？」;;;<0616> 'Bam' ?
+<0617> 足もとを見ると、三輪車の子供が頭を押さえていた。;;;<0617> En regardant à mes pied, je vis un enfant monté sur un tricycle, et qui se tenait la tête entre les mains.
+<0618> \{\m{A}}「もしかして、今、蹴っちっまったか？」;;;<0618> Par le plus grand des hasards... Ne me dis pas que je viens de lui donner un coup de pied ?
 <0619> \{子供}「………」;;;<0619> .........
 <0620> \{子供}「うわぁあああ～んっ！」;;;<0620> OUIIIIIN !
 <0621> 子供が大声で泣き始める。;;;<0621> L'enfant se mit à brailler de toutes ses forces.
-<0622> \{少女}「あーあぁ…」;;;<0622> Ce n'est rien, ce n'est rien...
-<0623> 少女が駆けつけてくれる。;;;<0623> La fille me rattrapa en courant.
-<0624> \{少女}「イタくないよ。こぶにもなってないし」;;;<0624> Mais non, ça ne fait pas mal. Il n'y a même pas de bosse en plus. 
+<0622> \{少女}「あーあぁ…」;;;<0622> Aïe aïe aÎe...
+<0623> 少女が駆けつけてくれる。;;;<0623> La jeune fille me rattrapa en courant.
+<0624> \{少女}「イタくないよ。こぶにもなってないし」;;;<0624> Mais non, ça ne fait pas mal. Il n'y a même pas de bosse. 
 <0625> \{少女}「イタイの飛んでけ」;;;<0625> Bobo, bobo, va-t'en !
 <0626> 子供のおでこに当てていた手を俺の片膝に移す。;;;<0626> Elle toucha le front de l'enfant, puis mon genou, pour y transférer la douleur.
 <0627> \{\m{A}}「………」;;;<0627> .........
 <0628> \{少女}「飛んできた」;;;<0628> Elle est partie.
 <0629> 俺の顔を見上げる。;;;<0629> Elle pointa son regard vers moi.
 <0630> \{少女}「………」;;;<0630> .........
-<0631> しばらく目を合わせている。彼女は何かを訴えかけているようだった。;;;<0631> Elle me fixait du regard, comme pour m'exhorter à faire quelque chose.
+<0631> しばらく目を合わせている。彼女は何かを訴えかけているようだった。;;;<0631> Elle me fixait du regard, comme pour m'exhorter à réagir.
 <0632> \{\m{A}}（何かしないといけないのだろうか…）;;;<0632> On dirait que je vais devoir improviser quelque chose...
 <0633> 痛い振りをする;;;<0633> Faire semblant d'avoir mal
-<0634> さらに少女に移す;;;<0634> Lui transférer la douleur
-<0635> \{\m{A}}（やるのか…？）;;;<0635> Vraiment ?
-<0636> 少女はそれをするまで、じっと待ち続けるつもりのようだった。;;;<0636> Elle était immobile, attendant patiemment que je réagisse.
+<0634> さらに少女に移す;;;<0634> Transférer la douleur à la jeune fille
+<0635> \{\m{A}}（やるのか…？）;;;<0635> Vraiment...?
+<0636> 少女はそれをするまで、じっと待ち続けるつもりのようだった。;;;<0636> Elle se tenait immobile, attendant patiemment que je réagisse.
 <0637> 仕方なく俺はがくりと崩れ落ちる。;;;<0637> N'ayant pas le choix, je me laissai tomber par terre.
 <0638> \{\m{A}}「いでっ！  なんだ、こりゃ！  なんかしらんが、痛みが飛んできたーっ！」;;;<0638> Ouch ! Mais, qu'est-ce que c'est !? Qu'est-ce qui me fait aussi mal !? La douleur m'a sauté dessus !
 <0639> \{\m{A}}「イタイ！  イタイぞーーーっ！」;;;<0639> AÏE ! ÇA FAIT SUPER MAL !!
 <0640> \{少女}「ね、イタイの、この悪いお兄ちゃんに飛んでったよ」;;;<0640> Tu vois, ton bobo, il est parti embêter ce méchant monsieur.
-<0641> \{子供}「ぐす…」;;;<0641> Sniff...
+<0641> \{子供}「ぐす…」;;;<0641> Snif...
 <0642> 子供が泣きやんだ。;;;<0642> Il arrêta de pleurer.
 <0643> \{少女}「もう帰る？  車に気をつけてね」;;;<0643> Tu t'en vas ? Fais attention aux voitures, d'accord ?
 <0644> \{子供}「うん」;;;<0644> D'accord.
 <0645> \{少女}「ばいばい」;;;<0645> Bye bye.
-<0646> キコキコキコ…;;;<0646> \bCouine couine couine\u...
+<0646> キコキコキコ…;;;<0646> \bCrr crr crr\u...
 <0647> 子供は三輪車に乗って、去っていった。;;;<0647> L'enfant remonta sur son tricycle, puis repartit.
 <0648> \{\m{A}}「………」;;;<0648> .........
 <0649> 俺は呆然とそれを見送る。;;;<0649> Je le regardai partir d'un air médusé.
@@ -658,7 +658,7 @@
 <0657> \{\m{A}}「話は終わってる」;;;<0657> On avait fini de parler.
 <0658> \{少女}「ううん、なんか途中でしたよ」;;;<0658> C'est pas vrai. On se disait quelque chose.
 <0659> \{少女}「なんだっけなぁ…」;;;<0659> C'était quoi déjà ?
-<0660> \{少女}「あ、欲しいもの」;;;<0660> Ah ! C'était au sujet de ce que vous vouliez.
+<0660> \{少女}「あ、欲しいもの」;;;<0660> Ah ! C'était au sujet de ce que tu voulais.
 <0661> \{\m{A}}「なんにもいらねぇ」;;;<0661> Je n'ai besoin de rien.
 <0662> \{少女}「だって、切実に欲しいって」;;;<0662> Mais, tu as dit qu'il y avait quelque chose que tu désirais plus que tout, pourtant.
 <0663> \{\m{A}}「………」;;;<0663> .........
@@ -667,9 +667,9 @@
 <0666> 俺は相手に背を向ける。;;;<0666> Je tournai le dos à ma partenaire.
 <0667> \{\m{A}}「じゃあな。世話になった」;;;<0667> À plus. Merci pour l'aide.
 <0668> 俺は膝に手を当て、それを少女のおでこに移す。;;;<0668> Je touchai mon genou, puis lui touchai le front.
-<0669> \{少女}「ん…？」;;;<0669> Hmm...?
+<0669> \{少女}「ん…？」;;;<0669> Hmn...?
 <0670> \{\m{A}}「おまえに飛んできた」;;;<0670> Je t'ai transmis la douleur.
-<0671> \{少女}「え…？  わ…」;;;<0671> Hein ? Wah !
+<0671> \{少女}「え…？  わ…」;;;<0671> Hein...? Wah...!
 <0672> \{少女}「イタイ、イタイ～」;;;<0672> Aïe ! Ouille~ !
 <0673> ようやく意味を悟ったのか、唐突におでこを押さえてぱたぱたと走り回る。;;;<0673> Elle avait enfin pigé. Elle se mit à courir dans tous les sens en se tenant le front.
 <0674> \{\m{A}}「おおー、熱演だな」;;;<0674> Oooh, sacré jeu d'acteur !
@@ -680,14 +680,14 @@
 <0679> \{少女}「もう帰る？  車に気をつけてね」;;;<0679> Tu t'en vas ? Fais attention aux voitures, d'accord ?
 <0680> \{子供}「うん」;;;<0680> D'accord.
 <0681> \{少女}「ばいばい」;;;<0681> Bye bye.
-<0682> キコキコキコ…;;;<0682> \bCouine couine couine\u...
+<0682> キコキコキコ…;;;<0682> \bCrr crr crr\u...
 <0683> 子供は三輪車に乗って、去っていった。;;;<0683> L'enfant remonta sur son tricycle, puis repartit.
 <0684> \{少女}「えっと、話の続き…なんでしたっけ」;;;<0684> Euh... de quoi parlait-on, déjà ?
 <0685> 少女が向き直る。;;;<0685> Elle me faisait de nouveau face.
 <0686> \{\m{A}}「話は終わってた」;;;<0686> On avait fini de parler.
 <0687> \{少女}「ううん、なんか途中でしたよ」;;;<0687> C'est pas vrai. On se disait quelque chose.
 <0688> \{少女}「なんだっけなぁ…」;;;<0688> C'était quoi déjà ?
-<0689> \{少女}「あ、欲しいもの」;;;<0689> Ah ! C'était au sujet de ce que vous vouliez.
+<0689> \{少女}「あ、欲しいもの」;;;<0689> Ah ! C'était au sujet de ce que tu voulais.
 <0690> \{\m{A}}「なんにもいらない」;;;<0690> Je n'ai besoin de rien.
 <0691> \{少女}「だって、切実に欲しいって」;;;<0691> Mais, tu as dit qu'il y avait quelque chose que tu désirais plus que tout, pourtant.
 <0692> \{\m{A}}「………」;;;<0692> .........
@@ -701,7 +701,7 @@
 <0700> \{少女}「にはは」;;;<0700> Nihaha.
 <0701> \{\m{A}}「………」;;;<0701> .........
 <0702> \{\m{A}}「ダッシュッ」;;;<0702> \bSprint\u !
-<0703> 俺は身を翻し、駆けだした。;;;<0703> Je me retournai et piquai un sprint.
+<0703> 俺は身を翻し、駆けだした。;;;<0703> Je fis volte-face et piquai un sprint.
 <0704> \{少女}「わっ…」;;;<0704> Wah !
 <0705> 少女が驚きの声をあげていたが、俺は振り返らない。;;;<0705> Elle lâcha un cri de surprise, mais je ne me retournai pas.
 <0706> そのまま一直線に…;;;<0706> Je continuai à courir en ligne droite...
@@ -710,7 +710,7 @@
 <0709> 放置されていた三輪車に俺の足が激突していた。;;;<0709> Quelqu'un avait laissé trainer son tricycle, et je m'étais cogné le pied dedans.
 <0710> \{\m{A}}（誰だよ、馬鹿っ）;;;<0710> Faut vraiment être débile pour...
 <0711> 近くで子供がこっちをぼぅーっと見て、突っ立っていた。;;;<0711> Un enfant qui se tenait là se mit à me fixer.
-<0712> \{\m{A}}「くそっ…」;;;<0712> Merde...
+<0712> \{\m{A}}「くそっ…」;;;<0712> Merde...!
 <0713> 足が痛くて、まともに走れない。;;;<0713> Mon pied me faisait trop mal pour courir proprement.
 <0714> 片足でぴょこぴょこ跳ねるように走る。;;;<0714> Je me mis à sautiller avec l'autre pied.
 <0715> \{\m{A}}「………」;;;<0715> .........
@@ -721,7 +721,7 @@
 <0720> \{\m{A}}「ああ、なんでもない」;;;<0720> Non, ce n'est rien du tout.
 <0721> \{少女}「…でも、ぴょこぴょこって片足で走ってました」;;;<0721> Mais... vous étiez en train d'essayer de courir en sautillant sur une jambe...
 <0722> \{\m{A}}「子供がいたからな。ちょっとおどけてみせたんだ」;;;<0722> Il y avait un enfant, tu vois, j'étais juste en train de plaisanter un peu avec lui.
-<0723> \{少女}「おもしろかった。思い出しただけで笑える」;;;<0723> C'était drôle. Rien que d'y penser, j'ai envie de rigoler.
+<0723> \{少女}「おもしろかった。思い出しただけで笑える」;;;<0723> C'était rigolo. Rien que d'y penser, j'ai envie de rigoler.
 <0724> \{少女}「にはは」;;;<0724> Nihaha.
 <0725> 最悪だ…。;;;<0725> On ne pouvait pas faire pire comme journée...
 <0726> \{少女}「えっと、それで話の続き…なんでしたっけ」;;;<0726> Euh... et donc... de quoi parlait-on, déjà ?
@@ -736,34 +736,34 @@
 <0735> \{\m{A}}「あるけどな、おまえには関係ないだろ」;;;<0735> Il y a quelque chose, mais ça ne te regarde pas.
 <0736> 俺は相手に背を向ける。;;;<0736> Je tournai le dos à ma partenaire.
 <0737> \{\m{A}}「じゃあな。世話になった」;;;<0737> À plus. Merci pour l'aide.
-<0738> \{少女}「あ…ご飯」;;;<0738> Ah... et le repas ?
+<0738> \{少女}「あ…ご飯」;;;<0738> Ah... Et le repas ?
 <0739> \{\m{A}}「………」;;;<0739> .........
-<0740> \{少女}「ご飯とか、どうするんですか？」;;;<0740> Comment vous allez faire pour manger ?
+<0740> \{少女}「ご飯とか、どうするんですか？」;;;<0740> Comment vous allez faire, pour manger ?
 <0741> \{少女}「良かったら、わたしの家で食べませんか」;;;<0741> Si vous voulez bien, vous pourriez venir dîner chez moi.
-<0742> きゅぴーん！と、音がでるほどの目つきで相手を振り返る。;;;<0742> Un miracle ! Pensai-je en la regardant les yeux écarquillés.
-<0743> \{\m{A}}「マジか」;;;<0743> Sérieusement ?
-<0744> \{少女}「うん、マジ」;;;<0744> Oui, sérieusement.
+<0742> きゅぴーん！と、音がでるほどの目つきで相手を振り返る。;;;<0742> Un miracle ! pensai-je en la regardant les yeux écarquillés.
+<0743> \{\m{A}}「マジか」;;;<0743> Sérieux ?
+<0744> \{少女}「うん、マジ」;;;<0744> Oui, sérieux.
 <0745> …しかし。;;;<0745> Toutefois...
 <0746> \{\m{A}}（相手が相手だぞ。妙な恩を着せられなければいいが…）;;;<0746> C'était d'elle qu'on parlait. Lui devoir une faveur n'était peut-être pas une bonne idée...
 <0747> しかしこのままでは、夕べと同じく、行き倒れになる。;;;<0747> Enfin, à ce rythme, j'allais finir par m'évanouir comme la veille.
 <0748> 今度は農協組合に拾われ、牛小屋で目覚めることになるかもしれない。;;;<0748> Il n'était pas impossible que cette fois, je me fasse ramasser par les membres d'une coopérative agricole, puis que je me réveille dans une étable.
 <0749> どっちのほうがいいだろうか。;;;<0749> Qu'est-ce qui était mieux ?
 <0750> \{少女}「食べたいものあったら、なんでも言ってください」;;;<0750> S'il y a quelque chose que tu veux manger, dis-le-moi, s'il te plait.
-<0751> \{\m{A}}「ラーメンセット」;;;<0751> Un menu rāmen !
-<0752> 考えよりも先に、口が動いていた。;;;<0752> Dit ma bouche avant même que je n'y réfléchisse.
+<0751> \{\m{A}}「ラーメンセット」;;;<0751> Un rāmen !
+<0752> 考えよりも先に、口が動いていた。;;;<0752> lâcha ma bouche avant même que je n'y réfléchisse.
 <0753> \{少女}「にはは、うちラーメン屋じゃないよ」;;;<0753> Nihaha ! Mais chez nous, c'est pas un restaurant de rāmen !
-<0754> \{\m{A}}「ラーメンとご飯」;;;<0754> Du rāmen et du riz.
+<0754> \{\m{A}}「ラーメンとご飯」;;;<0754> Du rāmen avec du riz.
 <0755> \{少女}「うん、それならできる」;;;<0755> D'accord, si ce n'est que ça, je peux le faire.
-<0756> …待て。食い物なんかに釣られてはダメだ。;;;<0756> ... Attends. Je ne dois pas me laisser corrompre par de la nourriture.
+<0756> …待て。食い物なんかに釣られてはダメだ。;;;<0756> ... Un moment. Je ne dois pas me laisser corrompre par de la nourriture.
 <0757> \{\m{A}}「じゃあな」;;;<0757> À plus.
 <0758> 俺は再び背を向ける。;;;<0758> Je lui tournai le dos, encore une fois.
-<0759> \{少女}「わ…注文までしたのに帰っちゃうの」;;;<0759> Wah... vous passez votre commande puis vous repartez ?
+<0759> \{少女}「わ…注文までしたのに帰っちゃうの」;;;<0759> Wah... Vous passez votre commande puis vous repartez ?
 <0760> 俺は数歩歩き出して、その場にうずくまる。;;;<0760> Je fis quelques pas, puis m'accroupis là où j'étais.
 <0761> ぐぅ～;;;<0761> \bGargouille~\u
 <0762> 限界だった。;;;<0762> J'étais à bout.
 <0763> \{少女}「どうしたんですか？」;;;<0763> Il y a un problème ?
 <0764> すぐに駆け寄ってくる。;;;<0764> Elle courut à mes côtés.
-<0765> \{\m{A}}「やっぱ、食っていっていいか」;;;<0765> Je peux venir manger comme on a dit ?
+<0765> \{\m{A}}「やっぱ、食っていっていいか」;;;<0765> Je peux venir manger, comme on a dit ?
 <0766> \{少女}「うんっ」;;;<0766> Bien sûr !
 <0767> 嬉しそうに笑った。;;;<0767> Elle sourit.
 <0768> 並んで歩いてゆく。;;;<0768> Nous marchâmes côte à côte.
@@ -773,25 +773,25 @@
 <0772> その先で、少女が俺を振り返って手を振っていた。;;;<0772> Un peu plus en avant, elle se retourna et me fit signe.
 <0773> ゆるやかな坂の、その途中で立ち止まる。;;;<0773> Notre excursion s'acheva au milieu d'une légère pente.
 <0774> \{少女}「ここ」;;;<0774> Ici !
-<0775> そう言って正面の家を指さした。;;;<0775> Dit-elle en pointant du doigt la maison qui nous faisait face.
+<0775> そう言って正面の家を指さした。;;;<0775> dit-elle en pointant du doigt la maison qui nous faisait face.
 <0776> 俺は表札を見てみる。;;;<0776> Je considérai la plaque qui portait le nom des résidents.
 <0777> \{\m{A}}「神尾」;;;<0777> Kamio.
 <0778> \{少女}「はい」;;;<0778> C'est ça.
 <0779> \{\m{A}}「神尾って言うのか」;;;<0779> Tu t'appelles Kamio ?
-<0780> \{少女}「神尾観鈴。観鈴って呼んでほしい」;;;<0780> Kaimo Misuzu, mais je préfère Misuzu tout court.
+<0780> \{少女}「神尾観鈴。観鈴って呼んでほしい」;;;<0780> Kamio Misuzu, mais je préfère Misuzu tout court.
 <0781> \{\m{A}}「神尾じゃ嫌か」;;;<0781> Ça te dérange qu'on t'appelle Kamio ?
 <0782> \{少女}「ううん。嫌ってことないよ。でも、観鈴がいい」;;;<0782> C'est pas ça. Ça ne me dérange pas. Mais je préfère Misuzu.
 <0783> \{\m{A}}「そうか。機会があればな」;;;<0783> Je vois. J'essaierai d'y penser.
 <0784> \{観鈴}「じゃ、れっつごー」;;;<0784> Alors, let's go— !
 <0785> \{\m{A}}「待て」;;;<0785> Attends.
-<0786> 俺は門をくぐろうとした観鈴の頭を鷲掴みにする。;;;<0786> Juste avant de franchir la porte d'entrée, je lui agrippai la tête.
+<0786> 俺は門をくぐろうとした観鈴の頭を鷲掴みにする。;;;<0786> Juste avant de franchir la porte d'entrée, je l'agrippai par la tête.
 <0787> \{\m{A}}「家族は」;;;<0787> Et ta famille ?
 <0788> \{観鈴}「わたしとお母さんだけ」;;;<0788> Il n'y a que ma mère et moi.
 <0789> \{観鈴}「帰ってくるの遅いし、大丈夫」;;;<0789> Elle rentre tard, alors pas de problème.
 <0790> \{\m{A}}「そっか」;;;<0790> Je vois.
 <0791> 手をぱっと放す。;;;<0791> Je la lâchai aussi vite que je l'avais saisie.
 <0792> \{観鈴}「では、れっつごー」;;;<0792> Sur ce, let's go— !
-<0793> \{観鈴}「ただいま～」;;;<0793> C'est moi~ !
+<0793> \{観鈴}「ただいま～」;;;<0793> Je suis rentrée~ !
 <0794> 誰もいない家の玄関をくぐる。;;;<0794> Elle pénétra dans le hall d'entrée de sa maison vide.
 <0795> 俺もそれに続いた。;;;<0795> Je fermais la marche.
 <0796> \{\m{A}}「田舎の家だ…」;;;<0796> Vu la maison, on sent qu'on est à la campagne...
@@ -802,7 +802,7 @@
 <0801> \{\m{A}}（退屈だ…）;;;<0801> Qu'est-ce que je m'ennuie...
 <0802> 俺は部屋の中を見回す。;;;<0802> Je regardai autour de moi.
 <0803> \{\m{A}}「なんだ、これは」;;;<0803> Mais qu'est-ce que nous avons là ?
-<0804> ひどく古い電話が置いてある。;;;<0804> Un téléphone datant d'une autre époque se trouvait là.
+<0804> ひどく古い電話が置いてある。;;;<0804> Un téléphone d'une autre époque se trouvait là.
 <0805> \{\m{A}}「かかるのか、こんな電話」;;;<0805> Il fonctionne encore, ce téléphone ?
 <0806> 試しにかけてみる;;;<0806> Passer un appel pour voir
 <0807> 大人しくしておく;;;<0807> Rester sage
@@ -811,18 +811,18 @@
 <0810> 受話器を持ち上げて、ダイヤルを回してみる。;;;<0810> Je soulevai le combiné, puis fis tourner le cadran.
 <0811> じーこじーこじーこ…;;;<0811> \bCliic, cliic, cliic\u...
 <0812> トゥルルルルル…;;;<0812> \bDriiiiing\u...
-<0813> 繋がった。;;;<0813> Il marche.
+<0813> 繋がった。;;;<0813> Il marchait.
 <0814> …がちゃ。;;;<0814> \bClic\u.
-<0815> 出た。;;;<0815> Quelqu'un a décroché.
-<0816> \{声}『はい、こちら西来軒』;;;<0816> Oui ? SeiraikOui ? Seiraiken à l'appareil.en à l'appareil.
-<0817> \{\m{A}}「ラーメンセットひとつ」;;;<0817> Je vais prendre un menu rāmen.
-<0818> \{観鈴}「わっ…わたし今、それ作ってる」;;;<0818> Wah... C'est ce que j'étais en train de faire.
+<0815> 出た。;;;<0815> Quelqu'un avait décroché.
+<0816> \{声}『はい、こちら西来軒』;;;<0816> Oui ? Seiraiken à l'appareil.
+<0817> \{\m{A}}「ラーメンセットひとつ」;;;<0817> Je vais prendre un rāmen.
+<0818> \{観鈴}「わっ…わたし今、それ作ってる」;;;<0818> Wah...! Mais c'est ce que j'étais en train de faire.
 <0819> \{声}『へい、まいど。どちら様で？』;;;<0819> Bien noté. Merci de votre fidélité. À quel nom ?
 <0820> \{\m{A}}「えっと…神尾…」;;;<0820> Euh... Kamio...
-<0821> ツー…;;;<0821> \bCliic\u...
+<0821> ツー…;;;<0821> \bClac\u...
 <0822> \{\m{A}}「む…切れた」;;;<0822> Hmm... ça a coupé.
 <0823> 見ると、観鈴が電話のフックを指で押していた。;;;<0823> Je vis que Misuzu avait un doigt sur l'interrupteur du téléphone.
-<0824> \{観鈴}「どうしてそんなことするかなぁ…」;;;<0824> Pourquoi tu fais des choses pareilles...?
+<0824> \{観鈴}「どうしてそんなことするかなぁ…」;;;<0824> Pourquoi tu as fait une choses pareille...?
 <0825> \{\m{A}}「電話が繋がるか、試してみただけだ」;;;<0825> Je voulais juste voir si ce téléphone marchait, c'est rien.
 <0826> \{観鈴}「出前、注文してた」;;;<0826> Mais tu viens de commander à manger.
 <0827> \{\m{A}}「たまたまラーメン屋だったんだ」;;;<0827> C'est juste que le premier numéro que j'ai vu était celui du restaurant de rāmen.
@@ -832,9 +832,9 @@
 <0831> \{\m{A}}「それは忘れてたんだ」;;;<0831> J'ai juste oublié.
 <0832> \{観鈴}「もう…うちの電話故障してないから、イタズラしたらダメだよ」;;;<0832> Roh... Notre téléphone fonctionne bien, et il n'est pas là pour qu'on fasse des bêtises avec.
 <0833> \{\m{A}}「わかった」;;;<0833> Compris.
-<0834> 再び台所へと消えてゆく。;;;<0834> Elle repartit dans la cuisine.
+<0834> 再び台所へと消えてゆく。;;;<0834> Elle disparut de nouveau dans la cuisine.
 <0835> 俺は今度は扇風機に目を移す。;;;<0835> Cette fois, mes yeux se posèrent sur le ventilateur.
-<0836> \{\m{A}}「これも古いな…動くのか？」;;;<0836> Lui aussi ne date pas d'hier, est-ce qu'il marche encore ?
+<0836> \{\m{A}}「これも古いな…動くのか？」;;;<0836> Lui aussi ne date pas d'hier... Est-ce qu'il marche encore ?
 <0837> スイッチを押してみる。;;;<0837> Je pressai l'interrupteur.
 <0838> ふぃーーーん…;;;<0838> \bVroooum\u...
 <0839> 正常に動いた。;;;<0839> Il fonctionnait correctement.
@@ -868,16 +868,16 @@
 <0867> \{\m{A}}「どうした」;;;<0867> Qu'est-ce qu'il y a ?
 <0868> \{観鈴}「わっ、そっちいった！」;;;<0868> Wah ! Il est parti par là !
 <0869> ミィーーーーーーンッ！;;;<0869> \bBzzzzzzz\u !
-<0870> ぱしっ。;;;<0870> \bSplaf\u !
+<0870> ぱしっ。;;;<0870> \bPlop\u !
 <0871> \{\m{A}}「………」;;;<0871> .........
 <0872> \{観鈴}「わ、すごい…掴んだ」;;;<0872> Wah, incroyable... tu l'as eu.
 <0873> 目の前で俺の指先に摘まれている物体…;;;<0873> Je jetai un coup d'œil à l'objet mystérieux coincé entre mes doigts.
-<0874> \{\m{A}}「なんだ、セミか…」;;;<0874> Ah, mais c'est juste une cigale.
+<0874> \{\m{A}}「なんだ、セミか…」;;;<0874> Ah, mais c'est qu'une cigale...
 <0875> 俺は手を放す。;;;<0875> Je la libérai.
 <0876> ミィーーーーーーーーンッッ！！;;;<0876> \bBzzzzzzzz\u !!
 <0877> \{観鈴}「わわわーっ！」;;;<0877> Wah wah waah !
 <0878> \{観鈴}「放さないでっ！」;;;<0878> Ne la laisse pas partir !
-<0879> ぱしっ。;;;<0879> \bSplaf\u !
+<0879> ぱしっ。;;;<0879> \bPlop\u !
 <0880> \{観鈴}「わ、また掴んだ…」;;;<0880> Wah, tu l'as encore attrapée...
 <0881> \{\m{A}}「…どうすればいいんだ、俺は」;;;<0881> ... Qu'est-ce que je suis censé faire avec ?
 <0882> \{観鈴}「外っ。はいはいっ」;;;<0882> Dehors ! Hop hop !
@@ -889,7 +889,7 @@
 <0888> \{観鈴}「ふぅ…」;;;<0888> Fiou...
 <0889> \{\m{A}}「騒がしいやつだな」;;;<0889> T'en fais tout un tintouin pour pas grand-chose...
 <0890> \{観鈴}「騒がしいのはセミっ。わたしじゃないの」;;;<0890> C'est la cigale qui fait tout un tintouin ! Pas moi !
-<0891> \{観鈴}「換気扇から、たまに入ってくるの」;;;<0891> Elles entre de temps en temps par l'aérateur.
+<0891> \{観鈴}「換気扇から、たまに入ってくるの」;;;<0891> Elles entrent de temps en temps par l'arrivée d'air.
 <0892> \{\m{A}}「ふぅん…」;;;<0892> Hmm...
 <0893> \{観鈴}「でも、すごく器用。飛んでるセミを掴めるなんて」;;;<0893> Mais ce que tu dois être super doué, si tu arrives à attraper une cigale à mains nues.
 <0894> \{\m{A}}「そうか？」;;;<0894> Tu penses ?
@@ -900,18 +900,18 @@
 <0899> \{観鈴}「にははーっ」;;;<0899> Nihaha— !
 <0900> \{\m{A}}「………」;;;<0900> .........
 <0901> しまった。今のは軽発言だったか。;;;<0901> Oups. J'en ai trop dit.
-<0902> 何を掴まされるやら…。;;;<0902> Qui sait ce qu'elle va vouloir que j'attrape maintenant...
+<0902> 何を掴まされるやら…。;;;<0902> Qui sait ce qu'elle va vouloir que j'attrape, maintenant...
 <0903> \{観鈴}「蚊に刺されるよ。中に戻ろ」;;;<0903> On va se faire piquer par les moustiques. Rentrons à l'intérieur.
-<0904> 再び背中を押され、家の中へ。;;;<0904> Elle recommença à me pousser, cette fois pour rentrer.
-<0905> \{観鈴}「ごきごき～っ♪」;;;<0905> Cafa-cafard~♪ !
+<0904> 再び背中を押され、家の中へ。;;;<0904> Elle se remit à me pousser, cette fois pour me faire rentrer.
+<0905> \{観鈴}「ごきごき～っ♪」;;;<0905> Cafa-cafard~ ♪ !
 <0906> 嫌な歌だった。;;;<0906> Insupportable, cette chanson.
 <0907> 台所からは、観鈴の歌う、ごきごきの歌が聞こえ続けている。;;;<0907> Même d'ici, j'entendais clairement son 'cafa-cafard'  venir de la cuisine.
-<0908> その歌で集まってきたりはしないだろうか。心配だった。;;;<0908> Je commençais à avoir peur que sa chanson attire les cafards.
+<0908> その歌で集まってきたりはしないだろうか。心配だった。;;;<0908> Je commençais à avoir peur que sa chanson n'attire les cafards.
 <0909> ぐぅ～…;;;<0909> \bGargouille~\u...
 <0910> \{\m{A}}「………」;;;<0910> .........
 <0911> 俺は待ちきれず台所に顔を出す。;;;<0911> J'en avais marre d'attendre, alors j'allai jeter un œil dans la cuisine.
 <0912> \{\m{A}}「まだできないのか？」;;;<0912> C'est toujours pas prêt ?
-<0913> \{観鈴}「うん。今ね、麺、茹でてるところ」;;;<0913> Pas encore. Je fais bouillir les nouilles, là.
+<0913> \{観鈴}「うん。今ね、麺、茹でてるところ」;;;<0913> Pas encore. Là, je fais bouillir les nouilles.
 <0914> \{\m{A}}「なんか手っ取り早く食えるものはないのか」;;;<0914> T'as rien à grignoter ?
 <0915> 冷蔵庫を開ける。;;;<0915> J'ouvrai le frigo.
 <0916> 調理せずに食えそうなものはなかった。;;;<0916> Il n'avait que de la nourriture qui devait d'abord être cuisinée.
@@ -924,36 +924,36 @@
 <0923> じーこじーこ…;;;<0923> \bCliic, cliic, cliic\u...
 <0924> 電話をかける。;;;<0924> Je saisis le combiné.
 <0925> \{声}『はい、こちら西来軒』;;;<0925> Oui ? Seiraiken à l'appareil.
-<0926> \{\m{A}}「ラーメンセットふたつ」;;;<0926> Je vais vous prendre deux menus rāmen.
+<0926> \{\m{A}}「ラーメンセットふたつ」;;;<0926> Je vais vous prendre deux rāmen.
 <0927> \{声}『へい、まいど。どちら様で？』;;;<0927> Bien noté. Merci de votre fidélité. À quel nom ?
 <0928> \{\m{A}}「えっと…神尾だ。坂のぼったところの。住所はよくわからん」;;;<0928> Euh... c'est Kamio. En haut de la côte. Je connais pas l'adresse exacte.
 <0929> 俺は受話器を置く。;;;<0929> Je reposai le combiné.
 <0930> 観鈴は、鼻歌に集中して、聞こえていないようだった。;;;<0930> De son côté, Misuzu était tellement occupée à fredonner qu'elle ne devait pas m'avoir entendu.
-<0931> 果たして、出前と観鈴、どっちが早いだろうか。;;;<0931> Partie comme elle fut, qui allait gagner la course, le livreur ou Misuzu ?
+<0931> 果たして、出前と観鈴、どっちが早いだろうか。;;;<0931> À ce rythme, qui allait bien gagner la course, le livreur ou Misuzu ?
 <0932> しばらくして…;;;<0932> Un peu plus tard...
 <0933> \{観鈴}「できたよー」;;;<0933> C'est prêt— !
 <0934> 台所から呼ぶ声がする。;;;<0934> Elle m'appela depuis la cuisine.
-<0935> 観鈴のほうが早かった。;;;<0935> La victoire revint à Misuzu.
+<0935> 観鈴のほうが早かった。;;;<0935> La victoire revenait à Misuzu.
 <0936> \{観鈴}「おまちどうさま」;;;<0936> Désolée pour l'attente.
-<0937> 食卓の上にはラーメンの入った丼と、茶碗に白飯。;;;<0937> Sur la table à manger se trouvaient du rāmen et du riz, disposés dans des bols dédiés.
+<0937> 食卓の上にはラーメンの入った丼と、茶碗に白飯。;;;<0937> Sur la table à manger se trouvaient du rāmen et du riz, présentés dans des bols dédiés.
 <0938> \{観鈴}「ご飯はおむすびじゃなくて良かった？」;;;<0938> Ça va si je ne fais pas de boules avec le riz ?
-<0939> \{\m{A}}「ああ。これでいい」;;;<0939> Ouaip, c'est bien comme ça.
+<0939> \{\m{A}}「ああ。これでいい」;;;<0939> Ouais, c'est bien comme ça.
 <0940> ふたり、席につく。;;;<0940> Nous nous assîmes tous les deux.
 <0941> \{観鈴}「ふたりでご飯っていいよねー」;;;<0941> C'est sympa de manger avec quelqu'un d'autre—.
 <0942> 観鈴は嬉しそうだった。;;;<0942> Elle avait l'air contente.
 <0943> \{\m{A}}「いつもはひとりなのか」;;;<0943> Tu manges toujours toute seule ?
 <0944> \{観鈴}「うん。お母さん、帰り遅いから」;;;<0944> Oui. Elle rentre tard, ma mère.
 <0945> \{\m{A}}「そうか…」;;;<0945> Je vois...
-<0946> \{観鈴}「ほら、冷めないうちに早く食べよ」;;;<0946> Alelz, mange avant que ça ne refroidisse !
+<0946> \{観鈴}「ほら、冷めないうちに早く食べよ」;;;<0946> Allez, mange avant que ça ne refroidisse !
 <0947> \{\m{A}}「ああ」;;;<0947> Ouais.
-<0948> ふたり、箸を取る。;;;<0948> Nous saisîmes nos baguettes.
+<0948> ふたり、箸を取る。;;;<0948> Nous saisîmes chacun nos baguettes.
 <0949> \{観鈴}「いただきます」;;;<0949> Itadakimasu.
-<0950> \{声}「ちわーーっす！」;;;<0950> B'jour !!
-<0951> 威勢のいい声。;;;<0951> J'entendis une voix pleine d'entrain.
+<0950> \{声}「ちわーーっす！」;;;<0950> B'jour !
+<0951> 威勢のいい声。;;;<0951> Une voix pleine d'entrain.
 <0952> 玄関のほうからだ。;;;<0952> Elle venait de l'entrée.
-<0953> \{観鈴}「あれ…？  なんだろ」;;;<0953> Hein ? Qui ça peut bien être ?
+<0953> \{観鈴}「あれ…？  なんだろ」;;;<0953> Oh...? Qui ça peut bien être ?
 <0954> 観鈴が立ち上がり、出てゆく。;;;<0954> Misuzu se leva et alla voir dehors.
-<0955> \{観鈴}「どうしてこんなことするかなぁ…」;;;<0955> Pourquoi tu fais des choses pareilles...?
+<0955> \{観鈴}「どうしてこんなことするかなぁ…」;;;<0955> Pourquoi tu as fait une chose pareille...?
 <0956> 涙目で食卓の上を見る観鈴。;;;<0956> Elle regardait la table à manger, les yeux prêts à pleurer.
 <0957> ラーメンとご飯がそれぞれ４人前に増えていた。;;;<0957> Il y avait maintenant quatre portions de rāmen et de riz sur la table.
 <0958> \{\m{A}}「どっちが早いかと思って」;;;<0958> Je voulais juste voir qui serait le plus rapide.
@@ -974,12 +974,12 @@
 <0973> \{\m{A}}「ああ。うまかった」;;;<0973> Ouaip, c'était bon.
 <0974> \{観鈴}「よかった」;;;<0974> Ça me rassure.
 <0975> 観鈴は嬉しそうに洗い物に入る。;;;<0975> Elle partit gaiement faire la vaisselle.
-<0976> ちなみにどれが店屋物でどれが手作りか、わからなかった。;;;<0976> D'ailleurs, je fus bien incapable de faire la différence entre ce qui avait été livré et ce qui avait été fait maison.
+<0976> ちなみにどれが店屋物でどれが手作りか、わからなかった。;;;<0976> D'ailleurs, j'avais été bien incapable de faire la différence entre ce qui avait été livré et ce qui avait été fait maison.
 <0977> \{観鈴}「テレビでも見て、くつろいでてね」;;;<0977> Tu peux aller regarder la télé, si tu veux. Fais comme chez toi.
-<0978> 言われる通り、俺は居間へと戻る。;;;<0978> Je suivis sa suggestion et revint dans la salle de séjour.
-<0979> 友達に電話をかけてみる;;;<0979> Appeler mes amis
+<0978> 言われる通り、俺は居間へと戻る。;;;<0978> Je suivis sa suggestion et revins dans la salle de séjour.
+<0979> 友達に電話をかけてみる;;;<0979> Appeler des amis
 <0980> 大人しく待っておく;;;<0980> Attendre sagement
-<0981> \{\m{A}}（友達って誰のだよ…）;;;<0981> J'ai des amis, moi ?
+<0981> \{\m{A}}（友達って誰のだよ…）;;;<0981> J'ai des amis, moi...?
 <0982> 俺は電話の下の引き出しを探ってみる。;;;<0982> Je fouillai dans le tiroir situé sous le téléphone.
 <0983> すると、観鈴の学校の連絡簿が出てきた。;;;<0983> J'en sortis un carnet qui contenait les contacts des camarades d'école de Misuzu.
 <0984> \{\m{A}}「観鈴の友達っぽい奴…」;;;<0984> Quelqu'un qui a l'air d'être l'ami de Misuzu...
@@ -991,14 +991,14 @@
 <0990> \{\m{A}}「よぅ、俺、観鈴」;;;<0990> Yo, c'est moi, Misuzu.
 <0991> \{声}『はい？』;;;<0991> Je vous demande pardon ?
 <0992> \{\m{A}}「というのは嘘だ。一瞬、引っかかったな。でも、観鈴の家から電話をかけてるのは本当だ」;;;<0992> C'est faux. Je t'ai bien eue, hein ? Par contre, c'est vrai que j'appelle depuis chez Misuzu.
-<0993> \{声}『はぁ』;;;<0993> D'accord...
+<0993> \{声}『はぁ』;;;<0993> Ah bon...
 <0994> \{\m{A}}「あいつと遊んでやってくれ。俺は忙しいんだ」;;;<0994> Tu peux pas aller jouer avec elle ? J'ai de meilleures choses à faire.
 <0995> \{声}『神尾さんと？  それは…構わないですけど…』;;;<0995> Avec Kamio-san ? Ça ne me dérange pas, mais...
 <0996> \{\m{A}}「なら約束だ。えっと明日の…」;;;<0996> Parfait, Reste plus qu'à se donner rendez-vous. Alors... demain à...
-<0997> ツー…;;;<0997> \bCliic\u...
+<0997> ツー…;;;<0997> \bClac\u...
 <0998> \{\m{A}}「む…切れた」;;;<0998> Hmm... ça a coupé.
 <0999> 見ると、観鈴が電話のフックを指で押していた。;;;<0999> Je vis que Misuzu avait un doigt sur l'interrupteur du téléphone.
-<1000> \{観鈴}「どうしてそんなことするかなぁ…」;;;<1000> Pourquoi tu fais des choses pareilles...?
+<1000> \{観鈴}「どうしてそんなことするかなぁ…」;;;<1000> Pourquoi tu as fait une chose pareille...?
 <1001> \{\m{A}}「遊びたいんだろ。おまえの代わりに約束とりつけてやろうとしたんだ」;;;<1001> Tu voulais jouer, non ? J'étais juste en train de t'arranger un rendez-vous.
 <1002> \{観鈴}「誰？」;;;<1002> Avec qui ?
 <1003> \{\m{A}}「川口茂美」;;;<1003> Kawaguchi Shigemi.
@@ -1009,20 +1009,20 @@
 <1008> 俺は再びダイヤルに手を伸ばす。;;;<1008> Je retendis la main vers le cadran.
 <1009> \{観鈴}「メッ」;;;<1009> Pas bien !
 <1010> その手に観鈴が噛みついた。;;;<1010> Et Misuzu la mordit.
-<1011> \{\m{A}}「イテッ…なにすんだよ、おまえ」;;;<1011> Ouille... qu'est-ce qui te prend, là ?
+<1011> \{\m{A}}「イテッ…なにすんだよ、おまえ」;;;<1011> Ouille... Qu'est-ce qui te prend, là ?
 <1012> \{観鈴}「川口さん、友達たくさんいるから、迷惑なの」;;;<1012> Kawaguchi-san a beaucoup d'amis, tu vas juste l'ennuyer.
 <1013> \{観鈴}「わたしなんかの相手できないぐらい人気者なの」;;;<1013> Elle est trop populaire pour avoir du temps à consacrer à des gens comme moi.
 <1014> \{\m{A}}「そうなのか…？」;;;<1014> Vraiment ?
 <1015> \{観鈴}「うん。川口さん美人だし」;;;<1015> Oui. Kawaguchi-san est une jolie fille.
 <1016> \{観鈴}「それにわたし、遊んでくれるひと見つけたし」;;;<1016> Et en plus, j'ai déjà trouvé quelqu'un pour jouer avec moi.
-<1017> 言って、台所に戻ってゆく。;;;<1017> Dit-elle avant de retourner à la cuisine.
+<1017> 言って、台所に戻ってゆく。;;;<1017> dit-elle avant de retourner à la cuisine.
 <1018> \{\m{A}}「だからだろ。俺はおまえの相手をしてるほど暇じゃないんだ」;;;<1018> Je t'ai déjà dit que j'avais pas de temps à perdre avec toi.
 <1019> 聞こえていないようだった。;;;<1019> On dirait qu'elle ne m'avait pas entendu.
 <1020> しばらくして…;;;<1020> Un peu plus tard...
 <1021> \{観鈴}「できたよー」;;;<1021> C'est prêt— !
 <1022> 台所から呼ぶ声がする。;;;<1022> Elle m'appela depuis la cuisine.
 <1023> \{観鈴}「おまちどうさま」;;;<1023> Désolée pour l'attente.
-<1024> 食卓の上にはラーメンの入った丼と、茶碗に白飯。;;;<1024> Sur la table à manger se trouvaient du rāmen et du riz, disposés dans des bols dédiés.
+<1024> 食卓の上にはラーメンの入った丼と、茶碗に白飯。;;;<1024> Sur la table à manger se trouvaient du rāmen et du riz, présentés dans des bols dédiés.
 <1025> \{観鈴}「ご飯はおむすびじゃなくて良かった？」;;;<1025> Ça va si je ne fais pas de boules avec le riz ?
 <1026> \{\m{A}}「ああ。これでいい」;;;<1026> Ouaip, c'est bien comme ça.
 <1027> ふたり、席につく。;;;<1027> Nous nous assîmes tous les deux.
@@ -1033,9 +1033,9 @@
 <1032> \{\m{A}}「そうか…」;;;<1032> Je vois...
 <1033> \{観鈴}「ほら、冷めないうちに早く食べよ」;;;<1033> Allez, mange avant que ça ne refroidisse !
 <1034> \{\m{A}}「ああ」;;;<1034> Ouais.
-<1035> ふたり、箸を取る。;;;<1035> Nous saisîmes nos baguettes.
+<1035> ふたり、箸を取る。;;;<1035> Nous saisîmes chacun nos baguettes.
 <1036> \{観鈴}「いただきます」;;;<1036> Itadakimasu.
-<1037> \{声}「ちわーーっす！」;;;<1037> B'jour !!
+<1037> \{声}「ちわーーっす！」;;;<1037> B'jour !
 <1038> 威勢のいい声。;;;<1038> J'entendis une voix pleine d'entrain.
 <1039> 玄関のほうからだ。;;;<1039> Elle venait de l'entrée.
 <1040> \{観鈴}「あれ…？  なんだろ」;;;<1040> Hein ? Qui ça peut bien être ?
@@ -1053,8 +1053,8 @@
 <1052> \{観鈴}「伸びてるし…」;;;<1052> Ça s'est tout ramolli...
 <1053> \{\m{A}}「だな…。俺が食ったときは、おいしかったぞ」;;;<1053> Je vois ça... Quand moi j'ai mangé, c'était très bon.
 <1054> \{観鈴}「うん、おいしく作れたから」;;;<1054> Je me suis appliquée pour que ce soit bon.
-<1055> \{観鈴}「でも、伸びちゃってる…」;;;<1055> Mais c'est tout ramolli maintenant...
-<1056> \{\m{A}}「俺を呼べばよかったんだ」;;;<1056> Tu aurais dû m'appeler.
+<1055> \{観鈴}「でも、伸びちゃってる…」;;;<1055> Mais c'est tout ramolli, maintenant...
+<1056> \{\m{A}}「俺を呼べばよかったんだ」;;;<1056> T'aurais dû m'appeler.
 <1057> \{観鈴}「今度からは呼ぶね」;;;<1057> La prochaine fois, je t'appellerai, d'accord ?
 <1058> \{\m{A}}「そうしろ」;;;<1058> Pas de problème.
 <1059> \{観鈴}「うん」;;;<1059> Ok.
@@ -1068,18 +1068,18 @@
 <1067> 食べ終えると、観鈴は嬉しそうに洗い物に入る。;;;<1067> Après avoir mangé, elle partit gaiement faire la vaisselle.
 <1068> \{観鈴}「テレビでも見て、くつろいでてね」;;;<1068> Tu peux aller regarder la télé, si tu veux. Fais comme chez toi.
 <1069> 言われる通り、俺は居間へと戻る。;;;<1069> Je suivis sa suggestion et revins dans la salle de séjour.
-<1070> 子供じゃないんだ。大人しく待っていよう。;;;<1070> Je ne suis plus un enfant, je sais me tenir.
+<1070> 子供じゃないんだ。大人しく待っていよう。;;;<1070> Je ne suis plus un enfant. Je sais me tenir.
 <1071> 扇風機をつける。;;;<1071> J'allumai le ventilateur.
 <1072> ふぃいいい～ん…;;;<1072> \bVroooum~\u...
 <1073> ガリガリガリガリィィーーッ！！;;;<1073> \bClac clac clac claaaaac\u !
 <1074> \{\m{A}}「イテテ…」;;;<1074> Ouch...
-<1075> 指でプロペラを止めて遊んだりした。;;;<1075> J'essayai de stopper l'hélice avec des doigts.
-<1076> \{\m{A}}「良い子は真似すんな」;;;<1076> Les enfants, si vous êtes sages, ne faites pas ça chez vous.
+<1075> 指でプロペラを止めて遊んだりした。;;;<1075> J'avais essayé de stopper l'hélice avec des doigts.
+<1076> \{\m{A}}「良い子は真似すんな」;;;<1076> Les enfants, ne faites pas ça chez vous.
 <1077> しばらくして…;;;<1077> Un peu plus tard...
 <1078> \{観鈴}「できたよー」;;;<1078> C'est prêt— !
 <1079> 台所から呼ぶ声がする。;;;<1079> Elle m'appela depuis la cuisine.
 <1080> \{観鈴}「おまちどうさま」;;;<1080> Désolée pour l'attente.
-<1081> 食卓の上にはラーメンの入った丼と、茶碗に白飯。;;;<1081> Sur la table à manger se trouvaient du rāmen et du riz, disposés dans des bols dédiés.
+<1081> 食卓の上にはラーメンの入った丼と、茶碗に白飯。;;;<1081> Sur la table à manger se trouvaient du rāmen et du riz, présentés dans des bols dédiés.
 <1082> \{観鈴}「ご飯はおむすびじゃなくて良かった？」;;;<1082> Ça va si je ne fais pas de boules avec le riz ?
 <1083> \{\m{A}}「ああ。これでいい」;;;<1083> Ouaip, c'est bien comme ça.
 <1084> ふたり、席につく。;;;<1084> Nous nous assîmes tous les deux.
@@ -1090,7 +1090,7 @@
 <1089> \{\m{A}}「そうか…」;;;<1089> Je vois...
 <1090> \{観鈴}「ほら、冷めないうちに早く食べよ」;;;<1090> Allez, mange avant que ça ne refroidisse !
 <1091> \{\m{A}}「ああ」;;;<1091> Ouais.
-<1092> ふたり、箸を取る。;;;<1092> Nous saisîmes nos baguettes.
+<1092> ふたり、箸を取る。;;;<1092> Nous saisîmes chacun nos baguettes.
 <1093> \{観鈴}「いただきます」;;;<1093> Itadakimasu.
 <1094> \{声}「ちわーーっす！」;;;<1094> B'jour !!
 <1095> 威勢のいい声。;;;<1095> J'entendis une voix pleine d'entrain.
@@ -1110,7 +1110,7 @@
 <1109> \{観鈴}「伸びてるし…」;;;<1109> Ça s'est tout ramolli...
 <1110> \{\m{A}}「だな…。俺が食ったときは、おいしかったぞ」;;;<1110> Je vois ça... Quand moi j'ai mangé, c'était très bon.
 <1111> \{観鈴}「うん、おいしく作れたから」;;;<1111> Je me suis appliquée pour que ce soit bon.
-<1112> \{観鈴}「でも、伸びちゃってる…」;;;<1112> Mais c'est tout ramolli maintenant...
+<1112> \{観鈴}「でも、伸びちゃってる…」;;;<1112> Mais c'est tout ramolli, maintenant...
 <1113> \{\m{A}}「俺を呼べばよかったんだ」;;;<1113> Tu aurais dû m'appeler.
 <1114> \{観鈴}「今度からは呼ぶね」;;;<1114> La prochaine fois, je t'appellerai, d'accord ?
 <1115> \{\m{A}}「そうしろ」;;;<1115> Pas de problème.
@@ -1131,26 +1131,26 @@
 <1130> 俺はテレビに寄る。;;;<1130> Je me rapprochai de la télé.
 <1131> \{\m{A}}「これもえらく古そうだな…」;;;<1131> Encore une antiquité...
 <1132> ちゃぶ台の上に、リモコンらしきものが乗っているのを見つけた。;;;<1132> Je remarquai quelque chose qui ressemblait à une télécommande sur la table basse.
-<1133> 一昔前の電卓のようだった。;;;<1133> Cela ressemblait à une calculatrice d'une autre époque.
+<1133> 一昔前の電卓のようだった。;;;<1133> Quelque chose qui ressemblait à une calculatrice d'une autre époque.
 <1134> ぴっ。;;;<1134> \bBip\u !
-<1135> ざーーーーーー…;;;<1135> \Bzzzzzzt\u...
+<1135> ざーーーーーー…;;;<1135> \bBzzzzzzt\u...
 <1136> 画面は砂嵐だった。;;;<1136> L'écran faisait penser à une tempête de sable.
-<1137> リモコンをいじって、試行錯誤してみるが、一向に画像は映ってこない。;;;<1137> J'essayai d'apprendre à utiliser la télécommande à tâtonnement, mais rien n'y fit, aucune image ne voulait apparaître à l'écran.
+<1137> リモコンをいじって、試行錯誤してみるが、一向に画像は映ってこない。;;;<1137> J'essayai d'apprendre à utiliser la télécommande à tâtons, mais rien n'y fit, aucune image ne voulut apparaître à l'écran.
 <1138> 俺は電話に寄ると、受話器を取る。;;;<1138> Je revins au téléphone et saisis le combiné.
 <1139> じーこじーこ…;;;<1139> \bCliic, cliic, cliic\u...
 <1140> とぅるるるる…;;;<1140> \bDriiiiing\u...
-<1141> \{観鈴}「わ…また、どこかにかけてるっ」;;;<1141> Wah... t'es encore en train d'appeler quelque part !
+<1141> \{観鈴}「わ…また、どこかにかけてるっ」;;;<1141> Wah... Tu es encore en train d'appeler quelque part !
 <1142> \{観鈴}「メッ」;;;<1142> Pas bien !
 <1143> 観鈴に見つかって、切られてしまった。;;;<1143> Misuzu m'avait surpris. Elle mit fin à l'appel.
 <1144> \{\m{A}}「テレビが映らないんだ」;;;<1144> La télé marche pas.
-<1145> \{観鈴}「それ、電話かけるのと関係ない」;;;<1145> Et c'est quoi le rapport avec le téléphone ?
+<1145> \{観鈴}「それ、電話かけるのと関係ない」;;;<1145> C'est quoi le rapport avec le téléphone ?
 <1146> \{\m{A}}「暇だったんだ」;;;<1146> J'avais rien de mieux à faire.
-<1147> \{観鈴}「洗い物済んだら、なにかして遊ぼ。それまで待ってて」;;;<1147> Quand j'aurai fini la vaisselle, on trouvera quelque  chose pour jouer. Attends un peu.
+<1147> \{観鈴}「洗い物済んだら、なにかして遊ぼ。それまで待ってて」;;;<1147> Quand j'aurai fini la vaisselle, on trouvera quelque chose pour jouer. Sois patient jusque-là.
 <1148> 台所に戻ってゆく。;;;<1148> Elle retourna à la cuisine.
 <1149> \{\m{A}}（別に遊びたいわけじゃないんだがな…）;;;<1149> Je ne peux pas dire que j'ai particulièrement envie de jouer...
 <1150> \{観鈴}「あ、テレビはね、上のアンテナの向きをいじってね」;;;<1150> Ah, tu peux essayer de régler l'antenne sur la télé.
 <1151> \{\m{A}}「ああ」;;;<1151> Je vais faire ça.
-<1152> 言われた通りアンテナの向きを変えると、テレビは直った。;;;<1152> Dis-je avant de régler l'antenne. La télé remarchait.
+<1152> 言われた通りアンテナの向きを変えると、テレビは直った。;;;<1152> répondis-je avant de régler l'antenne. La télé sembler se remettre à fonctionner.
 <1153> こういう時は、チョップにかぎる。;;;<1153> Dans ce genre de situation, un bon coup avec le tranchant de la main devrait faire l'affaire.
 <1154> 俺は手刀を、テレビの天井に振り下ろす。;;;<1154> Je levai ma main, la positionnai au-dessus de la télé, et frappai.
 <1155> \{\m{A}}「チョップ！  チョップ！」;;;<1155> Chop ! Chop !
@@ -1158,7 +1158,7 @@
 <1157> ざーーーーーーー…;;;<1157> \bBzzzzzzzt\u...
 <1158> 一向に映らない。;;;<1158> Toujours pas d'image.
 <1159> \{\m{A}}「故障か？」;;;<1159> Elle est en panne ?
-<1160> ならば、破壊か再生か、いちかばちかの回し蹴りしかない。;;;<1160> Si c'était le cas, elle était bonne pour la poubelle. Je préparai un coup de pied circulaire de la dernirèe chance.
+<1160> ならば、破壊か再生か、いちかばちかの回し蹴りしかない。;;;<1160> Si c'était le cas, elle était bonne pour la poubelle. Je préparai alors un coup de pied circulaire de la dernière chance.
 <1161> \{\m{A}}「ふんっ」;;;<1161> Hmph !
 <1162> \{観鈴}「わ、ダメ！」;;;<1162> Wah ! Fais pas ça !
 <1163> \{\m{A}}「あん？」;;;<1163> Hmm ?
@@ -1167,14 +1167,14 @@
 <1166> 慌てて、駆け寄ってくる。;;;<1166> Elle courut vers moi, l'air paniqué.
 <1167> \{\m{A}}「なにって、直そうとしてたんだよ。このテレビ、故障してるよな」;;;<1167> Ben, j'essayais juste de réparer la télé. Elle est en panne.
 <1168> \{観鈴}「してないしてない」;;;<1168> Mais non, mais non.
-<1169> ぷるぷると顔を振ってから、テレビの上に載っていた据え置き型のアンテナをいじり始める。;;;<1169> Après avoir secoué la tête avec énergie, elle régla l'antenne sur la télé.
-<1170> \{観鈴}「あーっ、もう…そんなこと思いつくなんてびっくり」;;;<1170> Rooh... je n'arrive même pas à croire que tu as pu penser à faire quelque chose comme ça.
+<1169> ぷるぷると顔を振ってから、テレビの上に載っていた据え置き型のアンテナをいじり始める。;;;<1169> Après avoir secoué énergiquement la tête, elle régla l'antenne sur la télé.
+<1170> \{観鈴}「あーっ、もう…そんなこと思いつくなんてびっくり」;;;<1170> Rooh... je n'arrive même pas à croire que tu as pu penser à faire une chose pareille.
 <1171> ぶぅん、と一度唸って、ブラウン管が映像を映し出す。;;;<1171> La télé crachota un instant, puis une image se forma sur l'écran cathodique.
 <1172> \{\m{A}}「あ、直った」;;;<1172> Ah, c'est réparé.
 <1173> \{観鈴}「今度から、これ調節して」;;;<1173> La prochaine fois, essaie de régler l'antenne.
 <1174> \{\m{A}}「わかった」;;;<1174> Compris.
 <1175> 観鈴は台所に戻っていった。;;;<1175> Elle retourna à la cuisine.
-<1176> 洗い物の途中だったのだろう。手からこぼれた滴が、てんてんと床を濡らしていた。;;;<1176> Elle devait encore être en train de faire la vaisselle. Elle laissa derrière elle un sol trempé de gouttes d'eau qui tombaient de ses mains.
+<1176> 洗い物の途中だったのだろう。手からこぼれた滴が、てんてんと床を濡らしていた。;;;<1176> Elle devait encore être en train de faire la vaisselle. Elle laissa derrière elle un sol maculé des gouttes d'eau qui tombaient de ses mains.
 <1177> どうして俺の行動に気づいたのだろう？;;;<1177> Comment a-t-elle bien pu anticiper que je fasse quelque chose comme ça ?
 <1178> 殺気だろうか。;;;<1178> Elle aura senti ma soif de sang.
 <1179> 番組はお笑いらしく、長身の男が小太りの男に『なんでやねん』と突っ込んでいた。;;;<1179> Il y avait une émission bien marrante, un homme assez grand n'arrêtait pas de corriger ce que disait un second homme rondelet. 
@@ -1182,53 +1182,53 @@
 <1181> \{テレビ}『なんでやねん！』;;;<1181> Qu'est-ce qu'tu racontes ?!
 <1182> \{\m{A}}「なんでやねん！」;;;<1182> Qu'est-ce qu'tu racontes ?!
 <1183> 少し真似してみる。;;;<1183> Je tentai de l'imiter.
-<1184> ふと壁の時計に目を移すと夜の９時を回っていた。;;;<1184> Un bref coup d'œil à l'horloge murale m'indiqua qu'il était 9 heures du soir
+<1184> ふと壁の時計に目を移すと夜の９時を回っていた。;;;<1184> Un bref coup d'œil à l'horloge murale m'indiqua qu'il était neuf heures du soir
 <1185> そろそろ家族の人間が帰ってくる時間ではないだろうか。;;;<1185> N'était-il pas l'heure de rentrer pour ses parents ?
 <1186> あまり長居が過ぎると、鉢合わせになりかねない。;;;<1186> Si je restais plus longtemps, je risquais de tomber nez à nez sur eux.
 <1187> \{\m{A}}（そろそろ出るか…）;;;<1187> On dirait qu'il est temps pour moi de partir...
 <1188> 俺はバッグを肩にかける。;;;<1188> Je posai mon sac sur mon épaule. 
 <1189> そして廊下に出、玄関の戸をがらりと開けた。;;;<1189> Je traversai le couloir, puis le hall d'entrée, et atteins la porte.
-<1190> \{観鈴}「ん…どこいくの？」;;;<1190> Hmm... Tu vas où ?
-<1191> 声がして振り返ると、観鈴が戸口まで出てきていた。;;;<1191> Dit une voix derrière moi. Misuzu m'avait suivi jusqu'à l'extérieur.
+<1190> \{観鈴}「ん…どこいくの？」;;;<1190> Hmn... Tu vas où ?
+<1191> 声がして振り返ると、観鈴が戸口まで出てきていた。;;;<1191> demanda une voix derrière moi. Misuzu m'avait suivi jusqu'à l'extérieur.
 <1192> \{観鈴}「トランプしようって思って、持ってきたのに…」;;;<1192> Je me disais qu'on pourrait jouer aux cartes. J'en ai ramenées...
 <1193> 手にはトランプのケースがあった。;;;<1193> Elle tenait un paquet de cartes.
-<1194> \{観鈴}「すぐ、戻ってくる？」;;;<1194> Tu rentres vite ?
+<1194> \{観鈴}「すぐ、戻ってくる？」;;;<1194> Tu reviens bientôt ?
 <1195> \{\m{A}}「いや、戻ってこない」;;;<1195> Non, je ne rentrerai pas.
-<1196> \{観鈴}「そんな…もういっちゃうの？」;;;<1196> C'est pas vrai... tu pars déjà ?
-<1197> \{\m{A}}「ああ」;;;<1197> Ouaip.
-<1198> \{観鈴}「もっと家にいたらいいのに」;;;<1198> Tu peux rester un peu plus longtemps chez moi.
+<1196> \{観鈴}「そんな…もういっちゃうの？」;;;<1196> Oh non... Tu pars déjà ?
+<1197> \{\m{A}}「ああ」;;;<1197> Ouais.
+<1198> \{観鈴}「もっと家にいたらいいのに」;;;<1198> Tu peux rester un peu plus longtemps chez moi, si tu veux.
 <1199> \{\m{A}}「母親が帰ってくるんだろ？」;;;<1199> Ta mère va rentrer, non ?
 <1200> \{観鈴}「お母さん、もっと遅くだよ」;;;<1200> Elle ne rentrera que beaucoup plus tard.
 <1201> \{観鈴}「まだまだ大丈夫。まだまだ遊べるから」;;;<1201> C'est bon, on a encore plein de temps. On peut encore jouer.
-<1202> \{\m{A}}「それに時間が遅くなるほど、俺も宿を決めにくくなる」;;;<1202> Le problème, c'est que plus tard, ce sea encore plus dur pour moi de trouver un endroit où dormir.
+<1202> \{\m{A}}「それに時間が遅くなるほど、俺も宿を決めにくくなる」;;;<1202> Le problème, c'est que plus tard, ce sera encore plus dur pour moi de trouver un endroit où dormir.
 <1203> \{観鈴}「あ…」;;;<1203> Ah...
 <1204> 彼女の顔が明るくなる。;;;<1204> Son visage s'illumina.
 <1205> \{観鈴}「行き先ないなら、家に泊まってくださいっ」;;;<1205> Si tu n'as nulle part où aller, tu peux passer la nuit ici !
 <1206> \{\m{A}}「あのな、おまえ…」;;;<1206> Hé, toi...
 <1207> \{\m{A}}「俺たちは今日会ったばかりだ」;;;<1207> On ne s'est rencontrés qu'aujourd'hui.
-<1208> \{\m{A}}「しかも、どこの馬の骨ともつかない素性の知れない男だ」;;;<1208> De plus, tu ne sais pas d'où je viens, et rien ne permet d'être sûre que je ne sois pas un mec suspect avec de mauvaises intentions.
-<1209> \{\m{A}}「んな奴、安易に泊めるか、普通」;;;<1209> Normalement t'invites pas ce genre de gars à passer la nuit.
+<1208> \{\m{A}}「しかも、どこの馬の骨ともつかない素性の知れない男だ」;;;<1208> De plus, tu ne sais pas d'où je viens, et rien ne permet d'être sûre que je ne sois pas un mec louche avec de mauvaises intentions.
+<1209> \{\m{A}}「んな奴、安易に泊めるか、普通」;;;<1209> Normalement, t'invites pas ce genre de gars à passer la nuit.
 <1210> \{観鈴}「友達」;;;<1210> On est amis.
 <1211> \{\m{A}}「違う」;;;<1211> Non.
 <1212> \{観鈴}「うーん…」;;;<1212> Hmm...
 <1213> \{観鈴}「お母さんには、クラスメイトだって言うから」;;;<1213> Je dirai à ma mère qu'on est dans la même classe.
-<1214> \{\m{A}}「だとしても、若い男ってのは問題ありだろ」;;;<1214> Même comme ça. Je suis un jeune homme. Ça ne passera pas.
-<1215> \{観鈴}「お母さん、すごくだらしない人だから、そういうの気にしないと思う」;;;<1215> Ma mère est beaucoup trop désordonnée pour remarquer ce genre de choses, je pense.
-<1216> \{観鈴}「って、自分の親をだらしない、なんて言うもんじゃないか…」;;;<1216> ... Mais, je ne devrais pas dire que mes parents sont désordonnés, n'est-ce pas ?
+<1214> \{\m{A}}「だとしても、若い男ってのは問題ありだろ」;;;<1214> Même comme ça. Je suis un jeune homme, ça ne passera pas.
+<1215> \{観鈴}「お母さん、すごくだらしない人だから、そういうの気にしないと思う」;;;<1215> Ma mère est super désordonnée, elle ne remarquera pas ce genre de choses, je pense.
+<1216> \{観鈴}「って、自分の親をだらしない、なんて言うもんじゃないか…」;;;<1216> Je ne devrais pas dire que mes parents sont désordonnés, n'est-ce pas...?
 <1217> \{観鈴}「でも、ほんと。泊まっても大丈夫」;;;<1217> Mais je suis sérieuse, ça ne posera pas de problème si tu passes la nuit.
 <1218> 男の恐さも知らないのだ。;;;<1218> Elle ne se méfiait pas des hommes.
 <1219> どんな暮らしをしてきたのか。田舎町の平和な風土のせいか。;;;<1219> Quel genre d'éducation avait-elle reçue ? Était-ce la faute des mœurs de la campagne ?
 <1220> \{観鈴}「大丈夫」;;;<1220> Ça ira.
-<1221> そう繰り返した。;;;<1221> Répéta-t-elle
-<1222> 確かに俺としても、宿が確保できることはありがたい。;;;<1222> Quant à moi, je devais dire que je lui étais reconnaissant de m'offrir un toit pour la nuit.
+<1221> そう繰り返した。;;;<1221> répéta-t-elle
+<1222> 確かに俺としても、宿が確保できることはありがたい。;;;<1222> Quant à moi, je dois dire que je lui étais reconnaissant de m'offrir un toit pour la nuit.
 <1223> が…彼女の手にはトランプ。;;;<1223> Sauf... qu'elle tenait des cartes.
 <1224> \{\m{A}}（ガキのお守りじゃないか…）;;;<1224> Ne me dites pas que je vais devoir jouer au babysitter...
 <1225> 俺はため息をつく。;;;<1225> Je lâchai un soupir.
 <1226> \{\m{A}}「疲れてるんだ」;;;<1226> Je commence à être fatigué.
 <1227> \{観鈴}「うん」;;;<1227> Ok.
 <1228> \{\m{A}}「すぐに寝てしまってもいいか」;;;<1228> Ça pose un problème si je vais tout de suite me coucher ?
-<1229> \{観鈴}「うん。ちょっと残念だけど」;;;<1229> Non. Mais c'est dommage.
-<1230> \{観鈴}「でも、夏休みに入ったら、遊ぶ時間たくさんある」;;;<1230> Mais bon, quand ce sera les vacances d'été, j'aurai tout le temps de m'amuser.
+<1229> \{観鈴}「うん。ちょっと残念だけど」;;;<1229> Non. Mais c'est un peu dommage.
+<1230> \{観鈴}「でも、夏休みに入ったら、遊ぶ時間たくさんある」;;;<1230> Mais bon, quand ce sera les vacances d'été, j'aurai tout le temps de jouer.
 <1231> \{観鈴}「だから、いいよ」;;;<1231> Donc je peux attendre.
 <1232> \{観鈴}「じゃ、居間にお布団敷くねー」;;;<1232> Alors je vais aller préparer un futon dans la salle de séjour, d'accord ?
 <1233> ぱたぱたと戻ってゆく。;;;<1233> Elle repartit en trottinant.
@@ -1236,53 +1236,53 @@
 <1235> 再び家の敷居を跨ぐ。;;;<1235> Je franchis le seuil de nouveau.
 <1236> 結局、ここが今晩の宿となった。;;;<1236> Finalement, cette maison fut mon gîte pour cette nuit.
 <1237> \{\m{A}}「毛布一枚貸してくれればそれでいい」;;;<1237> Tu peux juste me prêter une couverture.
-<1238> 廊下の先に向かって言う。;;;<1238> Lançai-je en direction du couloir.
+<1238> 廊下の先に向かって言う。;;;<1238> lançai-je en direction du couloir.
 <1239> \{観鈴}「床、硬いよ」;;;<1239> C'est que c'est dur par terre.
-<1240> \{\m{A}}「柔らかいと肩がこるんだ」;;;<1240> Si je dors sur quelque chose de mou, mes épaules vont me tirer.
-<1241> \{観鈴}「そう。じゃ、毛布だけ」;;;<1241> Bon ben dans ce cas, juste une couverture.
-<1242> \{観鈴}「はい」;;;<1242> Voilà.
+<1240> \{\m{A}}「柔らかいと肩がこるんだ」;;;<1240> Si je dors sur quelque chose de mou, j'aurai mal aux épaules.
+<1241> \{観鈴}「そう。じゃ、毛布だけ」;;;<1241> Bon. Ben, dans ce cas, juste une couverture.
+<1242> \{観鈴}「はい」;;;<1242> Tiens.
 <1243> 毛布一枚を受け取る。;;;<1243> Je lui pris la couverture des mains.
 <1244> 俺は部屋の壁にもたれて、それを肩にかける。;;;<1244> Je m'adossai au mur, puis en couvris mes épaules.
 <1245> \{観鈴}「わたし、テレビ見る」;;;<1245> Moi, je vais regarder la télé.
 <1246> \{\m{A}}「ああ、明るくてもうるさくても構わないから、好きにしてくれ」;;;<1246> Pas de problème. La lumière ou le bruit ne me gênent pas, fais comme tu veux.
-<1247> \{観鈴}「うん、ごめんね」;;;<1247> Ok, désolée si je t'embête.
+<1247> \{観鈴}「うん、ごめんね」;;;<1247> D'accord, merci.
 <1248> \{観鈴}「おやすみ」;;;<1248> Bonne nuit.
 <1249> 俺は腰をずらせて、眠る体勢をとる。;;;<1249> Je m'allongeai, puis me mis en position pour dormir.
 <1250> 眠気はなかなか訪れない。体はこんなにも疲れているというのに。;;;<1250> Je ne sentais pas le sommeil venir. Pourtant, mon corps devait être bien fourbu.
 <1251> ………。;;;<1251> ..........
-<1252> 薄目を開けると、行儀良く座って、テレビを見ている観鈴の姿があった。;;;<1252> J'entrouvris les yeux, et aperçus Misuzu assise proprement en face du poste de télévision.
-<1253> いつの間に着替えたのか、パジャマ姿だった。;;;<1253> Elle s'était mise en pyjama à un moment ou un autre.
+<1252> 薄目を開けると、行儀良く座って、テレビを見ている観鈴の姿があった。;;;<1252> J'entrouvris les yeux, et aperçus Misuzu, proprement assise en face du poste de télévision.
+<1253> いつの間に着替えたのか、パジャマ姿だった。;;;<1253> À un moment ou à un autre, elle s'était mise en pyjama.
 <1254> ………。;;;<1254> ..........
 <1255> またしばらくして目を開けると、観鈴は屈んで床と睨み合っていた。;;;<1255> Je rouvris les yeux un peu plus tard, et vis Misuzu penchée vers l'avant, en train de fixer le sol.
-<1256> その床を見ると、トランプのカードが並べられていた。;;;<1256> Son regard portait sur des cartes étendues par terre.
+<1256> その床を見ると、トランプのカードが並べられていた。;;;<1256> Son regard portait sur des cartes étalées par terre.
 <1257> \{観鈴}「うーん…」;;;<1257> Hmm...
 <1258> ひとりで悩んでいる。;;;<1258> Elle avait l'air complètement absorbée.
 <1259> ………。;;;<1259> ..........
 <1260> さすがに眠たくなってきた。;;;<1260> Je finis enfin par m'assoupir.
-<1261> 俺は今度こそと、深く目を閉じる。;;;<1261> Je fermai les yeux, espérant de plus avoir à les rouvrir cette nuit.
+<1261> 俺は今度こそと、深く目を閉じる。;;;<1261> Je fermai les yeux, espérant ne plus avoir à les rouvrir pour la nuit.
 <1262> ………。;;;<1262> ..........
 <1263> ……。;;;<1263> .......
 <1264> …。;;;<1264> ....
 <1265> 低い唸りが聞こえる。;;;<1265> J'entendis un vrombissement grave.
-<1266> 何かのエンジン音のような…;;;<1266> Le type qui devait venir d'un genre de moteur.
-<1267> それは、このへんぴな町では、あまりに違和感を覚えるものだった。;;;<1267> Ce genre de son détonnait avec l'atmosphère d'un village isolé comme celui-ci.
+<1266> 何かのエンジン音のような…;;;<1266> La sorte qui devait venir d'un genre de moteur.
+<1267> それは、このへんぴな町では、あまりに違和感を覚えるものだった。;;;<1267> Un bruit pareil détonnait avec l'atmosphère d'un village isolé comme celui-ci.
 <1268> 徐々に音は大きくなって、やがて…;;;<1268> Le son devint de plus en plus intense, et enfin...
 <1269> どーーーーーーーーーーーーーーーーんっ！！\shake{7};;;<1269> \bBaaaaaaaaaaaaaaaam\u ! \shake{7}
 <1270> \{\m{A}}「そりゃないだろっ」;;;<1270> Vous vous moquez de moi ?!
 <1271> 俺は飛び起きる。;;;<1271> Je bondis sur mes deux pieds.
-<1272> \{観鈴}「わ…お母さん、バイクで納屋に突っ込んだみたい」;;;<1272> Wah... ma mère est rentrée dans la remise avec sa moto.
-<1273> \{\m{A}}「それは交通事故、というんじゃないのか」;;;<1273> C'est ce qu'on appelle un accident de la circulation, n'est-ce pas ?
+<1272> \{観鈴}「わ…お母さん、バイクで納屋に突っ込んだみたい」;;;<1272> Wah... Ma mère est rentrée dans la remise avec sa moto.
+<1273> \{\m{A}}「それは交通事故、というんじゃないのか」;;;<1273> C'est ce qu'on appelle un accident de la route, n'est-ce pas ?
 <1274> \{観鈴}「またお酒飲んでるなぁ、これは…」;;;<1274> Elle a encore bu, on dirait...
 <1275> \{\m{A}}「それは飲酒運転というんじゃないのか」;;;<1275> C'est ce qu'on appelle de la conduite en état d'ébriété, n'est-ce pas ?
 <1276> \{観鈴}「ま、よくあることだし」;;;<1276> Bah, rien de bien exceptionnel.
 <1277> \{\m{A}}「平和な町だな、おい」;;;<1277> Quel village paisible... hein ?
-<1278> \{観鈴}「起こしてごめんね。寝てていいよ」;;;<1278> Désolé de t'avoir réveillé. Tu peux retourner te coucher.
+<1278> \{観鈴}「起こしてごめんね。寝てていいよ」;;;<1278> Désolée de t'avoir réveillé. Tu peux retourner te coucher.
 <1279> \{観鈴}「お母さんには、わたしから話しておくから」;;;<1279> J'irai tout lui expliquer.
 <1280> \{\m{A}}「大丈夫なのか？」;;;<1280> Ça ne posera pas de problème ?
 <1281> \{観鈴}「うんうん、大丈夫だって」;;;<1281> Pas de souci, tout ira bien.
 <1282> すでにエンジン音はやんでいる。;;;<1282> Le bruit de moteur s'était calmé.
 <1283> ぱたぱたと観鈴は部屋を出ていった。;;;<1283> Misuzu trottina hors de la pièce.
-<1284> 出迎えに行ったのだろう。;;;<1284> Elle partait sans doute à la rencontre de sa mère.
+<1284> 出迎えに行ったのだろう。;;;<1284> Elle était sans doute partie à la rencontre de sa mère.
 <1285> 俺は毛布にくるまり直す。観鈴を信じるしかない。;;;<1285> Je m'emmitouflai dans ma couverture, m'en remettant à Misuzu.
 <1286> がらりと玄関が開く音。;;;<1286> J'entendis le bruit d'une porte que l'on claque.
 <1287> \{観鈴}「おかえりなさい」;;;<1287> Bonsoir.
@@ -1293,7 +1293,7 @@
 <1292> \{観鈴の母}「却下」;;;<1292> Refusé.
 <1293> 二度と観鈴は信じまい。;;;<1293> C'était la dernière fois que je faisais confiance à Misuzu.
 <1294> \{観鈴}「わ、待って、お母さんっ」;;;<1294> Wah, mais attends, maman !
-<1295> \{観鈴の母}「問答無用や。こんな若い男、泊められるわけあらへん」;;;<1295> Pas de mais qui tienne. J'peux pas héberger un jeune homme comme ça.
+<1295> \{観鈴の母}「問答無用や。こんな若い男、泊められるわけあらへん」;;;<1295> Pas de 'mais' qui tienne. J'peux pas héberger un jeune homme comme ça.
 <1296> \{観鈴}「が、がお…」;;;<1296> G-Gao...
 <1297> ぽかっ。;;;<1297> \bPaf\u !
 <1298> \{観鈴の母}「その口癖治しぃって、いくら言うたらわかるんや！」;;;<1298> Combien d'fois j'vais devoir t'dire d'arrêter d'dire ce truc ?!
@@ -1301,40 +1301,40 @@
 <1300> \{観鈴}「だ、だって…」;;;<1300> Mais, mais...
 <1301> \{観鈴}「このひと…寝るところないんだよ」;;;<1301> Mais lui... il n'a nulle part où dormir.
 <1302> \{観鈴}「それに、いいひとだと思うんだよ」;;;<1302> Et en plus, je pense que c'est une bonne personne.
-<1303> \{観鈴}「セミとか…掴んで外に逃がしてくれたし…」;;;<1303> Il y avait une cigale... même qu'il l'a attrapée puis l'a relâchée dehors.
+<1303> \{観鈴}「セミとか…掴んで外に逃がしてくれたし…」;;;<1303> Il y avait une cigale... même qu'il l'a attrapée puis l'a relâchée dehors...
 <1304> \{観鈴}「ごきごき出ても、そうしてくれるって…」;;;<1304> Il m'a laissé chanter le cafa-cafard...
 <1305> 言ってない。;;;<1305> Je n'ai jamais rien fait de tel.
 <1306> \{観鈴の母}「………」;;;<1306> .........
 <1307> \{観鈴の母}「…あんた」;;;<1307> ... Toi, là.
 <1308> …俺か。;;;<1308> ... Qui, moi ?
 <1309> \{観鈴の母}「観鈴とはどんな関係や」;;;<1309> C'est quoi ta relation avec Misuzu ?
-<1310> ふるふるふる、と観鈴が母親の背中で首を振っている。;;;<1310> Misuzu secouait vigoureusement la tête derrière sa mère.
+<1310> ふるふるふる、と観鈴が母親の背中で首を振っている。;;;<1310> Derrière sa mère, Misuzu secouait vigoureusement la tête.
 <1311> 正直に言うな、ということなのだろう。;;;<1311> Je pensai qu'elle attendait que je lui dise vérité.
-<1312> さっさっさ…;;;<1312> \bVous vouh vouh\u...
+<1312> さっさっさ…;;;<1312> \bViouh viouh viouh\u...
 <1313> 手で文字を書いている。;;;<1313> Elle dessinait des caractères avec ses mains.
-<1314> く…ら…す…め…い…と;;;<1314> C-A-M-A-R-A-D-E-D-E-C-L-A-S-S-E
+<1314> く…ら…す…め…い…と;;;<1314> C-A-M-A-R-A-D-E-D-E-C-L-A-S-S-E.
 <1315> \{\m{A}}「クラスメイト」;;;<1315> Camarade de classe.
 <1316> そのまま声に出して読んだ。;;;<1316> Je le lis tel quel.
 <1317> \{観鈴の母}「クラスメイト？  にしては、歳食っとるんやないか？」;;;<1317> Camarade de classe ? T'es pas un peu vieux pour ça ?
-<1318> さっさっさ…;;;<1318> \bVous vouh vouh\u...
-<1319> また観鈴が手で文字を書いている。;;;<1319> Elle dessinait de nouveaux caractères avec ses mains.
-<1320> ほ…れ…る…な…よ;;;<1320> N-E-T-O-M-B-E-P-A-S-S-O-U-S-L-E-C-H-A-R-M-E
-<1321> \{\m{A}}「惚れるなよ」;;;<1321> Ne tombe pas sous le charme.
+<1318> さっさっさ…;;;<1318> \bViouh viouh viouh\u...
+<1319> また観鈴が手で文字を書いている。;;;<1319> Elle dessinait de nouveaux caractères.
+<1320> ほ…れ…る…な…よ;;;<1320> N-E-T-O-M-B-E-P-A-S-S-O-U-S-M-O-N-C-H-A-R-M-E.
+<1321> \{\m{A}}「惚れるなよ」;;;<1321> Ne tombe pas sous mon charme.
 <1322> \{観鈴の母}「惚れるかっ！」;;;<1322> Comme si !
 <1323> 観鈴が両手を合わせて謝っている。;;;<1323> Misuzu joignit ses mains en signe d'excuse.
 <1324> どうやら今のは彼女の判断ミスらしい。;;;<1324> On dirait qu'elle s'était trompée quelque part.
-<1325> 事態はますます悪化しているようだ。;;;<1325> La situation devenait de pire en pire.
-<1326> \{観鈴の母}「ま、肝は座っとるようやな。そのへんは嫌いやないわ」;;;<1326> Bah, au moins t'as du cran là-dedans. Ça me déplaît pas.
+<1325> 事態はますます悪化しているようだ。;;;<1325> La situation ne faisait qu'empirer.
+<1326> \{観鈴の母}「ま、肝は座っとるようやな。そのへんは嫌いやないわ」;;;<1326> Bah, au moins, y a du cran là-dedans. Ça me déplaît pas.
 <1327> \{観鈴の母}「この期に及んで、言い訳したり、取り乱したりする奴なんかよりはな」;;;<1327> Ça reste mieux que les froussards qui attendent le dernier moment pour se trouver une excuse.
 <1328> \{観鈴}「そうそう。わたしもそう思う。お母さん、惚れちゃうよね」;;;<1328> Tout à fait, tout à fait. Je suis du même avis. Alors maman, tu es tombée sous son charme ?
 <1329> \{観鈴の母}「惚れるかっ！」;;;<1329> Comme si !
-<1330> \{観鈴}「わ…ツバ飛んだ」;;;<1330> Wah... tu postillonnes.
+<1330> \{観鈴}「わ…ツバ飛んだ」;;;<1330> Wah... Tu postillonnes.
 <1331> \{観鈴の母}「こいつ、名前なんて言うんや」;;;<1331> Et comment il s'appelle, l'autre ?
-<1332> 俺ではなく、観鈴に訊いた。;;;<1332> Ce n'était pas à moi, mais à Misuzu qu'elle s'adressait.
+<1332> 俺ではなく、観鈴に訊いた。;;;<1332> Ce n'était pas à moi, mais à Misuzu qu'elle s'était adressée.
 <1333> \{観鈴}「えっとね…」;;;<1333> Alors, euh...
 <1334> そういえば、こいつはまだ知らないはずだ。;;;<1334> Maintenant que j'y pense, 'l'autre' ne lui avait toujours pas dit son nom.
 <1335> \{観鈴}「\m{D}さん」;;;<1335> \m{D}-san.
-<1336> \{\m{A}}「ちがう…」;;;<1336> Incorrect.
+<1336> \{\m{A}}「ちがう…」;;;<1336> Incorrect...
 <1337> 知らないのに即答すんな…。;;;<1337> Réponds pas comme ça si tu sais pas...
 <1338> \{観鈴の母}「\m{C}さん」;;;<1338> \m{C}-san.
 <1339> 母親が俺へと向き直る。;;;<1339> Sa mère se tourna vers moi.
@@ -1352,14 +1352,14 @@
 <1351> \{観鈴}「お母さん、酔ってるんだし…」;;;<1351> Ma mère... est soule, tu sais...
 <1352> \{観鈴の母}「酔うてなくても同じこと言うで、うちは」;;;<1352> Même si j'étais pas soule, je lui dirais la même chose.
 <1353> \{観鈴}「言わないよぅ」;;;<1353> Tu dirais pas ça.
-<1354> \{観鈴の母}「とりあえず出てゆき。この家の敷居を跨がせる承諾はしてへん」;;;<1354> Dans tous les cas, sors d'ici. Je ne t'ai jamais autorisé à entrer dans ma maison.
+<1354> \{観鈴の母}「とりあえず出てゆき。この家の敷居を跨がせる承諾はしてへん」;;;<1354> Dans tous les cas, sors d'ici. Je n't'ai jamais autorisé à entrer dans ma maison.
 <1355> \{観鈴}「ご飯は…？」;;;<1355> Et pour manger ?
 <1356> \{観鈴}「ご飯ぐらい、一緒に食卓でいいよね？」;;;<1356> Il pourrait au moins nous rejoindre pour manger ?
 <1357> \{観鈴の母}「………」;;;<1357> .........
 <1358> \{観鈴の母}「…観鈴、あんたが運んだればええやろ」;;;<1358> Misuzu, c'est toi qui lui apportes à manger, alors.
 <1359> \{\m{A}}「冗談じゃない。俺は客だぞ」;;;<1359> C't'une blague ? J'suis un invité, moi !
 <1360> \{\m{A}}「丁重にもてなせ、このやろう」;;;<1360> Tu m'dois l'hospitalité, connasse...
-<1361> \{観鈴}「わ…すごい口きいてる…」;;;<1361> Wah... quelle vulgarité...
+<1361> \{観鈴}「わ…すごい口きいてる…」;;;<1361> Wah... Quelle vulgarité...
 <1362> \{観鈴の母}「観鈴」;;;<1362> Misuzu.
 <1363> \{観鈴}「は、はい…」;;;<1363> O-Oui ?
 <1364> \{観鈴の母}「おもしろい友達やないの」;;;<1364> C'est qu'il est marrant ton ami, là.
@@ -1368,17 +1368,17 @@
 <1367> \{観鈴の母}「そういう奴はうち、嫌いや」;;;<1367> Ce genre de mec, je les déteste.
 <1368> \{観鈴の母}「追い出そかー」;;;<1368> Est-ce que j'vais devoir l'chasser dehors— ?
 <1369> 笑顔で言っているが、声は怒りに震えている。かなり恐かった。;;;<1369> En dépit de son sourire, sa voix tremblait de rage. C'était particulièrement terrifiant.
-<1370> \{観鈴}「わ、待って…」;;;<1370> Wah, attends.
-<1371> さっさっさ…;;;<1371> \bVous vouh vouh\u...
+<1370> \{観鈴}「わ、待って…」;;;<1370> Wah, attends...
+<1371> さっさっさ…;;;<1371> \bViouh viouh viouh\u...
 <1372> 観鈴のブロックサイン。;;;<1372> Misuzu fit des gestes dignes d'un receveur qui donnait des consignes son batteur.
 <1373> 俺はそのまま口に出して読む。;;;<1373> Je les lis à voix haute.
 <1374> \{\m{A}}「今日からあなたの息子になります」;;;<1374> À partir d'aujourd'hui, je serai votre fils.
 <1375> \{\m{A}}「なるかっ！」\r;;;<1375> Comme si !
-<1376> \{観鈴の母}「はぁ…なんかうち、頭痛してきたわ…」;;;<1376> Haa... tu commences à me donner mal à la tête...
+<1376> \{観鈴の母}「はぁ…なんかうち、頭痛してきたわ…」;;;<1376> Haa... Tu commences à me donner mal à la tête...
 <1377> \{観鈴}「わ、大丈夫？」;;;<1377> Wah, ça va ?
 <1378> おまえのせいだろ…。;;;<1378> C'est de ta faute, hein...
-<1379> \{観鈴の母}「とにかく納屋や。それが嫌やったら、野宿でもしいや。この季節、死ぬことはないわ」;;;<1379> Quoi qu'il en soit, pour toi ce s'ra la remise. Si ça t'dérange, tu dors dehors. Tu crèveras pas, vu la saison.
-<1380> 俺にしてみれば、こいつの母親と一緒の屋根の下じゃなければ、どこでもいい気がしてきた。;;;<1380> Si vous me demandiez, je vous aurais répondu que n'importe serait mieux que de dormir sous le même toit que sa mère.
+<1379> \{観鈴の母}「とにかく納屋や。それが嫌やったら、野宿でもしいや。この季節、死ぬことはないわ」;;;<1379> Quoi qu'il en soit, pour toi ce s'ra la remise. Si ça t'dérange, tu dors dehors. T'en crèveras pas, vu la saison.
+<1380> 俺にしてみれば、こいつの母親と一緒の屋根の下じゃなければ、どこでもいい気がしてきた。;;;<1380> Si on me l'avait demandé, j'aurais répondu que n'importe quoi serait mieux que de dormir sous le même toit que sa mère.
 <1381> 自ら背を向けて、部屋を後にする。;;;<1381> Je me retournai, et laissai la salle de séjour derrière moi.
 <1382> \{観鈴}「あ、いっちゃう…」;;;<1382> Ah, il est parti...
 <1383> こんこん。;;;<1383> \bToc toc\u.
@@ -1411,9 +1411,9 @@
 <1410> \{観鈴}「が、がお…」;;;<1410> G-Gao...
 <1411> 涙目になっているが、放っておいて話を進める。;;;<1411> Elle allait pleurer, mais je l'ignorai et continuai.
 <1412> \{\m{A}}「あんな豪快な親もなかなかいないぞ」;;;<1412> Tu sais, des parents avec une sacrée personnalité, comme elle, ça court pas les rues non plus.
-<1413> \{観鈴}「うん…嘘つくのすごく恐かった」;;;<1413> Oui... quand je lui ai menti, j'étais terrifiée.
+<1413> \{観鈴}「うん…嘘つくのすごく恐かった」;;;<1413> Oui... Quand je lui ai menti, j'étais terrifiée.
 <1414> \{\m{A}}「案外見抜いて、この結果なんじゃないのか？」;;;<1414> Mais elle ne s'est pas laissé duper, et à cause de ça, on en est arrivés là.
-<1415> \{観鈴}「そんなことないと思う。お母さん、適当なだけ」;;;<1415> Je ne pense pas que soit à cause de ça. C'est juste encore un de ses caprices.
+<1415> \{観鈴}「そんなことないと思う。お母さん、適当なだけ」;;;<1415> Je ne pense pas que ce soit à cause de ça. C'est juste encore un de ses caprices.
 <1416> \{\m{A}}「でもおまえを心配してるのは確かだと思うぞ」;;;<1416> Mais ce qui est certain, c'est qu'elle s'inquiétait pour toi.
 <1417> \{観鈴}「そうかなぁ」;;;<1417> Tu penses ?
 <1418> \{\m{A}}「嫌いか？」;;;<1418> Tu la détestes ?
@@ -1421,7 +1421,7 @@
 <1420> \{\m{A}}「あのしゃべりは気圧されるものがあるな…」;;;<1420> Mais quand elle parle, on se sent écrasé...
 <1421> \{観鈴}「そう。だから、考え方もしゃべり方と一緒ですごく強引」;;;<1421> C'est vrai. Sa manière de penser et sa manière de parler sont toutes les deux très intimidantes.
 <1422> \{観鈴}「軟弱なひととか、大嫌い」;;;<1422> Elle hait les faiblards.
-<1423> \{観鈴}「その点、\m{A}さんなら大丈夫」;;;<1423> Mais toi, tu coches les bonnes cases \m{A}-san, alors pas de souci.
+<1423> \{観鈴}「その点、\m{A}さんなら大丈夫」;;;<1423> Mais toi, tu coches les bonnes cases, \m{A}-san, alors pas de souci.
 <1424> \{観鈴}「体大きいし、腕太いし、目つきコワイし」;;;<1424> Tu es grand, tu as de gros bras, et tes yeux font peur.
 <1425> \{\m{A}}「そうか。そら安心だな」;;;<1425> Vraiment ? Ça me rassure.
 <1426> こいつの大丈夫は当てにならないから、本気にするだけ馬鹿を見る。;;;<1426> Il valait mieux ne pas trop se fier à ses 'pas de souci', il serait stupide de les prendre au sérieux.
@@ -1432,11 +1432,11 @@
 <1431> \{観鈴}「わたし思う」;;;<1431> C'est ce que je me suis dit.
 <1432> \{\m{A}}「だろーな」;;;<1432> N'est-ce pas...
 <1433> 俺は毛布を被り、観鈴から顔を背ける。;;;<1433> Je m'enfonçai sous ma couverture, présentant ainsi mon dos à Misuzu.
-<1434> \{\m{A}}「目つきが悪ければ、目が悪いか、本当に人の悪い奴だ」;;;<1434> Si tu vois quelqu'un au regard mauvais, c'est soit qu'il n'a pas de bons yeux, soit c'est vraiment un mauvais gars.
+<1434> \{\m{A}}「目つきが悪ければ、目が悪いか、本当に人の悪い奴だ」;;;<1434> Si tu vois quelqu'un au regard mauvais, c'est soit qu'il n'a pas de bons yeux, soit que c'est vraiment un mauvais gars.
 <1435> \{\m{A}}「これは俺の持論だ」;;;<1435> C'est là ma théorie à deux sous.
-<1436> \{観鈴}「そうかなー。そんなことないと思うよ」;;;<1436> Vraiment— ? Je ne pense pas que ce soit comme ça.
+<1436> \{観鈴}「そうかなー。そんなことないと思うよ」;;;<1436> Vraiment— ? Je ne pense pas que ce soit le cas.
 <1437> \{\m{A}}「そろそろ寝る」;;;<1437> Il est temps de dormir.
-<1438> \{観鈴}「うーん、そうかなぁ。そんなことないと思うけどなぁ」;;;<1438> Hmm... plus j'y pense, plus je me dis que ça ne doit pas être ça.
+<1438> \{観鈴}「うーん、そうかなぁ。そんなことないと思うけどなぁ」;;;<1438> Hmm... plus j'y pense, plus je me dis que ça ne doit pas être le cas.
 <1439> \{観鈴}「………」;;;<1439> .........
 <1440> どうしても、ここで話を終わらせたくないのか、しばらくひとりでぶつぶつと喋っていた。;;;<1440> Elle continua à retourner la question en marmonnant pendant un moment.
 <1441> \{観鈴}「ね、\m{A}さん」;;;<1441> Hé, \m{A}-san.
@@ -1449,26 +1449,26 @@
 <1448> ぎぃ、と納屋の戸が閉まる。;;;<1448> La porte de la remise se ferma en grinçant.
 <1449> そして、しんとなった。;;;<1449> Puis ce fut le silence.
 <1450> ようやく、寝入ることができる。;;;<1450> Je pouvais enfin m'endormir.
-<1451> 俺は足を伸ばして姿勢を楽にする。;;;<1451> Je me détendis, étendis me jambes, et adoptai une posture plus confortable.
+<1451> 俺は足を伸ばして姿勢を楽にする。;;;<1451> J'étendis mes jambes, et adoptai une posture plus confortable.
 <1452> \{\m{A}}（…しかし、せわしい一日だったな）;;;<1452> ... Tout de même, je viens de vivre une journée intense.
 <1453> 心身共に疲れきっている。;;;<1453> J'étais exténué, mentalement comme physiquement.
 <1454> 三秒数えれば眠れそうだった。;;;<1454> Je devrais réussir à m'endormir en comptant jusqu'à trois.
-<1455> \{\m{A}}（１…２…）;;;<1455> 1... 2...
-<1456> \{\m{A}}（…３）;;;<1456> ... 3.
+<1455> \{\m{A}}（１…２…）;;;<1455> Un... Deux...
+<1456> \{\m{A}}（…３）;;;<1456> ... Trois.
 <1457> ぐぅ～…;;;<1457> \bGargouille~\u...
 <1458> 腹が鳴った。;;;<1458> J'entendis mon ventre faire un bruit.
-<1459> 俺は起き出して、家の中に忍び込む。;;;<1459> Je me levai, puis me glissai à l'intérieur de la maison.
-<1460> \{\m{A}}（結局眠れないのか、俺は…）;;;<1460> Après tout ça, je n'arrive toujours pas à dormir, hein...
+<1459> 俺は起き出して、家の中に忍び込む。;;;<1459> Je me levai, puis me faufilai à l'intérieur de la maison.
+<1460> \{\m{A}}（結局眠れないのか、俺は…）;;;<1460> Même après tout ça, je n'arrive pas à dormir, hein...
 <1461> ぐぅ…;;;<1461> \bGargouille\u...
-<1462> …腹減った。;;;<1462> ... Je crevais de faim.
+<1462> …腹減った。;;;<1462> ... Je mourrais de faim.
 <1463> がさごそがさごそ…;;;<1463> \bFouille fouille\u...
-<1464> \{観鈴の母}「なにしとんのや」;;;<1464> Qu'est-ce que tu fiches ?
-<1465> 背後で声がした。;;;<1465> J'entendis une voix derrière moi.
+<1464> \{観鈴の母}「なにしとんのや」;;;<1464> Qu'est-ce qu'tu fiches ?
+<1465> 背後で声がした。;;;<1465> J'entendis une voix dans mon dos.
 <1466> \{\m{A}}「しまった。見つかったか…」;;;<1466> Zut. Pris sur le fait...
 <1467> \{観鈴の母}「電気つけて物音たてて、見つからんとでも思ったんか」;;;<1467> Tu crois qu'tu peux allumer la lumière, faire un boucan pareil, et ne pas t'faire chopper ?
 <1468> \{\m{A}}「こそこそしているよりかはいいと思っただけだ」;;;<1468> Je me suis dit que c'était mieux que de faire ça en douce.
-<1469> \{観鈴の母}「せやな。そういうんはすごく嫌いや」;;;<1469> T'as raison. Ça je déteste.
-<1470> \{観鈴の母}「かといってや、堂々と食べ物を漁られるのが好き、というわけでもあらへん」;;;<1470> Cela dit, j'ai pas dit qu'j'aimais qu'on aille trifouiller dans mon garde-manger comme ça.
+<1469> \{観鈴の母}「せやな。そういうんはすごく嫌いや」;;;<1469> T'as raison. Ça, je déteste.
+<1470> \{観鈴の母}「かといってや、堂々と食べ物を漁られるのが好き、というわけでもあらへん」;;;<1470> Cela dit, j'ai pas dit qu'j'aimais qu'on aille trifouiller dans mon garde-manger, comme ça.
 <1471> \{\m{A}}「それはわかる」;;;<1471> Je comprends.
 <1472> \{観鈴の母}「なら、あんたはどうするんや」;;;<1472> Et donc, tu vas faire quoi maintenant ?
 <1473> がさごそがさごそ…;;;<1473> \bFouille fouille\u...
@@ -1476,7 +1476,7 @@
 <1475> ぽかっ！\shake{1};;;<1475> \bPaf\u ! \shake{1}
 <1476> \{観鈴の母}「そんな選択肢あるかっ！」;;;<1476> Mauvaise réponse !
 <1477> \{\m{A}}「腹が減ってるんだ。見逃せ」;;;<1477> Je meurs de faim. Fais comme si j'étais pas là.
-<1478> \{観鈴の母}「誰に言ってるんや、あんたは。うちはここの家主やで」;;;<1478> Tu me prends pour qui ? C'est à la maîtresse de maison que tu t'adresses, là !
+<1478> \{観鈴の母}「誰に言ってるんや、あんたは。うちはここの家主やで」;;;<1478> Tu m'prends pour qui ? C'est à la maîtresse de maison qu'tu t'adresses, là !
 <1479> \{観鈴の母}「それにちゃんと夕食も食うたんやろ」;;;<1479> T'as même eu droit à un repas complet.
 <1480> \{\m{A}}「麺は消化が良すぎる」;;;<1480> Les nouilles, ça se digère trop vite.
 <1481> \{観鈴の母}「食費、払い」;;;<1481> Si t'en veux plus, t'as qu'à payer.
@@ -1498,15 +1498,15 @@
 <1497> \{\m{A}}「２２番」;;;<1497> Numéro 22.
 <1498> \{観鈴の母}「背番号も聞いてへん。素性を聞いとるんや」;;;<1498> J't'ai pas demandé ton numéro d'maillot, j'ai demandé d'où tu sors.
 <1499> \{\m{A}}「鉄人」;;;<1499> L'homme de fer.
-<1500> \{観鈴の母}「ニックネームも聞いてへん。素性を聞いてるんや」;;;<1500> J't'ai pas demandé ton petit surnom non plus, d'maillot, j'ai demandé d'où tu sors.
+<1500> \{観鈴の母}「ニックネームも聞いてへん。素性を聞いてるんや」;;;<1500> J't'ai pas demandé ton petit surnom non plus, j't'ai demandé d'où tu sors.
 <1501> \{\m{A}}「観鈴のクラスメイト」;;;<1501> Je suis un camarade de classe de Misuzu.
 <1502> \{観鈴の母}「あの子にどんな入れ知恵されとんのや…ったく」;;;<1502> Mais qu'est-ce qu'elle a bien pu t'raconter... Franchement...
 <1503> \{観鈴の母}「しゃあない…じっくり聞かせてもらおか」;;;<1503> Bah, peu importe... allez, raconte-moi d'où tu viens, avec les détails.
 <1504> \{\m{A}}「俺は…」;;;<1504> Je...
 <1505> \{\m{A}}（正直に答える…と言っても、なんて答えればいいんだ？）;;;<1505> Être honnête, je veux bien, mais je lui dis quoi ?
-<1506> 人形使い…いや、旅人…;;;<1506> Je suis marionnettiste... non, un voyageur...
-<1507> いや、さすらう人形使い…;;;<1507> Non, je suis un marionnettiste itinérant...
-<1508> いや…はぐれ人形使い…;;;<1508> Non... un marionettiste pervers...
+<1506> 人形使い…いや、旅人…;;;<1506> Je suis marionnettiste... nan, un voyageur...
+<1507> いや、さすらう人形使い…;;;<1507> Nan, je suis un marionnettiste itinérant...
+<1508> いや…はぐれ人形使い…;;;<1508> Nan... un marionettiste pervers...
 <1509> そう、これだ。;;;<1509> Ouais, c'est ça.
 <1510> \{\m{A}}「はぐれ人形使い純情派」;;;<1510> Un marionnettiste pervers au cœur pur.
 <1511> \{観鈴の母}「………」;;;<1511> .........
@@ -1515,20 +1515,20 @@
 <1514> 今のはオリジナルだ。;;;<1514> Ça, ça venait de moi.
 <1515> \{観鈴の母}「しゃあない…じっくり聞かせてもらおか」;;;<1515> Bah, peu importe... allez, raconte-moi d'où tu viens, avec les détails.
 <1516> もぐもぐ…;;;<1516> \bNom nom\u...
-<1517> 観鈴の母は、夜食を食べる俺の前に座って、酒を飲んでいる。;;;<1517> Assise en face de moi, la mère de Misuzu buvait de l'alcool, pendant que je savourais ma collation nocturne.
+<1517> 観鈴の母は、夜食を食べる俺の前に座って、酒を飲んでいる。;;;<1517> Assise en face de moi, la mère de Misuzu buvait du saké, pendant que je savourais ma collation nocturne.
 <1518> そして俺はその観鈴の母が作ってくれたお茶漬けを食べている。;;;<1518> De mon côté, je mangeais l'ochazuke qu'elle m'avait préparé.
-<1519> 結局は、こうして食べ物にありつけた。;;;<1519> C'est ainsi que je consommais ma pitance.
-<1520> \{\m{A}}（うーむ…案外話がわかるひとじゃないのか）;;;<1520> Ouuaip... en fin de compte, elle était plus raisonnable que prévu.
-<1521> さすが、一子の親といったところか。;;;<1521> J'imaginai que j'aurais pu m'y attendre, de la part d'une femme qui élève sa fille.
+<1519> 結局は、こうして食べ物にありつけた。;;;<1519> C'était ainsi que je consommai ma pitance.
+<1520> \{\m{A}}（うーむ…案外話がわかるひとじゃないのか）;;;<1520> Ouaip... En fin de compte, elle était plus raisonnable que prévu.
+<1521> さすが、一子の親といったところか。;;;<1521> J'aurais pu m'y attendre, de la part d'un parent qui élève sa fille.
 <1522> もぐもぐ…;;;<1522> \bNom nom\u...
 <1523> \{観鈴の母}「うちは晴子いうねん」;;;<1523> On m'appelle Haruko.
 <1524> \{晴子}「年甲斐もないような呼ばれかたされたら嫌やからな。名前で呼びや」;;;<1524> J'aime pas qu'on en fasse trop quand on m'adresse la parole, alors appelle-moi par mon nom.
 <1525> \{\m{A}}「ところで、おばさん。おかわりをくれないか」;;;<1525> Hé ma p'tite dame, je peux avoir du rab ?
 <1526> \{晴子}「何聞いてたんやっ、今あんたはッ！！」;;;<1526> T'es bouché ou quoi ?!!
-<1527> \{晴子}「そう呼ばせへんために、わざわざ遠回しに忠告してやったんやろがっ！」;;;<1527> Je viens d't'expliquer de pas m'appeler comme ça ! Tu le fais exprès ou quoi ?!
-<1528> \{\m{A}}「おい、そこの娘、と呼ぶにも無理があるだろ…」;;;<1528> 'Hé, la fille, là', ça t'irait pas non plus.
-<1529> \{晴子}「そんなことわかっとるわいっ」;;;<1529> Je sais bien !
-<1530> \{晴子}「晴子さん、と呼べ、いうてるんやないかっ」;;;<1530> 'Haruko-san' c'est pas compliqué, hein !?
+<1527> \{晴子}「そう呼ばせへんために、わざわざ遠回しに忠告してやったんやろがっ！」;;;<1527> J'viens d't'expliquer d'pas m'appeler comme ça ! Tu le fais exprès, ma parole ?!
+<1528> \{\m{A}}「おい、そこの娘、と呼ぶにも無理があるだろ…」;;;<1528> 'Hé, la mademoiselle', ça t'irait pas non plus.
+<1529> \{晴子}「そんなことわかっとるわいっ」;;;<1529> J'sais bien !
+<1530> \{晴子}「晴子さん、と呼べ、いうてるんやないかっ」;;;<1530> 'Haruko-san' c'est pas compliqué, si !?
 <1531> \{\m{A}}「晴子さん」;;;<1531> Haruko-san.
 <1532> \{晴子}「そうや」;;;<1532> Voilà.
 <1533> \{\m{A}}「おかわりをくれ」;;;<1533> File-moi du rab.
@@ -1540,7 +1540,7 @@
 <1539> \{晴子}「違うんかいな。せやけど理由もなしに、宿無しにはならんで」;;;<1539> C'est pas ça, mais dans ce cas, tu dois bien avoir une raison d'être à la rue.
 <1540> \{\m{A}}「旅をしてるんだ」;;;<1540> Je suis en voyage.
 <1541> \{晴子}「…やっぱあの子のクラスメイトやないんやな」;;;<1541> Donc t'es pas un camarade de classe de Misuzu, après tout.
-<1542> あ…しまった。;;;<1542> Ah... zut.
+<1542> あ…しまった。;;;<1542> Ah... Zut.
 <1543> \{\m{A}}「旅をするクラスメイトなんだ」;;;<1543> Je suis un camarade de classe en voyage.
 <1544> \{晴子}「んなもんが両立するかいな」;;;<1544> Comment tu peux faire les deux à la fois ?
 <1545> \{\m{A}}「旅をして、しかもクラスメイトなんだ」;;;<1545> Je suis en voyage, mais je suis aussi son camarade de classe.
@@ -1548,70 +1548,70 @@
 <1547> \{晴子}「なんや、夢でも追いかけとるんか？」;;;<1547> Et donc, tu cours après tes rêves, un truc du genre ?
 <1548> \{\m{A}}「………」;;;<1548> .........
 <1549> もうここまでばれたら、隠す必要もなさそうだった。;;;<1549> J'en avais trop dit, ça ne servait plus à rien de lui cacher la vérité.
-<1550> \{\m{A}}「ああ、そうなるな」;;;<1550> Tu peux dire ça.
-<1551> こんな嘘、突き通す気もさらさらなかった。;;;<1551> Ce mensonge avait fait son temps.
+<1550> \{\m{A}}「ああ、そうなるな」;;;<1550> Ouais, on peut dire ça.
+<1551> こんな嘘、突き通す気もさらさらなかった。;;;<1551> Mon mensonge avait fait son temps.
 <1552> \{晴子}「なんや、夢でも追いかけとるんか？」;;;<1552> Et donc, tu cours après tes rêves, un truc du genre ?
 <1553> \{\m{A}}「………」;;;<1553> .........
-<1554> \{\m{A}}「そうかもな」;;;<1554> Tu peux dire ça.
+<1554> \{\m{A}}「そうかもな」;;;<1554> On peut dire ça.
 <1555> \{晴子}「若いんやな」;;;<1555> T'es jeune.
 <1556> \{\m{A}}「あんたよりかはな」;;;<1556> Plus que vous, en tout cas.
 <1557> \{晴子}「………」;;;<1557> .........
 <1558> \{\m{A}}「………」;;;<1558> .........
 <1559> \{晴子}「………」;;;<1559> .........
 <1560> もぐもぐ…;;;<1560> \bNom nom\u...
-<1561> なぜだか空気が気まずくなっている気がする。;;;<1561> C'est moi où l'ambiance était devenue un peu tendue tout à coup ?
-<1562> \{晴子}「…ほんま、面白いやっちゃな、あんた」;;;<1562> T'es vraiment un cas, tu sais.
+<1561> なぜだか空気が気まずくなっている気がする。;;;<1561> C'est moi, où l'ambiance était devenue un peu tendue, tout à coup ?
+<1562> \{晴子}「…ほんま、面白いやっちゃな、あんた」;;;<1562> T'es vraiment un cas, tu sais ?
 <1563> \{\m{A}}「………」;;;<1563> .........
 <1564> \{晴子}「で、なんのために旅しとるんや？」;;;<1564> Et donc, pourquoi t'es en voyage ?
 <1565> \{\m{A}}「………」;;;<1565> .........
 <1566> \{晴子}「なんや、言いたないんか」;;;<1566> Tu veux pas m'répondre ?
 <1567> \{\m{A}}「旅が好きなんだ。道があれば歩きたくなる」;;;<1567> J'adore voyager. Dès que je vois un chemin, je veux le suivre.
-<1568> 適当にはぐらかしておく。;;;<1568> J'essayai d'éviter la question.
+<1568> 適当にはぐらかしておく。;;;<1568> J'essayai d'esquiver la question.
 <1569> \{晴子}「徒歩で旅しとるんか」;;;<1569> Tu voyages à pied ?
 <1570> \{\m{A}}「いや、ここまではバスだったが…」;;;<1570> Non, je suis venu ici en bus.
-<1571> \{晴子}「ほな、バスがあったら、乗りたなるんやな」;;;<1571> Alors dès que je vois un bus, tu veux monter dedans ?
+<1571> \{晴子}「ほな、バスがあったら、乗りたなるんやな」;;;<1571> Alors dès que tu vois un bus, tu veux monter dedans ?
 <1572> \{\m{A}}「いや、駅があれば電車に乗りたいし、タクシーがあれば、涙を流しながら乗るぞ」;;;<1572> Bah, dès que je vois une station, je veux prendre le train. Et dès que je vois un taxi, je monte dedans en versant une larme.
 <1573> \{晴子}「けど、金がないんやな…」;;;<1573> Mais t'as pas d'argent...
 <1574> \{\m{A}}「………」;;;<1574> .........
-<1575> \{\m{A}}「違う…バス代なんていつだって稼げる」;;;<1575> Si... je peux travailler pour payer mon ticket de bus.
-<1576> \{\m{A}}「ただ、余裕を持って出たいからな。しばらくこの町で稼いでいくことにしたんだ」;;;<1576> Ce que je veux, c'est avoir quelques économies en réserve. C'est pour ça que je vais me faire quelques sous dans ce village.
+<1575> \{\m{A}}「違う…バス代なんていつだって稼げる」;;;<1575> Si... Je peux travailler pour payer mon ticket de bus.
+<1576> \{\m{A}}「ただ、余裕を持って出たいからな。しばらくこの町で稼いでいくことにしたんだ」;;;<1576> Ce que je veux, c'est avoir quelques économies en réserve. C'est pour ça que je vais me faire un peu de sous dans ce village.
 <1577> \{晴子}「そうかー。ほな、二、三日後にはハイヤーでさっさかさーと次の町やな」;;;<1577> Vraiment— ? Et puis dans deux-trois jours, te trouver un hep-là pour t'emmener au prochain village ?
 <1578> \{\m{A}}（ハイヤーってなんだ…）;;;<1578> C'est quoi un 'hep-là'...?
-<1579> \{\m{A}}（馬だろうか。ハイヤーッ！と鞭を打つところから由来する…）;;;<1579> Un truc avec les chevaux ? Comme quand il se cabre et que tu cries 'holà'...?
+<1579> \{\m{A}}（馬だろうか。ハイヤーッ！と鞭を打つところから由来する…）;;;<1579> Un truc avec les chevaux ? Comme quand il se cabre et que tu cries 'hep-là !'...?
 <1580> \{晴子}「ちなみにな、電車は無理やで」;;;<1580> Tant qu'on y est, sache qu'tu peux pas prendre le train, ici.
-<1581> \{晴子}「駅見てきたら、わかるわ」;;;<1581> Tu comprendras quand tu verras la station.
-<1582> \{\m{A}}（カウボーイ・\m{A}。カッコイイかもな…）;;;<1582> \m{A} le cowboy. La classe...
+<1581> \{晴子}「駅見てきたら、わかるわ」;;;<1581> Tu comprendras quand tu verras la gare.
+<1582> \{\m{A}}（カウボーイ・\m{A}。カッコイイかもな…）;;;<1582> \b\m{A} the cowboy\u. La classe...
 <1583> \{晴子}「で、あんた、職業はなんなんや？」;;;<1583> Et c'est comment qu'tu gagnes ta vie ?
 <1584> \{\m{A}}「もちろんガンマンだ」;;;<1584> À coups de pistolet, ça va de soi.
 <1585> \{晴子}「………」;;;<1585> .........
 <1586> \{\m{A}}「嘘だ」;;;<1586> C'est faux.
 <1587> \{晴子}「もう、なんでもええわ…」;;;<1587> En fait, peu importe...
-<1588> 呆れられたようだ…。;;;<1588> Elle avait l'air exaspérée...
+<1588> 呆れられたようだ…。;;;<1588> Elle avait l'air exaspéré...
 <1589> \{晴子}「ほなとりあえずは、しばらく宿が必要になるんやな」;;;<1589> Et du coup, t'as besoin d'une piaule pour passer la nuit, c'est ça ?
 <1590> \{\m{A}}「そうだな…そうなる」;;;<1590> C'est ça... c'est cela.
 <1591> \{晴子}「…ちゃんと家のルールを守るんやったら、構わへんけど」;;;<1591> ... Tant que tu respectes bien les règles de la maison, ça m'dérange pas. 
-<1592> \{\m{A}}「マジか」;;;<1592> Pour de vrai ?
+<1592> \{\m{A}}「マジか」;;;<1592> Sérieux ?
 <1593> \{晴子}「ああ。ええよ」;;;<1593> Ouais, pour de vrai.
 <1594> \{晴子}「男手がないしな、この家は」;;;<1594> Un homme, ça peut toujours servir dans une maison.
 <1595> \{晴子}「それに、あんたのことは観鈴も信用しとるみたいや」;;;<1595> Et puis, Misuzu te fait confiance.
 <1596> \{晴子}「ま、あの子のは単なる物好きやから、あんまあてにはならんけど…」;;;<1596> Mais bon, connaissant les goûts de cette fille, je sais pas si j'dois lui faire confiance...
-<1597> \{晴子}「今は、信用しといたるわ」;;;<1597> Mais pour l'instant, je t'fais confiance.
-<1598> \{晴子}「あんた、ぶっきらぼうやけど、悪いやつには見えへんからな」;;;<1598> Tes manières sont à revoir, mais tu m'as pas l'air d'une mauvaise personne.
+<1597> \{晴子}「今は、信用しといたるわ」;;;<1597> Mais pour l'instant, j'te fais confiance.
+<1598> \{晴子}「あんた、ぶっきらぼうやけど、悪いやつには見えへんからな」;;;<1598> Tes manières sont à revoir, mais tu m'as pas l'air d'être une mauvaise personne.
 <1599> \{晴子}「うち、こう見えても、ひとを見る目はあるつもりや」;;;<1599> J'me débrouille pas mal pour juger les gens au premier coup d'œil.
 <1600> \{\m{A}}「………」;;;<1600> .........
-<1601> \{晴子}「その代わり」;;;<1601> En échange.
+<1601> \{晴子}「その代わり」;;;<1601> En échange...
 <1602> もぐもぐ…;;;<1602> \bNom nom\u...
-<1603> \{晴子}「見ての通り、仕事が夜型で、あの子の面倒、あんまり見れへんのや」;;;<1603> Comme t'as pu le constater, je bosse la nuit, alors j'peux pas trop m'occuper d'cette fille.
-<1604> \{晴子}「もうすぐ夏休みやろ。特に心配な時期や」;;;<1604> C'est bientôt les vacances d'été. J'sais pas c'que j'vais bien pouvoir faire d'elle pendant cette période.
-<1605> \{晴子}「あの子、そそっかしいし、鉄砲玉のようなとこあるからな」;;;<1605> Elle devient  une vraie pile électrique prête à partir dans tous sens pendant cette période.
+<1603> \{晴子}「見ての通り、仕事が夜型で、あの子の面倒、あんまり見れへんのや」;;;<1603> Comme t'as pu l'constater, je bosse la nuit, alors j'peux pas trop m'occuper d'cette fille.
+<1604> \{晴子}「もうすぐ夏休みやろ。特に心配な時期や」;;;<1604> C'est bientôt les vacances d'été. J'sais pas c'que j'vais bien pouvoir faire d'elle pendant c'te période.
+<1605> \{晴子}「あの子、そそっかしいし、鉄砲玉のようなとこあるからな」;;;<1605> Durant cette période, elle devient une vraie pile électrique, prête à partir dans tous les sens.
 <1606> \{晴子}「なんか面白そうなもん見つけたら、ぴゅーって飛んでいくねん」;;;<1606> Suffit qu'elle voie un truc qui stimule sa curiosité pour qu'elle lui saute dessus.
 <1607> \{晴子}「あんた、頼まれてくれるか」;;;<1607> J'peux t'demander d't'occuper d'elle ?
 <1608> \{\m{A}}「なにをだ」;;;<1608> En faisant quoi ?
-<1609> \{晴子}「あの子のそばにいてくれるだけでええ」;;;<1609> Reste juste près d'elle.
-<1610> \{\m{A}}「お守りか…」;;;<1610> Un babysitter, hein...
-<1611> \{晴子}「アホなことしそうになったら、頭ひっぱたくだけでええから」;;;<1611> Si elle tente de faire un truc stupide, tu règles ça avec un bon coup sur sa tête.
+<1609> \{晴子}「あの子のそばにいてくれるだけでええ」;;;<1609> Reste juste à ses côtés.
+<1610> \{\m{A}}「お守りか…」;;;<1610> Un babysitter, hein...?
+<1611> \{晴子}「アホなことしそうになったら、頭ひっぱたくだけでええから」;;;<1611> Si elle tente d'faire un truc stupide, tu règles ça avec un bon coup sur sa tête.
 <1612> どうせ、この母親は昼間はいないから、あいつと一緒にいるかどうかなんて、確かめようもない。;;;<1612> Sa mère étant absente la journée, elle n'aurait aucun moyen de la surveiller.
-<1613> 今は口約束だけでもして、宿を確保するのが得策と思えた。;;;<1613> Je me dis que pour l'instant, le choix le plus sage si je voulais garantir un logement était de m'y engager.
+<1613> 今は口約束だけでもして、宿を確保するのが得策と思えた。;;;<1613> Je me dis que pour l'instant, le choix le plus sage si je voulais garantir un logement, était de m'y engager.
 <1614> \{\m{A}}「おやすいご用だ」;;;<1614> Vous pouvez dormir tranquille.
 <1615> \{晴子}「そうか。助かるわ」;;;<1615> Vraiment ? Tu m'sauves la vie.
 <1616> もぐもぐ…;;;<1616> \bNom nom\u...
@@ -1633,15 +1633,15 @@
 <1632> \{晴子}「この歳になっても、治ってへん」;;;<1632> Même à cet âge, elle n'a jamais arrêté.
 <1633> \{晴子}「今でも子供や、あの子は」;;;<1633> Elle se prend encore pour un enfant.
 <1634> \{\m{A}}「………」;;;<1634> .........
-<1635> あいつらしいというか…本当おかしな奴だ。;;;<1635> Ça lui ressemblait bien... quel drôle de numéro.
+<1635> あいつらしいというか…本当おかしな奴だ。;;;<1635> Ça lui ressemblait bien... Quel drôle de numéro.
 <1636> \{晴子}「なんや、笑（わろ）とるんかいな」;;;<1636> Qu'est-ce qu'il y a ? Tu t'marres ?
 <1637> \{\m{A}}「あいつはおかしい」;;;<1637> Elle est marrante.
 <1638> \{晴子}「あの子も、あんたには言われたないやろな」;;;<1638> Elle aussi doit se dire que t'es marrant.
 <1639> \{晴子}「あんたら、よう似てるわ」;;;<1639> Vous deux, vous vous ressemblez.
 <1640> \{晴子}「さて…」;;;<1640> Allez...
-<1641> 俺が食い終わると、それを待っていたかのように晴子が空のコップを俺の前に置いた。;;;<1641> Haruko attendit que j'eus fini de manger, puis posa un verre vide devant moi.
+<1641> 俺が食い終わると、それを待っていたかのように晴子が空のコップを俺の前に置いた。;;;<1641> Haruko attendit que j'eusse fini de manger, puis posa un verre vide devant moi.
 <1642> \{晴子}「飲もか」;;;<1642> On boit ?
-<1643> \{\m{A}}「まだ飲むのか？  ずっと今まで飲んでいたじゃないか、あんた」;;;<1643> Tu vas encore boire ? T'as fait que boire jusque là.
+<1643> \{\m{A}}「まだ飲むのか？  ずっと今まで飲んでいたじゃないか、あんた」;;;<1643> Tu vas encore boire ? T'as fait que boire jusque-là.
 <1644> \{晴子}「あほ。これからやないか」;;;<1644> Idiot. C'était juste l'échauffement.
 <1645> \{\m{A}}「いつも何時ぐらいまで飲んでるんだ？」;;;<1645> Tu arrêtes de boire à quelle heure, d'habitude ?
 <1646> \{晴子}「夜が明けるまでや」;;;<1646> Quand l'soleil se lève.
@@ -1652,9 +1652,9 @@
 <1651> 飲めない;;;<1651> Je ne bois pas
 <1652> \{\m{A}}「まぁ…飲めるが」;;;<1652> Bah... je bois, mais...
 <1653> \{晴子}「よっしゃ。やっぱ男は酒ぐらい飲めんとなー」;;;<1653> Parfait ! Un homme comme toi, ça tient bien l'alcool, hein— ?
-<1654> とぽとぽと酒を注ぎ始める。;;;<1654> Dit-elle en versant du saké.
+<1654> とぽとぽと酒を注ぎ始める。;;;<1654> dit-elle en versant du saké.
 <1655> \{晴子}「よっしゃ飲め」;;;<1655> Allez, bois !
-<1656> そして、ずいっと、一升瓶を押して寄こした。;;;<1656> Dit-elle avant de me refiler la bouteille entière.
+<1656> そして、ずいっと、一升瓶を押して寄こした。;;;<1656> dit-elle avant de me refiler la bouteille entière.
 <1657> \{\m{A}}「………」;;;<1657> .........
 <1658> \{\m{A}}「…俺のコップ」;;;<1658> ... et mon verre ?
 <1659> \{晴子}「あほぅ。これはうちの分や。あんたはそれ」;;;<1659> Mais quel idiot ! Le verre, c'est pour moi. Toi t'as ça.
@@ -1662,13 +1662,13 @@
 <1661> \{晴子}「それ空けてくれたら、新しい一升瓶出すわ」;;;<1661> Vide-moi tout ça, puis j'en sortirai une autre !
 <1662> \{\m{A}}「………」;;;<1662> .........
 <1663> 飲むのか、これを…;;;<1663> Je devais vraiment boire tout ça ?
-<1664> \{\m{A}}「待て。飲めるとは言ったが、飲むとは言ってないぞ」;;;<1664> Attends un peu. J'ai dit que je pouvais boire, j'ai pas dit que je le ferai.
+<1664> \{\m{A}}「待て。飲めるとは言ったが、飲むとは言ってないぞ」;;;<1664> Attends un peu. J'ai dit que je pouvais boire, j'ai pas dit que je le ferais.
 <1665> \{晴子}「飲めるってことは、飲むっていうことや」;;;<1665> T'as dit que tu pouvais boire, alors tu vas boire.
 <1666> \{\m{A}}「どういうことだよ…」;;;<1666> C'est quoi cette logique...
-<1667> \{\m{A}}「しかし、一升瓶ってのはいくらなんでも…」;;;<1667> Et de toute façon, je pourrai jamais boire tout ça.
+<1667> \{\m{A}}「しかし、一升瓶ってのはいくらなんでも…」;;;<1667> Et de toute façon, je pourrais jamais boire tout ça.
 <1668> \{晴子}「なんや、ラッパのみは嫌か？」;;;<1668> Qu'est-ce qu'il y a ? Ça te dérange de boire à la bouteille ?
 <1669> \{\m{A}}「そういう問題じゃない」;;;<1669> C'est pas ça le problème.
-<1670> \{晴子}「しゃあないなぁ…ほな、うちが口移しで飲ませたろ」;;;<1670> C'est pas ça le problème.... je vois... alors, dans ce cas, ça ne te dérangera pas de boire directement depuis ma bouche ?
+<1670> \{晴子}「しゃあないなぁ…ほな、うちが口移しで飲ませたろ」;;;<1670> 'C'est pas ça le problème'... Je vois... alors, dans ce cas, ça n'te dérangera pas de boire directement depuis ma bouche ?
 <1671> お願いします;;;<1671> S'il vous plaît
 <1672> 冗談じゃない;;;<1672> Tu plaisantes, j'espère
 <1673> \{\m{A}}「お願いします」;;;<1673> S'il vous plaît.
@@ -1682,17 +1682,17 @@
 <1681> \{晴子}「呼んでも出てこうへんよ」;;;<1681> Tu peux l'appeler, mais il viendra pas.
 <1682> \{晴子}「それにあんまり騒ぐと、あの子が起きてくるで」;;;<1682> Et puis, ton boucan risque de la réveiller.
 <1683> \{\m{A}}「それがどうした」;;;<1683> Et donc ?
-<1684> \{晴子}「そうなったら、うち、ちくるねん。あんたが、口移しで酒飲ませろ、言うたって」;;;<1684> Si tu la réveilles, j'lui dirai que tu m'as forcée à t'faire boire du saké depuis ma bouche.
+<1684> \{晴子}「そうなったら、うち、ちくるねん。あんたが、口移しで酒飲ませろ、言うたって」;;;<1684> Si tu la réveilles, j'lui dirai qu'tu m'as forcée à t'faire boire du saké depuis ma bouche.
 <1685> \{\m{A}}「嘘はよせ」;;;<1685> Les bobards, ça suffit !
-<1686> \{晴子}「でも、お願いしますって言うたやん」;;;<1686> Pourtant t'as dit 's'il vous plaît'.
+<1686> \{晴子}「でも、お願いしますって言うたやん」;;;<1686> Pourtant, t'as bien dit 's'il vous plaît'.
 <1687> \{\m{A}}「………」;;;<1687> .........
 <1688> 俺は考えもなしに答えてしまったことを悔やんだ。;;;<1688> Je regrettai d'avoir dit ça sans réfléchir.
 <1689> どんっ、と目の前に一升瓶が置かれる。;;;<1689> Elle posa brutalement la bouteille devant moi.
 <1690> \{晴子}「飲むねんな？」;;;<1690> Tu vas bien boire un peu ?
-<1691> \{\m{A}}「ああ、飲んでやるよ」;;;<1691> Allez, je vais faire ça.
+<1691> \{\m{A}}「ああ、飲んでやるよ」;;;<1691> Ouais, j'vais boire.
 <1692> \{\m{A}}「とことんまでな…」;;;<1692> Jusqu'à la dernière goutte...
 <1693> 腹をくくるしかなかった。;;;<1693> Je me résignai à mon sort.
-<1694> \{\m{A}}「冗談じゃないぞ」;;;<1694> Tu plaisantes, j'espère
+<1694> \{\m{A}}「冗談じゃないぞ」;;;<1694> Tu plaisantes, j'espère ?
 <1695> \{晴子}「あ、ショックや…うちの大胆発言、一蹴しよってからに…」;;;<1695> Ah, tu me brises le cœur ! Pourquoi rejeter mes avances avec une telle violence...
 <1696> \{\m{A}}「普通、するだろ」;;;<1696> C'est juste la réaction normale.
 <1697> \{\m{A}}「それにあんたは酔ってるんだよ。そもそも結婚してるんだろ」;;;<1697> De toute façon, t'es déjà soule. Et d'ailleurs, t'es mariée, non ?
@@ -1710,7 +1710,7 @@
 <1709> \{晴子}「おやすみや～」;;;<1709> Bonne nuit~.
 <1710> 一升瓶を持って、晴子が部屋を出ていった。;;;<1710> Une bouteille à la main, Haruko quitta la pièce.
 <1711> \{\m{A}}「………」;;;<1711> .........
-<1712> 苦労するかと思いきや、案外簡単に切り抜けられた。;;;<1712> Je pensais que j'allais passer un sale quart d'heure, mais je m'en suis sorti sans trop de dégâts, surprenamment.
+<1712> 苦労するかと思いきや、案外簡単に切り抜けられた。;;;<1712> J'avais pensé que que passerais un sale quart d'heure, mais je m'en étais sorti sans trop de dégâts, surprenamment.
 <1713> \{\m{A}}「ふぅ…」;;;<1713> Fiou...
 <1714> 体を横にする。ひどく疲れていた。;;;<1714> Je m'étendis par terre. J'étais mort de fatigue.
 <1715> 目を閉じるとすぐさま、眠りは訪れた。;;;<1715> Il suffit que je ferme les yeux pour que le sommeil m'emportât.
@@ -1722,11 +1722,11 @@
 <1721> \{\m{A}}「そろそろ俺は…」;;;<1721> Je crois qu'il est temps pour moi...
 <1722> \{晴子}「恥ずかしい告白のコーナー～」;;;<1722> C'est parti pour la Chronique des Confessions Gênantes~ !
 <1723> \{\m{A}}「寝ようと思うんだが…」;;;<1723> ... d'aller me coucher...
-<1724> \{晴子}「恥ずかしい告白するほうと、それ聞きながら、飲み続けるほう、どっちがええ？」;;;<1724> T'as l'choix entre être celui qui déballe des aveux gênants, ou celui qui écoute en buvant ?
+<1724> \{晴子}「恥ずかしい告白するほうと、それ聞きながら、飲み続けるほう、どっちがええ？」;;;<1724> T'as l'choix entre être celui qui déballe des aveux gênants, ou celui qui écoute en buvant. Alors ?
 <1725> \{\m{A}}「どっちも嫌だ」;;;<1725> Ni l'un ni l'autre.
-<1726> \{晴子}「どっちも嫌やったら、飲み続けながら恥ずかしい過去を告白するねん」;;;<1726> Eh ben vu que t'arrives pas à choisir, tu vas nous ressasser des expériences embarrassantes tout en buvant !
+<1726> \{晴子}「どっちも嫌やったら、飲み続けながら恥ずかしい過去を告白するねん」;;;<1726> Eh ben vu qu't'arrives pas à choisir, tu vas nous ressasser des expériences embarrassantes tout en buvant !
 <1727> \{\m{A}}「飲む…」;;;<1727> Je vais boire...
-<1728> \{晴子}「あんたイヤラシイな～。うちの恥ずかしい過去、聞きたいねんな～」;;;<1728> Mais regardez-moi ce crado~. Tu tiens tant que ça à ce que je te raconte mes histoires incommodantes~ ?
+<1728> \{晴子}「あんたイヤラシイな～。うちの恥ずかしい過去、聞きたいねんな～」;;;<1728> Mais regardez-moi ce crado~. Tu tiens tant qu'ça à c'que j'te raconte mes histoires incommodantes~ ?
 <1729> \{晴子}「男はみんなケダモノや。イヤや、イヤや～」;;;<1729> Les hommes sont tous des animaux ! Beurk ! Beurk~ !
 <1730> \{晴子}「ほな、始めるで～」;;;<1730> Alors, c'est parti~ !
 <1731> 彼女は絶好調だ。;;;<1731> Elle était d'humeur radieuse.
@@ -1734,49 +1734,49 @@
 <1733> ……。;;;<1733> .......
 <1734> …。;;;<1734> ....
 <1735> \{晴子}「…そしたら、その男、最後にこう言うたんや」;;;<1735> ... et alors, le mec à la fin, il m'a dit :
-<1736> \{晴子}「結局惚れていたのは、僕のほうなのかもしれない…って」;;;<1736> 'Après toutes nos aventures, 'j'ai réalisé que c'était moi qui étais tombé amoureux de toi'.
-<1737> \{晴子}「な、どうや？  どう思う！？」;;;<1737> Hé, hé, t'en penses quoi ?!
+<1736> \{晴子}「結局惚れていたのは、僕のほうなのかもしれない…って」;;;<1736> 'Après toutes nos aventures, j'ai réalisé que c'était moi qui étais tombé amoureux de toi'.
+<1737> \{晴子}「な、どうや？  どう思う！？」;;;<1737> Alors ? Qu'est-ce qu'tu dis d'ça !?
 <1738> \{晴子}「これってうちの勝ちやろ！？」;;;<1738> Ça veut dire que j'avais gagné, non ?!
 <1739> \{晴子}「だから、うち、言い返したったわ」;;;<1739> Alors du coup, moi j'lui ai lancé :
-<1740> \{晴子}「逃がした魚は…人魚やで」;;;<1740> 'Le poisson que tu as laissé filer... c'était une sirène'.
-<1741> \{晴子}「どないやーっ！  これ効いたやろーっっ！」;;;<1741> Qu'est-ce que tu dis d'ça ?! En plein dans le mille— !!! 
-<1742> \{晴子}「うちが、人魚さんいうことやーっ！」;;;<1742> J'lui ai dit que j'étais une sirène— !!
+<1740> \{晴子}「逃がした魚は…人魚やで」;;;<1740> 'Le poisson que tu as laissé filer... était une sirène'.
+<1741> \{晴子}「どないやーっ！  これ効いたやろーっっ！」;;;<1741> Qu'est-ce que tu dis d'ça ?!! En plein dans l'mille— !!! 
+<1742> \{晴子}「うちが、人魚さんいうことやーっ！」;;;<1742> J'lui ai dit qu'j'étais une sirène— !!
 <1743> ますます絶好調だ。;;;<1743> Elle était de plus en plus en forme.
 <1744> \{\m{A}}「しかし、その話…」;;;<1744> Mais... à propos...
 <1745> 俺は酒を飲まないで済ませるために、口を挟む。;;;<1745> Dans l'espoir de pourvoir m'arrêter de boire, je l'interrompis.
 <1746> \{\m{A}}「最後のセリフを間違ってなければ、あんたとそいつはうまくいってたんじゃないのか？」;;;<1746> Si t'avais pas tout foiré avec cette dernière phrase, tout se serait bien passé et t'aurais fini avec lui, non ?
 <1747> \{晴子}「………」;;;<1747> .........
 <1748> \{晴子}「間違いってなんや。うちは最強のセリフを言ったつもりやで」;;;<1748> J'ai rien foiré du tout. J'ai donné le coup de grâce avec ma phrase la plus mortelle.
-<1749> \{\m{A}}「そうか…なら、合ってるんだな」;;;<1749> Je vois... dit comme ça, ça fait sens.
-<1750> \{晴子}「おかしなこと言うなや」;;;<1750> Ça suffit cette discussion ridicule !
+<1749> \{\m{A}}「そうか…なら、合ってるんだな」;;;<1749> Je vois... Dit comme ça, ça fait sens.
+<1750> \{晴子}「おかしなこと言うなや」;;;<1750> Ça suffit, cette discussion ridicule !
 <1751> \{晴子}「相手はそれで、うっすら涙浮かべて去っていったわ」;;;<1751> Et après ça, le gars est parti au bord des larmes.
 <1752> \{晴子}「惨めな姿やったでぇ！」;;;<1752> Il avait l'air tellement minable !
 <1753> \{晴子}「さぁ、次は本日のメインコーナー！」;;;<1753> Allez, c'est l'heure de la partie que vous attendiez tous !
 <1754> \{晴子}「エロティックな告白コーナー！」;;;<1754> La Chronique des Confessions Érotiques !
 <1755> \{晴子}「あかん…タイトル言っただけで、体が熱うなってきたわ…」;;;<1755> Mince... rien qu'à dire le titre, j'commence à avoir chaud...
 <1756> \{\m{A}}「あんたは変態かっ」;;;<1756> T'es un pervers ou quoi ?
-<1757> \{晴子}「話すほうと、飲むほうどっちがええ？」;;;<1757> Tu veux parler ou boire ??? Au choix.
+<1757> \{晴子}「話すほうと、飲むほうどっちがええ？」;;;<1757> Tu veux parler, ou boire ? Au choix.
 <1758> \{\m{A}}「どっちも嫌だ」;;;<1758> Ni l'un ni l'autre.
 <1759> \{晴子}「どっちも嫌やったら、裸になってクネクネ踊るねん」;;;<1759> Vu que t'arrives pas à t'décider, fous-toi à poil et remue tes fesses.
 <1760> \{\m{A}}「飲む…」;;;<1760> Je vais boire...
-<1761> \{晴子}「あんた、ほんまイヤラシイな～！  うちのエロティックな話聞きたいねんな～っ！？」;;;<1761> Mais regardez-moi ce crado~ ! Tu tiens tant que ça à ce que je te raconte mes aventures érotiques~ ?!
+<1761> \{晴子}「あんた、ほんまイヤラシイな～！  うちのエロティックな話聞きたいねんな～っ！？」;;;<1761> Mais regardez-moi ce crado~ ! Tu tiens tant que ça à c'que j'te raconte mes aventures érotiques~ ?!
 <1762> \{\m{A}}「かなり興味はないが、仕方ないだろ…」;;;<1762> Je peux pas dire que je sois intéressé... mais j'ai pas trop l'air d'avoir le choix...
 <1763> \{晴子}「ええねんええねん、男はみんなそんなもんやーっ！」;;;<1763> Sois pas gêné, sois pas gêné ! Les hommes sont tous comme ça— !!
 <1764> ………。;;;<1764> ..........
 <1765> ……。;;;<1765> .......
 <1766> …。;;;<1766> ....
-<1767> \{晴子}「こら、居候ーっ！  なに寝とるんやーっ！  クネクネ踊りたいんかーっ！」;;;<1767> Hé, oh— !! Le pique-assiettes, là— !! Tu crois que tu peux dormir ?! Tu veux remuer tes fesses— ?!!
+<1767> \{晴子}「こら、居候ーっ！  なに寝とるんやーっ！  クネクネ踊りたいんかーっ！」;;;<1767> Hé, oh— !! Le pique-assiettes, là— !! Tu crois qu'tu peux dormir ?! Tu veux remuer tes fesses— ?!!
 <1768> \{\m{A}}「お、起きてる…」;;;<1768> J-je suis éveillé.
-<1769> \{晴子}「どこまで話したか、言うてみい」;;;<1769> Qu'est-ce que j'étais en train de dire. Allez, accouche.
+<1769> \{晴子}「どこまで話したか、言うてみい」;;;<1769> Qu'est-ce que j'étais en train de dire ? Allez, accouche.
 <1770> \{\m{A}}「晴子が、裸になってクネクネ踊り出したところ…」;;;<1770> Tu disais que tu allais te déshabiller et remuer les fesses...
 <1771> \{晴子}「うちがそんなことするかいっっ！」;;;<1771> Pourquoi j'ferais un truc pareil ?!!
-<1772> \{晴子}「相手の男が、うちを口説きだしたところやーっ」;;;<1772> J'étais au moment où l'gars était en train de me supplier— !
-<1773> 結局、自慢話だった…。;;;<1773> Elle est juste en train de se la ramener...
+<1772> \{晴子}「相手の男が、うちを口説きだしたところやーっ」;;;<1772> J'étais au moment où l'gars était en train d'me supplier— !
+<1773> 結局、自慢話だった…。;;;<1773> Elle était juste en train de se la ramener...
 <1774> ………。;;;<1774> ..........
 <1775> ……。;;;<1775> .......
 <1776> …。;;;<1776> ....
 <1777> \{晴子}「次はちょっと泣ける感動の思い出告白コーナーやーっ！」;;;<1777> Et maintenant ! La Chronique des Souvenirs Qui Vont Vous Donner Envie de Pleurer— !!
-<1778> \{晴子}「こら、寝るなーっ！  人の話聞かんかいーっ！」;;;<1778> Hé toi ! Dors pas— !! Écoute les gens quand ils te parlent— !!
+<1778> \{晴子}「こら、寝るなーっ！  人の話聞かんかいーっ！」;;;<1778> Hé toi ! Dors pas— !! Écoute les gens quand ils t'parlent— !!
 <1779> \{\m{A}}「晴子が、クネクネ踊って、熊を追っ払ったところ…」;;;<1779> T'étais au moment où tu remuais tes fesses pour faire fuir un ours...
 <1780> \{晴子}「そんなん泣けるかいーっ！」;;;<1780> Qui va pleurer en écoutant ça— ?!!
 <1781> \{\m{A}}「飲めない」;;;<1781> Je ne bois pas.
@@ -1789,7 +1789,7 @@
 <1788> \{\m{A}}「飲めないんだ、一滴も」;;;<1788> Je ne bois pas. Même pas une goutte.
 <1789> \{晴子}「がんばっても、飲まれへんのん？」;;;<1789> Même en faisant un effort ?
 <1790> \{\m{A}}「ああ、がんばっても飲めない」;;;<1790> Ouais. Même en faisant un effort, je supporte pas l'alcool.
-<1791> \{晴子}「とにかく一杯や。一杯飲んでみ。それであかんかったら、うちももう薦めへんさかい」;;;<1791> Alors dans ce cas, juste un verre. Si t'arrives à boire un verre, j'arrêterai de t'forcer.
+<1791> \{晴子}「とにかく一杯や。一杯飲んでみ。それであかんかったら、うちももう薦めへんさかい」;;;<1791> Alors dans ce cas, juste un verre. Si t'arrives à boire un verre, j'arrêterai d'te forcer.
 <1792> \{\m{A}}「………」;;;<1792> .........
 <1793> 飲んで、気持ちが悪くなった振りをすればいいだろう…。;;;<1793> Je vais boire un coup, faire semblant que c'est immonde, et puis ça suffira...
 <1794> 俺はコップに注がれた酒に口をつける。;;;<1794> J'amenai la coupe de saké à ma bouche.
@@ -1797,7 +1797,7 @@
 <1796> ぐっ…！;;;<1796> \bGloups\u...!
 <1797> 一気にあおる。;;;<1797> En un trait.
 <1798> \{\m{A}}「………」;;;<1798> .........
-<1799> 別にこれぐらいで酔うことはないんだが…。;;;<1799> C'est pas avec ça que je deviendrai ivre, mais...
+<1799> 別にこれぐらいで酔うことはないんだが…。;;;<1799> C'était pas avec ça que je deviendrais ivre, mais...
 <1800> ぶっ倒れる;;;<1800> S'effondrer
 <1801> 晴子に絡む;;;<1801> Importuner Haruko
 <1802> 俺はその場にうつぶせに倒れる。;;;<1802> Je me laissai tomber sur place.
@@ -1806,50 +1806,50 @@
 <1805> \{晴子}「冷静なつぶれ方やな…」;;;<1805> Tu m'as pas l'air si éméché que ça...
 <1806> \{晴子}「あんた芝居ヘタやで」;;;<1806> T'es naze à jouer à comédie.
 <1807> \{\m{A}}「………」;;;<1807> .........
-<1808> \{晴子}「飲めるんやろ？  飲も」;;;<1808> Tu vas boire, hein . Allez.
+<1808> \{晴子}「飲めるんやろ？  飲も」;;;<1808> Tu vas boire, hein ? Allez.
 <1809> \{\m{A}}「………」;;;<1809> ..........
 <1810> \{晴子}「うりうり」;;;<1810> Hop-là.
 <1811> 鼻の穴に指を突っ込まれる。;;;<1811> Elle fourra ses doigts dans mes narines.
-<1812> \{\m{A}}（我慢…我慢…）;;;<1812> Sois patient... sois patient...
-<1813> さらに口も、手のひらで押さえられる。;;;<1813> Et comme si ça ne suffisait pas, elle bloqua ma bouche de sa paume.
-<1814> \{\m{A}}（我慢…我慢…）;;;<1814> Sois patient... sois patient...
+<1812> \{\m{A}}（我慢…我慢…）;;;<1812> Sois patient... Sois patient...
+<1813> さらに口も、手のひらで押さえられる。;;;<1813> Et comme si ça ne suffisait pas, elle bloqua ma bouche avec sa paume.
+<1814> \{\m{A}}（我慢…我慢…）;;;<1814> Sois patient... Sois patient...
 <1815> ………。;;;<1815> ..........
 <1816> ……。;;;<1816> .......
 <1817> \{\m{A}}「って、窒息するだろっ！」;;;<1817> Oh ! J'étouffe, là !
 <1818> 俺は晴子の手を振り払って、飛び起きる。;;;<1818> Je dégageai la main de Haruko, puis bondis sur mes deux jambes.
 <1819> \{晴子}「うちも今、ちょっと恐かったわ…」;;;<1819> Tu m'as fait peur, là...
-<1820> \{\m{A}}「なら、やめればいいだろっ」;;;<1820> Dans ce cas, t'aurais dû arrêter alors !
+<1820> \{\m{A}}「なら、やめればいいだろっ」;;;<1820> T'avais qu'à arrêter !
 <1821> \{晴子}「そんなん、おもろないやん」;;;<1821> Mais ç'aurait pas été drôle.
-<1822> 平然と言ってのける。;;;<1822> Elle disait ça d'un ton calme.
+<1822> 平然と言ってのける。;;;<1822> dit-elle d'un ton calme.
 <1823> \{\m{A}}（やっかいな女だぞ、こいつは…）;;;<1823> Elle vous attire les ennuis, celle-là...
 <1824> \{晴子}「顔もぜんぜん赤くなってへん。ほんまは強いんやろ？」;;;<1824> Et ton visage n'a même pas rougi. Sois honnête, tu tiens bien l'alcool, en fait ?
 <1825> \{\m{A}}「疲れてるんだよ。休ませろ」;;;<1825> J'suis épuisé. Laisse-moi me reposer.
-<1826> \{晴子}「別に仕事もしてへんくせに。どれだけ遅う起きてもかまへんやん」;;;<1826> De toute façon, t'as même pas de boulot. Tu peux dormir jusqu'à quand tu veux.
+<1826> \{晴子}「別に仕事もしてへんくせに。どれだけ遅う起きてもかまへんやん」;;;<1826> De toute façon, t'as même pas d'boulot. Tu peux dormir jusqu'à quand tu veux.
 <1827> \{\m{A}}「あんたは仕事だろ」;;;<1827> Mais toi, tu travailles, non ?
 <1828> \{晴子}「うちはちゃんと、夜が明けたら寝るねん」;;;<1828> Moi, je me couche toujours à la bonne heure, c'est-à-dire quand le soleil se lève.
 <1829> \{\m{A}}「それは、ちゃんと、というのか」;;;<1829> T'appelles ça une bonne heure ?
 <1830> \{晴子}「それで昼過ぎに起きて、仕事に出るんや」;;;<1830> Après, je me lève en début d'après-midi, puis je pars travailler.
-<1831> \{晴子}「それが、うちのリズムやねん」;;;<1831> Ça c'était mon rythme.
+<1831> \{晴子}「それが、うちのリズムやねん」;;;<1831> Ça, c'était mon rythme.
 <1832> \{晴子}「そやから、飲も」;;;<1832> Sur ce, buvons.
 <1833> どんっ、と目の前に一升瓶が置かれる。;;;<1833> Elle posa brutalement la bouteille devant moi.
-<1834> \{晴子}「飲むねんな？」;;;<1834> Tu vas boire ?
+<1834> \{晴子}「飲むねんな？」;;;<1834> Tu vas bien boire un peu ?
 <1835> 逃げ道なし。;;;<1835> Aucune échappatoire possible.
 <1836> \{\m{A}}「ああ、飲んでやるよ」;;;<1836> Ouais, j'vais boire.
 <1837> \{\m{A}}「とことんまでな…」;;;<1837> Jusqu'à la dernière goutte.
 <1838> 腹をくくるしかなかった。;;;<1838> Je me résignai à mon sort.
-<1839> よし。悪酔いした振りをして、絡んでやろう。;;;<1839> Allez. Faisons semblant d'avoir trop bu et embêtons-la.
+<1839> よし。悪酔いした振りをして、絡んでやろう。;;;<1839> Bien. Faisons semblant d'avoir trop bu et embêtons-la.
 <1840> \{晴子}「どない？  飲めるやろ？」;;;<1840> Alors ? Tu peux boire, en fait ?
 <1841> \{\m{A}}「うおりゃっ」;;;<1841> Uorya !
 <1842> 晴子の鼻に指を突っ込んでやる。;;;<1842> Je fourrai mes doigts dans ses narines.
-<1843> \{晴子}「な、なにすんねん…」;;;<1843> Q-Qu'est-ce que tu fous...?
-<1844> \{\m{A}}「悪酔いすると、俺は人の鼻の穴に指を入れたくなるんだ…」;;;<1844> Quand j'ai trop bu, je me mets à mettre mes doigts dans le nez des gens.
+<1843> \{晴子}「な、なにすんねん…」;;;<1843> Q-Qu'est-ce que t'fous...?
+<1844> \{\m{A}}「悪酔いすると、俺は人の鼻の穴に指を入れたくなるんだ…」;;;<1844> Quand j'ai trop bu, je m'mets à mettre mes doigts dans le nez des gens.
 <1845> ずぶっ！;;;<1845> \bPaf\u !
 <1846> 逆に突っ込まれる。;;;<1846> Elle fourra ses doigts dans mes narines.
 <1847> \{晴子}「ええ根性や…」;;;<1847> T'as du cran.
 <1848> お互いの鼻の穴を吊り上げ合う。;;;<1848> On avait chacun des doigts dans les narines de l'autre.
 <1849> はたから見たら、すごい光景だろう。;;;<1849> On devait avoir fière allure.
-<1850> \{\m{A}}「くっ…」;;;<1850> Ku...
-<1851> \{晴子}「ぷっ…」;;;<1851> Pu...
+<1850> \{\m{A}}「くっ…」;;;<1850> Keh...
+<1851> \{晴子}「ぷっ…」;;;<1851> Pweh...
 <1852> \{晴子}「わはははははっ！」;;;<1852> Wahahahahah !!
 <1853> 晴子が笑い出す。;;;<1853> Elle éclata de rire.
 <1854> \{\m{A}}「なんだよ…」;;;<1854> Mais qu'est-ce que...
@@ -1858,10 +1858,10 @@
 <1857> 逆効果だった…。;;;<1857> Mon plan aura eu l'effet inverse...
 <1858> \{晴子}「もっと飲んでおもろなろ」;;;<1858> Allez, bois encore un peu et fais-moi rire !
 <1859> どんっ、と一升瓶を目の前に置かれる。;;;<1859> Elle posa brutalement la bouteille devant moi.
-<1860> \{晴子}「飲むねんな？」;;;<1860> Tu vas boire ?
+<1860> \{晴子}「飲むねんな？」;;;<1860> Tu vas bien boire un peu ?
 <1861> 逃げ道なし。;;;<1861> Aucune échappatoire possible.
 <1862> \{\m{A}}「ああ、飲んでやるよ」;;;<1862> Ouais, j'vais boire.
-<1863> \{\m{A}}「その代わり、どうなってもしらんぞ…」;;;<1863> Mais ce qui arrivera, ce sera pas d'ma faute.
+<1863> \{\m{A}}「その代わり、どうなってもしらんぞ…」;;;<1863> Mais ce qui arrivera, ce sera pas de ma faute...
 <1864> 腹をくくるしかなかった。;;;<1864> Je me résignai à mon sort.
 <1865> ………。;;;<1865> ..........
 <1866> ……。;;;<1866> .......

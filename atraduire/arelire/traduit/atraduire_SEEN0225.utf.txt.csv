@@ -1,6 +1,6 @@
-<0000> 潮の香りを含んだ夜風が流れていた。;;;<0000> Le vent nocturne amenait jusqu'à moi les parfums des marées.
-<0001> 人気のない道を、一人歩いた。;;;<0001> Je longeais seul les rues désertes.
-<0002> 日中、溶けそうなくらい熱くなっていたアスファルトも、今は冷たい。;;;<0002> Même l'asphalte chauffé à en fondre durant la journée était froid.
+<0000> 潮の香りを含んだ夜風が流れていた。;;;<0000> Le vent nocturne amenait jusque ici moi les parfums des marées.
+<0001> 人気のない道を、一人歩いた。;;;<0001> Je longeais seul des rues désertes.
+<0002> 日中、溶けそうなくらい熱くなっていたアスファルトも、今は冷たい。;;;<0002> Même l'asphalte, chauffé à en fondre durant la journée, était froid.
 <0003> どこを目指すわけでもない。;;;<0003> Je n'allais nulle part en particulier.
 <0004> おぼろげな記憶に任せて、俺はただ歩いていた。;;;<0004> Je marchais, m'en remettant à de vagues souvenirs pour me guider.
 <0005> 気がつけば、小さな橋のたもとに来ていた。;;;<0005> Je réalisai que j'étais arrivé à un petit pont.
@@ -9,7 +9,7 @@
 <0008> いくつかの常夜灯が、ぼおっと道を示している。;;;<0008> Une poignée de lampadaires indiquaient la route.
 <0009> さらにその先は、闇の中へと続く。;;;<0009> Et au-delà, rien que les ténèbres.
 <0010> 空には、少し雲が出てきたようだった。;;;<0010> Dans le ciel, quelques nuages avaient fait leur apparition.
-<0011> 不意に流れた風に、わずかに湿った匂いを感じた。;;;<0011> Une brise d'air s'était soudainement levée, apportant avec elle un léger parfum d'humidité.
+<0011> 不意に流れた風に、わずかに湿った匂いを感じた。;;;<0011> Une brise s'était soudainement levée, apportant avec elle un léger parfum d'humidité.
 <0012> そろそろ戻っておくか。;;;<0012> Il était temps de repartir.
 <0013> これ以上歩いたところで、疲れが増すだけだ。;;;<0013> Si je marchais davantage, je n'en serais qu'encore plus fatigué.
 <0014> 俺は闇に背を向けると、来た道を戻った。;;;<0014> Je tournai le dos aux ténèbres, et rebroussai chemin.
@@ -20,23 +20,23 @@
 <0019> これ以上進んで何があるというんだ。;;;<0019> Quel intérêt aurais-je à continuer ?
 <0020> 俺は踵を返しその闇に背を向けると、来た道を戻った。;;;<0020> Je fis demi-tour, tournant le dos aux ténèbres, et rebroussai chemin.
 <0021> 先に進んでみることにした。;;;<0021> Je décidai de continuer.
-<0022> 俺は橋を渡り、その向こうに足を踏み出した。;;;<0022> Je traversai le pont, et m'engagea de l'autre côté.
-<0023> 道はすぐに、急な登りになった。;;;<0023> Aussitôt, le chemin devint une pente abrupte.
+<0022> 俺は橋を渡り、その向こうに足を踏み出した。;;;<0022> Je traversai le pont, et m'engageai de l'autre côté.
+<0023> 道はすぐに、急な登りになった。;;;<0023> Aussitôt, la route se transforma en une pente abrupte.
 <0024> 左右には梢が覆いかぶさり、ほとんど前が見えない。;;;<0024> De tous côtés, les branches des arbres bloquaient la vue, et il était impossible de voir devant soi.
 <0025> 目の前に、闇のかたまりがある。;;;<0025> Tout ce qui s'étendait devant moi se résumait à des masses de ténèbres.
-<0026> 木々の葉から染み出す夜気が、幾重にも重なり合っている。;;;<0026> L'air nocturne était saturé des fragrances émanant des feuilles.
+<0026> 木々の葉から染み出す夜気が、幾重にも重なり合っている。;;;<0026> L'air nocturne était saturé des fragrances qui émanaient des feuilles.
 <0027> 俺は後悔しはじめていた。;;;<0027> Je commençai à regretter ma décision.
 <0028> 夜道を通るのが怖いわけではない。;;;<0028> Ce n'était pas que j'eusse peur de me promener la nuit.
 <0029> 旅の途中、俺はいくらでも山中で野宿したことがある。;;;<0029> Au cours de mes voyages, j'avais maintes fois dormi à la belle étoile.
-<0030> そんな時、気配を感じることがあった。;;;<0030> Mais là, je sentais quelque chose.
-<0031> 本来会えるはずのない存在が、ごく近くを通る気配。;;;<0031> Ce 'quelque chose' était une présence qui n'avait aucune raison d'exister, et qui venait de me frôler.
-<0032> 錯覚だと言ってしまえばそれまでの、ごくわずかな違和感。;;;<0032> Un léger sentiment de malaise qui aurait très bien pu être une hallucination.
+<0030> そんな時、気配を感じることがあった。;;;<0030> Mais là, je pouvais sentir quelque chose.
+<0031> 本来会えるはずのない存在が、ごく近くを通る気配。;;;<0031> Ce 'quelque chose', c'était une présence qui n'avait aucune raison d'exister... et qui venait de me frôler.
+<0032> 錯覚だと言ってしまえばそれまでの、ごくわずかな違和感。;;;<0032> Un léger sentiment de malaise, qui aurait très bien pu être une hallucination.
 <0033> \{\m{A}}「………」;;;<0033> .........
 <0034> いや、錯覚ではない。;;;<0034> Nan, ce n'était pas une hallucination.
 <0035> 何か、音がする。;;;<0035> J'avais bien entendu quelque chose.
 <0036> この世のものならざる音。;;;<0036> Un bruit qui ne venait pas de ce monde.
 <0037> 足音でもなければ、声でもない。;;;<0037> Ni des bruits de pas, ni une voix.
-<0038> 奇怪としか言いようがない音が、背後の闇から響いてくる。;;;<0038> Un étrange son indescriptible retentissait depuis les ténèbres derrière moi.
+<0038> 奇怪としか言いようがない音が、背後の闇から響いてくる。;;;<0038> Un étrange et indescriptible son retentissait depuis les ténèbres dans mon dos.
 <0039> \{\m{A}}「………」;;;<0039> .........
 <0040> 逃げ出す;;;<0040> S'enfuir
 <0041> 様子を見る;;;<0041> Aller l'examiner
@@ -45,9 +45,9 @@
 <0044> 足場の悪い地面を力一杯蹴り、その場から逃げ出す。;;;<0044> Je pressai le pas contre le sol instable afin de m'échapper.
 <0045> 見通しの悪い視界のなか、その音は闇に反響していた。;;;<0045> Le bruit résonnait dans les ténèbres qui entravaient ma vision.
 <0046> 正しい位置がつかめない。;;;<0046> Je ne pouvais déterminer sa position exacte.
-<0047> でも確実にこちらへと近付いてきている。;;;<0047> Mais j'avais la certitude que ce quelque chose se rapprochait.
+<0047> でも確実にこちらへと近付いてきている。;;;<0047> Mais j'avais la certitude que ce 'quelque chose' se rapprochait.
 <0048> それだけはわかる。;;;<0048> Ça, au moins, j'en étais certain.
-<0049> 汗ばんだ手を握りしめ、闇の深みへと逃げ場を求め走った。;;;<0049> Serrant mes poings trempés de sueur, je m'enfonçai dans les ténèbres à la recherche d'une porte de sortie.
+<0049> 汗ばんだ手を握りしめ、闇の深みへと逃げ場を求め走った。;;;<0049> Serrant mes poings trempés de sueur, je m'enfonçai dans l'obscurité à la recherche d'une porte de sortie.
 <0050> 喉の奥がズキズキと痛む。;;;<0050> Ma gorge palpitait au point de se déchirer.
 <0051> 逃げ切れるか…？;;;<0051> Étais-je seulement capable de le semer ?
 <0052> こちらが走っているにも関わらず、音は遠ざかる気配を見せない。;;;<0052> J'avais beau courir, le bruit ne semblait pas s'éloigner.
@@ -62,21 +62,21 @@
 <0061> 獲物を捕らえたかのように、暗闇が俺を包み込む。;;;<0061> Les ténèbres m'encerclaient comme un prédateur prêt à me fondre dessus.
 <0062> 背後を振り返る。;;;<0062> Je me retournai.
 <0063> じっと目を凝らす。;;;<0063> Et essayai d'y voir quelque chose.
-<0064> 自分の額を汗が伝わったのを感じた。;;;<0064> Je pouvais sentir la sueur coulait sur mon front.
+<0064> 自分の額を汗が伝わったのを感じた。;;;<0064> Je pouvais sentir la sueur couler sur mon front.
 <0065> 何かが、ある。;;;<0065> Quelque chose était là.
 <0066> 白い球状のものが、闇の中央にぼおっと浮かびあがっている。;;;<0066> Une chose blanche et globulaire avait émergé du cœur des ténèbres.
 <0067> ただ魅入られるように、その正体を定めようとする。;;;<0067> Je la contemplais, comme ensorcelé, pour essayer d'en déterminer la véritable nature.
 <0068> 俺は、あれに会ったことがある。;;;<0068> J'avais déjà vu cette chose.
 <0069> あれは…。;;;<0069> C'était...
 <0070> その時だった。;;;<0070> ... cette fois-là.
-<0071> 白い物体が一気に迫ってきた。;;;<0071> Sans crier garde, la chose blanche me bondit dessus.
+<0071> 白い物体が一気に迫ってきた。;;;<0071> Sans crier gare, la chose blanche me bondit dessus.
 <0072> 逃げ出す隙さえなかった。;;;<0072> Aucune échappatoire possible.
 <0073> 次の瞬間、俺は右足をがっちりと捕らえられていた。;;;<0073> L'instant d'après, elle avait saisi ma jambe droite.
 <0074> 奇怪な音が、暗闇にけたたましく響いた。;;;<0074> Un cri formidable perça les ténèbres :
 <0075> \{？}「ぴこぴこ～っ！」;;;<0075> Piko piko~ !!
 <0076> \{\m{A}}「………」;;;<0076> .........
 <0077> \{\m{A}}「はぁ…」;;;<0077> Haa...
-<0078> \{\m{A}}「なにやってるんだ、おまえ」;;;<0078> Qu'est-ce que tu fiches ?
+<0078> \{\m{A}}「なにやってるんだ、おまえ」;;;<0078> Hé, qu'est-ce que tu fiches ?
 <0079> \{ポテト}「ぴこぴこぴこ♪」;;;<0079> Piko piko piko ♪.
 <0080> 白い妖怪が、俺の足にかぶりついたまま尻尾を振っていた。;;;<0080> Le spectre blanc remuait la queue, ses crocs enfoncés dans ma jambe.
 <0081> \{\m{A}}「夜遊びしてないで、とっとと寝床へ帰れよ」;;;<0081> Faut pas jouer la nuit, dépêche-toi de rentrer chez toi !
@@ -93,22 +93,22 @@
 <0092> \{ポテト}「ぴこっ！」;;;<0092> Piko !!
 <0093> いきなり走り出す。;;;<0093> Soudainement, il décampa.
 <0094> \{\m{A}}「おい、ちょっと待てっ」;;;<0094> Hé, attends un peu !
-<0095> 仕方なく、俺は後を追った。;;;<0095> Je n'avais pas d'autre choix que de le suivre.
-<0096> 山道を登りきったらしい。;;;<0096> Je suivis le sentier de montagne.
-<0097> 行く手の木々の間に、町灯かりが見えた。;;;<0097> On voyait les lumières du village entre les arbres.
+<0095> 仕方なく、俺は後を追った。;;;<0095> Je n'avais pas d'autre choix que le suivre.
+<0096> 山道を登りきったらしい。;;;<0096> Je suivis le sentier qui grimpai jusqu'en haut de la colline.
+<0097> 行く手の木々の間に、町灯かりが見えた。;;;<0097> On pouvait distinguer les lumières du village entre les arbres.
 <0098> 湿り気を増した風が、まともに横から吹きつける。;;;<0098> Un vent humide soufflait à ma transversale.
 <0099> 道の先が石段になっていた。;;;<0099> Le sentier aboutit à un escalier en pierres.
 <0100> その上に、鳥居らしきものが浮かびあがっていた。;;;<0100> En haut de ce dernier s'élevait une sorte de torii.
 <0101> \{\m{A}}「まだ登るのかよ…」;;;<0101> Je dois encore grimper...?
 <0102> \{ポテト}「ぴこぴこ～」;;;<0102> Piko piko~.
-<0103> ここまで来たら、もう後には退けない。;;;<0103> Après être allé jusque-là, je ne pouvais pas faire demi-tour.
+<0103> ここまで来たら、もう後には退けない。;;;<0103> Après être allé aussi loin, je ne pouvais plus faire demi-tour.
 <0104> 俺はポテトに続き、石段を駆け登った。;;;<0104> Je grimpai les marches en courant, à la suite de Potato.
 <0105> 鳥居をくぐったとたん、空気が変わった。;;;<0105> Une fois le torii franchi, l'atmosphère changea.
 <0106> 静寂にみたされた境内。;;;<0106> Le silence régnait dans l'enceinte du sanctuaire.
 <0107> 参道の石畳を、夜風が撫でていく。;;;<0107> La brise nocturne caressait la route pavée.
 <0108> 背後の森が、ざわざわと震える。;;;<0108> Elle faisait bruire la forêt derrière moi.
-<0109> 夜空を見上げる。;;;<0109> Je levai les yeux vers le ciel de nuit.
-<0110> ちぎれた雲を透かすように、星が輝いている。;;;<0110> Les étoiles scintillaient entre les nuages éclatés.
+<0109> 夜空を見上げる。;;;<0109> Je levai les yeux vers le ciel nocturne.
+<0110> ちぎれた雲を透かすように、星が輝いている。;;;<0110> Les étoiles scintillaient entre les fragments de nuages.
 <0111> その上には、もう何もない。;;;<0111> Au-dessus d'eux, il n'y avait plus rien.
 <0112> \{ポテト}「ぴこ」;;;<0112> Piko.
 <0113> くい。;;;<0113> \bTire\u.
@@ -119,7 +119,7 @@
 <0118> 目を凝らしてみる。;;;<0118> Je plissai les yeux.
 <0119> 参道の脇に、小さな人影が見えた。;;;<0119> Je vis une petite silhouette au bord des pavés.
 <0120> それは昼間、堤防で会ったあの少女だった。;;;<0120> C'était la fille que j'avais rencontrée à la digue pendant la journée.
-<0121> 袖のない、真っ白な上衣。;;;<0121> Elle portait un haut tout blanc, sans manches.
+<0121> 袖のない、真っ白な上衣。;;;<0121> Elle portait un haut d'un blanc immaculé, sans manches.
 <0122> むき出しの肩に、月光が照り映えている。;;;<0122> Ses épaules dénudées brillaient au clair de lune.
 <0123> 少女は首を傾げるようにして、闇の中にたたずんでいる。;;;<0123> Elle se tenait immobile au milieu des ténèbres, la tête penchée sur le côté.
 <0124> 星を見ているのかと思った。;;;<0124> Elle semblait regarder les étoiles.
@@ -143,13 +143,13 @@
 <0142> 手首に巻かれたバンダナが、俺の腕をふわりと撫でた。;;;<0142> Le bandana enroulé autour de son poignet me chatouilla le bras.
 <0143> \{\m{A}}「大丈夫か」;;;<0143> Ça va ?
 <0144> ぱしっ。;;;<0144> \bPaf\u !
-<0145> 少女を胸の中におさめながら、軽くその頬を叩いた。;;;<0145> Sa poitrine presque collée à la mienne, je lui claquai doucement les joues.
+<0145> 少女を胸の中におさめながら、軽くその頬を叩いた。;;;<0145> Sa poitrine presque collée contre la mienne, je lui claquai doucement les joues.
 <0146> \{少女}「ぅ…」;;;<0146> Uh...
 <0147> ぱしぱしっ。;;;<0147> \bPaf paf\u !
 <0148> \{少女}「うぅ…ん…」;;;<0148> Uu... Hn...
 <0149> \{\m{A}}「しっかりしろっ」;;;<0149> Reprends-toi !
 <0150> ぱしぱしっ。;;;<0150> \bPaf paf\u !
-<0151> \{少女}「んん…痛いよぉ…」;;;<0151> Hnn... ça fait mal...
+<0151> \{少女}「んん…痛いよぉ…」;;;<0151> Hnn... Ça fait mal...
 <0152> \{少女}「お姉ちゃん…」;;;<0152> Onee-chan...
 <0153> 目を閉じたまま、苦しそうにうめく。;;;<0153> Les yeux toujours clos, elle gémissait de douleur.
 <0154> \{\m{A}}「…お姉ちゃん？」;;;<0154> ... Onee-chan ?
@@ -158,10 +158,10 @@
 <0157> \{\m{A}}「俺はお兄ちゃんだ」;;;<0157> Moi, c'est Onii-chan.
 <0158> \{少女}「…ん…お兄ちゃん…？」;;;<0158> ... Hmm... Onii-chan...?
 <0159> \{\m{A}}「なんだ、妹」;;;<0159> Qu'y a-t-il, petite sœur ?
-<0160> \{少女}「んん～…あたしに…お兄ちゃんいないぃ…」;;;<0160> Hnn~... Mais... j'ai pas de grand frère...
+<0160> \{少女}「んん～…あたしに…お兄ちゃんいないぃ…」;;;<0160> Hnn~... Mais... J'ai pas de grand frère...
 <0161> \{\m{A}}「おまえの知らない生き別れの兄だ」;;;<0161> Je suis ton grand frère perdu dont on ne t'a jamais parlé.
-<0162> \{少女}「えっ…うそぉ…」;;;<0162> Hein ?! ... Menteur...
-<0163> \{\m{A}}「大ウソだ」;;;<0163> Ouais, un bon gros menteur.
+<0162> \{少女}「えっ…うそぉ…」;;;<0162> Hein ?! ... C'est un mensonge...
+<0163> \{\m{A}}「大ウソだ」;;;<0163> Un bon gros mensonge.
 <0164> \{少女}「あ～…やっぱりぃ…」;;;<0164> Ah~... Je le savais...
 <0165> \{\m{A}}「とにかく早く起きろ」;;;<0165> Quoi qu'il en soit, dépêche-toi de te lever.
 <0166> \{少女}「ぅんん…起きるぅ…」;;;<0166> Uhnn... Je me lève...
@@ -173,13 +173,13 @@
 <0172> \{\m{A}}「やっと気づいたな」;;;<0172> Enfin réveillée.
 <0173> \{少女}「あれ？  あれ？」;;;<0173> Hein ? Hein ?
 <0174> \{少女}「ここ…どこ？  キミは？」;;;<0174> Je... suis où ? Qui es-tu ?
-<0175> わけがわからない様子で、きょろきょろと辺りを見回す。;;;<0175> Elle explora autour d'elle d'un regard complètement médusé.
+<0175> わけがわからない様子で、きょろきょろと辺りを見回す。;;;<0175> Elle explora les alentours d'un regard complètement médusé.
 <0176> \{\m{A}}「とりあえず、大丈夫みたいだな」;;;<0176> Le plus important, c'est que t'as l'air d'aller bien.
 <0177> \{少女}「ふぇ？」;;;<0177> Fweh ?
 <0178> \{\m{A}}「驚いたぞ。急に倒れるから」;;;<0178> Tu m'as fait flipper, à tomber sans prévenir, comme ça.
-<0179> \{少女}「…倒れた？  だれが？」;;;<0179> ... Tomber ? qui ça ?
+<0179> \{少女}「…倒れた？  だれが？」;;;<0179> ... Tomber ? Qui ça ?
 <0180> \{\m{A}}「………」;;;<0180> .........
-<0181> 人差し指で、びしっと少女を示してやる。;;;<0181> Aussitôt termina-t-elle sa phrase que mon index pointait dans sa direction.
+<0181> 人差し指で、びしっと少女を示してやる。;;;<0181> Aussitôt termina-t-elle sa phrase que je pointai mon index dans sa direction.
 <0182> \{少女}「え…あたし？」;;;<0182> Hein... moi ?
 <0183> \{\m{A}}「ああ」;;;<0183> Ouais.
 <0184> \{少女}「…倒れたの？」;;;<0184> ... Tombée ?
@@ -187,12 +187,12 @@
 <0186> \{少女}「だれが？」;;;<0186> Qui ça ?
 <0187> \{\m{A}}「………」;;;<0187> .........
 <0188> どうも会話が噛み合わない。;;;<0188> C'était un dialogue de sourds.
-<0189> \{\m{A}}「覚えてないのか？」;;;<0189> Tu ne te rappelles rien ?
+<0189> \{\m{A}}「覚えてないのか？」;;;<0189> Tu ne te souviens de rien ?
 <0190> \{少女}「う、うん…」;;;<0190> N-Non...
-<0191> 困ったように頷く。;;;<0191> Elle secoua la tête en signe de confusion.
+<0191> 困ったように頷く。;;;<0191> Elle secoua la tête, confuse.
 <0192> \{少女}「ごめん、なさい…」;;;<0192> T'inquiètes... euh, désolée...
 <0193> \{\m{A}}「いや、べつに謝る必要はないけどな」;;;<0193> Nan, t'as pas besoin de t'excuser.
-<0194> 前後不覚になるほど、体調不良なのだろうか？;;;<0194> Allait-elle tellement mal qu'elle n'avait aucun souvenir de ce qu'il s'était passé.
+<0194> 前後不覚になるほど、体調不良なのだろうか？;;;<0194> Allait-elle tellement mal qu'elle n'avait aucun souvenir de ce qu'il s'était passé ?
 <0195> それとも、夢遊病の気でもあるのか？;;;<0195> Ou bien, était-elle somnambule ?
 <0196> …まあいい。;;;<0196> ... Bah, peu importe.
 <0197> 今はこいつを介抱するのが先だ。;;;<0197> La priorité était pour l'instant de la faire prendre en charge.
@@ -200,17 +200,17 @@
 <0199> \{少女}「んっと…」;;;<0199> Ho...
 <0200> \{少女}「うんしょっ」;;;<0200> Oh hisse !
 <0201> 立ち上がろうとする少女を、両腕で支える。;;;<0201> Je me servis de mes deux bras pour l'aider à se relever.
-<0202> 少女は俺の肩に手をおき、ゆっくり身を起こそうとした…;;;<0202> Elle posa une main sur mon épaule, elle se leva petit à petit.
+<0202> 少女は俺の肩に手をおき、ゆっくり身を起こそうとした…;;;<0202> Elle posa une main sur mon épaule pour s'appuyer, et se releva petit à petit.
 <0203> \{少女}「ありゃ？」;;;<0203> Hein ?
 <0204> \{少女}「くらくら～」;;;<0204> Ça tourne~.
 <0205> \{\m{A}}「おいっ」;;;<0205> Hé !
-<0206> ふらついた肩を、あわててつかむ。;;;<0206> Voyant qu'elle vacillait, je la pris par les épaules.
+<0206> ふらついた肩を、あわててつかむ。;;;<0206> Voyant qu'elle vacillait, je la saisis par les épaules.
 <0207> \{少女}「ご、ごめんなさい…」;;;<0207> D-Désolée...
-<0208> \{\m{A}}「本当に大丈夫か？」;;;<0208> T'es sûre que ça va ?
-<0209> \{少女}「だいじょうぶ、ただの立ちくらみだよぉ」;;;<0209> Ça va, j'ai juste la tête qui tourne un peu.
-<0210> 肩にそえた俺の手に触れながら、微笑みを返してくる。;;;<0210> Elle me répondit en touchant ma main posée sur son épaule, et par un sourire.
+<0208> \{\m{A}}「本当に大丈夫か？」;;;<0208> T'es vraiment sûre que ça va ?
+<0209> \{少女}「だいじょうぶ、ただの立ちくらみだよぉ」;;;<0209> Ça va, j'ai juste un peu le tournis.
+<0210> 肩にそえた俺の手に触れながら、微笑みを返してくる。;;;<0210> répondit-elle en touchant ma main posée sur son épaule et en m'adressant un sourire.
 <0211> だが、月明かりのせいだろうか。;;;<0211> Et malgré cela, peut-être parce qu'il était éclairé par la lune,
-<0212> 少女の顔色が、少し蒼いように思えた。;;;<0212> son teint m'avait l'air pâle.
+<0212> 少女の顔色が、少し蒼いように思えた。;;;<0212> son teint me paraissait blafard.
 <0213> \{少女}「？」;;;<0213> ?
 <0214> そのまま、少女を見つめる。;;;<0214> Je continuai à la dévisager.
 <0215> \{\m{A}}「………」;;;<0215> .........
@@ -223,7 +223,7 @@
 <0222> \{少女}「え、なになに？」;;;<0222> Hein ? Que dis-tu ?
 <0223> \{少女}「あっ、そうなんだぁ」;;;<0223> Ah ! C'est vrai, ça !
 <0224> \{ポテト}「ぴっこり」;;;<0224> Pikkori.
-<0225> \{\m{A}}「…一応聞くが、そいつはなんと言ってる？」;;;<0225> ... J'ai bien entendu, mais qu'est-ce qu'il vient de raconter, ce truc ?
+<0225> \{\m{A}}「…一応聞くが、そいつはなんと言ってる？」;;;<0225> ... Je l'ai bien entendu japper, mais qu'est-ce qu'il vient de raconter, ce truc ?
 <0226> \{少女}「お腹減ったって」;;;<0226> Qu'il avait très faim.
 <0227> \{\m{A}}「………」;;;<0227> .........
 <0228> …奇遇だな、俺もだ。;;;<0228> ... Quelle coïncidence, moi aussi.
@@ -235,30 +235,30 @@
 <0234> \{\m{A}}「こっちが聞きたいぞ」;;;<0234> C'est ce que j'aimerais savoir.
 <0235> 町外れの丘にある、無人の神社。;;;<0235> Un sanctuaire inhabité sur une colline aux abords du village.
 <0236> 時間はもう夜遅い。;;;<0236> Sans parler de la nuit bien avancée.
-<0237> どう考えても、少女が一人で来るような場所ではない。;;;<0237> Dans tous les cas, ce n'était pas une situation dans laquelle devrait se retrouver une fille seule.
+<0237> どう考えても、少女が一人で来るような場所ではない。;;;<0237> Dans tous les cas, ce n'était pas une situation dans laquelle devrait se retrouver toute seule une jeune fille.
 <0238> \{少女}「………」;;;<0238> .........
 <0239> \{少女}「どうしよう…」;;;<0239> Que faire...?
 <0240> \{少女}「記憶喪失になっちゃった、あたし…」;;;<0240> Est-ce que je suis devenue amnésique...?
 <0241> 少女の中では、かなり深刻な事態になっているようだった。;;;<0241> Elle semblait fortement préoccupée par la situation.
 <0242> \{少女}「うぬぬ。これは一大事」;;;<0242> Ununu. C'est une affaire de la plus haute importance.
 <0243> \{少女}「帰って、さっそくお姉ちゃんに治してもらわないと」;;;<0243> Il faut que je rentre et que je demande tout de suite à ma grande sœur de s'occuper de moi.
-<0244> \{\m{A}}「すごい姉ちゃんだな。記憶喪失が治せるのか」;;;<0244> Elle est incroyable, ta sœur. À savoir soigner l'amnésie...
+<0244> \{\m{A}}「すごい姉ちゃんだな。記憶喪失が治せるのか」;;;<0244> Elle est incroyable, ta sœur, si elle sait soigner l'amnésie...
 <0245> \{少女}「うんっ」;;;<0245> Oui !
 <0246> \{少女}「あのね…」;;;<0246> Eh ben, en fait...
-<0247> とっておきの打ち明け話をする顔で言う。;;;<0247> commença-t-elle avec un visage qui semblait dire qu'elle allait me révéler un secret.
-<0248> \{少女}「あたしのお姉ちゃん、お医者さんなんだよぉ」;;;<0248> Ma grande sœur, eh bien elle est docteur !
-<0249> \{\m{A}}「医者？」;;;<0249> Docteur ?
-<0250> \{少女}「そう、すっごく腕のいいお医者さんなんだぁ」;;;<0250> Oui, un docteur super doué.
+<0247> とっておきの打ち明け話をする顔で言う。;;;<0247> commença-t-elle avec un visage qui suggérait qu'elle allait me révéler un secret.
+<0248> \{少女}「あたしのお姉ちゃん、お医者さんなんだよぉ」;;;<0248> Ma grande sœur, eh bien, elle est médecin !
+<0249> \{\m{A}}「医者？」;;;<0249> Médecin ?
+<0250> \{少女}「そう、すっごく腕のいいお医者さんなんだぁ」;;;<0250> Oui, et super douée.
 <0251> \{少女}「車からトラクターまで、何でも治せるんだよぉ」;;;<0251> Elle peut tout soigner, des voitures jusqu'aux tracteurs.
 <0252> \{\m{A}}「それは、ある意味ものすごいな」;;;<0252> On peut... dire que c'est incroyable, et pas qu'un peu.
 <0253> \{少女}「そうっ！  ものすごいんだよっ！」;;;<0253> Eh oui !! Pas qu'un peu !!
 <0254> \{少女}「だからね、記憶喪失なんてヘのカッパっ！」;;;<0254> C'est pour ça que l'amnésie, ce sera du gâteau pour elle !!
 <0255> \{\m{A}}「なるほど」;;;<0255> En effet.
-<0256> \{少女}「複雑骨折も内臓破裂もヘのカッパっ！」;;;<0256> Les factures complexes et ruptures d'organes internes aussi, c'est du gâteau !!
-<0257> \{\m{A}}「そうか」;;;<0257> Vraiment ?
-<0258> \{少女}「目から光線も膝からミサイルもロケットパンチもヘのカッパっ！」;;;<0258> Des yeux qui tirent des rayons lasers, des missiles qui sortent des genoux ou des fulguropoings, ça aussi c'est du gâteau !!
+<0256> \{少女}「複雑骨折も内臓破裂もヘのカッパっ！」;;;<0256> Les fractures complexes et les ruptures d'organes internes aussi, c'est du gâteau pour elle !!
+<0257> \{\m{A}}「そうか」;;;<0257> Ah bon.
+<0258> \{少女}「目から光線も膝からミサイルもロケットパンチもヘのカッパっ！」;;;<0258> Des yeux qui tirent des rayons lasers, des missiles qui sortent des genoux ou des fulguropoings, ça aussi c'est du gâteau pour elle !!
 <0259> \{\m{A}}「………」;;;<0259> .........
-<0260> 少女の姉だという天才医師の姿を、俺は想像してみた。;;;<0260> J'essayais d'imaginer à quoi pouvait bien ressembler le médecin de génie qui lui servait de sœur.
+<0260> 少女の姉だという天才医師の姿を、俺は想像してみた。;;;<0260> J'essayais d'imaginer à quoi pouvait bien ressembler le docteur de génie qui lui servait de sœur.
 <0261> 当然、白衣はボロボロだろう。;;;<0261> Une blouse blanche en lambeaux, évidemment.
 <0262> 片目に黒い眼帯をしているだろう。;;;<0262> Et un cache-œil noir.
 <0263> 悪の組織で人体改造を担当しているだろう。;;;<0263> Elle était en charge de la modification d'êtres humains pour une organisation maléfique.
@@ -268,7 +268,7 @@
 <0267> \{少女}「え…」;;;<0267> Hein...?
 <0268> \{少女}「あっ、お姉ちゃん」;;;<0268> Ah ! Onee-chan !
 <0269> \{\m{A}}「ん…？」;;;<0269> Hmm...?
-<0270> 振り向くと、そこに立っていたのは…。;;;<0270> Je me retournai, et là se tenait...
+<0270> 振り向くと、そこに立っていたのは…。;;;<0270> Je me retournai, et là, se tenait...
 <0271> たしか、霧島聖とかいったか。;;;<0271> ... Kirishima Hijiri, ou quelque chose comme ça.
 <0272> \{聖}「心配したじゃないか。なかなか帰ってこないから」;;;<0272> Tu sais que je me suis inquiétée ? Je ne te voyais pas rentrer.
 <0273> \{少女}「ごめーん。ちょっと、とりこんでましたぁ」;;;<0273> Désolée. J'étais un peu occupée !
@@ -276,13 +276,13 @@
 <0275> \{ポテト}「ぴこ」;;;<0275> Piko.
 <0276> \{聖}「まあ、無事で何よりだ」;;;<0276> Bah, ce qui compte, c'est que tu ailles bien.
 <0277> 互いにほんわり微笑みあう。;;;<0277> Elles échangèrent des sourires radieux.
-<0278> しんとした夜気の中に、明かりが灯ったような光景。;;;<0278> Des sourires radieux tels des phares qui illuminaient les ténèbres de la nuit.
-<0279> しかし。;;;<0279> Enfin...
+<0278> しんとした夜気の中に、明かりが灯ったような光景。;;;<0278> Des sourires radieux tels des phares qui perçaient les ténèbres de la nuit.
+<0279> しかし。;;;<0279> Enfin, bref...
 <0280> そんなことは問題ではなかった。;;;<0280> Ce n'était pas le moment.
 <0281> 俺はただ、女医の胸元を見つめていた。;;;<0281> Pour l'instant, mes yeux étaient préoccupés par la poitrine de Madame le médecin.
-<0282> 昼間会った時は気づかなかった、かなりふくよかな膨らみ。;;;<0282> Je ne m'en étais pas rendu compte lorsque je l'avais rencontrée durant la journée, mais elle avait une paire assez généreuse.
+<0282> 昼間会った時は気づかなかった、かなりふくよかな膨らみ。;;;<0282> Je ne m'en étais pas rendu compte lorsque je l'avais rencontrée durant la journée, mais elle avait une paire plutôt généreuse.
 <0283> その上に書かれた、通…;;;<0283> Il y était écrit : 'Voie'...
-<0284> \{聖}「ん？」;;;<0284> Hmm ?
+<0284> \{聖}「ん？」;;;<0284> Hmn ?
 <0285> \{聖}「おっ、人形使い君じゃないか。なんで君がここに？」;;;<0285> Oh ! Monsieur le marionnettiste. Qu'est-ce que vous faites ici ?
 <0286> \{\m{A}}「………」;;;<0286> .........
 <0287> \{聖}「どうした？  やけに不景気な顔をして」;;;<0287> Quelque chose ne va pas ? Tu as bien triste mine.
@@ -293,27 +293,27 @@
 <0292> \{少女}「へえー、お姉ちゃんが男の人とお知り合いなんて、珍しいねぇ」;;;<0292> Heh—... c'est rare que tu connaisses des hommes.
 <0293> \{聖}「そうか？」;;;<0293> Ah bon ?
 <0294> \{少女}「うんっ」;;;<0294> Oui !
-<0295> \{聖}「そうか…言われてみれば、そうだな」;;;<0295> Je vois... Maintenant que tu le dis, c'est vrai.
+<0295> \{聖}「そうか…言われてみれば、そうだな」;;;<0295> Je vois... Maintenant que tu le dis, effectivement.
 <0296> \{少女}「彼氏？」;;;<0296> C'est ton petit copain ?
 <0297> \{聖}「大ハズレだ」;;;<0297> Perdu.
 <0298> \{少女}「なんだぁ。ちがうのかぁ」;;;<0298> Aaaah bon. Alors c'est pas ça...
 <0299> \{聖}「なぜそんな残念そうな顔をする？」;;;<0299> Pourquoi tu tires une tête aussi déçue ?
 <0300> \{少女}「だって、彼氏だったら、お姉ちゃん見る目あると思ったのに…」;;;<0300> Eh ben, si c'était ton petit copain, ça voudrait dire que tu as un bon œil pour ce genre de choses...
-<0301> \{聖}「見る目って？」;;;<0301> 'Un bon œil' ?
+<0301> \{聖}「見る目って？」;;;<0301> Un bon œil ?
 <0302> \{少女}「あのねあのね、この人ね、すっごくいい人なんだよぉ」;;;<0302> Écoute, écoute ! Eh ben, il est super sympa !
 <0303> \{少女}「あたし、この人にすっごくお世話になったんだぁ」;;;<0303> Il s'est super bien occupé de moi.
-<0304> ぐいっと俺の腕を引っ張り、姉の前に据える。;;;<0304> Elle me serra le bras et me tira, comme pour me présenter à sa sœur.
+<0304> ぐいっと俺の腕を引っ張り、姉の前に据える。;;;<0304> Elle me pris par le bras et me tira, comme pour me présenter à sa sœur.
 <0305> \{聖}「…お世話？」;;;<0305> ... Occupé de toi ?
-<0306> 瞳の中に、何か冷たい光を感じた。;;;<0306> Je pouvais sentir son regard glacial.
+<0306> 瞳の中に、何か冷たい光を感じた。;;;<0306> Je me sentais percé par son regard glacial.
 <0307> \{\m{A}}「いや、だから、俺はなにもしてないって」;;;<0307> Nan, en vérité, je n'ai rien fait du tout.
 <0308> \{少女}「そんなことないよぉ」;;;<0308> Au contraire !
-<0309> 俺の言うことも聞かず、楽しそうな笑顔を振りまく。;;;<0309> Maintenant un sourire radieux, elle n'écouta pas ce que je lui dis.
-<0310> \{少女}「さっきね。あたしここでバッタリ倒れたんだって」;;;<0310> Tu vois, juste avant. Eh ben je me suis évanouie juste là, dans un 'pouf'.
+<0309> 俺の言うことも聞かず、楽しそうな笑顔を振りまく。;;;<0309> Sans cesser d'arborer un sourire radieux, elle n'écouta pas ce que je lui dis.
+<0310> \{少女}「さっきね。あたしここでバッタリ倒れたんだって」;;;<0310> Tu vois, à l'instant, eh ben je me suis évanouie juste là, 'pouf'.
 <0311> \{少女}「気がついたら、この人にだっこしてもらってたの」;;;<0311> Et quand j'ai repris mes esprits, j'étais dans ses bras.
 <0312> \{少女}「その前のことサッパリ覚えてないけど、すっごくやさしかったんだよぉ」;;;<0312> Je me rappelle pas du tout de ce qu'il s'est passé avant ça, mais il a été très gentil avec moi.
 <0313> \{聖}「………」;;;<0313> .........
 <0314> \{少女}「それからねー、昼間は一緒にお相撲ごっこもしたよ」;;;<0314> Et aussi, pendant la journée, on a joué au sumo !
-<0315> \{少女}「組んずほぐれつの大熱戦だったんだよぉ」;;;<0315> On était complètement collés et on s'est battus comme pas possible, c'était serré !
+<0315> \{少女}「組んずほぐれつの大熱戦だったんだよぉ」;;;<0315> On était complètement collés l'un contre l'autre et on s'est donnés comme pas possible, c'était serré !
 <0316> \{少女}「それからねー、すっごいものを見せてくれたんだよぉ」;;;<0316> Et après, tu vois, il m'a montré un machin incroyable.
 <0317> \{少女}「あんなの見たの、生まれてはじめてだったよぉ」;;;<0317> C'était la première fois de ma vie que je voyais un truc comme celui-là !
 <0318> \{少女}「ねーポテトっ」;;;<0318> Hein, Potato ?
@@ -326,36 +326,36 @@
 <0325> どうにか説明する;;;<0325> Essayer de clarifier tout ça
 <0326> \{\m{A}}「いいか、よく聞け」;;;<0326> Ok, écoutez bien.
 <0327> 少し胸を張って口火を切る。;;;<0327> Je pris la parole en bombant le torse.
-<0328> \{\m{A}}「確かに、だっこをした」;;;<0328> Effectivement, je t'ai prise dans mes bras.
-<0329> \{\m{A}}「その前に何があったのかを憶えていないと言うのには、俺も困っている」;;;<0329> De même, je ne me souviens pas trop de ce qu'il s'est passé avant ça.
-<0330> \{\m{A}}「まあ、優しくした事を憶えているのは良いことだ」;;;<0330> Mais bon, je suis content que tu te rappelles que j'ai été doux.
-<0331> \{\m{A}}「こちらも優しくした甲斐が有ったというもの」;;;<0331> Je pense aussi que j'ai bien fait de rester doux avec toi.
+<0328> \{\m{A}}「確かに、だっこをした」;;;<0328> Effectivement, je l'ai prise dans mes bras.
+<0329> \{\m{A}}「その前に何があったのかを憶えていないと言うのには、俺も困っている」;;;<0329> Et de même, je ne me souviens pas trop de ce qu'il s'est passé avant ça.
+<0330> \{\m{A}}「まあ、優しくした事を憶えているのは良いことだ」;;;<0330> Mais bon, je suis content que tu te rappelles que j'ai été plutôt doux.
+<0331> \{\m{A}}「こちらも優しくした甲斐が有ったというもの」;;;<0331> Je pense effectivement que j'ai bien fait de ne pas y aller trop fort avec toi.
 <0332> \{聖}「………」;;;<0332> .........
 <0333> \{\m{A}}「お相撲ごっこはなかなか白熱したぞ」;;;<0333> On a joué au sumo avec beaucoup d'ardeur, c'était intense.
 <0334> \{\m{A}}「ぶつかり合う身体、乱れる髪、飛び散る汗、年甲斐もなく熱くなってしまった」;;;<0334> Les chocs de nos corps l'un contre l'autre, nos cheveux en bataille, les torrents de sueur, et tout ça sans faire attention à la différence d'âge.
-<0335> \{\m{A}}「ああやって体を動かしてかく汗も悪くない」;;;<0335> C'est vrai que c'est pas mal de se faire suer un peu comme ça.
+<0335> \{\m{A}}「ああやって体を動かしてかく汗も悪くない」;;;<0335> C'est vrai que c'est pas mal, de se faire suer un peu comme ça.
 <0336> \{聖}「………」;;;<0336> .........
-<0337> \{\m{A}}「すっごいもののことだが、まあ俺のは特別すごいからな」;;;<0337> Et concernant le machin incroyable, eh ben, effectivement, on peut dire que mon machin est assez incroyable.
-<0338> \{\m{A}}「どれだけすごいかと言うと、まず普通の人は持ち合わせていないくらいすごいものだ」;;;<0338> Je peux affirmer qu'un homme moyen n'a pas un machin aussi incroyable.
-<0339> \{\m{A}}「機会があれば、またあんたにも見せてやろう」;;;<0339> Si l'occasion se présente, je te le remontrerai.
+<0337> \{\m{A}}「すっごいもののことだが、まあ俺のは特別すごいからな」;;;<0337> Et concernant un machin incroyable, eh ben, effectivement, on peut dire que mon machin est assez incroyable.
+<0338> \{\m{A}}「どれだけすごいかと言うと、まず普通の人は持ち合わせていないくらいすごいものだ」;;;<0338> Je peux affirmer qu'un homme moyen n'a pas un machin aussi impressionnant.
+<0339> \{\m{A}}「機会があれば、またあんたにも見せてやろう」;;;<0339> Si l'occasion se présente, je te le montrerai encore.
 <0340> \{聖}「………」;;;<0340> .........
 <0341> \{\m{A}}「どうだ、むしろ、本来なら感謝されるべき事を沢山したんだぞ」;;;<0341> Que dis-tu de ça ? En vérité, j'ai fait bien des choses qui méritent des remerciements.
 <0342> \{\m{A}}「感謝の言葉と誠意の気持ちを形にして俺に差し出せ」;;;<0342> Les bonnes manières exigent que tu me communiques quelques mots pour exprimer ta gratitude.
 <0343> \{聖}「………」;;;<0343> .........
 <0344> \{\m{A}}「…おい？」;;;<0344> ... Hé ?
 <0345> \{聖}「………」;;;<0345> .........
-<0346> 姉の背中から発せられる危険なオーラはその濃さを増していた。;;;<0346> Je pouvais discerner une puissante et terrible aura se former dans le dos de la grande sœur.
+<0346> 姉の背中から発せられる危険なオーラはその濃さを増していた。;;;<0346> Je pouvais discerner une puissante et terrible aura se former juste derrière sa grande sœur.
 <0347> どうやら説明失敗らしい。;;;<0347> À croire que mes explications fussent un échec.
 <0348> 事態は悪化してしまった。;;;<0348> J'avais aggravé la situation.
 <0349> こうなってしまったら、取る手段は一つだ。;;;<0349> Après en être arrivé là, il ne restait qu'une chose à faire.
 <0350> \{\m{A}}「じゃっ、そういうことで」;;;<0350> Bref ! J'ai fini.
-<0351> 陽気な兄キを装い、しゅたっと右手を上げる。;;;<0351> Je levai la main droite comme le ferait un grand frère un peu cool.
-<0352> そのままにこやかに、この場を立ち去ろうとする…;;;<0352> Et sans cesser de sourire, je commençai à quitter l'endroit.
+<0351> 陽気な兄キを装い、しゅたっと右手を上げる。;;;<0351> Je levai la main droite, comme le ferait un grand frère un peu cool.
+<0352> そのままにこやかに、この場を立ち去ろうとする…;;;<0352> Et sans cesser de sourire, je me mis en route pour quitter l'endroit.
 <0353> \{聖}「待てい」;;;<0353> Attends un peu !
 <0354> やはり、そうはいかなかった。;;;<0354> Forcément, ça n'allait pas se passer comme ça.
-<0355> \{聖}「私の妹にいかがわしい薬をかがせて、ふらちな行為に及んだな」;;;<0355> Donc, tu as fait prendre des produits douteux à ma petite sœur, avant de commettre des actes impardonnables ?
+<0355> \{聖}「私の妹にいかがわしい薬をかがせて、ふらちな行為に及んだな」;;;<0355> Donc, tu as fait prendre des produits douteux à ma petite sœur pour pouvoir ensuite commettre des actes impardonnables ?
 <0356> \{聖}「組み手の稽古だと偽って、嫌がる妹にあんなことやこんなことを強要したんだな」;;;<0356> En prétendant l'entraîner au combat, tu as forcé ma sœur à faire ces choses-là alors qu'elle ne le voulait pas.
-<0357> \{聖}「そうして、やおらズボンから自慢の…」;;;<0357> Et enfin, tu as lentement exhibé ton trésor hors de ton pantalon...
+<0357> \{聖}「そうして、やおらズボンから自慢の…」;;;<0357> Et enfin, tu as lentement sorti ton trésor de ton pantalon pour l'exhiber...
 <0358> \{\m{A}}「ちょ、ちょっと待てッ！」;;;<0358> A-Attends un peu !!
 <0359> あわてて姉の口を塞ぐ。;;;<0359> Je me dépêchai de lui fermer le clapet.
 <0360> が、渾身の力ですぐに振り解かれる。;;;<0360> Mais elle me repoussa de toutes ses forces et se dégagea aussitôt.
@@ -369,7 +369,7 @@
 <0368> \{聖}「観念しやがれいっ！」;;;<0368> Fais ta prière !!
 <0369> \{少女}「お、お姉ちゃん、言葉遣いがべらんめぇになってるよぉ」;;;<0369> O-Onee-chan, parle pas comme ça !
 <0370> そんな問題じゃない。;;;<0370> Ce n'était pas ça le problème.
-<0371> \{\m{A}}「おまえのせいで完璧に勘違いしてるぞ」;;;<0371> C'est ta faute, cet énorme malentendu !
+<0371> \{\m{A}}「おまえのせいで完璧に勘違いしてるぞ」;;;<0371> C'est de ta faute, cet énorme malentendu !
 <0372> \{\m{A}}「ちゃんと説明しろっ」;;;<0372> Dépêche-toi de clarifier tout ça !
 <0373> \{聖}「ええいっ！  男のくせにごちゃごちゃと言い訳をするなっ！」;;;<0373> Eeeih !! Les vrais hommes ne se trouvent pas d'excuses !!
 <0374> しゃきーんっ！;;;<0374> \bCling\u !!
@@ -385,32 +385,32 @@
 <0384> \{\m{A}}「そうだっ」;;;<0384> Oui, toi !
 <0385> \{\m{A}}「助け…」;;;<0385> Aide-m...
 <0386> しゅぱっ！;;;<0386> \bSwiiish\u !!
-<0387> 髪が数本、宙を舞う。;;;<0387> Une poignée de cheveux s'était envolée.
+<0387> 髪が数本、宙を舞う。;;;<0387> Une poignée de cheveux venait de s'envoler.
 <0388> \{聖}「チッ、また避けやがったかっ」;;;<0388> Tsk ! Il a encore esquivé !
 <0389> あのメスが俺の血を吸うのは時間の問題かも知れない。;;;<0389> Ce n'était visiblement plus qu'une question de temps avant que ce scalpel ne s'abreuve de mon sang.
 <0390> 救いを求める視線を少女に向ける。;;;<0390> Je me tournai vers la jeune fille en signe d'appel à l'aide.
 <0391> \{少女}「う、うん、わかった。助けるね」;;;<0391> O-Ok, j'ai compris. Je vais t'aider.
-<0392> \{少女}「えっと、えっと、ちょっと待ってね、えーっと」;;;<0392> Euh, euh, un instant, euuh.
+<0392> \{少女}「えっと、えっと、ちょっと待ってね、えーっと」;;;<0392> Euh, euh, un instant, euuuh.
 <0393> しゅぱしゅぱっ！;;;<0393> \bSwish swhish swhish\u !!
 <0394> \{\m{A}}「うぉっ…！！」;;;<0394> Uwoh...!!!
 <0395> \{聖}「じっとしてろっ！」;;;<0395> Tiens-toi tranquille !!
-<0396> まだ命は惜しいので、できるわけがない。;;;<0396> Sachant que je tenais à la vie, je ne pouvais faire ça.
-<0397> \{少女}「うわわっ、なんかスゴイことになってる。ど、どうしよ…」;;;<0397> Uwawa ! C'est devenu n'importe quoi ! Q-Que faire...?
+<0396> まだ命は惜しいので、できるわけがない。;;;<0396> Sachant que je tenais à la vie, je pouvais difficilement obtempérer.
+<0397> \{少女}「うわわっ、なんかスゴイことになってる。ど、どうしよ…」;;;<0397> Uwawah ! C'est devenu n'importe quoi ! Q-Que faire...?
 <0398> \{少女}「あっ！  そうだっ、ポテト」;;;<0398> Ah !! Je sais ! Potato !
 <0399> \{ポテト}「ぴこ？」;;;<0399> Piko ?
 <0400> \{少女}「お願いっ」;;;<0400> S'il te plaît !
-<0401> むんず、と足下にいたポテトをつまみ上げる。;;;<0401> Elle souleva de toutes ses forces Potato qui était à ses pieds.
+<0401> むんず、と足下にいたポテトをつまみ上げる。;;;<0401> Elle souleva de toutes ses forces Potato, qui était à ses pieds.
 <0402> \{少女}「お姉ちゃんを止めてきてーーーっ」;;;<0402> Arrête Onee-chan !!!!
 <0403> ぶんっ！;;;<0403> \bFwish\u !!
 <0404> \{ポテト}「ぴこーーーーーーーーーっっっ！！」;;;<0404> Pikoooooooooo !!!!!
 <0405> 投げた。;;;<0405> Elle l'avait lancé.
 <0406> ごいーんっ！\shake{1};;;<0406> \bBooing\u ! \shake{1}
-<0407> \{聖}「ぐはっ」;;;<0407> Guwah !
+<0407> \{聖}「ぐはっ」;;;<0407> Argh !
 <0408> 命中。;;;<0408> Droit au but.
 <0409> しかも後頭部に。;;;<0409> Plus précisément, à l'arrière de la tête.
 <0410> 暴走女医こと霧島聖は、目を回してその場に倒れこんだ。;;;<0410> Le médecin déchaîné Kirishima Hijiri s'était écroulé, étalé au sol.
 <0411> \{\m{A}}「…助かった…」;;;<0411> ... Sauvé...
-<0412> 俺はようやく安堵の息をもらした。;;;<0412> Enfin sain et sauf, je lâchai un soupir.
+<0412> 俺はようやく安堵の息をもらした。;;;<0412> Je lâchai un soupir de soulagement.
 <0413> 生きてるって、素晴らしい…;;;<0413> Être en vie est une chose merveilleuse.
 <0414> 心から、そう思った。;;;<0414> pensai-je du fond de mon cœur.
 <0415> ………。;;;<0415> ..........
@@ -420,11 +420,11 @@
 <0419> にこやかに語らう姉と妹。;;;<0419> La grande et la petite sœur échangèrent des sourires.
 <0420> \{\m{A}}「………」;;;<0420> .........
 <0421> \{ポテト}「………」;;;<0421> .........
-<0422> 心中穏やかではない俺とポテト。;;;<0422> Potato et moi n'étions pas aussi sereins.
+<0422> 心中穏やかではない俺とポテト。;;;<0422> Potato et moi, par contre, n'étions pas aussi sereins.
 <0423> \{聖}「それにしても…」;;;<0423> Cela dit...
 <0424> 聖がゆっくりと俺の方に振り向く。;;;<0424> Hijiri se tourna lentement vers moi.
 <0425> \{聖}「すまなかったな、\m{B}君」;;;<0425> Pardon pour ça, \m{B}-kun.
-<0426> \{聖}「まさか、そんな事情があったとは思わなかったんでな」;;;<0426> Il y a eu un malentendu bien malheureux.
+<0426> \{聖}「まさか、そんな事情があったとは思わなかったんでな」;;;<0426> Il y a eu un malentendu fort malheureux.
 <0427> \{聖}「年甲斐もなく、少し取り乱してしまった」;;;<0427> J'ai un peu perdu mon sang-froid, ce qui est inacceptable à mon âge.
 <0428> …あれを少しと言うのか、この大年増は。;;;<0428> ... 'Un peu' ? Pour une vieille peau comme elle ?
 <0429> \{聖}「何か言ったか？」;;;<0429> Tu as dit quelque chose ?
@@ -441,7 +441,7 @@
 <0440> \{少女}「じゃあ、あらためて。ごめんなさいでした、\m{A}くん」;;;<0440> Alors, je recommence. Toutes mes excuses, \m{A}-kun.
 <0441> ぺこりと頭を下げる。;;;<0441> Elle s'inclina pour me saluer.
 <0442> \{少女}「ほら、お姉ちゃんも、もう一回ちゃんと謝って」;;;<0442> Allez, Onee-chan, excuse-toi proprement, cette fois.
-<0443> \{聖}「ん？  ああ、すまなかったな」;;;<0443> Hmm ? Aah, pardon.
+<0443> \{聖}「ん？  ああ、すまなかったな」;;;<0443> Hmn ? Aah, pardon.
 <0444> …誠意が感じられない。;;;<0444> ... Ça n'avait pas l'air très sincère.
 <0445> \{聖}「何か言っただろ？」;;;<0445> Tu as dit quelque chose ?
 <0446> \{\m{A}}「空耳だ」;;;<0446> Ça doit être ton imagination.
@@ -450,14 +450,14 @@
 <0449> 二人そろって立ち上がる。;;;<0449> Les deux se levèrent d'un seul mouvement.
 <0450> 俺も腰を上げた。;;;<0450> Je me levai aussi.
 <0451> \{少女}「\m{A}くんは？  一緒に帰ろうよぉ」;;;<0451> Et toi, \m{A}-kun ? Rentrons ensemble !
-<0452> \{\m{A}}「ん…」;;;<0452> Hmm...
+<0452> \{\m{A}}「ん…」;;;<0452> Hmn...
 <0453> \{\m{A}}「いや、俺はもう少しここにいる」;;;<0453> Nan, je vais rester encre un peu ici.
 <0454> \{少女}「そう…？」;;;<0454> Ah bon...?
 <0455> \{\m{A}}「ああ」;;;<0455> Ouais.
-<0456> \{少女}「残念っ。四人で帰れると思ったのに」;;;<0456> Dommage ! J'avais pensé qu'on aurait pu rentrer tous ensemble à quatre.
+<0456> \{少女}「残念っ。四人で帰れると思ったのに」;;;<0456> Dommage ! J'avais pensé qu'on aurait pu rentrer tous ensemble, à quatre.
 <0457> \{少女}「ねー？  ポテト」;;;<0457> Hein—, Potato ?
 <0458> \{ポテト}「ぴこ～…」;;;<0458> Piko~...
-<0459> 四人ではなく、三人と一匹だと思うが。;;;<0459> N'était-ce pas plutôt 'à trois et le chien', plutôt que 'à quatre' ?
+<0459> 四人ではなく、三人と一匹だと思うが。;;;<0459> N'était-ce pas plutôt 'à trois et un chien', plutôt que : 'à quatre' ?
 <0460> \{\m{A}}「悪いな、期待を裏切って」;;;<0460> Désolé de te décevoir.
 <0461> \{少女}「ううん。そんなことないよぉ」;;;<0461> Non, pas de problème.
 <0462> にっこりと笑う。;;;<0462> Elle souria.
@@ -469,9 +469,9 @@
 <0468> \{少女}「へぇー、すごいねぇ、旅人さんなんだぁ」;;;<0468> Heh—... Incroyable, tu es un voyageur ?
 <0469> \{\m{A}}「そのとおり」;;;<0469> Exactement.
 <0470> \{少女}「それじゃあさぁ、寝る場所とかは？  どうしてるの？」;;;<0470> Et du coup, tu as un endroit où dormir ? Comment tu fais ?
-<0471> \{\m{A}}「ん…まあ、一人奇特な奴がいてな」;;;<0471> Hmm... Bah, y a cette drôle de gus.
+<0471> \{\m{A}}「ん…まあ、一人奇特な奴がいてな」;;;<0471> Hmn... Bah, y a cette drôle de gugus.
 <0472> \{\m{A}}「そいつの家に、今は厄介になってる」;;;<0472> Et elle me laisse squatter sa maison.
-<0473> \{少女}「そうなんだぁ。じゃあ、安心だねぇ」;;;<0473> Je vois ! Sans ce cas, ça me rassure !
+<0473> \{少女}「そうなんだぁ。じゃあ、安心だねぇ」;;;<0473> Je vois ! Dans ce cas, ça me rassure !
 <0474> \{\m{A}}「まあな」;;;<0474> Bah, ouais.
 <0475> \{聖}「おいっ、帰るぞ」;;;<0475> Hé ! On rentre.
 <0476> \{少女}「あっ、うん。わかったよぉ」;;;<0476> Ah ! Oui. J'arrive !
@@ -486,10 +486,10 @@
 <0485> \{\m{A}}「なにが？」;;;<0485> Ton quoi ?
 <0486> \{少女}「名前」;;;<0486> Mon nom.
 <0487> \{少女}「霧島佳乃。よろしくね、\m{A}くん」;;;<0487> Kirishima Kaho. Enchantée, \m{A}-kun.
-<0488> 少女…佳乃は元気に手を振りながら、俺の前から姿を消した。;;;<0488> Elle... Kirishima Kaho me fit un signe plein d'énergie pendant qu'elle s'éloignait.
-<0489> ひとり境内に残る。;;;<0489> Il ne restait que moi dans l'enceinte.
+<0488> 少女…佳乃は元気に手を振りながら、俺の前から姿を消した。;;;<0488> Elle... Kirishima Kaho m'adressa un signe plein d'énergie alors qu'elle s'éloignait.
+<0489> ひとり境内に残る。;;;<0489> Il ne restait que moi dans l'enceinte du sanctuaire.
 <0490> 風が吹き、辺りの木々がカサカサと音を立てた。;;;<0490> Le vent se leva, et fit bruisser les arbres.
-<0491> 空を見上げれば、幾分星が近く見える。;;;<0491> Je levai les yeux en direction du ciel, les étoiles avaient l'air de s'être rapprochées.
-<0492> 澄んだ空気を大きく吸い込み、伸びをする。;;;<0492> Je m'étirai en prenant une grande bouffée d'air frais.
+<0491> 空を見上げれば、幾分星が近く見える。;;;<0491> Je levai les yeux en direction du ciel, les étoiles semblaient s'être rapprochées.
+<0492> 澄んだ空気を大きく吸い込み、伸びをする。;;;<0492> Je m'étirai et pris une grande bouffée d'air frais.
 <0493> \{\m{A}}「…俺も帰るか」;;;<0493> ... Il est temps de rentrer.
-<0494> 肺にたまった空気を、全て抜くように息を吐くと、足を前に進めた。;;;<0494> Après avoir complètement vidé mes poumons de cet air, je commençai à mettre un pied devant l'autre.
+<0494> 肺にたまった空気を、全て抜くように息を吐くと、足を前に進めた。;;;<0494> Après avoir complètement vidé mes poumons de tout l'air que je venais d'inspirer, je commençai à mettre un pied devant l'autre.

@@ -1,16 +1,19 @@
 ####### Patch français pour AIR - Version 0.1 #######
 
-##### Dernière version #####
+##### Changelog #####
 
-Le texte de la route de Misuzu (DREAM) est complètement traduit !
+# 18/09/2025 #
+L'entièreté de la route commune (fichiers XX0.org) a été traduite. Les routes de Kano et Minagi devraient suivre prochainement™.
+
+# 25/08/2025 #
+Le texte de la route de Misuzu (fichiers XX1.org) est complètement traduit ! (les images arriveront bientôt™)
 Une première version du patch devrait bientôt être mise en ligne.
 
 ##### Avancement #####
 
-### Traduction Jeu ###
-Scènes       : 25/81
-Relecture    : 3/81
-Images       : 0/?
+### Traduction Dialogues ###
+Scènes    : 29/81
+Relecture : 13/81
 
 ### Traduction Interface ###
 Texte        : ok
@@ -21,13 +24,14 @@ Vérification : ko
 gameexe.ini                : en cours
 Extraction des scènes      : ok
 Remplacement des scènes    : en cours
+Dernières touches          : ko
 Extraction des images      : ok
 Édition des images         : ko
 Remplacement des images    : ko
 
 ##### Présentation #####
 
-Ce patch est une simple traduction de AIR Standard Edition (2005) en français. À terme, l'intégralité du jeu devrait être traduit.
+Ce patch est une simple traduction de AIR Standard Edition (2005) de Key/Visual Arts en français. À terme, l'intégralité du jeu devrait être traduit.
 
 ##### Installation #####
 

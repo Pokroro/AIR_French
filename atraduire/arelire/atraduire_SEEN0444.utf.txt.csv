@@ -2,8 +2,8 @@
 <0001> 翌朝。;;;<0001> Le lendemain matin.
 <0002> いつもの登校風景の中に俺たちはいた。;;;<0002> Nous prîmes la bonne vieille route de l'école.
 <0003> けど、それも今日が最後となる。;;;<0003> Sauf que cette fois serait la dernière.
-<0004> \{\m{A}}「な、観鈴」;;;<0004> Hé, Misuzu.
-<0005> \{\m{A}}「そろそろ家を出ようと思うんだ」;;;<0005> Je me disais qu'il était temps que je parte de chez toi.
+<0004> \{\m{A}}「な、観鈴」;;;<0004> Dis, Misuzu.
+<0005> \{\m{A}}「そろそろ家を出ようと思うんだ」;;;<0005> Je pense qu'il est temps que je parte de chez toi.
 <0006> 俺は切り出した。;;;<0006> Je pris la parole.
 <0007> \{観鈴}「え…？」;;;<0007> Hein...?
 <0008> \{観鈴}「町、出るの？」;;;<0008> Tu quittes le village ?
@@ -112,13 +112,13 @@
 <0111> \{観鈴}「じゃ、そのときは…補習受けてないようにがんばる」;;;<0111> Alors, à ce moment-là... je ferai de mon mieux pour ne pas avoir de soutien.
 <0112> \{観鈴}「だから、もっともっと遊べる」;;;<0112> Comme ça, on pourra encore plus jouer.
 <0113> \{\m{A}}「そっか。期待してるよ」;;;<0113> Je vois. J'ai hâte.
-<0114> \{観鈴}「また…この町にくることあるかな」;;;<0114> 
-<0115> \{\m{A}}「どうだろうな…」;;;<0115> 
-<0116> \{観鈴}「そのときはまた、家に寄ってほしいな」;;;<0116> 
-<0117> \{観鈴}「そのときは…補習受けてないようにがんばるから。もっともっと遊べる」;;;<0117> 
-<0118> \{\m{A}}「そっか。なら期待して、また寄るよ」;;;<0118> 
-<0119> \{\m{A}}「何年後か、ずっと先の夏休みに」;;;<0119> 
-<0120> \{観鈴}「うん」;;;<0120> 
+<0114> \{観鈴}「また…この町にくることあるかな」;;;<0114> Est-ce que... tu repasseras dans ce village ?
+<0115> \{\m{A}}「どうだろうな…」;;;<0115> Qui sait...?
+<0116> \{観鈴}「そのときはまた、家に寄ってほしいな」;;;<0116> Quand tu reviendras, j'aimerais bien que tu repasses à la maison...
+<0117> \{観鈴}「そのときは…補習受けてないようにがんばるから。もっともっと遊べる」;;;<0117> Quand tu reviendras... j'aurai fait de mon mieux pour ne pas avoir de soutien. Comme ça, on pourra jouer encore plus.
+<0118> \{\m{A}}「そっか。なら期待して、また寄るよ」;;;<0118> Ah bon. Alors attends-moi, je reviendrai.
+<0119> \{\m{A}}「何年後か、ずっと先の夏休みに」;;;<0119> Dans quelques années, pendant de lointaines vacances d'été.
+<0120> \{観鈴}「うん」;;;<0120> Oui.
 <0121> \{\m{A}}「じゃ、いくな」;;;<0121> Allez, j'y vais.
 <0122> \{観鈴}「うん」;;;<0122> Ok.
 <0123> \{\m{A}}「………」;;;<0123> .........
@@ -146,11 +146,11 @@
 <0145> \{\m{A}}「………」;;;<0145> .........
 <0146> \{\m{A}}「そうだな…そうするか」;;;<0146> Je comprends... Faisons comme ça.
 <0147> 俺は風に乱れる髪の毛を押さえながら答えた。;;;<0147> répondis-je en pressant mes cheveux déformés par le vent.
-<0148> \{観鈴}「じゃ、言うね」;;;<0148> Bon, j'y vais.
-<0149> 俺たちは背中合わせになる。;;;<0149> Nous nous tînmes dos-à-dos.
+<0148> \{観鈴}「じゃ、言うね」;;;<0148> Bon, je commence.
+<0149> 俺たちは背中合わせになる。;;;<0149> Nous nous mîmes dos-à-dos.
 <0150> \{\m{A}}「ああ」;;;<0150> Ouais.
 <0151> \{観鈴}「よーい…」;;;<0151> Prêt ?
-<0152> 夏はまだまだ続いてゆく。;;;<0152> L'été n'était pas près de se terminer.
+<0152> 夏はまだまだ続いてゆく。;;;<0152> L'été était loin d'être terminé.
 <0153> \{観鈴}「………」;;;<0153> .........
 <0154> \{観鈴}「どんっ」;;;<0154> Partez !
-<0155> そして、今も風の中に。\wait{5000};;;<0155> En fin de compte, elle se tenait toujours au cœur du vent. \wait{5000}
+<0155> そして、今も風の中に。\wait{5000};;;<0155> Et elle se tenait toujours au beau milieu du vent. \wait{5000}

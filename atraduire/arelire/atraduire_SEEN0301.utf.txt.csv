@@ -88,7 +88,7 @@
 <0087> 『夏はまだ、はじまったばかりなのに…』;;;<0087> L'été venait à peine de commencer...
 <0088> 『知っていたのに、私はなにもできなかった』;;;<0088> Je le savais, mais je n'ai rien pu faire...
 
-<0089> 『誰よりもその子の側にいたのに、救えなかった…』;;;<0089> J'étais plus proche d'elle que quiconque, et je n'ai pourtant pas pu la sauver...
+<0089> 『誰よりもその子の側にいたのに、救えなかった…』;;;<0089> Même en étant plus proche d'elle que quiconque, je n'ai pas pu la sauver...
 <0090> どうして救えなかったのか？;;;<0090> Pourquoi ne pouvait-elle pas être sauvée ?
 <0091> 観鈴を助けようとする行為そのものが、観鈴を病ませていく。;;;<0091> Le fait de chercher à l'aider accentuerait sa maladie.
 <0092> そして、助けようとした人間も病んでいく…;;;<0092> À la fin, celui qui aurait cherché à l'aider tomberait malade...
@@ -200,18 +200,18 @@
 <0198> \{観鈴}「楽しかった、この夏休み」;;;<0198> Je me suis bien amusée, pendant ces vacances d'été.
 <0199> \{観鈴}「\m{A}さんと過ごしたこの夏休み…」;;;<0199> Ces vacances d'été que j'ai passées avec toi...
 <0200> \{\m{A}}「そっか」;;;<0200> Je vois.
-<0201> 最後まで、観鈴はトランプをしていた。;;;<0201> 
-<0202> 俺はそれをじっと眺めていた。;;;<0202> 
-<0203> その姿が観鈴を象徴していた。;;;<0203> 
-<0204> \{観鈴}「やっぱり、こうしてひとりで遊んでいればよかったんだね…」;;;<0204> 
-<0205> \{\m{A}}「そうかもな…」;;;<0205> 
+<0201> 最後まで、観鈴はトランプをしていた。;;;<0201> Jusqu'au dernier moment, Misuzu joua aux cartes.
+<0202> 俺はそれをじっと眺めていた。;;;<0202> Je contemplais cette scène.
+<0203> その姿が観鈴を象徴していた。;;;<0203> Cette vision était Misuzu incarnée.
+<0204> \{観鈴}「やっぱり、こうしてひとりで遊んでいればよかったんだね…」;;;<0204> Je savais que j'aurais dû jouer comme ça toute seule depuis le début...
+<0205> \{\m{A}}「そうかもな…」;;;<0205> Peut-être bien...
 <0206> \{観鈴}「………」;;;<0206> .........
-<0207> \{\m{A}}「でもな、楽しかったよ、俺も」;;;<0207> 
-<0208> \{観鈴}「ほんと？」;;;<0208> 
-<0209> \{\m{A}}「ああ。観鈴と過ごせて良かった」;;;<0209> 
-<0210> 本心からそう思う。;;;<0210> 
-<0211> \{観鈴}「わたしもよかった」;;;<0211> 
-<0212> ぱたぱた…;;;<0212> 
+<0207> \{\m{A}}「でもな、楽しかったよ、俺も」;;;<0207> Mais tu sais, moi aussi, je me suis bien amusé.
+<0208> \{観鈴}「ほんと？」;;;<0208> C'est vrai ?
+<0209> \{\m{A}}「ああ。観鈴と過ごせて良かった」;;;<0209> Ouais. Je suis content d'avoir pu passer ce temps avec toi.
+<0210> 本心からそう思う。;;;<0210> Je le pensais vraiment.
+<0211> \{観鈴}「わたしもよかった」;;;<0211> Moi aussi, j'en suis contente.
+<0212> ぱたぱた…;;;<0212> \bClop clop\u...
 <0213> \{観鈴}「楽しかった、この夏休み」;;;<0213> Je me suis bien amusée, pendant ces vacances d'été.
 <0214> \{観鈴}「\m{A}さんと過ごしたこの夏休み…」;;;<0214> Ces vacances d'été que j'ai passées avec toi...
 <0215> \{観鈴}「一番、楽しかった」;;;<0215> Je ne m'étais jamais autant amusée...
@@ -235,7 +235,7 @@
 <0233> \{観鈴}「………」;;;<0233> .........
 <0234> \{\m{A}}「でもな、楽しかったよ、俺も」;;;<0234> Mais tu sais, moi aussi, je me suis bien amusé.
 <0235> \{観鈴}「ほんと？」;;;<0235> C'est vrai ?
-<0236> \{\m{A}}「ああ。観鈴と過ごせて良かった」;;;<0236> Je suis content d'avoir pu passer ce temps avec toi.
+<0236> \{\m{A}}「ああ。観鈴と過ごせて良かった」;;;<0236> Ouais. Je suis content d'avoir pu passer ce temps avec toi.
 <0237> 本心からそう思う。;;;<0237> Je le pensais vraiment.
 <0238> \{観鈴}「わたしもよかった」;;;<0238> Moi aussi, j'en suis contente.
 <0239> ぱたぱた…;;;<0239> \bClop clop\u...
