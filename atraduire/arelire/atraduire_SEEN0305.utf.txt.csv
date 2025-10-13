@@ -1,0 +1,971 @@
+<0000> ７月３０日(日);;;<0000> 30/07 (dim.)
+<0001> 目が覚めた。;;;<0001> Je me réveillai.
+<0002> 地面がやけに柔らかい。;;;<0002> Le sol me sembla bien trop mou.
+<0003> ソファーの上だと気づいた。;;;<0003> Je réalisai alors que je me trouvais sur un sofa.
+<0004> ブラインドの隙間から差し込む、真っ白な斜光。;;;<0004> Des rayons de lumière blanche pénétraient entre les lames des stores.
+<0005> コチコチという壁時計の音。;;;<0005> L'horloge faisait'tic-tac' au mur.
+<0006> 低く唸るクーラーの音。;;;<0006> Le climatiseur ronronnait.
+<0007> 霧島診療所の待合室だった。;;;<0007> Je me trouvais dans la salle d'attente de la Clinique Kirishima.
+<0008> \{\m{A}}「………」;;;<0008> .........
+<0009> 寝場所を借りたことはあっても、住み込みというのは経験したことがない。;;;<0009> J'avais dormi chez l'habitant par le passé, mais je n'avais encore jamais logé sur mon lieu de travail.
+<0010> こういう目覚めは、初めてだった。;;;<0010> C'était mon premier réveil dans un tel contexte.
+<0011> 俺はいつまで、ここにいることになるのだろう？;;;<0011> Jusqu'à quand y resterais-je ?
+<0012> 頭をもたげたかすかな不安は、眠気と共に退いていった。;;;<0012> Le léger malaise que j'avais ressenti se dissipa en même temps que ma somnolence.
+<0013> \{\m{A}}「さあ、やるか…」;;;<0013> Allez, c'est parti...
+<0014> 俺は起きあがり、一日をはじめた。;;;<0014> Je me levai et démarrai ma journée.
+<0015> 外に出た。;;;<0015> Je sortis.
+<0016> 光が眩しかった。;;;<0016> La lumière était éblouissante.
+<0017> 手に持っているのはバケツと柄杓（ひしゃく）、それにゴミ袋だ。;;;<0017> Dans mes mains se trouvaient un sceau, une louche et un sac-poubelle.
+<0018> 目覚める前の商店街を見回す。;;;<0018> J'inspectai du regard la rue commerçante encore assoupie.
+<0019> とたんに、気が重くなった。;;;<0019> Cela suffit à assomer ma motivation.
+<0020> 花火の燃えかすが、路上に転々としていた。;;;<0020> Des cendres de feux d'artifice se baladaient sur la route.
+<0021> ロケット花火３０ダース、トンボ花火２０ダースの都合６００弾。;;;<0021> Trente douzaines de feux à fusée et vingt douzaines feux libellule, soit soixante au total.
+<0022> 診療所前からジャカスカ打ち上げれば、当然こうなる。;;;<0022> Après avoir allumé autant de feux d'artifice devant la clinique, on pouvait s'y attendre.
+<0023> 溜息をつき、作業を始める。;;;<0023> Je poussai un soupir et me mis à l'œuvre.
+<0024> 燃えかすをひとつひとつ拾い、ゴミ袋に放り込む。;;;<0024> Je ramassais les cendres une par une puis les lâchais dans mon sac-poubelle.
+<0025> どこかの店のシャッターが開き、中年の店主が出てきた。;;;<0025> Les volets d'une boutique quelconque s'ouvrirent, et  son propriétaire d'âge moyen en sortit.
+<0026> 朝日を浴びながら、新聞を読みはじめる。;;;<0026> Il lisait son journal en profitant du lever de soleil.
+<0027> 俺に気づくと、会釈してくれた。;;;<0027> Quand il me remarqua, il me fit un signe de tête pour me saluer.
+<0028> \{\m{A}}「昨夜は悪かったな」;;;<0028> Désolé pour hier soir.
+<0029> 俺のせいではないが、一応謝っておく。;;;<0029> Ce n'était pas ma faute, mais je fis l'effort de m'excuser.
+<0030> \{店主}「いやいや。毎度のことだからねえ…」;;;<0030> Mais non, mais non. Ça arrive tout le temps, vous savez...
+<0031> 苦笑いが返ってきた。;;;<0031> Il esquissa un sourire amer.
+<0032> …毎度のことなのか、あれが？;;;<0032> ... C'est \bça\u qui arrive 'tout le temps' .
+<0033> ちょっぴり恐怖する。;;;<0033> Je me sentis un tout petit peu terrifié.
+<0034> 全部拾い終わってから、診療所前に戻る。;;;<0034> Après les avoir tous ramassés, je retournai à la clinique.
+<0035> バケツに水を汲み、柄杓で盛大に撒いた。;;;<0035> Je remplis mon seau d'eau, puis en aspergeai le sol à grands coups de louche.
+<0036> …ざんっ。;;;<0036> ...\bSplash\u !
+<0037> 商店街の谷間に、ささやかな水音が響く。;;;<0037> Le doux murmure de l'eau résonnait dans la vallée de la rue commerçante.
+<0038> アスファルトが黒く濡れる。;;;<0038> L'eau assombrissait l'asphalte.
+<0039> 水気を帯びて、空気が柔らかくなるのがわかる。;;;<0039> Je sentais l'air chargé d'humidité s'adoucir.
+<0040> 今日も暑くなりそうだった。;;;<0040> Aujurd'hui aillait encore être bien chaud.
+<0041> \{\m{A}}「…さてと」;;;<0041> ... Et maintenant...
+<0042> 打ち水を終えて、俺は待合室に戻った。;;;<0042> Après avoir terminé de mouiller le sol, j'étais revenu dans la salle d'attente.
+<0043> だが、休んでいる暇はない。;;;<0043> Mais je ne pouvais pas me permettre de prendre une pause :
+<0044> 次は俺の得意種目。;;;<0044> C'était au tour de ma grande spécialité :
+<0045> 言うまでもなく、モップ掛けだ。;;;<0045> Cela va sans dire, la serpillère.
+<0046> それが終わったらトイレ掃除だ。;;;<0046> Quand ce serait fini, j'irais laver les toilettes.
+<0047> それが終わったら診察室掃除だ。;;;<0047> Quand ce serait fini, j'irais laver le cabinet de consultation.
+<0048> その時、ものすごく重要なことに気づいた。;;;<0048> C'est à ce moment-là que je remarquai quelque chose de bouleversant :
+<0049> 俺はこの格好のままなのか？;;;<0049> Devrais-je rester habillé ainsi ?
+<0050> ユニフォームの支給はないのか？;;;<0050> Ne devrait-on pas me fournir un uniforme ?
+<0051> せめてエプロンとかゴム手袋とか貸してもらえないのか？;;;<0051> Ne devrait-on pas au moins me prêter un tablier et des gants ?
+<0052> というか、その辺をちゃんとしないと細菌で院内感染でマジで危険で大ピンチなんじゃないのか？;;;<0052> Et d'ailleurs, imaginons que des germes environnants causent des infections nosocomiales ? On serait sacrément dans la galère, non ?
+<0053> \{\m{A}}「………」;;;<0053> .........
+<0054> 探してみることにした。;;;<0054> Je me mis à la recherche de ces choses-là.
+<0055> その手のものがあるとすれば、診察室以外にない。;;;<0055> Si j'avais une chance de mettre la main dessus, il n'y avait pas de meilleur endroit que le cabinet.
+<0056> ドアノブに手をかける。;;;<0056> Je posai la main sur la poignée de la porte.
+<0057> 当然のように、鍵はかかっていなかった。;;;<0057> Naturellement, celle-ci n'était pas verrouillée.
+<0058> 扉を開けて、中に入る。;;;<0058> J'ouvris la porte et pénétrai dans la pièce.
+<0059> 改めて辺りを見渡してみる。;;;<0059> J'étudiais l'intérieur de la pièce pour la deuxième fois de la journée.
+<0060> 掃除しているところは見たことがないが、白い壁は清潔そのものに見える。;;;<0060> Je n'y avais pas fait attention en faisant le ménage, mais les murs blancs étaient l'hygiène incarnée.
+<0061> 壁に白衣が掛かっている。;;;<0061> Une blouse blanche y était attachée.
+<0062> 肘掛け付きの椅子が、主人を待っている。;;;<0062> Une chaise munie d'accoudoirs n'attendait que quelqu'un pour trôner dessus.
+<0063> カルテらしきバインダーが出しっぱなしになっている。;;;<0063> Un classeur semblant contenir des dossiers médicaux était ouvert à la vue de tous.
+<0064> そして、俺には用途さえわからない医療器具の数々。;;;<0064> Il y avait aussi des instruments médicaux dont je ne connaissais même pas l'utilité.
+<0065> 聖も佳乃も、まだ眠っているはずだ。;;;<0065> Hijiri et Kano étaient sans doute encore en train de dormir.
+<0066> 静かだった。;;;<0066> Le silence était complet.
+<0067> そして、不用心だった。;;;<0067> Et personne ne surveillait.
+<0068> \{\m{A}}「………」;;;<0068> .........
+<0069> 血圧計;;;<0069> Tensiomètre
+<0070> 白衣;;;<0070> Blouse blanche
+<0071> カルテ;;;<0071> Dossiers médicaux
+<0072> 血圧計だ。;;;<0072> Ce sera le tensiomètre.
+<0073> 二の腕に腕帯を巻いて、それに空気を入れることで血圧を計るという医療器具だ。;;;<0073> Il s'agissait d'un appareil médical qui mesure la tension artérielle en enroulant un brassard autour de la partie antérieure du bras et en y injectant de l'air.
+<0074> 診療所で働くからには、こいつの使い方くらい憶えておいた方がいいだろう。;;;<0074> Puisque je travaillais dans une clinique, j'avais intérêt à apprendre à m'en servir.
+<0075> 自分の身体で実験してみる。;;;<0075> J'essayai de m'en servir sur mon propre corps.
+<0076> たしか腕帯のマジックテープを外して…。;;;<0076> Si je ne dis pas de bêtise, il faut commencer par défaire le velcro du brassard...
+<0077> ベリベリ…。;;;<0077> \bScrrr scrrr\u...
+<0078> 二の腕に捲いて…マジックテープを止める。;;;<0078> Ensuite, je l'enroule en haut de mon bras... et je referme le velcro.
+<0079> ぺた。;;;<0079> \bAttache\u.
+<0080> そして本体に繋がっている卵形のポンプを握るんだったな。;;;<0080> Puis je serre la pompe ovale reliée à l'appareil.
+<0081> ぎゅっ。;;;<0081> \bSerre\u !
+<0082> しゅこっ。;;;<0082> \bFfff\u !
+<0083> 腕帯に空気が送り込まれ、微かに腕を圧迫する。;;;<0083> De l'air fut injecté dans le brassard qui m'écrasa légèrement le bras.
+<0084> 放っておくと腕帯に入った空気はジワジワと抜けていく。;;;<0084> Je ne touchai à rien de plus, et l'air s'en évacua peu à peu.
+<0085> \{\m{A}}「………」;;;<0085> .........
+<0086> ぎゅっ、ぎゅっ。;;;<0086> \bSerre\u ! \bSerre\u !
+<0087> しゅこっ、しゅこっ。;;;<0087> \bFfff\u ! \bFfff\u !
+<0088> ２回握ると、先程より少し強めに腕が圧迫された。;;;<0088> Après avoir serré la pompe deux fois, je sentis mon bras se faire écraser avec davantage de force.
+<0089> しばらく放っておくと、やはりジワジワと腕帯から空気が抜けていった。;;;<0089> J'attendis un moment sans y toucher et, comme prévu, l'air s'évacua peu à peu.
+<0090> なるほど、こういう原理か。;;;<0090> Je vois, c'était donc ça le principe.
+<0091> ぎゅっ、ぎゅっ、ぎゅっ、ぎゅっ。;;;<0091> \bSerre\u ! \bSerre\u ! \bSerre\u ! \bSerre\u !
+<0092> しゅこっ、しゅこっ、しゅこっ、しゅこっ。;;;<0092> \bFfff\u ! \bFfff\u ! \bFfff\u ! \bFfff\u !
+<0093> ぎゅっ、ぎゅっ、ぎゅっ、ぎゅっ。;;;<0093> \bSerre\u ! \bSerre\u ! \bSerre\u ! \bSerre\u !
+<0094> しゅこっ、しゅこっ、しゅこっ、しゅこっ。;;;<0094> \bFfff\u ! \bFfff\u ! \bFfff\u ! \bFfff\u !
+<0095> 痛いくらいに腕帯が、俺の二の腕を締め付けてくる。;;;<0095> Le brassard me serrait le haut du bras tellement fort que c'en devenait douloureux.
+<0096> この程度の圧力に屈するわけにはいかない。;;;<0096> Mais je n'allais pas céder face à une pression aussi minable.
+<0097> 細いが力があるという事をみせてやる。;;;<0097> J'allais lui montrer qu'on pouvait être svelte et avoir de la force.
+<0098> 俺はグッと拳を握り締め、その圧力に真っ向から立ち向かう。;;;<0098> Je serrai le poing et confrontai directement la pression.
+<0099> ぎゅっ、ぎゅっ、ぎゅっ、ぎゅっ。;;;<0099> \bSerre\u ! \bSerre\u ! \bSerre\u ! \bSerre\u !
+<0100> しゅこっ、しゅこっ、しゅこっ、しゅこっ。;;;<0100> \bFfff\u ! \bFfff\u ! \bFfff\u ! \bFfff\u !
+<0101> \{\m{A}}「むんっ！」;;;<0101> Hmph !!
+<0102> 肘を９０度に曲げ、拳を握り締めて力コブを作る。;;;<0102> Je pliai mon bras à quatre-vingt-dix degrés et contractai mes muscles en serrant le poing.
+<0103> ぼひゅっ。;;;<0103> \bPrrr\u !
+<0104> 大量に何かが抜け出していく音がした。;;;<0104> J'entendis un bruit qui évoquait que quelque chose était en train de s'échapper en grande quantité.
+<0105> 二の腕にかかっていた圧力が消える。;;;<0105> La pression sur le haut de mon bras avait disparu.
+<0106> 腕帯が裂けていた。;;;<0106> Le brassard s'était déchiré.
+<0107> \{\m{A}}「………」;;;<0107> .........
+<0108> ベリ…。;;;<0108> \bScrrr\u...
+<0109> 腕帯を外し、そっと元あった場所へと戻す。;;;<0109> Je défis le brassard et reposai le tout à leur emplacement d'origine.
+<0110> \{\m{A}}「…よし」;;;<0110> ... Bien.
+<0111> …ごんっ。\shake{1};;;<0111> ... \bBam\u ! \shake{1}
+<0112> 脳天にかなりの衝撃が走った。;;;<0112> Un coup violent me secoua le crâne.
+<0113> \{聖}「なにが『…よし』だ」;;;<0113> Qu'est-ce qui est si '... Bien' ?
+<0114> \{\m{A}}「あ、先生。血圧計が壊れていました」;;;<0114> Ah, Docteur. Le tensiomètre est cassé.
+<0115> …ごんっ。\shake{1};;;<0115> ... \bBam\u ! \shake{1}
+<0116> もう一発喰らう。;;;<0116> Je me pris un autre coup.
+<0117> \{聖}「給料から天引きさせて貰うぞ」;;;<0117> Ça sera déduit de ton salaire.
+<0118> 血も涙もない宣告だった。;;;<0118> La sentence fut froidement rendue.
+<0119> とはいえ、壊した俺が悪いのだから、言い返すことができない。;;;<0119> Enfin, puisque c'était moi qui l'avais cassé, je n'avais rien à répondre.
+<0120> \{\m{A}}「…参考までに訊きたいが、いくらぐらいするんだ？」;;;<0120> ... Juste pour info, ça représente quelle somme ?
+<0121> 黙って指を一本立てる聖。;;;<0121> Sans mot dire, elle leva un doigt.
+<0122> \{\m{A}}「千円か…」;;;<0122> Mille yens, c'est ça...?
+<0123> \{聖}「一万だ」;;;<0123> C'est dix mille yens.
+<0124> 驚異的な金額をさらりと言ってのけた。;;;<0124> Il avait prononcé une somme incroyable en restant impassible.
+<0125> \{聖}「３日間ただ働きだな」;;;<0125> Ça fait trois jours de travail gratuit.
+<0126> \{\m{A}}「………」;;;<0126> .........
+<0127> 俺の日給はいくらなんだろう…。;;;<0127> C'était quoi ma paie quotidienne...?
+<0128> \{\m{A}}「ところで、仕事をするにあたって、ユニフォームとかの支給はないのか？」;;;<0128> Au fait, quitte à me faire travailler, tu ne devrais pas me fournir un uniforme ?
+<0129> \{聖}「そんなもの必要ないだろう」;;;<0129> Tu n'as pas besoin de ça.
+<0130> \{\m{A}}「仮にもここは病院だろ」;;;<0130> Mais c'est une clinique, ici.
+<0131> \{聖}「ならこれでも着ておけ」;;;<0131> Alors enfile ça.
+<0132> 椅子にかけてあった白衣を投げてよこす。;;;<0132> Elle me jeta la blouse blanche qui était posée sur la chaise.
+<0133> \{\m{A}}「…俺が白衣を着ていていいのか…？」;;;<0133> ... Je peux vraiment porter une blouse...?
+<0134> \{聖}「医師が増えたように見えてお得な感じだからな」;;;<0134> Ça donnera l'impression qu'il y a davantage de médecins, ça fera bien.
+<0135> \{\m{A}}「………」;;;<0135> .........
+<0136> いいのか、それ？;;;<0136> Je peux vraiment faire ça ?
+<0137> 机の上を見ると、カルテがいくつか重ねられていた。;;;<0137> J'avais remarqué des dossiers médicaux qui traînaient sur le bureau.
+<0138> こういうモノは普通、ちゃんと専用のバインダーかなにかに保管しておくものじゃないのだろうか…。;;;<0138> N'était-on pas censés garder ces trucs-là privés et à l'abri dans des classeurs ?
+<0139> \{\m{A}}「…カルテか」;;;<0139> ... Des dossiers médicaux, hein ?
+<0140> おもむろに手にとって開いてみる。;;;<0140> J'en pris doucement un dans mes mains, et l'ouvris.
+<0141> \{\m{A}}「………」;;;<0141> .........
+<0142> 見たことのない不思議な文字らしき物が綴られていた。;;;<0142> J'y vis ce qui ressemblait à de mystérieux caractères difformes que je n'avais encore jamais vus.
+<0143> 強いて解る物と言えば患者の名前と数字くらいだ。;;;<0143> Tout ce que j'arrivais à déchiffrer à grand-peine étaient des noms de patients et des chiffres.
+<0144> しかし、カルテがあると言うことは、聖のヤツちゃんとお医者さんをしているんだな。;;;<0144> Enfin, si c'étaient bien des dossiers médicaux, ça voulait dire que cette Hijiri, là, faisait bien son boulot de médecin.
+<0145> \{\m{A}}「…ん？」;;;<0145> ... Hmn ?
+<0146> カルテのある部分で目が止まる。;;;<0146> Mes yeux avaient été attirés par un élément du dossier.
+<0147> 手近にあったボールペンを手に取る。;;;<0147> Je pris un stylo-bille qui traînait à portée de main.
+<0148> シャシャッ、シャッ;;;<0148> \bFouille-fouille, fouille\u !
+<0149> スラスラスラ…。;;;<0149> \bÉcris écris écris\u...
+<0150> \{\m{A}}「…よし」;;;<0150> ... Bien.
+<0151> …ごんっ。\shake{1};;;<0151> ... \bBam\u ! \shake{1}
+<0152> 延髄に突き抜けるような衝撃が走った。;;;<0152> On m'assena un impact que je sentis jusqu'à ma moelle.
+<0153> \{聖}「どう『…よし』だ」;;;<0153> C'est qui, qui est si '... Bien' ?
+<0154> \{\m{A}}「血圧が低めだったから、通常値に修正してやったぞ」;;;<0154> Sa tension était un peu trop basse, alors je l'ai corrigée et je l'ai remise à une valeur standard.
+<0155> …ごんっ。\shake{1};;;<0155> ... \bBam\u ! \shake{1}
+<0156> 今度は脳天に喰らう。;;;<0156> Ce coup-là me secoua le crâne.
+<0157> \{聖}「カルテを改竄してどうする」;;;<0157> Tu m'expliques pourquoi tu falsifies des dossiers médicaux ?
+<0158> \{\m{A}}「健康っぽい」;;;<0158> C'est bien d'être en bonne santé.
+<0159> …ごんっ。\shake{1};;;<0159> ... \bBam\u ! \shake{1}
+<0160> \{\m{A}}「あまり人の頭を殴るのは良くないぞ」;;;<0160> T'es pas obligé de me frapper la tête.
+<0161> \{聖}「なら、いらぬことをしないことだ」;;;<0161> Alors au lieu de faire des choses inutiles, ne fais rien.
+<0162> 怒られてしまった。;;;<0162> Je l'avais mise en colère.
+<0163> \{\m{A}}「ところで、仕事をするにあたって、ユニフォームとかの支給はないのか？」;;;<0163> Au fait, quitte à me faire travailler, tu ne devrais pas me fournir un uniforme ?
+<0164> \{聖}「そんなもの必要ないだろう」;;;<0164> Tu n'as pas besoin de ça.
+<0165> \{\m{A}}「仮にもここは病院だろ」;;;<0165> Mais c'est une clinique, ici.
+<0166> \{聖}「ならこれでも着ておけ」;;;<0166> Alors enfile ça.
+<0167> 椅子にかけてあった白衣を投げてよこす。;;;<0167> Elle me jeta la blouse blanche qui était posée sur la chaise.
+<0168> \{\m{A}}「…俺が白衣を着ていていいのか…？」;;;<0168> ... Je peux vraiment porter une blouse...?
+<0169> \{聖}「医師が増えたように見えてお得な感じだからな」;;;<0169> Ça donnera l'impression qu'il y a davantage de médecins, ça fera bien.
+<0170> \{\m{A}}「………」;;;<0170> .........
+<0171> いいのか、それ？;;;<0171> Je peux vraiment faire ça ?
+<0172> 早速、白衣に袖を通してみる。;;;<0172> J'enfilai sans attendre la blouse.
+<0173> …ごそごそ。;;;<0173> ... \bEnfile enfile\u.
+<0174> 大きさ的には悪くなかった。;;;<0174> La taille était plutôt correcte.
+<0175> くるりとターンしてみた。;;;<0175> Je fis un petit tour sur moi-même.
+<0176> かなりいい感じだ。;;;<0176> C'était assez agréable.
+<0177> 決めゼリフのひとつも言いたくなるのが人情だ。;;;<0177> Dans ces conditions, rien de plus humain que vouloir prononcer une réplique choc :
+<0178> 『博士、タイムマシンが盗まれました！』;;;<0178> Doc, on a volé la machine à remonter dans le temps !
+<0179> 『改造人間が基地から逃げ出しました！』;;;<0179> Le cyborg s'est échappé de la base !
+<0180> 『このままでは地球に衝突します！』;;;<0180> Il va entrer en collision avec la Terre !
+<0181> \{\m{A}}「博士、タイムマシンが盗まれました！」;;;<0181> Doc, on a volé la machine à remonter dans le temps !
+<0182> \{\m{A}}「改造人間が基地から逃げ出しました！」;;;<0182> Le cyborg s'est échappé de la base !
+<0183> \{\m{A}}「このままでは地球に衝突します！」;;;<0183> Il va entrer en collision avec la Terre !
+<0184> \{\m{A}}「………」;;;<0184> .........
+<0185> 今ひとつだった。;;;<0185> Ce n'était pas tout à fait ça.
+<0186> 興味を失い、白衣を脱ごうとする。;;;<0186> Je perdis intérêt et enlevai la blouse.
+<0187> \{\m{A}}「…ん、何だ？」;;;<0187> ... Hmn, qu'est-ce que c'est ?
+<0188> ポケットの中に、ちいさな鍵が入っているのに気づいた。;;;<0188> Je découvris une clé au fond d'une des poches.
+<0189> 机か戸棚用のチャチなものだ。;;;<0189> C'était une clé de mauvaise facture, faite pour un bureau ou un placard.
+<0190> 基本どおり、部屋の中を見渡してみる。;;;<0190> Mon regard fit le tour de la pièce.
+<0191> 机の手前に、白塗りの薬品棚があった。;;;<0191> Il y avait une armoire à pharmacie peinte en blanc devant le bureau.
+<0192> 観音開きの扉に鍵穴がついていた。;;;<0192> Sa porte à double battant comportait une serrure.
+<0193> 鍵が合いそうだった。;;;<0193> La clé pourrait bien correspondre.
+<0194> 霧島診療所の秘密は、ここにあると見た。;;;<0194> Le secret de la Clinique Kirishima se trouvait là.
+<0195> 開けてみる;;;<0195> L'ouvrir
+<0196> やめておく;;;<0196> Me contrôler
+<0197> 霧島診療所の秘密…。;;;<0197> Le secret de la Clinique Kirishima...
+<0198> \{\m{A}}「………」;;;<0198> .........
+<0199> 知っちゃいけないものが入っていそうだ。;;;<0199> Il devait contenir quelque chose qu'il valait mieux laisser secret.
+<0200> 君子危うきに近寄らず。;;;<0200> Un homme sage ne s'approche pas du danger.*
+<0201> 何かを知ることで、不幸になるというのはよくあることだ。;;;<0201> Ceux qui en savaient trop étaient condamnés à finir malheureux.
+<0202> 無言のまま、ポケットに鍵をしまう。;;;<0202> Sans mot dire, je remis la clé dans la poche.
+<0203> \{\m{A}}「さてと…モップ掛けからだったな」;;;<0203> Et maintenant... J'allais passer la serpillère, je crois ?
+<0204> 俺は診察室での事を忘れるように一人頷くと、扉を開けて待合室へと戻った。;;;<0204> Je hochai la tête comme pour oublier ce qui s'était passé dans le cabinet de consultation, puis ouvris la porte pour retourner dans la salle d'attente.
+<0205> 鍵を挿す。;;;<0205> J'insérai la clé.
+<0206> かちりと回った。;;;<0206> Et la tournai.
+<0207> \{\m{A}}「でえいっ」;;;<0207> Allez !
+<0208> 扉を開け放った。;;;<0208> Lea porte s'ouvrit.
+<0209> 薬瓶、ピンセット、脱脂綿。;;;<0209> Flacon de médicaments, pince à épiler, ouate.
+<0210> カッター、ナイフ、出刃包丁。;;;<0210> Cutter, couteau, couteau à découper.
+<0211> 金槌、スパナ、ドライバー。;;;<0211> Marteau, clé à molette, tournevis.
+<0212> 針金、ガムテープ、瞬間接着剤。;;;<0212> Fil de fer, ruban adhésif, colle forte.
+<0213> \{\m{A}}「………」;;;<0213> .........
+<0214> ぱたん。;;;<0214> \bBam\u.
+<0215> 何も見なかったことにして、扉を閉める。;;;<0215> Je fis comme si je n'avais rien vu et refermai la porte.
+<0216> \{声}「何をしている？」;;;<0216> Qu'est-ce que t'es en train de faire ?
+<0217> …ぎくうううううっ。;;;<0217> ... \bGloooooups\u !
+<0218> 悪の診療所の女首領が、背後に立っていた。;;;<0218> La cheffe de la clinique maléfique se tenait juste derrière moi.
+<0219> \{聖}「そうか、そっちの白衣に鍵が入れっぱなしだったか」;;;<0219> C'est vrai, ça... J'avais laissé la clé dans la poche de cette blouse.
+<0220> 戸に挿したままの鍵を抜き、自分のポケットに入れる。;;;<0220> Elle retira la clé de la porte et la rangea dans sa propre poche.
+<0221> \{\m{A}}「そんなことより、あんたその棚に何を…」;;;<0221> Avant toute chose, tu fais quoi avec cette armoire...?
+<0222> \{聖}「言っておくが、この薬棚は霧島家の道具入れ兼用だ」;;;<0222> Sache que cette armoire à pharmacie est utilisée pour stocker toutes sortes d'outils qu'on a à la maison.
+<0223> \{\m{A}}「…まぎらわしいことをするな」;;;<0223> ... Ça portait un peu à confusion.
+<0224> \{聖}「危険物は所定の場所に保管しなければ医師失格だ」;;;<0224> Un médecin se doit de ranger les objets dangereux dans un endroit approprié.
+<0225> \{\m{A}}「…あんた、始終メスを持ち歩いてるだろ？」;;;<0225> ... Dixit celle qui se balade toujours avec des scalpels sur elle ?
+<0226> \{聖}「これのことか？」;;;<0226> C'est de ça que tu parles ?
+<0227> \{\m{A}}「出さなくていい」;;;<0227> Pas besoin de les sortir.
+<0228> \{聖}「そうか…」;;;<0228> Soit...
+<0229> 残念そうにしまう。;;;<0229> Elle avait l'air déçu.
+<0230> \{聖}「このメスは、私の白衣が保管場所だ」;;;<0230> Je range ces scalpels dans ma blouse.
+<0231> …そんな保管場所があるか。;;;<0231> Si ça t'amuse de les ranger là...
+<0232> \{\m{A}}「だいたい、ここじゃメスなんて使わないだろ？」;;;<0232> De toute façon, tu ne te sers jamais de ces scalpels, hein ?
+<0233> \{聖}「まあ、滅多にはな」;;;<0233> Bah, très rarement.
+<0234> \{聖}「だから、うちにあるメスはこの４本だけだ」;;;<0234> C'est pour ça que je n'ai que ces quatre-là ici.
+<0235> \{聖}「私が持ち歩いていれば、佳乃も触れようがないだろう」;;;<0235> Je les garde sur moi en permanence pour que Kano ne puisse pas y toucher.
+<0236> \{\m{A}}「過保護だな」;;;<0236> Tu la protèges trop.
+<0237> \{聖}「過保護だとも」;;;<0237> Je la protège trop.
+<0238> 妙に真剣に答える。;;;<0238> répondit-elle un peu trop sérieusement.
+<0239> \{聖}「ほら、わかったらモップ掛けだ」;;;<0239> Allez, si t'as compris, va passer la serpillère.
+<0240> \{\m{A}}「はいはい…」;;;<0240> Oui, oui...
+<0241> 戻りかけて、自分がまだ白衣を着ていることに気づいた。;;;<0241> Juste avant de m'y remisse, je remarquai que je portais encore la blouse blanche.
+<0242> 脱ごうとすると、聖が言った。;;;<0242> Je m'apprêtais à l'enlever, quand Hijiri m'interpella :
+<0243> \{聖}「その白衣は君が使ってもいい」;;;<0243> Tu peux garder cette blouse.
+<0244> \{\m{A}}「いいのか、俺が着て」;;;<0244> Je peux vraiment la porter ?
+<0245> \{聖}「医師が増えたように見えてお得な感じだからな」;;;<0245> Ça donnera l'impression qu'il y a davantage de médecins, ça fera bien.
+<0246> \{\m{A}}「………」;;;<0246> .........
+<0247> いいのか、それ？;;;<0247> Je peux vraiment faire ça ?
+<0248> \{佳乃}「\m{A}くん」;;;<0248> \m{A}-kun.
+<0249> ごしごしごし…。;;;<0249> \bEssuie essuie essuie\u...
+<0250> \{佳乃}「\m{A}くーん」;;;<0250> \m{A}-kuuun.
+<0251> ごしごしごし…。;;;<0251> \bEssuie essuie essuie\u...
+<0252> \{佳乃}「おーい、やっほー、もしもーし、\m{A}くーん」;;;<0252> Hééé, yahoo—, allô—, \m{A}-kun.
+<0253> ごしごしごし…。;;;<0253> \bEssuie essuie essuie\u...
+<0254> \{佳乃}「うぬぬ。こうなったら…」;;;<0254> Ununu. Si c'est comme ça...
+<0255> ご…。;;;<0255> \bEssu\u...
+<0256> \{\m{A}}「………」;;;<0256> .........
+<0257> \{佳乃}「\m{A}くんってばぁ」;;;<0257> \m{A}-kun, oh !
+<0258> \{\m{A}}「モップの上に足を乗せるな」;;;<0258> Mets pas tes pieds sur ma serpillère.
+<0259> 俺が反応したとたんに、顔をぐいっと近づけてくる。;;;<0259> Aussitôt que j'eus répondu, elle rapprocha son visage.
+<0260> \{佳乃}「あたし、手伝っちゃダメ？」;;;<0260> Je peux pas t'aider ?
+<0261> どうやらそれが言いたかったらしい。;;;<0261> C'était clairement ce qu'elle avait voulu me demander depuis le début.
+<0262> \{\m{A}}「ダメだ」;;;<0262> Non.
+<0263> \{\m{A}}「これが俺の仕事だからな」;;;<0263> C'est \bmon\u boulot.
+<0264> 休めていた手を再び動かす。;;;<0264> Je mis fin à son interruption et recommençai à passer la serpillère.
+<0265> こいつに手伝わせでもしたら、聖が黙っていないだろう。;;;<0265> Si je la laissais me donner un coup de main, Hijiri me tomberait dessus.
+<0266> \{佳乃}「うぬぬ…でもぉ」;;;<0266> Ununu... Mais...
+<0267> 不満そうに言い、この場を動こうとしない。;;;<0267> dit-elle d'un ton mécontent en refusant de bouger.
+<0268> 邪魔されてはかなわないので、口だけはつき合うことにする。;;;<0268> Comme je ne voulais pas être gêné davantage, je réagis :
+<0269> \{\m{A}}「今日は学校に行かなくていいのか」;;;<0269> Tu ne vas pas à l'école, aujourd'hui ?
+<0270> \{佳乃}「今日はね、飼育当番お休みなんだぁ」;;;<0270> Aujourd'hui, c'est pour jour de congé pour l'élevage des animaux.
+<0271> \{\m{A}}「そうか」;;;<0271> Je vois.
+<0272> \{佳乃}「ピョンタもモコモコも、とっても元気爆発なんだよぉ」;;;<0272> Pyonta et Mokomoko débordent d'énergie !
+<0273> \{\m{A}}「ふーん」;;;<0273> Hmmm.
+<0274> \{佳乃}「あたしねー、お掃除ってとっても得意技なんだよぉ」;;;<0274> Moi, je suis super douée pour le ménage, tu sais— !
+<0275> \{\m{A}}「ふーん」;;;<0275> Hmmm.
+<0276> \{佳乃}「超Ａ級の腕前だから、各国から依頼がひっきりなしで貧乏暇なしなんだよぉ」;;;<0276> Comme mes compétences sont de rang A, je reçois des requêtes de tous les pays et j'ai pas le temps de m'ennuyer !
+<0277> \{\m{A}}「ふーん」;;;<0277> Hmmm.
+<0278> ごしごしごし…。;;;<0278> \bEssuie essuie essuie\u...
+<0279> \{佳乃}「もぉ、ふーん、じゃないよぉ」;;;<0279> Rooh, arrêve avec tes 'hmmm' !
+<0280> \{\m{A}}「ポテトと散歩にでも行ってきたらどうだ」;;;<0280> Tu veux pas aller te promener avec Potato ?
+<0281> \{\m{A}}「きっと超Ａ級な気分になれるぞ」;;;<0281> Je suis sûr que tu te sentiras très 'rang A' comme ça.
+<0282> \{佳乃}「ポテトはねぇ、今日はひとりでお出かけみたい」;;;<0282> Je crois que Potato est sorti tout seul aujourd'hui.
+<0283> \{\m{A}}「ふーん」;;;<0283> Hmmm.
+<0284> \{佳乃}「恋人でもできたのかなぁ」;;;<0284> Peut-être qu'il s'est trouvé une amoureuse ?
+<0285> \{\m{A}}「ふーん」;;;<0285> Hmmm.
+<0286> \{佳乃}「あのねぇ、あたしと\m{A}くんってねー…」;;;<0286> Dis, dis, toi et moi...
+<0287> \{\m{A}}「ふーん」;;;<0287> Hmmm.
+<0288> ごしごしごし…。;;;<0288> \bEssuie essuie essuie\u...
+<0289> \{佳乃}「………」;;;<0289> .........
+<0290> スネてしまったらしい。;;;<0290> Elle avait l'air de bouder.
+<0291> \{佳乃}「うぅ～～～～～～」;;;<0291> Uuuuuuuu~ !
+<0292> 手足をバタバタさせながら、唸りはじめた。;;;<0292> Elle se mit à grogner en agitant les bras et les jambes.
+<0293> うっとおしいことこの上ない。;;;<0293> Insupportable.
+<0294> \{\m{A}}「…ほらっ、交代してやる」;;;<0294> ... Allez, prends la relève.
+<0295> 仕方がないので、モップを差し出した。;;;<0295> Je n'avais pas d'autre choix que lui passer la serpillère.
+<0296> \{佳乃}「やったぁ！」;;;<0296> Youpi !
+<0297> すかさずひったくる。;;;<0297> Elle me l'arracha aussitôt des mains.
+<0298> \{\m{A}}「後はまかせた」;;;<0298> Je compte sur toi.
+<0299> \{佳乃}「うんっ。おまかされたよぉ」;;;<0299> Ok ! Tu peux compter sur moi !
+<0300> とは言っても、モップ掛けはほとんど終わっている。;;;<0300> Cela dit, j'en avais presque fini avec le nettoyage.
+<0301> 一点のシミも残さない、素晴らしい出来映えだ。;;;<0301> Un magnifique résultat. Il ne restait même pas la moindre trace.
+<0302> 超Ａ級の腕前といえど、出番はないはずだ。;;;<0302> Elle n'aura pas l'occasion de mettre à l'épreuve ses compétences de rang A.
+<0303> バケツにモップを突っ込み、ジャブジャブと濯ぐ佳乃。;;;<0303> Kano plongea la serpillère dans le seau et la trempa avec énergie.
+<0304> なかなかいい手さばきだった。;;;<0304> Elle la tenait exactement comme il fallait.
+<0305> \{佳乃}「きえええぃっ！」;;;<0305> Kieeeei !!
+<0306> ばっしゃーーーん。\shake{1};;;<0306> \bBooooum\u. \shake{1}
+<0307> \{佳乃}「…バケツひっくり返しちゃったぁ」;;;<0307> ... J'ai renversé le seau !
+<0308> \{佳乃}「うわ～。ビチャビチャだねぇ」;;;<0308> Uwah~ ! C'est tout trempé !
+<0309> \{佳乃}「こりゃもうビックリドッキリって感じだねぇ」;;;<0309> Ça m'a fait super peur, tu sais !
+<0310> \{佳乃}「じゃあそういうことでー…」;;;<0310> Bon, ben, sur ce—...
+<0311> \{\m{A}}「………」;;;<0311> .........
+<0312> 首根っこをふん捕まえる。;;;<0312> Je la saisis par la peau du coup.
+<0313> \{佳乃}「ふえ～んっ、ごめんなさいごめんなさい～」;;;<0313> Fueh~ ! Je suis désolée, je suis désolée~ !
+<0314> \{\m{A}}「ごめんで済むと思ってるのかこの大馬鹿者っ」;;;<0314> Tu crois que tu vas t'en sortir simplement en disant que t'es désolée, despéce d'imbécile finie !?
+<0315> …がごっ。\shake{1};;;<0315> ... \bPaf\u ! \shake{1}
+<0316> 後頭部にものすごい激痛が走った。;;;<0316> Une douleur intense me transperça l'arrière de la tête.
+<0317> \{\m{A}}「～～～～～っ」;;;<0317> ~~~~~ !
+<0318> その場にしゃがみ込み、悶絶する俺。;;;<0318> Je m'accroupis, à deux doigts de l'agonie.
+<0319> \{聖}「私の妹を馬鹿呼ばわりして無事で済むと思っているのか」;;;<0319> Tu crois que tu vas t'en sortir après avoir traité ma petite sœur d'imbécile ?
+<0320> お姉さんが仁王立ちしていた。;;;<0320> Avec ses jambes écartées, la grande sœur prenait une pose imposante.
+<0321> \{聖}「そういう不心得者は、この私が任意で改造するぞ」;;;<0321> Les inconscients pareils, je bidouille leur corps à ma guise :
+<0322> \{聖}「車輪がついたりビームが出たり衛星電波が受信できたりするぞ」;;;<0322> Des roues, des rayons lasers ou un récepteur satellite ?
+<0323> \{聖}「どれがいい？」;;;<0323> Tu préfères lequel ?
+<0324> \{\m{A}}「…どれも嫌です」;;;<0324> ... Aucun d'entre eux, s'il vous plaît.
+<0325> \{聖}「そうだろうな」;;;<0325> C'est bien ce que je pensais.
+<0326> 深々と頷く。;;;<0326> Elle hocha profondément la tête.
+<0327> \{聖}「佳乃も仕事の邪魔をしないこと」;;;<0327> Kano, ne le gêne pas dans son travail.
+<0328> \{佳乃}「だってぇ…」;;;<0328> Mais, euh...
+<0329> \{佳乃}「お姉ちゃんぜんぜん手伝わせてくれないんだもん」;;;<0329> Toi non plus, tu me laisses jamais te donner un coup de main.
+<0330> \{聖}「可愛い妹に家事をさせるわけにはいかないだろう」;;;<0330> Comme si je pouvais me résoudre à laisser mon adorable petite sœur faire des tâches ménagères ?
+<0331> \{佳乃}「うぬぬ…」;;;<0331> Ununu...
+<0332> \{聖}「雑用は全部、卑しい下僕に任せておけばいいんだ」;;;<0332> Laisse toutes les corvées à notre humble serviteur.
+<0333> \{聖}「なあ、\m{B}君」;;;<0333> N'est-ce-pas, \m{B}-kun ?
+<0334> \{\m{A}}「…卑しい下僕でございます」;;;<0334> ... Je suis votre humble serviteur.
+<0335> \{聖}「そういうわけで、邪魔したな」;;;<0335> Sur ce, laissons-le travailler.
+<0336> \{佳乃}「\m{A}くん、またあとでねぇ」;;;<0336> \m{A}-kun, à plus tard !
+<0337> 霧島姉妹は嵐のように去っていった。;;;<0337> Les sœurs Kirishima s'en allèrent telle une tempête.
+<0338> 待合室は俺一人になった。;;;<0338> Il ne restait que moi dans la salle d'attente.
+<0339> \{\m{A}}「………」;;;<0339> .........
+<0340> \{\m{A}}「ホントはお前なんか怖くないぞへへ～んだ」;;;<0340> T'as cru qu'j'avais peur de toi, hmph~ !
+<0341> 憎まれ口を叩いておく。;;;<0341> Je lâchai quelques injures dans son dos.
+<0342> だが、状況は変わらない。;;;<0342> Mais cela ne changea rien à ma situation.
+<0343> 床を見る。;;;<0343> J'examinai le sol.
+<0344> 見事に水浸しだった。;;;<0344> Il était remarquablement trempé.
+<0345> もう一度やり直す以外になかった。;;;<0345> Il ne restait plus qu'à le nettoyer à nouveau.
+<0346> モップをしぼり、床を端から拭く。;;;<0346> J'essorai la serpillère et recommançai à nettoyer le sol.
+<0347> ごしごしごし…。;;;<0347> \bEssuie essuie essuie\u...
+<0348> \　ごしごしごし…。;;;<0348> \ \bEssuie essuie essuie\u...
+<0349> \　  ごしごしごし…。;;;<0349> \  \bEssuie essuie essuie\u...
+<0350> \{\m{A}}「………」;;;<0350> .........
+<0351> 泣きたくなってきた。;;;<0351> J'avais envie de pleurer.
+<0352> 真夏の昼下がり。;;;<0352> Un début d'après midi de mi-été.
+<0353> 窓の外の木漏れ日。;;;<0353> La fenêtre donnant sur des arbres percés par la lumière du soleil.
+<0354> クーラーがよく効いた診察室。;;;<0354> Une clinique munie d'un climatiseur qui fait bien son boulot.
+<0355> 聖が茶をいれる、こぽこぽという音。;;;<0355> Le son de Hijiri qui verse du thé.
+<0356> \{聖}「しかし、今日はあれだな」;;;<0356> Quand même, aujourd'hui est un de ces jours-là :
+<0357> \{聖}「実に暇だな」;;;<0357> Rien à faire à part se tourner les pouces.
+<0358> \{\m{A}}「『今日も』…だろ」;;;<0358> 'Aujourd'hui', plutôt 'Aujourd'hui \bencore\u'... Non ?
+<0359> \{聖}「ふむ。確かにな」;;;<0359> Hmm... Effectivement.
+<0360> \{\m{A}}「いくらなんでも暇すぎやしないか？」;;;<0360> Enfin, quoi qu'il en soit, tu ne te tournes pas un peu \btrop\u les pouces ?
+<0361> \{聖}「やはりわかるか…」;;;<0361> Ça se voit à ce point...?
+<0362> …わかってないのはあんただけだと思うぞ。;;;<0362> ... Tu dois bien être la seule à ne pas le voir.
+<0363> \{聖}「こういう過疎地の診療所というのは、通常マルロウで溢れ返っているものなんだ」;;;<0363> En général, une clinique située dans une zone aussi peu densément peuplée est toujours remplie de \bmalheureux\u.*
+<0364> \{\m{A}}「マルロウって何だ？」;;;<0364> C'est quoi, un '\bmalheureux\u' ?
+<0365> \{聖}「平たく言えば、じいちゃんばあちゃんだな」;;;<0365> Pour faire simple, ce sont des petits vieux et des petites vieilles.
+<0366> \{\m{A}}「なら、なぜここにはいないんだ？」;;;<0366> Dans ce cas, pourquoi ne viennent-ils pas ?
+<0367> \{聖}「この暑さだ。診療所に来るまでに別のお迎えが来るぞ」;;;<0367> C'est à cause de cette chaleur. S'ils essayaient de venir jusqu'à la clinique, ils passeraient l'arme à gauche sur la loure.
+<0368> \{\m{A}}「ごもっとも」;;;<0368> C'est indéniable.
+<0369> 説明終了。;;;<0369> Fin des explications.
+<0370> …ずずずずずっ。;;;<0370> ... \bSluuuuurp\u !
+<0371> ふたりして茶をすする。;;;<0371> Nous sirotions chacun notre thé.
+<0372> \{聖}「…そろそろなにか手を打たないと、まずいことになるかもしれないな」;;;<0372> ... Si je ne me dépêche pas d'arranger ça, ça va très mal finir.
+<0373> 顎に手を当てて、なにやら考える。;;;<0373> Elle posa sa main sur son menton et réfléchit à quelque chose.
+<0374> \{聖}「\m{B}君」;;;<0374> \m{B}-kun.
+<0375> \{\m{A}}「何だよ、改まって」;;;<0375> Quoi ? Et pourquoi si solennelle ?
+<0376> \{聖}「君は白衣がよく似合うなあ」;;;<0376> La blouse te va bigrement bien.
+<0377> \{\m{A}}「…そっ、そうか？」;;;<0377> ... V-Vraiment ?
+<0378> なんとなく嬉しくなり、訊ね返す俺。;;;<0378> répondis-je, quelque peu réjoui d'entendre cela.
+<0379> \{聖}「それで顔に縫い目があれば、モグリの凄腕外科医という感じだ」;;;<0379> Avec une cicatrice sur le visage, tu donnerais l'impression d'être un chirurgien clandestin très doué.
+<0380> \{\m{A}}「………」;;;<0380> .........
+<0381> \{聖}「おっ、そうだ。いいことを思いついたぞ」;;;<0381> Ah ! Je sais. Je viens d'avoir une bonne idée.
+<0382> \{聖}「こういうのはどうだ、\m{B}君」;;;<0382> Qu'est-ce que tu dis de ça, \m{B}-kun ?
+<0383> どうせろくでもないだろうが、聞いてみることにする。;;;<0383> Ce seraient sûrement des bêtises, mais écoutons-la quand même.
+<0384> \{聖}「まず、君を前途有望な新人医師ということにする」;;;<0384> Tout d'abord, on va faire comme si tu étais un nouveau médecin prodige.
+<0385> いきなりろくでもなかった。;;;<0385> Des bêtises d'emblée.
+<0386> \{\m{A}}「…この辺りの人間の大半は、俺が道端で人形芸をしてるところを見ていると思うんだが」;;;<0386> ... Je suis à peu près certain que la majorité des gens du coin m'ont déjà vu en train de faire mon spectacle de marionnette au bord de la route.
+<0387> \{聖}「大道芸が趣味の医師ということにすればいい」;;;<0387> On n'aura qu'à dire que tu es un médecin dont le hobby sont les spectacles de rues.
+<0388> …それは設定的にＯＫなのか？;;;<0388> ... Ça passe, ça, comme ajustement ?
+<0389> \{聖}「トレトレピチピチの医大出が田舎に来るなんて大変珍しいことだ」;;;<0389> C'est très rare qu'un médecin jeune et dynamique tout juste sorti de fac de médecine s'installe d'entrée de jeu à la campagne.
+<0390> \{聖}「しかも外観上はクールで長身だ」;;;<0390> En plus, tu es grand et tu donnes l'impression d'être cool.
+<0391> \{聖}「君見たさの客が殺到するぞ」;;;<0391> Les patients vont se ruer ici pour te voir.
+<0392> \{\m{A}}「…俺は医大出じゃないし、医者の真似事もできないぞ」;;;<0392> ... Je ne sors pas de fac de médecine, et je ne prétends pas non plus être un médecin.
+<0393> そんなことをしたら、確実に殺人者になる自信がある。;;;<0393> Il ne me faisait aucun doute que si je le faisais, je finirais par tuer quelqu'un.
+<0394> \{聖}「大丈夫だ」;;;<0394> Ne t'inquiète pas.
+<0395> \{聖}「君は触診だけして、『冷たいものを食べ過ぎないように』とかなんとか適当なことを言っていればいい」;;;<0395> Tu auras juste à faire quelques palpations, puis dire : ne consommes pas trop de choses froides', et ça suffira.
+<0396> \{聖}「\m{B}ドクターは大人気、霧島診療所は大繁盛という寸法だ」;;;<0396> Ce sont là les mesures à prendre pour rendre \bDoctor\u \m{B} populaire, et garantir l'essor de la Clinique Kirishima.
+<0397> \{\m{A}}「…『寸法だ』じゃないだろ」;;;<0397> ... N'appelle pas ça des 'mesures'.
+<0398> \{聖}「有閑マダムにモテモテだぞ」;;;<0398> Les dames de la haute te courront après.
+<0399> \{\m{A}}「まっぴら御免だ」;;;<0399> Il n'en est pas question.
+<0400> \{聖}「\m{B}君は、年上は好みではないのか…」;;;<0400> Tu n'aimes pas les femmes plus âgées que toi...?
+<0401> 年下でないと嫌だ;;;<0401> Je n'aime pas qu'elles soient plus jeunes que moi
+<0402> 実は、割と好みだ;;;<0402> En vérité, ce sont elles que je préfère
+<0403> 限度があるだろ;;;<0403> Disons que j'ai une limite
+<0404> \{\m{A}}「年下でないと嫌だ」;;;<0404> Je n'aime pas qu'elles soient plus jeunes que moi.
+<0405> なぜか睨まれる。;;;<0405> Pour une raison que j'ignore, elle m'adressa un regard noir.
+<0406> \{聖}「妹に手を出したら保証しないぞ」;;;<0406> Si tu touches à ma sœur, je ne donne pas cher de ta peau.
+<0407> \{\m{A}}「命を懸けてまで手を出そうとは思わん」;;;<0407> Je ne crois pas que je serai prêt à mettre ma vie sur le fil pour ça.
+<0408> なぜかメスが向けられる。;;;<0408> Pour une raison que j'ignore, elle pointa un scalpel dans ma direction.
+<0409> \{聖}「それは妹に魅力が無いという意味か」;;;<0409> Serais-tu en train de dire que ma petite sœur n'a aucun charme ?
+<0410> \{\m{A}}「………」;;;<0410> .........
+<0411> 困った姉だった。;;;<0411> Quelle difficile, cette grande sœur.
+<0412> \{聖}「姉の私が言うのもアレだが、佳乃は本当に可愛い娘だぞ」;;;<0412> Je sais que ça ne le fait pas trop que ce soit moi, sa grande sœur, qui le dise, mais Kano est une fille vraiment charmante.
+<0413> \{聖}「あれはあの子がまだ小学校の頃の事だ」;;;<0413> C'était quand elle était encore à l'école primaire.
+<0414> シスコン姉貴の自慢話が始まった。;;;<0414> La siscon avait commencé à venter les mérites de sa petite sœur.
+<0415> \{\m{A}}「…話を始める前にお茶をもう一杯くれ」;;;<0415> ... Avant que tu commences à me raconter tout ça, sers-moi une autre tasse de thé.
+<0416> 俺は持久戦を覚悟した。;;;<0416> Je me préparai pour une guerre d'usure.
+<0417> \{\m{A}}「実は、割と好みだ」;;;<0417> En vérité, ce sont elles que je préfère.
+<0418> \{聖}「そうか…」;;;<0418> Je vois...
+<0419> なぜか残念そうだった。;;;<0419> Pour une raison que j'ignore, elle semblait déçue.
+<0420> \{聖}「私は１８になったばかりだからな。君の相手にはならないか…」;;;<0420> Je viens tout juste d'avoir dix-huit ans. Je crois qu'on ne pourra pas finir ensemble...
+<0421> 大嘘つきの大年増だった。;;;<0421> La vieille peau mentait de manière effrontée.
+<0422> …ごんっ。\shake{1};;;<0422> ... \bBam\u ! \shake{1}
+<0423> \{聖}「誰が大年増だ」;;;<0423> C'est qui, la 'vieille peau' ?
+<0424> \{\m{A}}「…心の声までいちいち聞き取らないでください」;;;<0424> ... S'il te plaît, j'apprécierais que tu arrêtes de lire dans mes pensées.
+<0425> \{聖}「わかりやすすぎるんだ、君は」;;;<0425> On lit en toi comme dans un livre ouvert.
+<0426> \{\m{A}}「まったく…」;;;<0426> Franchement...
+<0427> \{聖}「なあ、\m{B}君」;;;<0427> Dis, \m{B}-kun ?
+<0428> \{\m{A}}「今度はなんだ」;;;<0428> Quoi encore ?
+<0429> \{聖}「もう一杯飲むか？」;;;<0429> Tu veux une autre tasse ?
+<0430> \{\m{A}}「………」;;;<0430> .........
+<0431> \{\m{A}}「いただきます」;;;<0431> Avec plaisir.
+<0432> \{\m{A}}「限度があるだろ」;;;<0432> Disons que j'ai une limite.
+<0433> \{聖}「なら君の限度はいくつまでだ？」;;;<0433> Et elle est où, ta limite ?
+<0434> \{\m{A}}「…そんなことを訊いてどうする」;;;<0434> ... Pourquoi tu me demandes ça ?
+<0435> \{聖}「回答次第では私も気をつけねばならないのでな」;;;<0435> En fonction de ta réponse, je devrais peut-être moi aussi me méfier.
+<0436> \{\m{A}}「心配するな、こちらにも選ぶ権利はある」;;;<0436> Tu n'as pas besoin de t'inquiéter, j'ai des exigences.
+<0437> \{聖}「どういう意味だ？」;;;<0437> Qu'est-ce que tu veux dire par là ?
+<0438> 俺は無言のまま、お茶を一口すすった。;;;<0438> Sans rien dire de plus, je bus une gorgée de thé.
+<0439> 長い一日が終わった。;;;<0439> La longue journée s'était achevée.
+<0440> 『本日の受付は終了しました』;;;<0440> La réception est fermée pour la journée
+<0441> 軽く伸びをし、扉の取っ手に札をかけた。;;;<0441> Je m'étirai doucement et accrochai l'écriteau à la poignée de la porte.
+<0442> それから玄関先に出た。;;;<0442> Ensuite, je sortis par la porte d'entrée.
+<0443> 思わず溜息をついた。;;;<0443> Je lâchai un soupir par réflexe.
+<0444> 午後にはちらほらと客が来た。;;;<0444> Quelques clients étaient venus l'après-midi.
+<0445> 聖の言うとおり、じーさんばーさんばかりだった。;;;<0445> Comme l'avait dit Hijiri, ce n'avaient été que des petits vieux et des petites vieilles.
+<0446> 治療というより、雑談をしに来たようなものだった。;;;<0446> Ils venaient plutôt pour bavarder que pour recevoir un traitement.
+<0447> やはり、俺を雇えるとは思えない。;;;<0447> Comme je m'en doutais, ils ne semblaient être en condition de m'embaucher.
+<0448> 階段に座ってみた。;;;<0448> Je m'assis sur les marches.
+<0449> 茜空を横切り、カラスが帰っていく。;;;<0449> Un corbeau qui rentrait chez lui traversa le ciel cramoisi.
+<0450> 近所の肉屋から、惣菜の匂いが漂ってくる。;;;<0450> Des effluves de petits plats préparés flottaient depuis la boucherie voisine.
+<0451> 通りのずっと向こうを、プール帰りの子供たちが走っていく。;;;<0451> De l'autre côté de la rue couraient des enfants qui revenaient de la piscine.
+<0452> どこかやさしく、懐かしい風景。;;;<0452> Cette scène m'apaisait et me faisait penser au passé.
+<0453> なぜだろう？;;;<0453> Mais pourquoi ?
+<0454> 俺自身、この町の一部になってきたということだろうか？;;;<0454> Cela signifiait-il que je faisais désormais partie intégrante de ce village ?
+<0455> と、何かが足にふわりと当たった。;;;<0455> Quelque chose de doux me toucha la jambe.
+<0456> \{ポテト}「ぴこ～」;;;<0456> Piko~.
+<0457> \{\m{A}}「お前か」;;;<0457> Ah, c'est toi.
+<0458> いつ見ても脳天気な毛玉を抱き上げる。;;;<0458> Je pris dans mes bras la boule de poils toujours insouciante.
+<0459> \{\m{A}}「佳乃を置いて遊び回って、いいご身分だな」;;;<0459> Tu laisses Kano en plan pour aller jouer tout seul, Monsieur se croit tout permis.
+<0460> \{ポテト}「ぴこー」;;;<0460> Piko—.
+<0461> \{\m{A}}「恋人でもできたのか？」;;;<0461> T'as trouvé une amoureuse ?
+<0462> \{ポテト}「ぴこぴこぴこっ」;;;<0462> Piko piko piko !
+<0463> \{\m{A}}「…っていうか、お前ってオス、メス？」;;;<0463> ... En fait, t'es un mâle ou une femelle ?
+<0464> \{ポテト}「ぴこぴこ～」;;;<0464> Piko piko~.
+<0465> \{\m{A}}「ヒミツか。そうか…」;;;<0465> C'est un secret ? Je vois...
+<0466> \{\m{A}}「………」;;;<0466> .........
+<0467> \{\m{A}}「…ヒミツ？」;;;<0467> ... C'est un secret ?
+<0468> 黄昏がいっそう色濃くなった気がした。;;;<0468> Les couleurs du crépuscule se faisaient encore plus intenses.
+<0469> 夕食の時間になった。;;;<0469> C'était l'heure de dîner.
+<0470> 今日も待合室が食卓だった。;;;<0470> Aujourd'hui encore, la salle d'attente était notre salle à manger.
+<0471> 一日寝かせたカレーは美味しさ倍増だった。;;;<0471> Les restes de curry qu'on avait laissé reposer toute la journée étaient doublement délicieux.
+<0472> 付け合わせの花ラッキョウも美味だった。;;;<0472> Les fleurs d'oignons de Chine en accompagnement étaient tout aussi délicieuses.
+<0473> デザートはプリンスメロンだった。;;;<0473> En désert, nous eûmes du \bPrince melon\u.*
+<0474> \{聖}「レモン汁と粗塩で旨味が引き立つんだ」;;;<0474> Le jus de citron et le gros sel font ressortir les saveurs du melon.
+<0475> \{佳乃}「あっそうかぁ。生牡蠣（なまがき）さんと親戚なんだねぇ」;;;<0475> Ah, c'est donc ça ! Il doit être de la même famille que les huîtres !
+<0476> \{\m{A}}「…違うぞ、たぶん」;;;<0476> ... Non. Probablement.
+<0477> そして食後のお茶。;;;<0477> Le repas terminé, nous bûmes du thé.
+<0478> 飲み干したとたん、佳乃がいきなり叫んだ。;;;<0478> Au moment où j'en bus la dernière goutte, Kano cria tout d'un coup :
+<0479> \{佳乃}「空飛ぶ花火ぃ～～～っ！」;;;<0479> Des feux d'artifice qui volent~~~ !!
+<0480> \{佳乃}「トンボとロケットぉ～～～～っ！」;;;<0480> Libellule et fusée~~~~ !!
+<0481> \{佳乃}「愛と勇気の６００連発ぅ～～～～～っ！」;;;<0481> Une salve de six cents coups d'amour et courage~~~~~ !!
+<0482> \{\m{A}}「やめてくれ」;;;<0482> Arrête ça.
+<0483> \{聖}「私の妹の頼みを無下に断るとは…」;;;<0483> Alors comme ça tu demandes à ma petite sœur d'arrêter...
+<0484> \{\m{A}}「世間体があるので、せめて週に一度とかにしてください」;;;<0484> Pensez à l'image que ça donne... Au moins, ne faites pas ça plus d'une fois par semaine.
+<0485> \{佳乃}「うぬぬ…」;;;<0485> Ununu...
+<0486> 不満そうだが、このぐらいではめげない。;;;<0486> Elle semblait déçue, mais il en fallait plus que ça pour la décourager.
+<0487> \{佳乃}「じゃあお散歩っ！」;;;<0487> Dans ce cas, allons nous promener !
+<0488> \{\m{A}}「この時間にか？」;;;<0488> À cette heure-ci ?
+<0489> \{佳乃}「お散歩は夜するのが通好みの味なんだよぉ」;;;<0489> Tous les connaisseurs préfèrent se promener la nuit !
+<0490> 何の疑問も抱かずに、にこにこと断言する。;;;<0490> affirma-t-elle avec un sourire, sans se poser de questions.
+<0491> \{\m{A}}「そうだな…」;;;<0491> Si tu le dis...
+<0492> 遠出しないのなら、外で涼むのもいいかもしれない。;;;<0492> Sans aller trop loin, ce serait pas mal de prendre le frais à l'extérieur.
+<0493> \{佳乃}「お姉ちゃんも行こうよぉ」;;;<0493> Onee-chan, toi aussi, viens !
+<0494> \{聖}「私はまだ仕事が残っている」;;;<0494> Moi, il me reste encore du travail à faire.
+<0495> どんな仕事かは知らないが、聖はきっぱりと言った。;;;<0495> Je ne savais pas trop de quel travail elle parlait, mais la réponse de Hijiri fut catégorique.
+<0496> \{聖}「\m{B}君にエスコートしてもらうように」;;;<0496> Demande à \m{B}-kun de t'escorter.
+<0497> \{佳乃}「うぬぬ、残念だよぉ…」;;;<0497> Ununu, c'est bien dommage...
+<0498> \{聖}「そう言いながら、嬉しそうだな」;;;<0498> Tu dis ça, mais tu as l'air plutôt contente.
+<0499> \{佳乃}「そっ、そんなことないよぉ」;;;<0499> C-Comme si !
+<0500> 顔が赤かった。;;;<0500> Son visage vira au rouge.
+<0501> \{聖}「\m{B}君は誠実でやさしいから、二人で歩くのはさぞや楽しいだろうなあ」;;;<0501> \m{B} est sincère et gentil, alors je suis certaine que vous vous amuserez bien à marcher à deux.
+<0502> \{佳乃}「…えっと、じゃあ玄関で待ってるねぇ」;;;<0502> ... Euh... Bon, je t'attends dans le hall, d'accord ?
+<0503> ぱたぱたと走っていく。;;;<0503> Elle détalla.
+<0504> かなり恥ずかしそうだった。;;;<0504> Elle paraissait assez gênée.
+<0505> \{聖}「…では\m{B}君、悪いが頼む」;;;<0505> ... Bon, \m{B}-kun, désolée pour ça, mais je compte sur toi.
+<0506> \{\m{A}}「ああ」;;;<0506> Ouais.
+<0507> 俺も佳乃の後に続こうとした。;;;<0507> Je partis à la suite de Kano.
+<0508> \{聖}「これを持っていけ」;;;<0508> Prends ça avec toi.
+<0509> ひょいっと放り投げられたものを、あわてて受け取る。;;;<0509> Elle me lança quelque chose sans crier gare, que j'attrapai tant bien que mal.
+<0510> \{ポテト}「…ぴこ～」;;;<0510> ... Piko~.
+<0511> 口元にカレーのついた毛玉犬だった。;;;<0511> Il s'agissait d'une boule de poils canine aux lèvres tachées de curry.
+<0512> \{聖}「ポテト、いいか？」;;;<0512> Potato, tu m'écoutes ?
+<0513> \{ポテト}「ぴこっ」;;;<0513> Piko !
+<0514> \{聖}「この男が不埒な行動に及んだら、即刻私に連絡するように」;;;<0514> Si cet homme se comporte de manière déplacée, préviens-moi immédiatement.
+<0515> \{ポテト}「ぴっこり」;;;<0515> Pikkori.
+<0516> …信用度０だった。;;;<0516> ... La confiance qu'elle m'accordait était au niveau zéro.
+<0517> \{佳乃}「行ってきまーすっ」;;;<0517> J'y vais !
+<0518> \{ポテト}「ぴこぴこー」;;;<0518> Piko piko—.
+<0519> \{聖}「遅くなるんじゃないぞ」;;;<0519> Ne rentrez pas trop tard.
+<0520> \{\m{A}}「わかってる」;;;<0520> Pigé.
+<0521> 夜の歩道に踏み出す。;;;<0521> Nous arpentâmes le trottoir nocturne.
+<0522> 蒸し暑かった。;;;<0522> Il faisait chaud et humide.
+<0523> ぬるま湯に浸かっているような、ねっとりとした空気があった。;;;<0523> L'air était lourd. J'avais l'impression de mariner dans de l'eau tiède et visqueuse.
+<0524> 電気屋の店先で、売り物のテレビが野球中継を流していた。;;;<0524> Les télévisions en vitrine d'un magasin d'électroménager montraient une rediffusion d'un match de baseball.
+<0525> 蚊取り線香の匂いが、ふと鼻をくすぐった。;;;<0525> L'odeur des encens anti-moustiques me chatouillait le nez.
+<0526> \{佳乃}「…ふう」;;;<0526> ... Fiou.
+<0527> 胸元に人差し指をかけ、ぱたぱたと風を入れる佳乃。;;;<0527> Kano serra son haut au niveau de la poitrine, et le secoua un peu pour faire entrer l'air.
+<0528> 手首のバンダナが、恥じらうように揺れた。;;;<0528> Le bandana à son poignet remua timidement.
+<0529> \{佳乃}「夜でも蒸し暑いねぇ」;;;<0529> Même la nuit, il fait lourd, hein ?
+<0530> \{ポテト}「ぴこぴこ～」;;;<0530> Piko piko~.
+<0531> \{佳乃}「お腹いっぱいだねぇ」;;;<0531> J'ai le ventre bien remplir !
+<0532> \{ポテト}「ぴこぴこ～」;;;<0532> Piko piko~.
+<0533> \{佳乃}「カレーは一日寝かせたのが絶品だねぇ」;;;<0533> Rien de mieux qu'un curry qu'on a laissé reposer toute une journée.
+<0534> \{ポテト}「ぴこぴこ～」;;;<0534> Piko piko~.
+<0535> 会話が盛り上がっているようだった。;;;<0535> Ils avaient l'air d'être absorbés par leur conversation.
+<0536> \{\m{A}}「せめて飯ぐらいは、ちゃんとした所で食べた方がいいんじゃないか？」;;;<0536> On pourrait pas au moins manger dans un endroit plus approprié ?
+<0537> なんとなく気になったことを、俺は口にした。;;;<0537> Sans grande raison, je pris la parole.
+<0538> 待合室での食事は、霧島家ではごく普通のことらしい。;;;<0538> Prendre le repas dans une salle d'attente devait être la norme chez les Kirishima.
+<0539> 俺が来たから、という感じではなかった。;;;<0539> J'imagine qu'ils font ça depuis bien avant mon arrivée.
+<0540> \{佳乃}「うん、そうだねぇ」;;;<0540> C'est vrai, on pourrait.
+<0541> \{佳乃}「お父さんが死んじゃってから、なんかあそこで食べるのがクセになっちゃって…」;;;<0541> Après la mort de mon père, on a pris l'habitude de manger là...
+<0542> 歩道に視線を落とす。;;;<0542> Elle baissa les yeux vers le trottoir.
+<0543> 俺は、聖の言葉を思い出していた。;;;<0543> Je me rappelai les mots de Hijiri :
+<0544> 『母は佳乃がまだ小さな頃に他界したし、父も二年前に亡くなったよ』;;;<0544> Notre mère nous a quittés quand Kano était encore toute petite, et notre père nous est décédé il y a deux ans.
+<0545> 『それ以来、私と佳乃は二人で生きてきた』;;;<0545> Dès lors, Kano et moi avons vécu à deux.
+<0546> \{\m{A}}「………」;;;<0546> .........
+<0547> 佳乃の横顔を眺める。;;;<0547> Je jetai un coup d'œil à Kano.
+<0548> そういう不幸とは無縁に見えた。;;;<0548> Elle semblait étrangère à ces malheurs.
+<0549> ただ、俺にもわかった。;;;<0549> Mais bon, je la comprends.
+<0550> 父親が死んだ時、佳乃はこう思ったのだろう。;;;<0550> Quand son père est mort, Kano a dû penser ainsi :
+<0551> 聖とだけは離れたくない、と。;;;<0551> 'J'ai toujours Hijiri, et rien ne pourra nous séparer'.
+<0552> \{佳乃}「ほらっ、あたし、甘えんぼだから」;;;<0552> Bah ! C'est juste que je suis une enfant gâtée.
+<0553> すぐにいつもの笑顔に戻る。;;;<0553> Son sourire habituel revint aussitôt.
+<0554> 蛍光灯が切れかかっているのか、鮮魚店の看板がちらちらと瞬いている。;;;<0554> Une lampe fluorescente sur le point de mourir éclairait par intermittence la pancarte du poissonnier.
+<0555> 店の主人が、ホースの水で木箱を洗っていた。;;;<0555> Le propriétaire du magasin lavait des caisses en bois au moyen d'un tuyau d'arrosage.
+<0556> \{店主}「佳乃ちゃん、お出かけかい？」;;;<0556> Kano-chan, tu sors ?
+<0557> \{佳乃}「こんばんわぁ」;;;<0557> Bonsoir !
+<0558> \{ポテト}「ぴこぴこ～」;;;<0558> Piko piko~.
+<0559> \{店主}「そっちは彼氏かい？」;;;<0559> C'est ton petit copain ?
+<0560> \{\m{A}}「ボディーガードだ」;;;<0560> Je suis son garde du corps.
+<0561> \{\m{A}}「超Ａ級の腕前なので、各国で引っ張りだこで貧乏だ」;;;<0561> Mes compétences sont de rang A+, tout le pays se les arrache, et je suis fauché.
+<0562> \{佳乃}「ふぇ～っ。そうなんだぁ」;;;<0562> Fueh~. Ah bon ?
+<0563> \{\m{A}}「お前が感心してどうする」;;;<0563> Pourquoi c'est toi qui es impresisonnée ?
+<0564> \{佳乃}「うぬぬ…」;;;<0564> Ununu...
+<0565> \{店主}「聖さんによろしく言っといてな」;;;<0565> Tu salueras Hijiri-san de ma part.
+<0566> \{佳乃}「うん。おじさんありがとぉ」;;;<0566> Ok. Merci monsieur.
+<0567> \{店主}「たまには魚も食べてくれな」;;;<0567> Viens me prendre du poisson de temps en temps.
+<0568> \{佳乃}「うぬぬ。そう来るかぁ…」;;;<0568> Ununu. Alors c'est comme ça...
+<0569> ひょこひょこと手を振って、佳乃はまた歩き出した。;;;<0569> Kano prit congé d'un signe de main hésitant, puis reprit la marche.
+<0570> \{\m{A}}「なんだお前、魚嫌いなのか」;;;<0570> Qu'est-ce qu'il y a ? T'aimes pas du tout le poisson ?
+<0571> \{佳乃}「嫌いっていうか、ちょっと苦手かも」;;;<0571> Je dirais pas que je l'aime pas du tout, mais je n'alime pas trop non plus.
+<0572> \{佳乃}「お姉ちゃんは大好きなんだけどねぇ」;;;<0572> Onee-chan l'adore, par contre.
+<0573> \{\m{A}}「そうか…」;;;<0573> Je vois...
+<0574> \{\m{A}}「またここか…」;;;<0574> On est encore venus là...
+<0575> \{佳乃}「またここだねぇ」;;;<0575> On est encore venus là.
+<0576> \{ポテト}「ぴこぴこ」;;;<0576> Piko piko.
+<0577> 立ち止まる。;;;<0577> Nous nous arrêtâmes.
+<0578> 空気が変わったのがわかった。;;;<0578> L'air y paraissait différent.
+<0579> 山から下りてくる風は、意外なほどに冷たい。;;;<0579> Le vent qui descendait des collines était étonnement frais.
+<0580> まるでそれ自体が、闇を運んでいるようだった。;;;<0580> On aurait dit qu'il emportait l'obscurité avec lui.
+<0581> \{佳乃}「夜だと虫の声がスゴいねぇ」;;;<0581> On entend les cris des insectes super fort la nuit.
+<0582> 言いながら、左右の暗がりを見渡す。;;;<0582> dit-elle en examinant les ténèbres à sa droite et sa gauche.
+<0583> 草木がひとかたまりになり、それぞれに虫の歌を宿している。;;;<0583> On distinguait seulement des amalgames de végétation, chacun abritant un chœur d'insectes.
+<0584> 水音はほとんど聞こえない。;;;<0584> On entendait à peine le bruit de l'eau.
+<0585> \{\m{A}}「夜中に出歩くことは多いのか？」;;;<0585> Ça t'arrive souvent de te balader en plein milieu de la nuit ?
+<0586> \{佳乃}「ふぇっ？」;;;<0586> Fueh ?!
+<0587> \{\m{A}}「神社で会っただろ、前に」;;;<0587> On s'est croisés au sanctuaire, l'autre fois.
+<0588> \{ポテト}「ぴこぴこー」;;;<0588> Piko piko—.
+<0589> \{佳乃}「あー、あの時かぁ」;;;<0589> Ah—, cette fois-là.
+<0590> 他人事のように言う。;;;<0590> dit-elle comme si cela concernait quelqu'un d'autre.
+<0591> \{佳乃}「あの時はねー。えっと…」;;;<0591> Cette fois-là—, quand je...
+<0592> \{佳乃}「えーっと…」;;;<0592> Quand je...
+<0593> \{佳乃}「………」;;;<0593> .........
+<0594> やっぱり覚えていないようだった。;;;<0594> Comme on pouvait s'y attendre, elle paraissait avoir tout oublié.
+<0595> \{\m{A}}「まあ、何もなかったからよかったけどな」;;;<0595> Bah, il ne t'est rien arrivé, heureusement.
+<0596> 佳乃はしばらく、口を開かなかった。;;;<0596> Kano resta muette pendant quelque temps.
+<0597> 自分の内にある何かを、覗き込むように。;;;<0597> Elle donnait l'impression d'être perdue dans ses pensées.
+<0598> と、小声で言ってきた。;;;<0598> Enfin, elle prononça d'une voix fluette :
+<0599> \{佳乃}「\m{A}くん」;;;<0599> \m{A}-kun.
+<0600> \{\m{A}}「何だよ？」;;;<0600> Quoi ?
+<0601> \{佳乃}「えっとね。お仕事、どう？」;;;<0601> Euh... Le travail, tu le trouves comment ?
+<0602> \{\m{A}}「あまり性に合わないかもしれないな」;;;<0602> Il ne me va pas.
+<0603> 性に合わないというより、居心地の悪さを感じていた。;;;<0603> Ce n'était pas tant qu'il ne m'allait pas, mais plutôt que je ne me sentais pas dans mon élément.
+<0604> 俺は慣れていなかった。;;;<0604> Je ne m'y habituais pas.
+<0605> 誰かの世話をすることも、世話になることも。;;;<0605> Ni à ce que je m'occupasse d'autres personnes, ni à ce qu'on s'occupât de moi.
+<0606> \{佳乃}「そっか…」;;;<0606> Je vois...
+<0607> \{\m{A}}「まあ、給料もらうまではいるけどな」;;;<0607> Bah, tant qu'on me paiera, je resterai.
+<0608> 何となく後ろめたくなり、俺はそう付け加えた。;;;<0608> ajoutai-je, me sentant quelque peu coupable.
+<0609> しかし…。;;;<0609> Cependant...
+<0610> 給料っていつ出るんだ？;;;<0610> En parlant de ça, quand est-ce que je serai payé ?
+<0611> 勤めはじめてすぐにもらえるとも思えない。;;;<0611> Je ne m'attendais pas non plus à être payé juste après avoir pris mes fonctions.
+<0612> というか、労働条件すらほとんど聞いていない。;;;<0612> En fait, je n'avais même pas vraiment demandé quelles étaient mes conditions de travail.
+<0613> 考えれば考えるほど、いいかげんなアルバイトだった。;;;<0613> Plus j'y réfléchissais, plus ce temps partiel me paraissait absurde.
+<0614> ふと見ると、隣で佳乃がうつむいていた。;;;<0614> En regardant sur le côté, je remarquai par hasard que Kano avait la tête un peu baissée.
+<0615> \{\m{A}}「疲れたのか？」;;;<0615> Tu fatigues ?
+<0616> \{佳乃}「ううん。元気いっぱいだよぉ…」;;;<0616> Non. Je suis pleine d'énergie...
+<0617> 茶化そうとして、途中でよどむ。;;;<0617> répondit-elle sur le ton de la plaisanterie, avant de s'arrêter brusquement.
+<0618> \{佳乃}「えっとね…」;;;<0618> Tu sais...
+<0619> \{佳乃}「\m{A}くん、聞いてくれるかなぁ」;;;<0619> \m{B}-kun, tu veux bien m'écouter un peu ?
+<0620> 上目遣いに俺を覗き込む。;;;<0620> Elle me regardait à moitié, les yeux baissés.
+<0621> その瞳が、どこか思い詰めた感じだった。;;;<0621> Ses yeux me faisaient sentir que quelque chose n'allait pas.
+<0622> \{\m{A}}「ああ。何でも聞いてやるぞ」;;;<0622> Ouais. Peu importe ce que tu me diras, je t'écouterai.
+<0623> \{佳乃}「それじゃあ言うねぇ」;;;<0623> Dans ce cas, je commence.
+<0624> 佳乃が橋のたもとに座った。;;;<0624> Kano s'assit au pied du pont.
+<0625> その横に、ポテトがちょこんと陣取る。;;;<0625> Potato vint prendre position à côté d'elle.
+<0626> 俺は欄干に腰を預けたまま、佳乃が話し出すのを待った。;;;<0626> De mon côté, je m'appuyai sur la balustrade et attendis qu'elle commençât à parler.
+<0627> \{佳乃}「あたし、お母さんのことってほとんど覚えてないの」;;;<0627> Je ne me souviens quasiment pas de ma mère.
+<0628> \{佳乃}「もともと、あんまり体が丈夫じゃなかったんだって」;;;<0628> Je sais qu'elle n'avait jamais été en grande forme.
+<0629> \{佳乃}「あたしを産んで、すぐに寝たり起きたりになって…」;;;<0629> Dès qu'elle m'a mise au monde, elle a commencé à se réveiller sans arrêt la nuit...
+<0630> \{佳乃}「あたしが三つの時に、いなくなっちゃった」;;;<0630> Puis quand j'avais trois ans, elle s'en est allée.
+<0631> \{\m{A}}「………」;;;<0631> .........
+<0632> \{佳乃}「お父さん、よく言ってた。『お母さんはおまえによく似てた』って」;;;<0632> Papa me disait souvent : 'tu ressembles à ta mère'.
+<0633> \{佳乃}「想像しようとするんだけど、なんか、うまくいかなくて…」;;;<0633> J'essayais de la dessiner dans mon esprit, mais je n'y arrivais pas...
+<0634> 夜空を眺めたまま、淡々と言葉をつなぐ。;;;<0634> Contemplant le ciel nocturne, elle enfilait les mots les uns à la suite des autres sur un ton détache.
+<0635> いつもの口調ではなかった。;;;<0635> Son intonation était différente de d'habitude.
+<0636> 俺の視線に気づき、あわてて笑う。;;;<0636> Elle remarqua mon regard et rit nerveusement.
+<0637> \{佳乃}「でもでも、あんまり淋しくなかったんだよぉ」;;;<0637> Mais, mais, je ne peux pas dire que je me suis sentie seule.
+<0638> \{佳乃}「お姉ちゃんが、お母さん代わりだったから」;;;<0638> Ma grande sœur était là à la place de ma mère.
+<0639> \{佳乃}「でも、それって…」;;;<0639> Mais, dit comme ça...
+<0640> \{佳乃}「お姉ちゃんにはずっと、お母さんがいなかったってことだよねぇ」;;;<0640> Ça veut dire que ma sœur est restée longtemps sans mère.
+<0641> \{佳乃}「お姉ちゃんはずっと、お姉ちゃんじゃいられなかったってことだよねぇ」;;;<0641> Elle ne pouvait pas assumer le rôle de grande sœur en permanence.
+<0642> \{佳乃}「そんなの不公平だよねって、最近思ったり…」;;;<0642> Ça fait quelque temps que j'y pense. Je trouve que c'est injuste.
+<0643> そうして、言葉はまたよどんでしまう。;;;<0643> Elle laissa ces derniers mots flotter pendant quelques instants.
+<0644> \{佳乃}「お父さんも、診療所がずっと忙しくて」;;;<0644> Papa était toujours occupé avec la clinique.
+<0645> \{佳乃}「それで、体壊しちゃって…」;;;<0645> Son corps a fini par ne plus le supporter...
+<0646> \{佳乃}「あたし、ぜんぜん手伝えなかったから」;;;<0646> Et moi, je ne pouvais absolument rien faire pour l'aider.
+<0647> \{佳乃}「あたし、見てるだけだったから」;;;<0647> Moi, je ne pouvais que le regarder.
+<0648> \{佳乃}「だからね。お手伝いさんがいてくれればなあって、ずっと思ってたんだよぉ」;;;<0648> Et c'est pour ça. C'est pour ça que je me suis toujours dit que ce serait bien d'avoir un assistant.
+<0649> あははと笑って、俺のことを見る。;;;<0649> 'Ahaha', rit-elle avant de me regarder.
+<0650> 俺を雇ったのは、ただの思いつきや同情ではない。;;;<0650> Ils ne m'avaient pas engagé sur un coup de tête, ni par pitié.
+<0651> そう言ってくれているのだろう。;;;<0651> C'était sans doute ce qu'elle voulait me faire comprendre.
+<0652> \{\m{A}}「俺も役に立ってないけどな」;;;<0652> Enfin, ce n'est pas comme si j'étais très utile.
+<0653> \{佳乃}「ううんっ」;;;<0653> Hmm-hmm !
+<0654> ぶんぶんと首を振る。;;;<0654> Elle secoua vigoureusement la tête.
+<0655> \{佳乃}「ゼッタイそんなことないよぉ…」;;;<0655> Bien au contraire...
+<0656> そうしてまた、夜空を見る。;;;<0656> Ensuite, elle recommença à contempler le ciel nocturne.
+<0657> 外灯の明かりに肌が照り映え、透き通ってしまいそうに見える。;;;<0657> La lumière des lampadaires se réfléchissait sur sa peau, la rendant comme transparente.
+<0658> たぶん、こういう話をできる相手がいなかったのだろう。;;;<0658> Elle n'avait probablement personne à qui elle pouvait raconter tout ça.
+<0659> やさしい姉が、どんな時でも側で助けてくれる。;;;<0659> Sa gentille grande sœur était toujours à ses côtés, prête à l'aider.
+<0660> それが少しづつ、佳乃の重荷になっていたのかもしれない。;;;<0660> Cela devait peut-être commencer à lui peser.
+<0661> 明るくて誰にでも愛される少女。;;;<0661> Une jeune fille joyeuse qui s'entend bien avec tout le monde.
+<0662> 夏をいっぱいにはしゃぎ回る少女。;;;<0662> Une jeune fille qui profite à fond de l'été.
+<0663> ただ…。;;;<0663> Et pourtant...
+<0664> 手首に巻いたバンダナだけが、虚ろな影をまとわりつかせていた。;;;<0664> Le bandana à son poignet s'enroulait autour d'elle telle une ombre fantomatique.
+<0665> \{佳乃}「もしも魔法が使えたらね」;;;<0665> Si jamais je pouvais faire de la magie...
+<0666> \{佳乃}「あたし、お母さんに会いたい」;;;<0666> ... Ce que je voudrais, ce serait rencontrer ma mère.
+<0667> \{佳乃}「会って、謝りたいなって…」;;;<0667> La rencontrer, et lui demander pardon.
+<0668> そっとつぶやく。;;;<0668> murmura-t-elle calmement.
+<0669> 恥ずかしさとためらいが、声色に覗いていた。;;;<0669> Son intonation trahissait sa gêne et son hésitation.
+<0670> 星明かりを映す、静かな瞳。;;;<0670> La lumière des étoiles se reflétait dans ses yeux calmes.
+<0671> 打ち明ける機会さえなく、胸の奧で積もってきた後悔。;;;<0671> Sans occasion de se confier, tous ces regrets s'étaient accumulés dans son cœur.
+<0672> 『もしも、魔法が使えたら…』;;;<0672> Si jamais je pouvais faire de la magie...
+<0673> 無邪気な夢を叶えるために、守られてきた封印。;;;<0673> Elle avait préservé un sceau dans l'espoir que ce rêve innocent soit exaucé.
+<0674> だとすれば…。;;;<0674> Si jamais cela se produisait...
+<0675> 『お母さんに会いたい』;;;<0675> Ce que je voudrais, ce serait rencontrer ma mère.
+<0676> 『会って、謝りたい』;;;<0676> La rencontrer, et lui demander pardon.
+<0677> この少女には不釣り合いなぐらい、哀しい願いに思えた。;;;<0677> Un souhait aussi empreint de chagrin ne lui correspondait pas du tout.
+<0678> \{\m{A}}「…謝るんじゃなくて、礼を言うべきだろ」;;;<0678> ... Plutôt que lui demander pardon, tu ne devrais pas la remercier ?
+<0679> \{佳乃}「お母さんに？」;;;<0679> Qui, ma mère ?
+<0680> \{\m{A}}「そうだ」;;;<0680> Oui.
+<0681> \{\m{A}}「お前がここにいられるのは、母親のお陰だろ」;;;<0681> Si tu te tiens là actuellement, c'est grâce à elle.
+<0682> \{\m{A}}「『産んでもらってごめんなさい』なんて言われてみろ、俺なら激怒するぞ」;;;<0682> Si tu me disais : 'désolée que tu aies dû me donner naissance', je me mettrais dans une colère noire.
+<0683> 俺の母親も、とっくに死んでしまっている。;;;<0683> La mienne, de mère, était morte il y a bien longtemps.
+<0684> 他人と違う道を俺に教えて、さっさといなくなってしまった。;;;<0684> Elle m'a montré une voie différente de celle des autres, puis a aussitôt disparu.
+<0685> それでも、俺は。;;;<0685> Et pourtant, je...
+<0686> 生まれてこなければよかったなんて、一度も思ったことはない。;;;<0686> Je n'ai même pas pensé une seule fois que je n'aurais pas dû naître.
+<0687> …思う暇がなかっただけかもしれないが。;;;<0687> ... Peut-être était-ce simplement parce que je n'avais jamais trouvé le temps d'y penser.
+<0688> \{佳乃}「そっか…」;;;<0688> Je vois...
+<0689> \{佳乃}「そうだよねぇ」;;;<0689> Tu as raison.
+<0690> 何度も何度も、佳乃は頷いた。;;;<0690> Kano acquiesça plusieurs fois.
+<0691> そして両手を空にかざす。;;;<0691> Puis elle tendit les deux mains vers le ciel.
+<0692> きゃしゃに見えて、しっかりとした手首。;;;<0692> Son poignet semblait à la fois fragile et inébranlable.
+<0693> 夜風を含み、揺れるバンダナ。;;;<0693> Son bandana virevoltait au rythme de la brise nocturne.
+<0694> 大人になるまで外してはいけない、魔法の封印。;;;<0694> C'était un sceau magique qui ne devait pas être défait avant qu'elle ne fût devenue adulte.
+<0695> あのバンダナが解ける日は、近いのかもしれない。;;;<0695> Peut-être que le jour où ce bandana serait dénoué était proche.
+<0696> 周りが考えているより、ずっと。;;;<0696> Bien plus proche qu'on ne l'imaginait.
+<0697> その時佳乃は、何を知るのだろう？;;;<0697> Quand ce jour arrivera, qu'apprendra Kano ?
+<0698> \{佳乃}「あ～～～～～っ！」;;;<0698> Aaaaaah~ !!
+<0699> \{佳乃}「蛍っ、蛍が飛んでたよぉ！」;;;<0699> Des lucioles ! J'ai vu des lucioles voler !
+<0700> \{\m{A}}「どこに？」;;;<0700> Où ça ?
+<0701> \{佳乃}「ほらっ、あの草のとこ…」;;;<0701> Regarde ! Là, dans l'herbe...
+<0702> \{佳乃}「うわわっ……」;;;<0702> Uwawah !
+<0703> ざっぱ～～～～～ん！\shake{0};;;<0703> \bSplaaaaaash ! \shake{0}
+<0704> ………。;;;<0704> ..........
+<0705> \{\m{A}}「生きてるかー」;;;<0705> T'es encore en vie— ?
+<0706> \{ポテト}「ぴこぴこー」;;;<0706> Piko piko—.
+<0707> \{声}「…ふえ～～～～～ん」;;;<0707> ... Fueeeeeeh~ !
+<0708> なさけない答えが返ってきた。;;;<0708> J'entendis une réponde misérable.
+<0709> 夜。;;;<0709> La nuit.
+<0710> どうしても寝付けずにいた。;;;<0710> Je n'arrivais pas à dormir.
+<0711> 時計の秒針やクーラーの音が、耳について離れない。;;;<0711> Mes oreilles n'arrivaient pas à ignorer les sons de l'aiguille des secondes de l'horloge et ceux du climatiseur.
+<0712> ソファーで仰向けになったまま、暗い天井を眺めた。;;;<0712> Allongé sur le canapé, je contemplai le plafond dans l'obscurité.
+<0713> 今日一日のことを、思い返してみる。;;;<0713> Je me ressassais les événements de la journée.
+<0714> 霧島診療所は、今日も暇だった。;;;<0714> Aujourd'hui avait été un autre jour paisible à la Clinique Kirishima.
+<0715> 聖もポテトも、相変わらずだった。;;;<0715> Hijiri et Potato s'étaient comportés comme à leur habitude.
+<0716> 佳乃は今日も元気だった。;;;<0716> Aujourd'hui encore, Kano avait été pleine de vie.
+<0717> 小川に落ちても、当然のように傷ひとつなかった。;;;<0717> Même après être tombé dans le ruisseau, elle s'en était naturellement sortie sans la moindre égratignure.
+<0718> 佳乃の言う通り、水面に舞う蛍を見た。;;;<0718> Comme elle l'avait dit, nous avions vu des lucioles danser à la surface de l'eau.
+<0719> それから、ずぶ濡れの佳乃を連れて帰った。;;;<0719> Après cela, j'avais accompagné une Kano trempée jusqu'aux os sur la route du retour.
+<0720> クシャミを連発していたが、自業自得というものだろう。;;;<0720> Elle n'avait pas arrêté d'éternuer, mais elle l'avait bien mérité.
+<0721> もっとも、俺も聖にガッチリ怒られたが。;;;<0721> Tout de même, Hijiri m'avait passé un savon.
+<0722> \{\m{A}}「………」;;;<0722> .........
+<0723> もぞもぞと寝返りを打つ。;;;<0723> Je gesticulai jusqu'à finir sur le ventre.
+<0724> もう一度目を閉じた。;;;<0724> Puis je refermai les yeux.
+<0725> 何かが引っかかっている。;;;<0725> Ceratines choses me préoccupaient :
+<0726> 封印された魔法。;;;<0726> - La magie qui avait été scellée.
+<0727> 誰かが佳乃に与えたバンダナ。;;;<0727> - Le bandana que quelqu'un avait confié à Kano.
+<0728> 『大人になるまで外してはいけない』;;;<0728> Ne devait pas être enlevé avant d'être devenue adulte.
+<0729> たったそれだけの、他愛のない約束。;;;<0729> C'était là toute l'étendue de cette promesse ridicule.
+<0730> 忘れてしまった誰かの言葉を、ここまで守り抜けるものなのか？;;;<0730> Était-il sensé de respecter jusqu'au bout les paroles de quelqu'un qu'elle avait oublié ?
+<0731> よくわからなかった。;;;<0731> Ça me dépassait.
+<0732> やがて。;;;<0732> Enfin...
+<0733> 答えの代わりに、眠気が押し寄せてきた。;;;<0733> Le sommeil me vint avant qu'une réponse ne le fît.
+<0734> ………。;;;<0734> ..........
+<0735> かすかな物音と共に、目蓋の向こうが明るくなったのを感じた。;;;<0735> J'entendis un bruit, et remarquai une lumière à travers mes paupières.
+<0736> \{声}「わわっ…」;;;<0736> Wawah...!
+<0737> \{声}「何を驚いている？」;;;<0737> Qu'est-ce qui te fait sursauter comme ça ?
+<0738> \{声}「だって、急に光るんだもん…」;;;<0738> Mais, tu as allumé la lumière sans prévenir...
+<0739> ばたり。;;;<0739> \bClacl\u.
+<0740> 扉を閉める音。;;;<0740> C'était le bruit d'une porte que l'on avait fermée.
+<0741> 俺はゆっくりと目を開けた。;;;<0741> J'ouvris lentement les yeux.
+<0742> 診察室に明かりが灯っていた。;;;<0742> La lumière du cabinet de consultation était allumée.
+<0743> \{\m{A}}「あいつらか…」;;;<0743> C'est eux...
+<0744> 寝ている俺に遠慮して、待合室の蛍光灯を点けなかったのだろう。;;;<0744> Elles n'avaient pas allumé les lampes de la salle d'attente, probablement pour me laisser dormir.
+<0745> 佳乃の調子が悪くなって、診察でもするのだろうか。;;;<0745> Peut-être que Kano ne se sentait pas bien et que Hijiri la consultait.
+<0746> 寝転がったまま、耳を澄ましてみる。;;;<0746> Toujours allongé, je tendis l'oreille.
+<0747> \{\m{A}}「………」;;;<0747> .........
+<0748> 何も聞こえない。;;;<0748> Je n'entendais rien du tout.
+<0749> もう一度眠りに戻ろうとする。;;;<0749> Je me résignai et retournai dormir.
+<0750> 当然、目が冴えてしまっている。;;;<0750> Mais évidemment, j'étais désormais complètement réveillé.
+<0751> 気になる。;;;<0751> Je voulais savoir.
+<0752> 何を話しているのだろう？;;;<0752> Que racontaient-elles ?
+<0753> ものすごく気になる。;;;<0753> Il me démangeait de savoir.
+<0754> ただの診察ではないような気がする。;;;<0754> Ce n'avait pas l'air d'une consultation ordinaire.
+<0755> 真夜中に姉妹が診察室で行うとなると、色々な意味ですごいことのような気がする。;;;<0755> J'avais toutes les raisons de croire que ce que faisaient deux sœurs dans un cabinet de consultation au beau milieu de la nuit était incroyable.
+<0756> ここに俺がいるのも、承知の上のような気がする。;;;<0756> Et j'avais l'impression qu'elles le faisaient en sachant pertinemment que j'étais là.
+<0757> 聞かないと一生の損のような気がする。;;;<0757> J'avais l'impression que si je ne cherchais pas à en savoir davantage, je le regretterais toute ma vie.
+<0758> \{\m{A}}「………」;;;<0758> .........
+<0759> 盗聴決定。;;;<0759> Allons écouter à la porte.
+<0760> 物音を立てないように、ソファーから降りた。;;;<0760> Je me levai du sofa sans faire de bruit.
+<0761> 細心の注意を払いつつ、診察室の扉に近づく。;;;<0761> Avec la plus grande prudence, je m'approchai de la porte du cabinet.
+<0762> ドアノブの脇に、耳を当てる。;;;<0762> Puis posai mon oreille sous la poignée.
+<0763> 精神を集中する。;;;<0763> Je me concentrai sur le bruit.
+<0764> \{\m{A}}「………」;;;<0764> .........
+<0765> 二人の話し声が、かろうじて聞こえてきた。;;;<0765> J'entendais à peine ce qu'elles disaient.
+<0766> \{佳乃}「…ほらぁ。熱なんてないって言ったのに～」;;;<0766> ... T'as vu ? Je te disais bien que je n'avais pas de fièvre.
+<0767> \{聖}「だとしてもだ。今日はもう寝ること」;;;<0767> Peu importe. Il est temps d'aller dormir.
+<0768> \{佳乃}「でもでも、今日の分の宿題、まだ終わってないよぉ」;;;<0768> Mais, mais, j'ai pas encore fini les devoirs que je voulais faire aujourd'hui.
+<0769> \{聖}「そんなもの気にするな」;;;<0769> Ne t'en fais pas pour ça.
+<0770> \{聖}「私が学生だった頃は、夏休みの宿題なんて、九月に入ってからしたものだぞ」;;;<0770> Quand j'étais à l'école, j'attendais début septembre pour faire mes devoirs de vacances.
+<0771> \{佳乃}「うぬぬ。でもぉ…」;;;<0771> Ununu, mais euh...
+<0772> いつも通りの、呑気な会話だった。;;;<0772> Il s'agissait d'une conversation banale.
+<0773> どうやら、ただの診察らしかった。;;;<0773> Apparemment, ce n'était qu'un simple examen médical.
+<0774> もう寝る;;;<0774> Retourner dormir
+<0775> まだ盗み聞きをする;;;<0775> Continuer à les espionner
+<0776> まぁ、あの姉妹らしいといえばらしいか。;;;<0776> Bah, ça leur ressemblait bien.
+<0777> 期待するだけ、損をした気がする。;;;<0777> Je n'aurais pas dû m'attendre à quoi que ce soit.
+<0778> どうせ、明日もこき使われるんだ。早く寝てしまおう。;;;<0778> De toute façon, demain encore, je me ferai exploiter. Dépêchons-nous d'aller dormir.
+<0779> ソファーに戻ろうと、ドアから離れようとした。;;;<0779> Je m'apprêtais à quitter la porte pour revenir au sofa....
+<0780> その時だった。;;;<0780> ... quand quelque chose se produisit :
+<0781> \{聖}「ふーむ…」;;;<0781> Hmmm...
+<0782> \{聖}「佳乃も、ずいぶん成長したな…」;;;<0782> Tu as bien grandi, Kano...
+<0783> \{佳乃}「うわわっ、や、やめてよお姉ちゃんっ」;;;<0783> Uwawah ! A-Arrête ça, Onee-chan !
+<0784> \{聖}「ん？なにをだ？」;;;<0784> Hmn ? Arrêter quoi ?
+<0785> \{佳乃}「ふぇぇ…変なとこ触らないでよぉ～」;;;<0785> Fueeh... Arrête de me toucher à des endroits bizarres~.
+<0786> \{聖}「これは触診と言ってだな…」;;;<0786> C'est ce qu'on appelle une palpation...
+<0787> \{佳乃}「触診はもみもみしないよぉ～」;;;<0787> T'as pas besoin de me tripoter pour pour faire une palpation~ !
+<0788> \{聖}「ぐへへへ…いいじゃねえか、お嬢ちゃんよぉ」;;;<0788> Gwhehehe... Z'êtes bien jolie, ma p'tite demoiselle...
+<0789> \{佳乃}「はぅぅ…変態オヤジさんの出没だぁ…」;;;<0789> Hauu... Le vieux pervers est de retour...
+<0790> \{聖}「うりゃっ」;;;<0790> Urya !
+<0791> \{佳乃}「や、やめてよぉ～」;;;<0791> A-Arrête~ !
+<0792> \{聖}「はりゃっ」;;;<0792> Harya !
+<0793> \{佳乃}「お…お姉ちゃ～ん…」;;;<0793> O-Onee-chan...
+<0794> \{聖}「とうりゃっ」;;;<0794> Toorya !
+<0795> \{佳乃}「…ぁ…」;;;<0795> ... \bAh\u...
+<0796> \{聖}「おっ、今、少し反応したな」;;;<0796> Oh ! On dirait bien que tu as réagi, cette fois.
+<0797> \{佳乃}「ち、ちがうも…ぅん…」;;;<0797> C-C'est faux... \bHnn\u...
+<0798> ………。;;;<0798> ..........
+<0799> どうやら、診察室の中では、期待以上の光景が繰り広げられているようだった。;;;<0799> Apparemment, un spectacle qui dépassait toutes mes attentes était en train de se produire à l'intérieur du cabinet de consultation.
+<0800> 思わず、中の光景を想像してしまう。;;;<0800> Je ne pus m'empêcher d'imaginer ce qui se passait à l'intérieur.
+<0801> ………。;;;<0801> ..........
+<0802> \{\m{A}}「ぐはっ」;;;<0802> Guwah !
+<0803> なんともピンク色をした想像だった。;;;<0803> Quelque chose de bien chaud m'avait traversé l'esprit.
+<0804> \{佳乃}「…あれれ？  今、変な声が聞こえたねぇ」;;;<0804> ... Hmmmmmmmm ? C'est moi, ou j'ai entendu une drôle de voix ?
+<0805> とっさに自分の口を両手で塞いだ。;;;<0805> Je me couvris aussitôt la bouche avec mes deux mains.
+<0806> 意味のない行動だった。;;;<0806> Il était trop tard pour ça.
+<0807> \{聖}「変な声？」;;;<0807> Une drôle de voix ?
+<0808> \{佳乃}「うん」;;;<0808> Oui.
+<0809> \{聖}「そうか？」;;;<0809> Ah bon ?
+<0810> \{佳乃}「うん。なんか、ヒキガエルが腕立て伏せしてるみたいな声だったよぉ」;;;<0810> Oui. Ça sonnait un peu comme la voix d'un crapaud qui fait des pompes.
+<0811> \{聖}「…どんな声だ、それは」;;;<0811> ... C'est-à-dire? Quel genre de voix ?
+<0812> \{佳乃}「うぬぬ…わかんない」;;;<0812> Ununu... Je sais pas.
+<0813> \{聖}「じゃ、気のせいだろ」;;;<0813> Alors ce devait être ton imagination.
+<0814> \{佳乃}「そうだねぇ」;;;<0814> Sans doute.
+<0815> \{\m{A}}「………」;;;<0815> .........
+<0816> \{\m{A}}「ふぅ…」;;;<0816> Fiou...
+<0817> どうやら、気づかれなかったらしい。;;;<0817> Visiblement, elle ne m'avaient pas remarqué.
+<0818> まだ聞き耳を立てる;;;<0818> Continuer à tendre l'oreille
+<0819> 猫の鳴き真似をしてみる;;;<0819> Miauler pour prétendre être un chat
+<0820> 再びドア越しの会話に耳をそばだてる。;;;<0820> Je tendis de nouveau l'oreille pour pouvoir entendre leur conversation.
+<0821> ………。;;;<0821> ..........
+<0822> \{聖}「…だが、よかったな、佳乃」;;;<0822> ... Tu sais, c'est une bonne chose, Kano.
+<0823> \{佳乃}「ふぇ？  なにが？」;;;<0823> Fueh ?! De quoi tu parles ?
+<0824> \{聖}「それだけ立派に成長しているなら、\m{B}君もきっと喜んでくれるぞ」;;;<0824> C'est \m{B}-kun qui sera content de savoir que tu as grandi de manirèe aussi splendide.
+<0825> \{佳乃}「な、な、な、なに言ってるのぉ、お姉ちゃんっ」;;;<0825> Q-Q-Q-Qu'est-ce que tu racontes, Onee-chan ?!
+<0826> \{聖}「ふふ…そんなに照れないでいい」;;;<0826> Fufu... Pas besoin de rougir.
+<0827> \{佳乃}「て、照れてないよぉ、なんでそこで\m{A}くんが出てくるのぉ」;;;<0827> J-Je ne rougis pas ! Pourquoi tu parles de \m{A}-kun tout d'un coup ?
+<0828> \{聖}「なんだ、出てきてほしくないのか？」;;;<0828> Quoi ? Tu préfèreras que je ne parle pas de lui ?
+<0829> \{佳乃}「あ、当たり前だよぉ」;;;<0829> É-Évidemment !
+<0830> \{聖}「そうか…それは残念だな」;;;<0830> Soir... C'est bien dommage.
+<0831> \{聖}「なら、私が代わりに\m{B}君を喜ばしてやるか…」;;;<0831> Dans ce cas, ça te va si je m'occupe de lui faire plaisir à ta place...?
+<0832> \{佳乃}「うわわっ、そ、それはダメぇーーーっっ」;;;<0832> Uwawah ! S-Surtout paaaas !!
+<0833> \{聖}「ん？  どうしてだ？  私も捨てたものではないぞ」;;;<0833> Hmn ? Pourquoi pas ? Je ne suis pas si mal que ça.
+<0834> \{佳乃}「うぬぬ…そ、それは見たらわかるけどぉ…」;;;<0834> Ununu... J-Je le voix bien...
+<0835> \{聖}「ふ、ふぅ～ん…」;;;<0835> Hmm-hmmm...?
+<0836> \{佳乃}「う…なんかヤな笑顔…」;;;<0836> Uh... Il me fait peur, ton sourire...
+<0837> \{聖}「ふっふっふっ…」;;;<0837> Fu, fu, fu...
+<0838> \{佳乃}「うぅぅ～～～…」;;;<0838> Uuuh~~~...
+<0839> \{聖}「ふ…わかったよ、佳乃」;;;<0839> Fu... Je sais, Kano.
+<0840> \{佳乃}「な、なにがわかったのぉ～」;;;<0840> Q-Qu'est-ce que tu sais~ ?
+<0841> \{聖}「二人で、というのはどうだ？」;;;<0841> Et si on s'y mettait toutes les deux ?
+<0842> \{佳乃}「…なっ、なにが二人なのか全然サッパリわかんないよぉ」;;;<0842> ... J-Je vois pas du tout ce que tu veux dire par 'toutes les deux'.
+<0843> ………。;;;<0843> ..........
+<0844> …二人？;;;<0844> ... 'Toutes les deux' ?
+<0845> いったい、二人で、俺をどうやって喜ばせてくれるのだろうか。;;;<0845> Comment pourraient-elles bien me faire plaisir toutes les deux ?
+<0846> 想像してみる。;;;<0846> J'essayai de l'imaginer.
+<0847> ………。;;;<0847> ..........
+<0848> \{佳乃}「ねぇ、お姉ちゃ～ん…」;;;<0848> Dis, Onee-chan~...
+<0849> \{聖}「ん？  どうしたんだ、佳乃」;;;<0849> Hmn ? Qu'y a-t-il, Kano ?
+<0850> \{佳乃}「次、あたしにもやらせてぇ」;;;<0850> Après, tu pourras me laisser faire ?
+<0851> \{聖}「だめだ。もう少しだけ待つように」;;;<0851> Non. Attends encore un peu.
+<0852> \{佳乃}「ふぇぇ～、お姉ちゃんの欲張りぃ～」;;;<0852> Fueeh~, tu es trop gourmande~.
+<0853> \{聖}「ふふ…どうだ、\m{B}君…」;;;<0853> Fufu... Que dis tu de ça, \m{B}-kun...
+<0854> \{\m{A}}「え…」;;;<0854> Eh...
+<0855> \{聖}「こうすると気持ちいいか…？」;;;<0855> C'est agréable quand je fais comme ça ?
+<0856> \{\m{A}}「あ、ああ…」;;;<0856> O-Ouais...
+<0857> \{聖}「そうか…」;;;<0857> Je vois...
+<0858> \{聖}「なら、ここにはさむなんてどうだ？」;;;<0858> Dans ce cas, si je les presse comme ça, c'est comment ?
+<0859> \{佳乃}「うぬぬ。あたしもぉ」;;;<0859> Ununu. À mon tour !
+<0860> \{佳乃}「うわぁ…お姉ちゃんの、柔らかくてぷにゅぷにゅだよぉ」;;;<0860> Uwaah... Onee-chan, les tiens sont tellement doux.
+<0861> \{聖}「佳乃もなかなか育ってきたな」;;;<0861> Les tiens ne sont pas mal non plus.
+<0862> \{佳乃}「でも、まだまだお姉ちゃんにはかなわないかなぁ」;;;<0862> Mais bon, ils sont encore loin d'être au niveau des tiens.
+<0863> \{聖}「それはわからないぞ」;;;<0863> Qu'est-ce que tu en sais ?
+<0864> \{聖}「\m{B}君の好みを訊いてみないとな」;;;<0864> Demandons à \m{B}-kun lesquels il préfère.
+<0865> \{聖}「どうだ、\m{B}君」;;;<0865> Dis-nous, \m{B}-kun :
+<0866> \{聖}「私と佳乃と、どちらを先にする？」;;;<0866> Entre les miens et ceux de Kano, lesquels préfères-tu ?
+<0867> \{佳乃}「あ～。そんなに押しつけてお姉ちゃんずるいよぉ」;;;<0867> Ah~. C'est pas juste de le mettre dos au mur comme ça, Onee-chan !
+<0868> \{佳乃}「こうなったら…あたしもにぎるぅ」;;;<0868> Si c'est comme ça... Moi aussi, je vais les presser !
+<0869> \{\m{A}}「うっ…」;;;<0869> Uh...!
+<0870> \{聖}「こらこら、力の入れすぎだ」;;;<0870> Hé, oh. Tu mets trop de force.
+<0871> \{佳乃}「そんなことないよねぇ？  \m{A}くん…」;;;<0871> Ce n'est pas vrai. Hein, \m{A}-kun ?
+<0872> \{\m{A}}「うぐおぉぉーっっ」;;;<0872> Ugwooooh !!
+<0873> ほとんど犯罪的なまでにピンク色をした想像だった。;;;<0873> Ce qui s'était dessiné dans mon esprit était tellement chaud que c'en était quasiment criminel.
+<0874> \{佳乃}「…あれれ？また、変な声が聞こえたねぇ」;;;<0874> ... Hmmmm ? j'ai encore entendu une drôle de voix.
+<0875> \{\m{A}}（うおっ、やばいっ、今度こそバレるっ）;;;<0875> Uwoh ! Flûte ! Cette fois, je suis vraiment foutu !
+<0876> 誰もいない薄闇の待合室で、一人あたふたする俺。;;;<0876> Je paniquai seul dans la salle s'attente à peine éclairée.
+<0877> \{聖}「変な声？」;;;<0877> Une drôle de voix ?
+<0878> \{佳乃}「うん…」;;;<0878> Oui...
+<0879> \{佳乃}「なんか、すごく……」;;;<0879> Une voix très...
+<0880> その先が聞き取れなかった。;;;<0880> Je n'arrivai pas à entendre la suite.
+<0881> 数秒の沈黙。;;;<0881> Quelques secondes de silence.
+<0882> \{\m{A}}「にゃ～」;;;<0882> Miaou~.
+<0883> って、声をだしてどうするんだー！;;;<0883> Mais ! Pourquoi est-ce que je parle, moi— !?
+<0884> \{佳乃}「あれ？  お姉ちゃん、待合室の方に猫がいるよ？」;;;<0884> Oh ? Onee-chan, il y a un chat dans la salle d'attente.
+<0885> \{聖}「ああ、そのようだな」;;;<0885> Ouais. On dirait bien.
+<0886> \{佳乃}「さわりたいよぉー」;;;<0886> Je veux le toucher— !
+<0887> \{聖}「よし、つれてきてやろう」;;;<0887> Allez, je te l'apporte.
+<0888> \{\m{A}}「！！？」;;;<0888> !!?
+<0889> ま、まずい！  聖がこっちにくる！;;;<0889> Z-Zut ! Hijiri se ramène !
+<0890> なんで自らを窮地に追い込む様なことをしたんだ俺は！？;;;<0890> Pourquoi est-ce que je me suis mis tout seul dans le pétrin !?
+<0891> 慌てて、でも足音をたてないようにソファーに駆け戻る。;;;<0891> Je regagnai précipitamment le sofa en essayant de ne pas faire trop de bruit.
+<0892> そして、扉に背を向け狸寝入りをする。;;;<0892> Une fois arrivé, je me tournai dos à la porte et fis semblant de dormir.
+<0893> \{\m{A}}「………」;;;<0893> .........
+<0894> \{\m{A}}「……」;;;<0894> ......
+<0895> \{\m{A}}「…？」;;;<0895> ...?
+<0896> ドアが開かない…？;;;<0896> La porte ne s'ouvre pas ?
+<0897> 身体を起こして、沈黙を保つドアを見つめ様子を窺う。;;;<0897> Je me redressai, et guettai le moindre bruit venant de la porte toujours silencieuse.
+<0898> いつもなら佳乃の頼み事を迅速にきくはずなのに…。;;;<0898> D'habitude, Hijiri répond promptement aux requêtes de Kano, pourtant...
+<0899> ソファーからおりて、もう一度ドアに近づく。;;;<0899> Je sortis du sofa, et m'approchai de nouveau de la porte.
+<0900> そして慎重に耳を寄せた。;;;<0900> J'approchai ensuite prudemment mon oreille de la porte.
+<0901> \{聖}「…佳乃？」;;;<0901> ... Kano ?
+<0902> 聖の声の様子が、突然変わった。;;;<0902> L'intonation de Hijiri avait soudainement changé.
+<0903> \{聖}「…おい佳乃、どうした？」;;;<0903> ... Hé, Kano, qu'y a-t-il ?
+<0904> \{聖}「おい…」;;;<0904> Hé...
+<0905> それきり、物音が聞こえなくなった。;;;<0905> Je n'entendis pas d'autres sons.
+<0906> 何が起こっているのか、まったくわからない。;;;<0906> Je n'avais franchement pas la moindre idée de ce qu'il se passait.
+<0907> 俺がドアノブに手をかけようとした、その時だった。;;;<0907> Juste au moment où j'allais placer une main sur la poigée...
+<0908> \{聖}「そうか…」;;;<0908> Je vois...
+<0909> \{聖}「来たのか…」;;;<0909> Tu es de retour...
+<0910> 聖の声に、別の誰かが答えた。;;;<0910> Une autre voix répondit à Hijiri.
+<0911> 小声すぎて聞き取れない。;;;<0911> Une voix tellement faible que je ne la discernais pas.
+<0912> \{聖}「久しぶりだな…」;;;<0912> Ça faisait longtemps...
+<0913> それきり、声は聞こえなくなった。;;;<0913> Je n'entendis pas d'autres voix.
+<0914> ただ、誰かと話している気配だけがする。;;;<0914> Néanmoins, je \bsentais\u que quelqu'un parlait.
+<0915> 何がどうなっているのか、俺には全くわからない。;;;<0915> Je n'avais plus la moindre idée de ce qu'il se passait.
+<0916> 扉の向こうに全神経を集中する。;;;<0916> Toute mon attention était concentrée sur ce qui se trouvait de l'autre côté de la porte.
+<0917> シャツの胸元が汗ばんできたのがわかる。;;;<0917> Je sentais ma chemise se tremper de sueur au niveau de mon torse.
+<0918> 薄闇の中、得体の知れない予感だけが膨らんでいく。;;;<0918> Dans la pénombre, je ne sentais plus rien d'autre que le développement d'un indéfinissable pressentiment.
+<0919> \{聖}「…いつも通り、繰り言を喋るだけか」;;;<0919> ... Comme à chaque fois, tu ne fais que radoter.
+<0920> 聖の声が言った。;;;<0920> dit la voix de Hijiri.
+<0921> \{聖}「意味もわからなければ、役にも立たない…」;;;<0921> Si je ne comprends pas ce que tu veux me dire, je ne pourrai pas t'aider...
+<0922> \{聖}「佳乃をどうしたいんだ？」;;;<0922> Que veux-tu à Kano ?
+<0923> \{聖}「私にどうしてほしい？」;;;<0923> Que \bme\u veux-tu ?
+<0924> \{聖}「答えろ」;;;<0924> Réponds !
+<0925> 氷を突き立てるような、鋭い詰問。;;;<0925> Son interrogatoire était aussi tranchant qu'un coup de couteau dans la glace.
+<0926> あまりにも上手すぎるひとり芝居を聴いているかのようだった。;;;<0926> Son jeu était trop bien exécuté, c'était comme regarder une pièce de théâtre avec un seul acteur.
+<0927> 数秒の沈黙が、異様に引き延ばされて感じた。;;;<0927> Ces quelques secondes de silences me parurent étrangement longues.
+<0928> そして。;;;<0928> Et enfin...
+<0929> 別の声が弱々しく答えた。;;;<0929> L'autre voix répondit faiblement :
+<0930> \{声}「…このこは…」;;;<0930> ... Cet enfant...
+<0931> \{声}「…わたくしの…いのち…」;;;<0931> ... est ma... vie...
+<0932> ぞくり。;;;<0932> \bBrr\u...
+<0933> 背筋が慄えた。;;;<0933> J'en eus des frissons dans le dos.
+<0934> それはたしかに、佳乃の声だった。;;;<0934> C'était clairement la voix de Kano.
+<0935> だが、佳乃の口調ではなかった。;;;<0935> Sauf qu'elle ne sonnait pas comme Kano.
+<0936> こんな喋り方を、佳乃がするはずがない。;;;<0936> Kano ne parlerait jamais de cette manière-là.
+<0937> \{聖}「…違うっ！」;;;<0937> ... Non !!
+<0938> 聖が叫んだ。;;;<0938> cria Hijiri.
+<0939> \{聖}「佳乃は、佳乃のものだ」;;;<0939> Ce qui est à Kano reste à Kano.
+<0940> \{聖}「私の、大切な妹だ…」;;;<0940> À ma chère petite sœur...
+<0941> 椅子を揺らして立ち上がる音。;;;<0941> J'entendis le bruit d'une chaise qu'on déplaçait pour se lever.
+<0942> そして、吐息とも悲鳴ともつかない声。;;;<0942> Ensuite, j'entendis une voix à mi-chemin entre un soupir et un hurlement.
+<0943> 扉の外からでもわかった。;;;<0943> Nous avions beau être séparés par la porte, j'avais compris :
+<0944> 聖が佳乃を抱きしめたのだ。;;;<0944> Hijiri avait serré Kano dans ses bras.
+<0945> 次の瞬間。;;;<0945> L'instant d'après...
+<0946> \{佳乃}「…あれっ？」;;;<0946> ... Oh !?
+<0947> \{佳乃}「あれあれあれあれあれっ？」;;;<0947> Oh oh oh oh oh ?
+<0948> 間違いない。;;;<0948> Aucun doute :
+<0949> 佳乃の声だった。;;;<0949> C'était Kano.
+<0950> 張りつめた空気が氷解した。;;;<0950> L'atmosphère s'était détendue.
+<0951> \{佳乃}「あたし、どうしてお姉ちゃんとこんなになってるのぉ？」;;;<0951> Pourquoi tu me fais ça ?
+<0952> \{聖}「寝ぼけてたぞ」;;;<0952> Tu étais à moitié endormie.
+<0953> \{佳乃}「…ふぇっ？」;;;<0953> ... Fueh ?!
+<0954> \{聖}「抱きついてきたから、お返しに抱擁してやったんだ」;;;<0954> Et tu es venue me faire un câlin, alors je t'en ai fait un en retour.
+<0955> \{佳乃}「うぬぬ…ぜんぜん覚えてないよぉ」;;;<0955> Ununu... Je ne me souviens de rien.
+<0956> \{聖}「だから早く寝ろと言ってるだろ？」;;;<0956> Allez, je t'ai déjà dit d'aller te coucher.
+<0957> \{佳乃}「うぬぬ…」;;;<0957> Ununu...
+<0958> \{佳乃}「…まあいっかぁ」;;;<0958> ... Bah, tant pis.
+<0959> \{佳乃}「ねぇ、お姉ちゃん？」;;;<0959> Dis, Onee-chan ?
+<0960> \{聖}「なにかな、妹さん」;;;<0960> Qu'y a-t-il, petite sœur ?
+<0961> \{佳乃}「ちょっとだけ、このままでいい？」;;;<0961> On peut rester comme ça un petit peu plus longtemps ?
+<0962> \{聖}「ああ、いいぞ…」;;;<0962> Ouais, pas de problème...
+<0963> \{佳乃}「………」;;;<0963> .........
+<0964> \{聖}「………」;;;<0964> .........
+<0965> \{佳乃}「…お父さんが死んじゃった時も、こうしてくれたよね」;;;<0965> ... C'est comme ça que tu m'as fait un câlin, quand papa est mort.
+<0966> \{聖}「ああ」;;;<0966> Ouais.
+<0967> \{聖}「そうだったな…」;;;<0967> C'est vrai...
+<0968> そして、声は聞こえなくなった。;;;<0968> Suite à cela, je n'entendis plus d'autres voix.
+<0969> 普段と変わらない、姉妹の温もりだけが伝わってくる。;;;<0969> Comme d'habitude, il ne restait dans l'air que cette chaleur fraternelle.
+<0970> 俺はゆっくりと扉から離れた。;;;<0970> Je m'éloignai doucement de la porte.

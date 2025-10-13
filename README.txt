@@ -2,17 +2,20 @@
 
 ##### Changelog #####
 
+# 13/10/2025 #
+La route de Kano est traduite ! Maintenant, c'est au tour de Minagi !
+
 # 18/09/2025 #
-L'entièreté de la route commune (fichiers XX0.org) a été traduite. Les routes de Kano et Minagi devraient suivre prochainement™.
+L'entièreté de la route commune a été traduite. Les routes de Kano et Minagi devraient suivre prochainement™.
 
 # 25/08/2025 #
-Le texte de la route de Misuzu (fichiers XX1.org) est complètement traduit ! (les images arriveront bientôt™)
+Le texte de la route de Misuzu est complètement traduit ! (les images arriveront bientôt™)
 Une première version du patch devrait bientôt être mise en ligne.
 
 ##### Avancement #####
 
 ### Traduction Dialogues ###
-Scènes    : 29/81
+Scènes    : 37/81
 Relecture : 13/81
 
 ### Traduction Interface ###
