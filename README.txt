@@ -15,7 +15,7 @@ Une première version du patch devrait bientôt être mise en ligne.
 ##### Avancement #####
 
 ### Traduction Dialogues ###
-Scènes    : 37/81
+Scènes    : 44/81
 Relecture : 13/81
 
 ### Traduction Interface ###
