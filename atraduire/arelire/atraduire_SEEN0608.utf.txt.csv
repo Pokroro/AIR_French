@@ -1,0 +1,657 @@
+<0000> ８月  ８日(火);;;<0000> 08/08 (mar.)
+<0001> 午前中。;;;<0001> En milieu de matinée.
+<0002> 俺は、みちると二人で町を歩いて回った。;;;<0002> Je me promenais dans le village avec Michiru.
+<0003> 遠野は、夏期講習のために一人学校へ。;;;<0003> Tohno était partie à l'école pour ses cours d'été.
+<0004> すぐに帰ってくると言ってはいたが、待つ方としては時の流れがやけに遅く感じられた。;;;<0004> Elle avait beau avoir dit qu'elle reviendrait vite, pour nous qui l'attendions, le cours du temps semblait avoir ralenti.
+<0005> だから、こうして町を歩いた。;;;<0005> Alors nous nous promenions dans le village.
+<0006> 誘ってきたのは、隣をとことこ歩くみちるの方だった。;;;<0006> Celle qui me l'avait proposé n'était autre que Michiru, qui marchait à côté de moi :
+<0007> \{みちる}『ねえねえ、\m{B}\m{A}』;;;<0007> Dis, dis, \m{B}\m{A}.
+<0008> \{みちる}『美凪が帰ってくるまで、みちるとでーとしよう』;;;<0008> Jusqu'à ce que Minagi revienne, sors avec moi.
+<0009> みちるは、そう言って笑った。;;;<0009> m'avait-elle proposé en riant.
+<0010> 俺の方も、とくにすることがなく、芸をしに町へ繰り出そうかと考えていたので、みちるの提案に対して首を縦に振った。;;;<0010> N'ayant rien à faire et prévoyant d'aller faire mon numéro dans le village, j'avais acquiescé à sa suggestion.
+<0011> \{みちる}『やったー、でーとだー』;;;<0011> Youpi— ! C'est un rencard— !
+<0012> みちるは、俺の返答にぴょこぴょこ飛び跳ねて、小さな体全体で喜びを表現した。;;;<0012> En réaction à ma réponse, elle s'était mise à bondir de joie.
+<0013> でも…と、俺は喜ぶみちるを見つめながら思った。;;;<0013> 'Mais...', me dis-je en la regardant toute contente.
+<0014> 昨日、シャボン玉を飛ばす遠野を見つめながら呟かれたみちるの言葉が、脳裏をかすめた。;;;<0014> Ce qu'elle avait marmonné la veille en regardant Tohno faire des bulles m'était revenu en mémoire.
+<0015> 『…やっぱり…もう無理なのかな』;;;<0015> ... J'imagine... qu'il est déjà trop tard, hein.
+<0016> 悲しげな音色。;;;<0016> Un ton malheureux.
+<0017> 寂しげな響き。;;;<0017> Aux échos de solitude.
+<0018> 何かが変わりはじめている日常。;;;<0018> Quelque chose dans notre quotidien avait commencé à changer.
+<0019> 俺には、どうしても、みちるが心の底から喜んでいるようには見えなかった。;;;<0019> D'après moi, en son for intérieur, Michiru n'était pas aussi heureuse.
+<0020> そして、みちるは今、俺の隣を歩いている。;;;<0020> Et maintenant, elle marchait à côté de moi.
+<0021> うつむきながら、まるで悲しい夢から覚めたばかりの子供のように歩いている。;;;<0021> Elle avait la tête baissée, évoquant un enfant qui se serait à l'instant réveillé d'un mauvais rêve.
+<0022> \{\m{A}}「…なあ、みちる」;;;<0022> ... Dis-moi, Michiru.
+<0023> 俺は、正面を見据え、飛びゆく鳥を追いかけながら言葉を紡いだ。;;;<0023> Je fixais l'horizon et tissais des mots tout en suivant du regard des oiseaux qui s'envolaient.
+<0024> \{みちる}「…んに？」;;;<0024> ... Hmnni ?
+<0025> 一瞬だけ上目遣いで俺を見やり、またうつむく。;;;<0025> Elle leva les yeux brièvement pour me regarder, puis les baissa de nouveau.
+<0026> 理由がわかりかねるだけに、みちるのこんな顔を見ているのは寂しい。;;;<0026> Ne pas connaître la raison derrière son visage aussi sombre me rendait moi-même triste.
+<0027> \{\m{A}}「ほら、あれ、見てみろよ」;;;<0027> Hé, matte-moi ça.
+<0028> 堤防の上で、一羽のカモメが翼を休めている。;;;<0028> Perchée sur la digue, une mouette reposait ses ailes.
+<0029> \{\m{A}}「カモメだぞ、カモメ」;;;<0029> C'est une mouette, une mouette :
+<0030> \{みちる}「…んに…カモメさん？」;;;<0030> ... Hmnni... Une mouette ?
+<0031> \{\m{A}}「かわいいと思わないか」;;;<0031> Elle est mignonne, tu ne trouves pas ?
+<0032> \{みちる}「…うん、かわいい」;;;<0032> ... Oui... Elle est mignonne.
+<0033> \{\m{A}}「だよな。餌あげてみようぜ」;;;<0033> N'est-ce pas ? Donnons-lui un truc à grignoter.
+<0034> \{みちる}「ごはん？」;;;<0034> À manger ?
+<0035> \{\m{A}}「そう、ごはんだ」;;;<0035> Ouaip, à manger.
+<0036> \{\m{A}}「つっても、カモメって何を食べてるんだろうな…」;;;<0036> Enfin, va savoir ce que mangent les mouettes...
+<0037> \{みちる}「んに…なんだろ」;;;<0037> Hmnni... Bonne question.
+<0038> \{\m{A}}「………」;;;<0038> .........
+<0039> \{みちる}「………」;;;<0039> .........
+<0040> \{\m{A}}「…やっぱ、魚か」;;;<0040> ... Du poisson, à tous les coups.
+<0041> \{みちる}「アジ？」;;;<0041> Du chinchard ?
+<0042> \{\m{A}}「そうだな。アジも食べてるかもしれないな」;;;<0042> Ouaip. Peut-être bien qu'elles mangent aussi du chinchard.
+<0043> \{みちる}「みちるも、アジ好きだよ」;;;<0043> Moi aussi, j'aime le chinchard.
+<0044> \{\m{A}}「アジのフライだろ？うまそうに食ってたもんな」;;;<0044> Du chinchard frit ? C'est vrai que t'avais l'air de bien aimer ça.
+<0045> \{みちる}「うん。カモメさんとおなじもの、たべた」;;;<0045> Oui. J'ai mangé comme une mouette.
+<0046> \{\m{A}}「じゃあ、おまえはカモメとお友達だな」;;;<0046> Donc t'es l'amie des mouettes ?
+<0047> \{みちる}「んに？お友だち？」;;;<0047> Hmnni ? Leur amie ?
+<0048> \{\m{A}}「そう。お友達だ」;;;<0048> Ouaip, leur amie.
+<0049> \{みちる}「にゃはは。そっか。カモメさんはお友だちか」;;;<0049> Nyahaha. Je vois. Alors comme ça, les mouettes sont mes amies ?
+<0050> \{\m{A}}「ああ」;;;<0050> Ouais.
+<0051> \{みちる}「んじゃあ、お友だちになったしるしに、カモメさんにはこれをあげるよ」;;;<0051> Bon, ben, pour sceller notre amitié, je vais offrir ça à la mouette.
+<0052> ごそごそと、ポケットの中から、袋に入った飴玉をひとつ取り出す。;;;<0052> Elle fouilla dans sa poche et en sortit un bonbon emballé.
+<0053> \{みちる}「これね、美凪からもらったの。ミカン味なんだよ」;;;<0053> Ça, c'est Minagi qui me l'a donné. C'est goût mikan.
+<0054> \{\m{A}}「いや、それは…」;;;<0054> Nan, ne...
+<0055> \{みちる}「んに？ダメなの？」;;;<0055> Hmnni ? J'ai pas le droit ?
+<0056> \{\m{A}}「ダメというか、たぶん、食べてもらえないと思うぞ」;;;<0056> C'est pas que t'as pas le droit, je crois juste qu'elle pourra pas le manger.
+<0057> \{みちる}「なんで？」;;;<0057> Pourquoi ?
+<0058> \{\m{A}}「う…」;;;<0058> Uh...
+<0059> \{みちる}「なんで？」;;;<0059> Pourquoi ?
+<0060> \{\m{A}}「うう…」;;;<0060> Uuh...
+<0061> 少女の純真な眼差しが、俺を見つめている。;;;<0061> Son regard innocent me fixait.
+<0062> \{\m{A}}「ま、まあ、試しに一回食べさせてみろよ」;;;<0062> B-Bah, on peut tester une voix et voir si elle le mange.
+<0063> 苦し紛れ。;;;<0063> Des paroles désespérées.
+<0064> \{みちる}「うん。ちょっとまっててね」;;;<0064> Ok. Je reviens tout de suite.
+<0065> とてとてとカモメが翼を休める堤防まで小走りで駆けてゆく。;;;<0065> Elle galopa jusqu'à la mouette sui reposait ses ailes sur la digue.
+<0066> \{みちる}「うんしょっと…」;;;<0066> Hop-là...
+<0067> カモメの隣に座る。;;;<0067> Puis s'assit à côté d'elle.
+<0068> 不思議なことに、カモメはみちるが近づき、隣に座っても、一向に逃げる気配を見せない。;;;<0068> À ma grande surprise, la mouette n'avait absolument pas réagi à la proximité de Michiru et n'essaya pas de s'enfuir.
+<0069> \{みちる}「こんにちは、カモメさん」;;;<0069> Bonjour Madame la Mouette.
+<0070> みちるの呼びかけに、カモメはひと鳴きする。;;;<0070> Comme pour lui répondre, la mouette piaula une fois.
+<0071> \{みちる}「にゃはは。げんきそうだねー」;;;<0071> Nyahaha. T'as l'air en forme—.
+<0072> 会話成立。;;;<0072> La conversation avait été lancée.
+<0073> \{\m{A}}（もしかして…旧知の仲なのか？）;;;<0073> À tout hasard... Serait-ce une de ces vieilles amies ?
+<0074> \{みちる}「あのね、カモメさん。いま、おなかすいてる？」;;;<0074> Dis-moi, Madame la Mouette. Est-ce que tu as faim ?
+<0075> \{みちる}「んに？さっきごはんたべたの？」;;;<0075> Hmnni ? Tu viens de manger ?
+<0076> \{みちる}「そっかー。んじゃあ、おなかいっぱいだねぇ」;;;<0076> Ah bon—. Alors tu dois être rassasiée, hein ?
+<0077> \{みちる}「あのね、これをカモメさんにあげようと思ったんだけど」;;;<0077> En fait, je voulais t'offrir ça :
+<0078> 飴玉をカモメに差し出す。;;;<0078> Elle présenta le bonbon à la mouette.
+<0079> \{みちる}「んに？いらない？」;;;<0079> Hmnni ? T'en veux pas ?
+<0080> \{みちる}「そっか…残念。おいしいのに…」;;;<0080> Ah bon... Dommage. Alors que c'est si bon...
+<0081> \{みちる}「んに？なに？自分はいいから、みちるがたべろって？いいの？」;;;<0081> Hmnni ? Tu dis que tu peux t'en passer et que je devrais le manger moi-même. T'es sûre ?
+<0082> こくりとうなずくカモメさん。;;;<0082> madame la Mouette hocha la tête.
+<0083> \{\m{A}}（男前だ…）;;;<0083> Quel gentleman, cette mouette...
+<0084> \{みちる}「にゃはは。んじゃあ、いただきまーす」;;;<0084> Nyahaha. Bon, ben, bon appétit !
+<0085> ぱくっ、と飴玉を口に入れる。;;;<0085> Elle goba le bonbon
+<0086> \{みちる}「んにに…おいひー」;;;<0086> Hmnnini... C'est bon—...
+<0087> 満足そうに、口の中で飴玉を転がす。;;;<0087> Elle faisait tourner le bonbon dans sa bouche, l'air ravi.
+<0088> \{みちる}「んに？もうかえっちゃうの？」;;;<0088> Hmnni ? Tu dois déjà rentrer ?
+<0089> \{みちる}「そっか。きをつけてかえってね」;;;<0089> Je vois. Fais attention sur la route, ok ?
+<0090> ひと鳴きしてから、カモメは、その体よりも大きな羽をばさばさとはためかす。;;;<0090> Après avoir piaulé une seconde fois, la mouette se mit à battre des ailes plus grandes que son corps.
+<0091> \{みちる}「え…」;;;<0091> Eh...
+<0092> \{みちる}「…うん…わかってる」;;;<0092> ... Ok... Je comprends.
+<0093> 何ごとか、みちると言葉を交わした後、カモメは飛び立っていった。;;;<0093> Après avoir raconté je ne sais quoi à Michiru, elle prit son envol.
+<0094> 陽射しに輝く波頭の上を、大空に向かって羽ばたいていった。;;;<0094> Elle s'envola dans l'immense ciel bleu, par-dessus les vagues qui scintillaient sous lumière du soleil.
+<0095> \{\m{A}}「良かったな。飴玉、ゆずってもらえて」;;;<0095> T'en as de la chance : t'as gardé le bonbon.
+<0096> 戻ってきたみちるの頭を撫でてやる。;;;<0096> Je caressai la tête de Michiru qui était revenue.
+<0097> \{みちる}「うんっ。おいしかった。にゃはは」;;;<0097> Oui ! C'était très bon. Nyahaha.
+<0098> 嬉しそうに笑う。;;;<0098> Elle rit, contente.
+<0099> ようやくみちるに笑顔が戻って、心が安まるのを感じる。;;;<0099> Son sourire était enfin revenu, et cela me rassérénait.
+<0100> \{\m{A}}「最後、何て言ったんだ、あのカモメ」;;;<0100> Qu'est-ce qu'elle t'a dit à la fin, la mouette ?
+<0101> 別れ際に、神妙な顔でカモメと言葉を交わしたみちるを思い返しながら訊ねる。;;;<0101> lui demandai-je en me rappelant le visage sérieux qu'elle avait eu au moment de s'en séparer.
+<0102> \{みちる}「もうすぐ、風がふくって」;;;<0102> Elle a dit que le vent allait bientôt se lever ?
+<0103> \{\m{A}}「風？」;;;<0103> Le vent ?
+<0104> \{みちる}「うん。だから、のりおくれないようにしなくちゃ…」;;;<0104> Oui. Justement, elle ne voulait pas être en retard...
+<0105> ………。;;;<0105> ..........
+<0106> ……。;;;<0106> .......
+<0107> …。;;;<0107> ....
+<0108> 夏の匂いをかきわけながら、俺たちは歩き続けた。;;;<0108> Nous continuions à marcher en humant les odeurs de l'été.
+<0109> 幾つもの軒先を通り過ぎ、清らかな風鈴の音色に耳を澄ませながら、言葉少なに歩く。;;;<0109> Nous passions devant nombre de proches, tendant parfois l'oreille pour écouter les carillons. Nous échangions peu de mots.
+<0110> 辿り着いた先は、何度となく訪れたことのある商店街。;;;<0110> Notre destination était la rue commerçante que nous avions déjà visitée tant de fois.
+<0111> 人影もなく、いつもどおりの静けさに満ちている。;;;<0111> Comme toujours, pas un rat : rien que le silence.
+<0112> \{\m{A}}「…腹減ったな」;;;<0112> ... Je meurs de faim.
+<0113> 到着するなり、思わず口に出してしまう。;;;<0113> Criai-je par réflexe aussitôt que nous étions arrivés.
+<0114> \{みちる}「にゃはは、はらぺこはらぺこ♪」;;;<0114> Nyahaha. Il a faim ! Il a faim !
+<0115> \{\m{A}}「お腹が、ぐうぐう鳴るな」;;;<0115> Mon ventre arrête pas de grogner.
+<0116> \{みちる}「ぐうぐうぐうぐう♪」;;;<0116> Grogne ! Grogne ! Grogne ! Grogne !
+<0117> \{\m{A}}「昼飯を食べようにも、遠野はまだ学校だしな…」;;;<0117> On pourrait déjeuner, mais Tohno est encore à l'école...
+<0118> 駅に帰って、先に食べてしまってもいいんだが、やはりそれは気が引ける。;;;<0118> On pourrait rentrer à la gare pour manger plus tôt, mais cela ne me faisait pas plus envie que ça.
+<0119> \{\m{A}}「と言うわけで、買い食いをするぞ」;;;<0119> Bref, allons acheter quelque chose à manger sur le pouce.*
+<0120> \{みちる}「んに？かいぐい？なにそれ？」;;;<0120> Hmnni ? 'Manger sur le pouce' ? Qu'est-ce que ça veut dire ?
+<0121> \{\m{A}}「学校帰りに食い物を買って食べるのが、買い食いというらしいぞ」;;;<0121> Si t'achètes quelque chose en revenant de l'école, ça s'appelle 'manger sur le pouce', il parait.
+<0122> \{みちる}「みちるたち、がっこうがえりじゃないよ」;;;<0122> Mais on est pas en train de rentrer de l'école.
+<0123> \{\m{A}}「まあ、見よう見まねでいいだろ」;;;<0123> Bah, faisons comme si.
+<0124> \{みちる}「でもでも、おかねもってないよ」;;;<0124> Mais, mais, on a pas d'argent.
+<0125> \{\m{A}}「案ずるな。そういうときのために、こいつがある」;;;<0125> Ne te tracasse pas. C'est justement pour ce genre de situation que j'ai ce petit gars :
+<0126> さっ、と後ろポケットから人形を取り出す。;;;<0126> Je sortis d'un unique mouvement adroit ma marionnette de ma poche.
+<0127> \{\m{A}}「見よ、この凛々しさを」;;;<0127> Regarde, et admire cette prestance !
+<0128> 無意味に人形を太陽にかざしてみる。;;;<0128> Je la brandis sans raison particulière vers le soleil.
+<0129> \{みちる}「おおぉ～～～」;;;<0129> Oooh~~~.
+<0130> 太陽の光を後光のように背に受けた人形を見て、みちるが感嘆の声をあげる。;;;<0130> Michiru n'avait pas pu s'empêcher de lâcher un cri d'émerveillement à la vue de ma marionnette baignant dans un halo de lumière solaire.
+<0131> \{\m{A}}「ちょっと待ってろよ。すぐにお金を稼いでやるからな」;;;<0131> Attends un petit peu. Je reviens tout de suite avec des sous fraichement gagnés.
+<0132> \{みちる}「うんっ」;;;<0132> Ok !
+<0133> いつもの場所である、霧島診療所の看板脇に陣取る。;;;<0133> Je m'installai à mon emplacement habituel : devant l'enseigne de la Clinique Kirishima.
+<0134> みちるは、俺の横にちょこんと座り、目の前にある人形を期待に満ちた眼差しで見つめる。;;;<0134> Michiru vint s'asseoir à côté de moi en fixant ma marionnette avec anticipation.
+<0135> \{\m{A}}（そういや、こいつには一回しか見せたことがなかったな…）;;;<0135> Maintenant que j'y pense, je ne le lui ai montré qu'une seule fois...
+<0136> 気を集中させながら、そんなことを思う。;;;<0136> Cette pensée me traversa l'esprit pendant que je concentrai ma volonté.
+<0137> 初めてみちると遠野に人形芸を見せたとき、みちるは仕掛けがないかどうか、いつまでも確かめていた。;;;<0137> La première fois que je leur avais montré mon numéro, Michiru avait passé tout le temps à essayer de trouver un trucage.
+<0138> あの時の光景を今思い返してみると、とても微笑ましいものに思えて、俺は口元を小さくゆるめる。;;;<0138> Repenser à cette scène me toucha et je ne pus m'empêcher d'esquisser un petit sourire.
+<0139> \{みちる}「んに？どしたの、\m{B}\m{A}」;;;<0139> Hmnni ? Qu'est-ce qu'il y a, \m{B}\m{A} ?
+<0140> \{\m{A}}「ん…いや、なんでもない。よく見てろよ」;;;<0140> Hmn... Nan, rien. Regarde bien.
+<0141> 改めて集中しなおす。;;;<0141> Je me concentrai à nouveau.
+<0142> ぴ…と、人形が立ち上がる。;;;<0142> La marionnette se leva d'un bond.
+<0143> 動きはじめると、みちるは楽しそうに人形の動きに魅入った。;;;<0143> Michiru semblait fascinée par ses mouvements.
+<0144> \{\m{A}}「………」;;;<0144> .........
+<0145> \{みちる}「………」;;;<0145> .........
+<0146> \{\m{A}}「はぁ…」\r;;;<0146> Haa... \r
+<0147> 二人同時にため息をつく。;;;<0147> Nous soupirâmes en même temps.
+<0148> \{\m{A}}「当たり前だな…ひとがいないんだから」;;;<0148> J'aurais dû m'y attendre... Y a personne...
+<0149> \{みちる}「んに…そだね」;;;<0149> Hmnni... On dirait bien.
+<0150> 金は稼げなかった。;;;<0150> Je ne m'étais pas fait le moindre sou.
+<0151> 通行人がいない商店街でいくら気合いを入れようが、そうなるのは必然である。;;;<0151> J'avais beau y mettre toute mon énergie, je n'allais rien gagner à me produire dans une rue commerçante dépourvue de passants.
+<0152> ずっと同じことを繰り返してきたのだから、始める前に気づくべきだった。;;;<0152> M'étant déjà retrouvé maintes fois dans cette situation, j'aurais dû le voir venir.
+<0153> \{\m{A}}「…悪いな。買い食い、できなくて」;;;<0153> ... Désolé. On va pas pouvoir manger sur le pouce.
+<0154> \{みちる}「いいよ。みちるはたのしかったもん」;;;<0154> C'est pas grave. Je me suis bien amusée.
+<0155> \{\m{A}}「…そっか」;;;<0155> ... Si tu le dis.
+<0156> みちるの頭を撫でてやる。;;;<0156> Je lui caressai un peu les cheveux.
+<0157> \{みちる}「にゃはは」;;;<0157> Nyahaha.
+<0158> みちるが嬉しそうに笑う。;;;<0158> Elle sourit, ravie.
+<0159> 買い食いはできなかったが、俺はこの笑顔を見られただけで満足だった。;;;<0159> En dépit de mon échec, je me sentis satisfait de la voir tout sourire.
+<0160> \{\m{A}}「…腹、減ったよな」;;;<0160> ... Je meurs de faim.
+<0161> \{みちる}「うんっ」;;;<0161> Oui !
+<0162> \{\m{A}}「よし。じゃあ、そろそろ帰るか」;;;<0162> Bien, Allez, il est temps de rentrer.
+<0163> 人形をポケットに押し込み、立ち上がる。;;;<0163> Je fourrai ma marionnette dans ma poche et me levai.
+<0164> きぃ…;;;<0164> \bCrr\u...
+<0165> \{みちる}「あ…」;;;<0165> Ah...
+<0166> \{\m{A}}「ん？」;;;<0166> Hmn ?
+<0167> 俺が立ち上がると同時に、診療所の扉が開いた。;;;<0167> À l'instant où je me levai, la porte de la clinique s'ouvrit.
+<0168> \{女性}「…すいませんでした…お手数をおかけしまして」;;;<0168> ... Désolé de vous embêter autant...
+<0169> \{聖}「いえ、かまいませんよ」;;;<0169> C'est rien, pas de souci.
+<0170> \{聖}「また何かありましたら、遠慮せずいらしてください」;;;<0170> Si vous avez besoin de quoi que ce soit, n'hésitez pas à venir me voir.
+<0171> \{女性}「…はい」;;;<0171> ... D'accord.
+<0172> \{女性}「…それでは…失礼いたします」;;;<0172> ... Sur ce... Je vais y aller.
+<0173> 診療所から出てきたその女性は、聖と会話を交わし、おぼろげな眼差しで俺たちの前を通りすぎていった。;;;<0173> La dame qui était sortie de la clinique avait échangé quelques mots avec Hijiri avant de passer devant nous, le regard vague.
+<0174> 俺たちの存在には、気づいた様子すらない。;;;<0174> Comme si elle n'avait même pas remarqué notre rpésence.
+<0175> \{\m{A}}「あれは…」;;;<0175> C'est...
+<0176> たどたどしく歩く女性の後ろ姿を見つめていた。;;;<0176> Je la regardai s'éloigner en clopinant.
+<0177> 間違いなかった。あれは、遠野の母親の姿だった。;;;<0177> Aucun doute. C'était la mère de Tohno.
+<0178> …でも、なぜ霧島診療所に？;;;<0178> ... Mais que faisait-elle à la Clinique Kirishima ?
+<0179> \{みちる}「…かあ…さ…」;;;<0179> ... Ma...m...
+<0180> \{\m{A}}「え…」;;;<0180> Eh...
+<0181> \{みちる}「………」;;;<0181> .........
+<0182> 地面にぺたりと座りながら、みちるは遠野の母親を寂しげな眼差しで見送っていた。;;;<0182> Assise par terre, Michiru regardait la mère de Tohno s'éloigner avec un regard triste.
+<0183> \{みちる}「…探してる…」;;;<0183> ... cherche...
+<0184> みちるは、誰に向けるともない呟きをもらす。;;;<0184> marmonna-t-elle, s'adressant à personne en particulier.
+<0185> \{\m{A}}「………」;;;<0185> .........
+<0186> \{みちる}「…んに？どしたの？」;;;<0186> ... Hmnni ? Un problème ?
+<0187> \{\m{A}}「あ…いや…」;;;<0187> Ah... Nan, rien...
+<0188> 視線を逸らす。;;;<0188> Je détournai mon regard.
+<0189> 触れることの叶わない幻に、手をさしのべるように。;;;<0189> Comme pour étendre mon bras vers une illusion irréalisable que ma main ne toucherait jamais.
+<0190> \{\m{A}}「おまえ…あのひとのこと、知ってるのか」;;;<0190> Dis-moi... Cette dame, tu la connais ?
+<0191> \{みちる}「…んに…」;;;<0191> ... Hmnni...
+<0192> みちるは答えない。;;;<0192> Elle ne répondit pas.
+<0193> ただ、光に霞む遠い人影を見つめるだけ。;;;<0193> Elle se contenta de regarder la silhouette qui disparaissait au loin dans la lumière.
+<0194> \{みちる}「…ねえ…\m{B}\m{A}…」;;;<0194> ... Dis, \m{B}\m{A}...
+<0195> \{\m{A}}「…なんだ」;;;<0195> ... Quoi ?
+<0196> \{みちる}「あのね…」;;;<0196> Tu vois...
+<0197> 一瞬、ためらうように小さな息をはく。;;;<0197> Elle poussa un léger souffle, comme pour marquer l'hésitation d'un instant.
+<0198> \{みちる}「…たいせつなひとに忘れられるのって…やっぱりかなしいことだよね…」;;;<0198> ... Être oublier par ceux qui comptent pour nous... C'est dur, hein...
+<0199> \{\m{A}}「え…」;;;<0199> Eh...
+<0200> \{みちる}「………」;;;<0200> .........
+<0201> \{みちる}「…でも…忘れただけならいつか必ず思い出せるから…」;;;<0201> ... Mais bon... Ils finiront forcément par se remémorer ce qu'ils ont oublié.
+<0202> \{みちる}「…やっぱり…このままじゃダメだね…」;;;<0202> ... Je le savais... On ne peut pas continuer comme ça.
+<0203> \{\m{A}}「…おまえ…何を…」;;;<0203> ... Qu'est-ce que... tu...
+<0204> 俺の中で、輪郭を持たない何かが呼吸をはじめる。;;;<0204> Quelque chose d'informe se mit à respirer en moi.
+<0205> でも、それを口に出すことはできなくて…。;;;<0205> Quelque chose que je ne saurais décrire avec des mots...
+<0206> それでも、口に出さなければ何も変わらないような気がして…。;;;<0206> Mais je sentais que ne pas pouvoir l'exprimer n'y changeait rien.
+<0207> \{みちる}「…んに…」;;;<0207> ... Hmnni...
+<0208> みちるは、言葉を見つけられず、悲しげに瞳をふせた。;;;<0208> Incapable de dire quoi que ce soit, Michiru baissa les yeux.
+<0209> 溢れる想いだけが、消えることなく少女を取り巻いていた。;;;<0209> Un torrent d'émotions débordantes l'avait prise en étau et refusait de disparaître.
+<0210> \{\m{A}}「………」;;;<0210> .........
+<0211> 俺は、少女が言葉を見つけるまで口を噤んで待ち続けた。;;;<0211> J'attendais qu'elle trouvât ses mots.
+<0212> \{みちる}「………」;;;<0212> .........
+<0213> \{\m{A}}「………」;;;<0213> .........
+<0214> \{みちる}「………」;;;<0214> .........
+<0215> \{みちる}「…あのね…」;;;<0215> ... Dis...
+<0216> 躊躇いがちに口を開く。;;;<0216> Elle ouvrit la bouche avec hésitation.
+<0217> \{みちる}「…美凪…いま、家出してるでしょ」;;;<0217> ... Minagi... Est en pleine fugue, pas vrai ?
+<0218> \{\m{A}}「え…」;;;<0218> Eh...
+<0219> \{みちる}「…かくしてもダメだよ…」;;;<0219> ... Tu ne peux pas me le cacher...
+<0220> \{みちる}「みちるはね、美凪のこと…いつも見てるから」;;;<0220> Parce que moi, Minagi... Je la connais depuis toujours.
+<0221> \{\m{A}}「………」;;;<0221> .........
+<0222> \{\m{A}}「…そっか…そうだったよな」;;;<0222> ... Je vois... C'est vrai.
+<0223> くしゃっ、とみちるの頭を撫でてやる。;;;<0223> Je passai une main dans ses cheveux.
+<0224> \{みちる}「んに…」;;;<0224> Hmnni...
+<0225> みちるは、僅かに肩をすくめながらうなずく。;;;<0225> Elle laissa un peu tomber ses épaules et baissa la tête.
+<0226> 確かに、俺と遠野はみちるに家出のことを隠していた。;;;<0226> Il est vrai que Tohno et moi lui avions caché l'histoire de la fugue.
+<0227> 『みちるには、心配をかけたくない』;;;<0227> Je ne veux pas que Michiru se fasse du souci.
+<0228> それは、遠野のみちるに対する思いやりからだった。;;;<0228> Tohno avait décidé ainsi par égard pour Michiru.
+<0229> みちるにも遠野の思いが伝わっていたのだろう。;;;<0229> Comprenait-elle ce que Tohno ressentait ?
+<0230> 気づいていながらも、みちるは遠野の前で、そのことについて一切触れようとはしなかった。;;;<0230> Même si elle le ressentait, Michiru n'avait jamais vraiment abordé le sujet avec elle.
+<0231> そうすることが、二人の関係。二人の距離だった。;;;<0231> C'était ainsi que fonctionnait leur relation. C'était là la distance qui existait entre ces deux-là.
+<0232> 離れているからこそ触れ合うことができる、安らかな隙間。;;;<0232> C'était l'intervalle de tranquillité qui les éloignait pour leur permettre de mieux rester en contact.
+<0233> \{みちる}「でもね…」;;;<0233> Mais, en fait...
+<0234> と、みちるは言う。;;;<0234> repris Michiru.
+<0235> \{みちる}「みちるは、美凪が寂しそうにしてるのはイヤだよ」;;;<0235> Je ne veux surtout pas que Minagi se sente seule.
+<0236> きっ、と眉を上げて、意思を示す。;;;<0236> Elle haussa les sourcils pour montrer sa résolution.
+<0237> \{みちる}「あんな美凪を見るために、みちるはいたんじゃないもん」;;;<0237> Comme je n'étais pas là, je n'ai pas pu voir Minagi dans un tel état.
+<0238> \{\m{A}}「…っ」;;;<0238> ...!
+<0239> みちるの言葉が、不意に俺の思考を乱した。;;;<0239> Ses mots vinrent mettre le chaos dans mon esprit.
+<0240> それがなぜなのかは、すぐに答えが出ない。;;;<0240> Et je fus incapable d'expliquer pourquoi dans l'immédiat.
+<0241> 俺は、乱れた思考の整理もつかないまま、みちるを訝しげに見た。;;;<0241> Je la fixais, déconcerté, mes pensées encore en pagaille.
+<0242> \{みちる}「………」;;;<0242> .........
+<0243> …そして、ようやく思い至る。;;;<0243> ... Avant d'arriver enfin à mettre le doigt dessus :
+<0244> 俺の思考を乱したものの正体。;;;<0244> Sur la véritable nature de ce qui avait dérangé mes pensées.
+<0245> 『あんな美凪を見るために、みちるはいたんじゃないもん』;;;<0245> Comme je n'étais pas là, je n'ai pas pu voir Minagi dans un tel état.
+<0246> みちるは、確かにそう言った。;;;<0246> Michiru avait indéniablement prononcé ces mots.
+<0247> 『いる』ではなく、『いた』という過去形を使って。;;;<0247> Au lieu de dire 'suis', elle avait dit 'étais', au passé.
+<0248> …なぜだ？;;;<0248> ... Mais pourquoi ?
+<0249> みちるは、ここに『いる』のに…。;;;<0249> Alore qu'elle 'est' là...
+<0250> 今も、そして未来も、ここにいてくれるはずなのに…。;;;<0250> Au présent, et encore au futur, elle devrait rester là.
+<0251> 靄がかかる。;;;<0251> Une brume se formait.
+<0252> 優しいはずだった夏の記憶に、暗い夜闇のような靄がかかる。;;;<0252> Une brume sombre comme la nuit, venue envelopper ce qui auraient dû être de tendres souvenirs d'été.
+<0253> \{みちる}「…やっぱり…このままじゃダメだよ」;;;<0253> ... Je le savais... On ne peut pas continuer comme ça.
+<0254> \{みちる}「美凪は…もう夢からさめないといけないのに…」;;;<0254> Minagi... doit à tout prix émerger de son rêve...
+<0255> \{\m{A}}「…夢？」;;;<0255> ... De son rêve ?
+<0256> \{みちる}「うん…」;;;<0256> Oui...
+<0257> \{\m{A}}「それって…どういう意味だ」;;;<0257> Qu'est-ce que tu entends par... 'rêve' ?
+<0258> \{みちる}「…たぶん…\m{B}\m{A}が考えてるとおりだよ」;;;<0258> ... Probablement... Exactement ce à quoi tu penses.
+<0259> \{\m{A}}「考えてる通りって…おまえ…」;;;<0259> 'Ce à quoi je pense'... Tu...
+<0260> \{みちる}「………」;;;<0260> .........
+<0261> \{みちる}「…うん」;;;<0261> ... Oui.
+<0262> こくりと小さくうなずく。;;;<0262> Elle acquiesça d'un discret mouvement de tête.
+<0263> \{みちる}「ねえ…\m{B}\m{A}は…このままでいいと思ってる？」;;;<0263> Dis... \m{B}\m{A}... Tu penses qu'on peut continuer comme ça ?
+<0264> \{\m{A}}「え…」;;;<0264> Eh...
+<0265> \{みちる}「\m{B}\m{A}は…美凪になにをしてあげられる？」;;;<0265> \m{B}\m{A}, que peux-tu faire pour Minagi ?
+<0266> \{\m{A}}「…俺が？」;;;<0266> ... Moi ?
+<0267> \{みちる}「うん…」;;;<0267> Oui...
+<0268> \{\m{A}}「………」;;;<0268> .........
+<0269> 俺が、遠野にしてやれること…。;;;<0269> Ce que je pouvais faire pour Minagi...
+<0270> \{みちる}「…たぶんね…みちるはもうなにもしてあげられないから…」;;;<0270> ... Peut-être bien... que je ne peux plus rien faire pour elle...
+<0271> \{みちる}「だから…\m{B}\m{A}がしてあげられることをしてほしい」;;;<0271> C'est pourquoi... je souhaiterais que tu fasses quelque chose pour elle.
+<0272> その声は、優しさを滲ませながらも、黄昏の色をしていて…。;;;<0272> Sa voix débordante de douceur avait la couleur du crépuscule...
+<0273> まるで、別れの言葉のような色をしていて…。;;;<0273> C'est-à-dire la couleur des adieux...
+<0274> \{\m{A}}「みちる…」;;;<0274> Michiru...
+<0275> 俺は、指先を少女に向けて伸ばす。;;;<0275> Je tentai de la toucher du bout des doigts.
+<0276> でも…。;;;<0276> Mais...
+<0277> \{みちる}「みちるは、先にかえってるよ」;;;<0277> Quant à moi, je rentre.
+<0278> \{\m{A}}「え…」;;;<0278> Hein...?
+<0279> \{みちる}「んじゃあ、また後でね」;;;<0279> Allez, à la prochaine !
+<0280> 立ち上がり、ぱたぱたと駆けてゆく。;;;<0280> Elle se leva et décampa.
+<0281> 伸ばした指先を、少女が擦り抜けてゆく。;;;<0281> Elle glissa entre mes doigts tendus.
+<0282> \{\m{A}}「お、おい、待てよ、みちる」;;;<0282> H-Hé ! Attends, Michiru !
+<0283> \{みちる}「\m{B}\m{A}は、ゆっくりしてていいからねーっ」;;;<0283> \m{B}\m{A}, à partir de maintenant, prends ton temps, ok !?
+<0284> 遠くで振り返り、陽炎の中へと霞んでゆく。;;;<0284> Au loin, dans l'air trouble, elle s'était retournée.
+<0285> そして、見えなくなった。;;;<0285> Puis avait disparu.
+<0286> \{\m{A}}「…あいつ…」;;;<0286> ... Celle-là...
+<0287> 夏の陽射しの中に、一人取り残される。;;;<0287> Je me retrouvai seul dans la lumière du soleil.
+<0288> 真夏の暑気に熱くなった胸に、消えることのないしこりを残して…。;;;<0288> La chaleur de la mi-été avait laissé une cicatrice indélébile sur mon cœur ardent.
+<0289> \{\m{A}}「………」;;;<0289> .........
+<0290> \{声}「よお、\m{B}君じゃないか」;;;<0290> Yo ! Si ce n'est pas \m{B}-kun.
+<0291> \{\m{A}}「ん？」;;;<0291> Hmn ?
+<0292> 後ろから呼びかけてくる声。;;;<0292> J'entendis une voix derrière moi.
+<0293> 振り返ると、いつから俺の存在に気づいていたのか、聖が俺を見つめていた。;;;<0293> Je me retournai et vis Hijri. Allez savoir depuis combien de temps elle était là.
+<0294> \{聖}「どうした。今日も無駄な努力をしにきたのか？」;;;<0294> Qu'y a-t-il ? Tu es revenu t'efforcer de travailler en vain ?
+<0295> 挨拶代わりに、ひどいことを言われた。;;;<0295> En guise de salutation, elle m'adressa des remarques désobligeantes.
+<0296> \{\m{A}}「…いや。今日は芸をしにきたわけじゃない」;;;<0296> ... Nan... Aujourd'hui, je suis pas là pour mon numéro.
+<0297> \{聖}「ほぉ…ついに諦めたか」;;;<0297> Ooh... Tu as enfin abandonné ?
+<0298> \{\m{A}}「諦めてない。あまり、そういうことを楽しそうに言わないでくれ」;;;<0298> J'ai pas abandonné. Et j'apprécierais que tu ne dises pas ça d'un ton aussi joyeux.
+<0299> ため息を添える。;;;<0299> Je poussai un soupir.
+<0300> \{聖}「ん？どうした。元気がないな」;;;<0300> Hmn ? Qu'y a-t-il ? T'as pas l'air en forme.
+<0301> \{\m{A}}「そうか？」;;;<0301> Ah bon ?
+<0302> \{聖}「うむ。悩みがあるのなら、この綺麗なお姉さんに話してごらん」;;;<0302> Oui. Si tu as des ennuis, tu peux en parler à la jolie demoiselle devant toi.
+<0303> \{\m{A}}「………」;;;<0303> .........
+<0304> \{\m{A}}「……」;;;<0304> ......
+<0305> \{\m{A}}「…」;;;<0305> ...
+<0306> \{\m{A}}「はぁ…」;;;<0306> Haa...
+<0307> 呑気なもんだ、このお医者様は。;;;<0307> Quelle insouciante, cette docteure.
+<0308> \{聖}「…おい。なんだ、今のやたらとムカツク間とため息は」;;;<0308> ... Hé. Quoi encore ? C'est quoi cette longue pause et ce soupir ?
+<0309> \{\m{A}}「………」;;;<0309> .........
+<0310> やれやれと言わんばかりに、無言で首を振る。;;;<0310> Sans mot dire, je secouai la tête en guise de réponse.
+<0311> \{聖}「む…なんだ、そのひとを小馬鹿にしたような態度は」;;;<0311> Mu... Quoi ? C'est quoi ces manières ? Tu te moques de moi ?
+<0312> \{\m{A}}「馬鹿になんかしてないぞ」;;;<0312> Je ne me moque pass de toi.
+<0313> \{\m{A}}「本当に、うらやましいと思ってるからな」;;;<0313> Pour tout te dire, je crois que je suis juste jaloux.
+<0314> \{聖}「うらやましい？」;;;<0314> Jaloux ?
+<0315> \{\m{A}}「ああ」;;;<0315> Ouais.
+<0316> \{聖}「ふむ…」;;;<0316> Hmm...
+<0317> 左手をあごにあてて、何かを思案する。;;;<0317> Elle vint poser son menton sur sa main gauche, pensive.
+<0318> \{聖}「………」;;;<0318> .........
+<0319> \{聖}「…\m{B}君」;;;<0319> ... \m{B}-kun.
+<0320> \{\m{A}}「なんだ」;;;<0320> Quoi ?
+<0321> \{聖}「今、時間はあるか」;;;<0321> Tu as un peu de temps ?
+<0322> \{\m{A}}「ああ。なくはないが…」;;;<0322> Ouais. Je peux pas dire que j'en ai pas...
+<0323> \{聖}「そうか。なら、少しつき合ってくれ」;;;<0323> Je vois. Alors viens un peu avec moi.
+<0324> ぐいっ、と俺の腕を引っ張る。;;;<0324> Elle m'agrippa le bras.
+<0325> \{\m{A}}「こら、なにをする」;;;<0325> Hé ! Qu'est-ce que tu fiches ?
+<0326> \{聖}「ちょうど、これから茶を飲もうと思っていたところでな」;;;<0326> J'avais justement envie d'une tasse de thé.
+<0327> \{聖}「佳乃もいないし、一人だと味気ないんだ」;;;<0327> Kano n'est pas là, et le thé est moins bon quand on le boit seul.
+<0328> ずるずると、診療所の中へと引きずられてゆく。;;;<0328> Elle me traîna jusqu'à l'intérieur de la clinique.
+<0329> \{\m{A}}「悪いが、俺はそんな気分じゃない」;;;<0329> Désolé, mais je suis pas d'humeur pour ça.
+<0330> 足を踏ん張り、聖の手をふりほどく。;;;<0330> Je mis tout mon poids sur mes pieds pour l'arrêter, et dégageai ma main.
+<0331> \{\m{A}}「ったく…」;;;<0331> Franchement...
+<0332> ぽりぽりと頭を掻く。;;;<0332> Je me grattai l'arrière du ccrâne.
+<0333> \{聖}「………」;;;<0333> .........
+<0334> ぽかっ。\shake{1};;;<0334> \bPaf\u ! \shake{1}
+<0335> \{\m{A}}「いてっ」;;;<0335> Ouch !
+<0336> いきなり叩かれた。;;;<0336> Elle m'avait frappé sans crier gare.
+<0337> \{\m{A}}「こらっ、いきなり何をする」;;;<0337> Hé ! Qu'est-ce qui te prend tout à coup ?
+<0338> \{聖}「馬鹿者。この私が気を遣ってやってるんだ、素直に甘えろ」;;;<0338> Imbécile. Je fais ça pour toi, alors tiens-toi sage.
+<0339> 怒った顔をしているものの、聖の口調は柔らかかった。;;;<0339> Malgré ses traits énervés, son ton était plutôt doux.
+<0340> \{聖}「そんな顔をしていると、すぐに夏バテしてしまうぞ」;;;<0340> Tu vas faire une insolation si tu continues à faire une tête pareille.
+<0341> 手を伸ばし、俺の頬に触れる。;;;<0341> Elle avança une main pour venir me toucher la joue.
+<0342> \{\m{A}}「………」;;;<0342> .........
+<0343> \{聖}「ふ…」;;;<0343> Fu...
+<0344> \{聖}「ほら、いいからつきあえ」;;;<0344> Allez, t'as juste à rester.
+<0345> ぺしっ。;;;<0345> \bPaf\u !
+<0346> 軽く頬を叩き、再び俺の腕を引っ張る。;;;<0346> Elle me tapota doucement la joue, puis recommença à me tirer.
+<0347> \{\m{A}}「………」;;;<0347> .........
+<0348> \{\m{A}}「…わかったよ」;;;<0348> D'accord...
+<0349> 小さくうなずき、俺は聖とともに診療所の中へと入っていった。;;;<0349> Je hochai légèrement la tête et pénétrai avec elle dans la clinique.
+<0350> ………。;;;<0350> ..........
+<0351> ……。;;;<0351> .......
+<0352> …。;;;<0352> ....
+<0353> \{聖}「…ふむ…なるほどな」;;;<0353> ... Hmm... Je comprends.
+<0354> 窓の外から、夏の木漏れ日が室内に落ちていた。;;;<0354> La lumière estivale filtrée par les arbres pénétrait la pièce par la fenêtre.
+<0355> 真っ白な部屋。;;;<0355> Une pièce toute blanche.
+<0356> 微かに漂う消毒液の匂いが鼻先をかすめた。;;;<0356> Un parfum de solution antiseptique flottait dans les airs et me piquait le nez.
+<0357> \{聖}「と言うことは、あれか」;;;<0357> Donc, si j'ai bien compris...
+<0358> \{聖}「君は、遠野さんを家に帰してやりたいわけだな」;;;<0358> Ce que tu veux, c'est que Tohno-san rentre chez elle.
+<0359> 手にしていた茶を飲み干し、音をたてて湯飲みをおく。;;;<0359> Ayant fini d'en boire le contenu, je reposai la tasse à thé dans un petit bruit.
+<0360> \{\m{A}}「…どうだろうな」;;;<0360> ... Bonne question.
+<0361> \{\m{A}}「彼女にとって、何がいちばん良いことなのかはわからないからな」;;;<0361> C'est que je ne sais pas si c'est le mieux pour elle.
+<0362> \{聖}「ふむ…それはそうだな」;;;<0362> Hmm... Effectivement.
+<0363> \{\m{A}}「ああ」;;;<0363> Ouais.
+<0364> 俺は、聖に遠野のことを話した。;;;<0364> Hijiri et moi conversions au sujet de Tohno.
+<0365> べつに相談をしようと思ったわけじゃない。;;;<0365> Je n'avais pas particulièrement eu l'intention de la consulter.
+<0366> ただ、聖が遠野の母親と親しげに会話をしていたのを見て、何かを聞き出せると思えたからだった。;;;<0366> C'est juste qu'en voyant Hijiri échanger amicalement avec la mère de Tohno, j'avais pensé pouvoir gagner quelques informations auprès d'elle.
+<0367> \{\m{A}}「それにしても、世間ってのは狭いもんだな」;;;<0367> En tout cas, le monde est petit, hein.
+<0368> \{\m{A}}「あんたと遠野のおふくろさんが知り合いだなんて、なんか不思議な気分だ」;;;<0368> Je suis quand même étonné que tu connaisses la mère de Tohno.
+<0369> \{聖}「ふふ…まあ、小さな町だからな」;;;<0369> Fufu... Bah, c'est un petit village, après tout.
+<0370> \{聖}「それに、この町には私以外の医者がいないから、そういうつながりも多いさ」;;;<0370> De plus, comme il n'y a pas d'autre médecin dans le village, j'ai quelques relations.
+<0371> \{\m{A}}「なるほど」;;;<0371> Je vois.
+<0372> \{聖}「でも、私の方も意外だったぞ」;;;<0372> Enfin, c'est \btoi\u qui m'étonnes.
+<0373> \{\m{A}}「なにがだ」;;;<0373> Pourquoi ça ?
+<0374> \{聖}「ふふ…君が、遠野さんのためにそこまで必死になることが、だよ」;;;<0374> Fufu... Tu te donnes du mal pour Tohno-san, hein ?
+<0375> \{\m{A}}「………」;;;<0375> .........
+<0376> \{\m{A}}「…べつに、必死にはなってない」;;;<0376> ... Je me donne pas tant de mal.
+<0377> ぽかっ。\shake{1};;;<0377> \bPaf\u ! \shake{1}
+<0378> \{\m{A}}「いてっ」;;;<0378> Ouch !
+<0379> \{聖}「馬鹿者。照れることじゃないだろうが」;;;<0379> Imbécile. Tu n'as pas à en rougir.
+<0380> \{\m{A}}「照れてない。そんなにひとの頭をぽかぽか叩くな」;;;<0380> Je rougis pas. Et arrête de me cogner la tête.
+<0381> \{聖}「ふ…まあいい」;;;<0381> Fu... Ça ira comme ça.
+<0382> \{\m{A}}（…よくはない）;;;<0382> ... Non, ça va pas.
+<0383> \{聖}「で、君はどうしたいんだ」;;;<0383> Bref, que vas-tu faire ?
+<0384> \{\m{A}}「え…」;;;<0384> Hein...?
+<0385> \{聖}「呆けるな」;;;<0385> Joue pas à l'idiot.
+<0386> \{聖}「君が遠野さんに何をしてやりたいと思っているのか訊いてるんだ」;;;<0386> Je te demande ce que tu comptes faire pour Tohno-san.
+<0387> \{\m{A}}「俺が…遠野に？」;;;<0387> Ce que \bje\u compte faire pour Tohno ?
+<0388> \{聖}「ああ」;;;<0388> Ouais.
+<0389> \{\m{A}}「………」;;;<0389> .........
+<0390> 聖の言葉に、俺は考えを巡らした。;;;<0390> Je retournai les mots de Hijiri dans ma tête.
+<0391> 俺が遠野にしてやれること。;;;<0391> Ce que j'allais faire pour Tohno...
+<0392> そして…。;;;<0392> Quelques instants plsu tard...
+<0393> \{\m{A}}「…なあ、聖」;;;<0393> ... Dis, Hijiri.
+<0394> ぽかっ。\shake{1};;;<0394> \bPaf\u ! \shake{1}
+<0395> \{\m{A}}「いてっ」;;;<0395> Ouch !
+<0396> \{聖}「年上を呼び捨てにするな。聖さんと呼べ」;;;<0396> Respecte tes aînés. Appelle-moi Hijiri\b-san\u.
+<0397> \{\m{A}}「…なあ、聖さん」;;;<0397> ... Dis, Hijiri-san.
+<0398> \{聖}「なんだ、\m{A}ちゃん」;;;<0398> Que me veux-tu, \m{A}-chan ?
+<0399> \{\m{A}}「………」;;;<0399> .........
+<0400> \{聖}「軽口だ。笑え」;;;<0400> C'était une plaisanterie. Rigole.
+<0401> \{\m{A}}「笑えない」;;;<0401> Y a pas de quoi rigoler.
+<0402> \{聖}「む…そうか。場を和ませようと試みてみたんだが…」;;;<0402> Mu... Soit. J'essayais simplement de détendre l'atmosphère.
+<0403> \{\m{A}}「和ませなくてもいい」;;;<0403> Pas besoin de ça.
+<0404> \{\m{A}}「話し、続けるぞ」;;;<0404> Reprenons.
+<0405> \{聖}「…ああ」;;;<0405> ... Ok.
+<0406> 残念そうだ。;;;<0406> Elle avait l'air déçu.
+<0407> \{\m{A}}「実際のところ、遠野の母親って、どんな症状なんだ」;;;<0407> Je veux savoir quels sont exactement les symptômes de la mère de Tohno.
+<0408> \{聖}「…症状？」;;;<0408> ... Ses symptômes ?
+<0409> \{\m{A}}「俺にはよくわからないんだ」;;;<0409> Personnellement, je n'y comprends pas grand-chose.
+<0410> \{\m{A}}「心を病むってのが、いったいどんなものなのかがな」;;;<0410> Qu'est censé vouloir dire 'maladie de l'esprit' ?
+<0411> \{聖}「ふむ…」;;;<0411> Hmm...
+<0412> \{聖}「むずかしいところだな…」;;;<0412> C'est compliqué.
+<0413> \{聖}「一応。遠野さんの母上のことは把握してるつもりではあるが…」;;;<0413> En principe, je comprends plus ou moins la situation de la mère de Tohno-san, mais...
+<0414> \{聖}「なにせ、彼女が流産したとき、一番最初に往診したのは、うちの父だったからな」;;;<0414> Après tout, c'est mon père qui lui a fait sa première visite à domicile après qu'elle a eu sa fausse couche.
+<0415> \{\m{A}}「あんたの父親？」;;;<0415> Ton père ?
+<0416> \{聖}「ああ。だから、たびたび遠野さんから母上の健康については相談を受けていたんだ」;;;<0416> Ouais. C'est pour ça que Tohno-san venait me voir de temps en temps pour me consulter à propos de l'état de sa mère.
+<0417> \{\m{A}}「…そうだったのか」;;;<0417> C'était donc pour ça...
+<0418> \{聖}「ふふ…ますます世間ってのは狭いと思うだろ？」;;;<0418> Fufu... N'as-tu pas l'impression que le monde devient de plus en plus petit ?
+<0419> \{\m{A}}「まあな」;;;<0419> On peut dire ça.
+<0420> \{聖}「でな、その時、いちおう精神的な症状についても話を聞いたんだ」;;;<0420> Bref, quand elle venait me voir, c'était pour me parler de l'état psychologique de sa mère.
+<0421> \{聖}「だから、遠野さんがおかれている立場も、理解はしているつもりだぞ」;;;<0421> Et donc, je comprends plutôt bien la situation dans laquelle se trouve actuellement.
+<0422> \{\m{A}}「そっか。そこまで知ってるなら、話は早いな」;;;<0422> Je vois. Si tu sais tout ça, ce sera rapide.
+<0423> \{聖}「早い？何がだ？」;;;<0423> 'Rapide' ? De quoi tu parles ?
+<0424> \{\m{A}}「回りくどい言い方は性に合わないから、率直に訊くぞ」;;;<0424> J'aime pas tourner autour du pot, alors je vais être direct.
+<0425> \{聖}「あ、ああ」;;;<0425> O-Ok.
+<0426> \{\m{A}}「遠野の母親は、本当に娘のことを忘れてしまったのか？」;;;<0426> Est-ce que la mère de Tohno a vraiment oublié l'existence de sa fille ?
+<0427> \{聖}「え…」;;;<0427> Hein...?
+<0428> \{\m{A}}「母親ってのは、自分の腹を痛めて産んだ子供のことを、そう簡単に忘れてしまえるものなのか？」;;;<0428> Une mère peut-elle oublier si facilement l'enfant qu'elle a mis au monde après avoir tant souffert ?
+<0429> 言いながら、俺は遠野の悲しみを思った。;;;<0429> J'avais dit ça en pensant à la peine qu'endurait Tohno.
+<0430> 大切に思っていた母親に忘れられる悲しみ。;;;<0430> La peine d'être oubliée par la mère à laquelle elle tenait tant.
+<0431> 自分以外の者を演じることでしか愛されなかった永い悲しみ。;;;<0431> La peine de devoir prétendre être quelqu'un d'autre pour pouvoir être aimée.
+<0432> そして、夢から覚めた大切なひとに『あなた誰？』と言われた悲しみ。;;;<0432> La peine de se faire demander : 'qui es-tu' par un être cher.
+<0433> それは、俺なんかが考え及ぶものではないはずだ。;;;<0433> Je ne pouvais même pas commencer à me l'imaginer.
+<0434> でも…。;;;<0434> Cependant...
+<0435> \{\m{A}}「どうなんだ」;;;<0435> Alors ?
+<0436> 俺は、聖に答えをせまった。;;;<0436> J'insistai pour obtenir une réponse de Hijiri.
+<0437> 遠野の悲しみを、少しでもいいから共有できる存在になりたかった。;;;<0437> Je voulais que Tohno me partage ne fût-ce qu'une fraction de cette peine.
+<0438> 悲しみを引き受けられる、そんな関係になりたかった。;;;<0438> Je voulais devenir celui qui lui permettrait d'endurer cette peine.
+<0439> 俺は、遠野のために…。;;;<0439> Pour Tohno...
+<0440> そして、遠野のことを想う、みちるのために…。;;;<0440> Et pour Michiru, qui pense tant à Tohno...
+<0441> \{聖}「………」;;;<0441> .........
+<0442> \{聖}「ふ…そんな顔するな」;;;<0442> Fu... Ne tire pas une tête pareille.
+<0443> 笑みを浮かべながら、聖は俺の頭をくしゃ、と撫でた。;;;<0443> Hijiri sourit et me caressa doucement la tête.
+<0444> \{聖}「ひとの親が、そんな薄情なわけないだろ」;;;<0444> Un parent ne peut pas être aussi cruel.
+<0445> 優しさをにじませながら、聖が俺の髪を撫でる。;;;<0445> Elle me caressait les cheveux d'une manière pleine de gentillesse.
+<0446> \{\m{A}}「しかし…」;;;<0446> Mais...
+<0447> \{聖}「そう心配するな」;;;<0447> Tu ne devrais pas t'en faire autant.
+<0448> \{聖}「さっきな。私が、遠野さんの母上と、何を話していたと思う？」;;;<0448> À ton avis, de quoi la mère de Tohno-san et moi parlions-nous, tout à l'heure ?
+<0449> \{\m{A}}「…何って…」;;;<0449> ... Quoi...?
+<0450> \{聖}「ふふ…必死だったぞ、母上は」;;;<0450> Fufu... Elle était en panique.
+<0451> \{\m{A}}「え…」;;;<0451> Eh...
+<0452> \{聖}「家出してるんだろ、遠野さんは」;;;<0452> Tohno-san a fugué, non ?
+<0453> \{\m{A}}「あ、ああ」;;;<0453> O-Ouais.
+<0454> \{聖}「母上はな、何か大切なものをなくしてしまったそうだ」;;;<0454> Sa mère donnait tout à fait l'impression d'avoir perdu quelque chose de cher à ses yeux.
+<0455> \{\m{A}}「…大切なもの？」;;;<0455> ... Quelque chose de cher à ses yeux ?
+<0456> \{聖}「………」;;;<0456> .........
+<0457> こくり。;;;<0457> Elle hocha la tête.
+<0458> \{聖}「ま、そういうことだな」;;;<0458> Bah, tout est dit.
+<0459> ぽんっ、と聖が俺の頭を軽く叩く。;;;<0459> Elle me tapa doucement la tête.
+<0460> \{聖}「後は、君がしてやれることをすればいい」;;;<0460> Il ne te reste plus qu'à faire ce que tu peux faire.
+<0461> \{\m{A}}「俺が…してやれること…」;;;<0461> Ce que... je peux faire...
+<0462> \{聖}「そうだ。君がしてやれることだ」;;;<0462> Exactement. Ce que tu peux faire.
+<0463> \{聖}「いまできることを、できる形でしてやればいい」;;;<0463> Contente-toi de faire ce que tu peux faire, à ta manière.
+<0464> \{聖}「後悔なんて、するもんじゃないからな…」;;;<0464> N'aie pas à regretter de n'avoir rien fait...
+<0465> ………。;;;<0465> ..........
+<0466> ……。;;;<0466> .......
+<0467> …。;;;<0467> ....
+<0468> その日の夕方。;;;<0468> Le soir venu...
+<0469> 俺たちは遠野に連れられて、学校の屋上へ向かった。;;;<0469> Tohno nous emmena sur le toit de l'école.
+<0470> 陽は落ちていなかったけれど、もう学校にひとけはなかった。;;;<0470> Le soleil ne s'était pas encore couché, mais il n'y avait déjà plus le moindre signe de vie dans l'école.
+<0471> 屋上の鉄扉を開けると、陽に焼かれた足下から、じりじりと熱気が立ち上っているのが見えた。;;;<0471> En ouvrant la porte en fer qui donnait sur le toit, je pouvais presque voir l'air chaud se dégager du sol chauffé au soleil.
+<0472> いくつもの夏が、ゆらめき色褪せていくようだった。;;;<0472> Comme si plusieurs étés étaient en train de s'achever peu à peu.
+<0473> \{\m{A}}「…やっぱ、綺麗なもんだな」;;;<0473> ... Y a pas à dire, c'est magnifique.
+<0474> 俺は、どこまでも広がる赤い夕焼けを遠くに見ていた。;;;<0474> Je contemplais l'immensité cramoisie sdu crépuscule.
+<0475> \{美凪}「…そうですね…綺麗です」;;;<0475> ... Oui... C'est magnifique.
+<0476> 二人並んで風に吹かれた。;;;<0476> Nous nous tenions côte à côte, sentant le vent.
+<0477> 笛の音のような風を聴きながら、今日一日の出来事を夢見るように思い返していた。;;;<0477> Tout en écoutant la mélodie rappelant une flûte de celui-ci, je ressassais les événements de la journée.
+<0478> \{美凪}「…また鳥が飛んでますね」;;;<0478> ... Les oiseaux ont repris leur envol.
+<0479> 遠い海。;;;<0479> À la surface d'une mer tranquille où venait peu à peu mourir le vermeil du soir...
+<0480> 夕陽の赤が色を落とす穏やかな海の上を、彷徨うように飛ぶ鳥がいた。;;;<0480> Des oiseaux volaient comme s'ils erraient.
+<0481> あの日の夕暮れと同じ光景。;;;<0481> Le même tableau que ce soir-là.
+<0482> 居場所をなくして彷徨うしかない、飛ぶことを忘れた翼。;;;<0482> Des ailes qui avaient oublié comment voler, qui erraient sans savoir où elles se trouvaient.
+<0483> でも、決して目指すところを忘れたわけじゃない。;;;<0483> Mais elles ne perdraient jamais leur destination de vue.
+<0484> ただ、辿り着くことに躊躇っているだけで…。;;;<0484> C'est simplement qu'elles hésitaient à l'atteindre...
+<0485> \{\m{A}}「…ん？」;;;<0485> ... Hmn ?
+<0486> \{美凪}「…どうかしましたか？」;;;<0486> ... Quelque chose ne va pas ?
+<0487> ふと横を見て、みちるがいないことに気づく。;;;<0487> Je jetai un regard sur le côté et réalisai que Michiru ne s'y trouvait pas.
+<0488> \{\m{A}}「…みちる？」;;;<0488> ... Michiru ?
+<0489> \{みちる}「………」;;;<0489> .........
+<0490> 振り返ると、みちるは少し離れた場所から、遠野の姿を見つめていた。;;;<0490> Je me retournai et vis que Michiru était en retrait, regardant Tohno.
+<0491> \{美凪}「…どうしたの？」;;;<0491> ... Qu'y a-t-il ?
+<0492> 遠野が、優しく声をかける。;;;<0492> lui demanda Tohno d'une voix tendre.
+<0493> \{みちる}「…んに？」;;;<0493> ... Hmnni ?
+<0494> \{みちる}「ううん、なんでもないよ」;;;<0494> Rien, tout va bien.
+<0495> にゃはは、といつもの笑顔を見せながら、とことこと歩いてくる。;;;<0495> Elle nous offrit son 'nyahaha' habituel puis vint nous rejoindre en souriant.
+<0496> \{\m{A}}「………」;;;<0496> .........
+<0497> その姿は、見たことのある姿だった。;;;<0497> Je l'avais déjà vue dans cet état :
+<0498> 遠野が母親と歩く姿を、寂しそうに見つめていたときの姿。;;;<0498> Elle avait le même comportement que la fois où elle avait regardé la mère de Tohno d'un regard malheureux.
+<0499> そして今日、俺の隣で遠野の母親を見つめていた時の姿だった。;;;<0499> Et aujourd'hui encore, quand elle avait fixé la mère de Tohno, à côté de moi.
+<0500> \{\m{A}}「…どうかしたのか？」;;;<0500> ... Qu'est-ce qu'il y a ?
+<0501> 俺と遠野の間に立ったみちるの頭に手を乗せながら訊ねてみる。;;;<0501> l'interrogeai-je en posant une main sur sa tête alors qu'elle se trouvait entre Tohno et moi.
+<0502> \{みちる}「…ううん…なんでもない」;;;<0502> ... Rien... Rien du tout.
+<0503> みちるは、それだけしか言わなかった。;;;<0503> Elle n'ajoute rien.
+<0504> あのときと同じように、それだけしか言わなかった。;;;<0504> Comme l'autre fois, elle ne dit rien de plus.
+<0505> \{美凪}「………」;;;<0505> .........
+<0506> そんなみちるの姿を、遠野は悲しげな眼差しで見つめていた。;;;<0506> Elle contemplait Tohno de cet œil morne qu'elle m'avait déjà montré.
+<0507> そして…。;;;<0507> Un peu plus tard...
+<0508> \{美凪}「…ねえ…みちる」;;;<0508> ... Dis... Michiru.
+<0509> \{みちる}「…んに？」;;;<0509> ... Hmnni ?
+<0510> \{美凪}「…私の…せいかな」;;;<0510> ... Serait-ce... ma faute ?
+<0511> \{みちる}「えっ？なにが？」;;;<0511> Hein ?! De quoi tu parles ?
+<0512> \{美凪}「…みちるが…そんな顔をしている理由」;;;<0512> ... La raison... derrière cette expression sur ton visage.
+<0513> \{みちる}「んに…」;;;<0513> Hmnni...
+<0514> \{美凪}「………」;;;<0514> .........
+<0515> \{みちる}「………」;;;<0515> .........
+<0516> みちるは、何も答えなかった。;;;<0516> Michiru ne répondit rien.
+<0517> 否定も肯定もしない。;;;<0517> Ni déni, ni confirmation.
+<0518> ただ、うつむいて、目の前に広がる夕焼けから視線をそらすだけだった。;;;<0518> Elle se contenta de baisser la tête, détournant le regard du coucher de soleil qui s'étendait devant elle.
+<0519> \{美凪}「…そう…」;;;<0519> ... Je vois...
+<0520> 遠野は、みちるの沈黙を答えと受け取ったのか、みちるに向けていた眼差しを、空へと返した。;;;<0520> Acceptant son mutisme comme une réponse, Tohno retira son regard de Michiru pour aller le poser sur le ciel.
+<0521> 風の隙間を漂う沈黙の中に、三人は身をおく。;;;<0521> Un silence s'installait entre nous, là où passait le vent.
+<0522> 今日という日の終わりが、確実に近づいているのがわかった。;;;<0522> Nous savions que la fin de la journée approchait à grands pas.
+<0523> \{みちる}「…やっぱり…」;;;<0523> ... Comme si...
+<0524> \{みちる}「…やっぱりちがうよ…美凪…」;;;<0524> ... Comme si c'était ta faute... Minagi...
+<0525> みちるは、海を見つめていた。;;;<0525> Michiru se mit à regarder la mer.
+<0526> 穏やかな凪の中で、夕陽をその身に抱く海を見つめていた。;;;<0526> Elle fixait la calme étreinte de la mer sur le soleil couchant.*
+<0527> \{美凪}「…違う？」;;;<0527> ... Je me trompe ?
+<0528> \{みちる}「…うん」;;;<0528> ... Oui.
+<0529> \{美凪}「…何が…違うの？」;;;<0529> ... En quoi... est-ce que je me trompe ?
+<0530> \{みちる}「…ここは…」;;;<0530> ... Ce n'est pas ici...
+<0531> そこまで言って、みちるは一度口を噤んだ。;;;<0531> Ces mots prononcés, Michiru marqua une pause.
+<0532> ためらうように自分の足下を見つめ、ため息ともとれる息をはいた。;;;<0532> Elle regardait ses pieds en soupirant, hésitante.
+<0533> 小さく深呼吸をした後、次の言葉を紡ぎだす…。;;;<0533> Le temps de prendre une grande inspiration, elle reprit son discours :
+<0534> \{みちる}「…ここは…美凪の居場所じゃないよ」;;;<0534> ... Ce n'est pas ici... que tu as ta place, Minagi.
+<0535> \{美凪}「え…」;;;<0535> Eh...
+<0536> \{みちる}「美凪だって、わかってるんでしょ？」;;;<0536> Tu le savais déjà, non ?
+<0537> \{みちる}「ぜったい無理してるよ…」;;;<0537> Tu te forces beaucoup trop...
+<0538> \{美凪}「………」;;;<0538> .........
+<0539> \{美凪}「…無理なんて…」;;;<0539> ... Je ne me force pas...
+<0540> \{みちる}「だめだよっ、うそついたらっ」;;;<0540> Non ! Ne mens pas !
+<0541> みちるは、強い語調で遠野の言葉を制した。;;;<0541> Michiru interrompit Michiru d'un cri.
+<0542> \{みちる}「だって、美凪、さみしそうだもんっ」;;;<0542> C'est que tu as l'air si seule !
+<0543> \{みちる}「どんなにごまかしたって、みちるにはわかるんだもんっ」;;;<0543> Tu ne peux rien me cacher, je te connais trop bien pour ça !
+<0544> \{美凪}「…みちる…」;;;<0544> ... Michru...
+<0545> それは悲痛な声だった。;;;<0545> Sa voix débordait de chagrin.
+<0546> 少女は、小さな体全体で振り絞るように想いを言葉に変えて、叫んでいた。;;;<0546> La jeune fille s'efforçait à trouver des mots pour exprimer sa pensée et mettait tout son frêle corps pour les crier.
+<0547> \{みちる}「ずっと…ずっといっしょだったから、わかっちゃうんだもん」;;;<0547> Je le sais parce que nous avons toujours... toujours été ensemble.
+<0548> \{みちる}「みちるには…美凪のことがわかっちゃうんだもん…」;;;<0548> Je... Je te comprends mieux que quiconque...
+<0549> \{美凪}「………」;;;<0549> .........
+<0550> …想いは、どこまで届くことを許されているのだろうか。;;;<0550> ... Jusqu'où ces émotions arriveraient-elles ?
+<0551> 届けてあげたい想いは、力一杯伸ばした指先に、辿り着く先を見つけられるだろうか。;;;<0551> Ces sentiments qu'elle voulait transmettre, trouveront-ils leur destination au bout de ses doigts tendus de toutes ses forces ?
+<0552> \{みちる}「…んに…」;;;<0552> ... Hmnni...
+<0553> みちるは、目に浮かんだ涙を必死で堪えながら、遠野を見つめた。;;;<0553> Michiru regardait Tohno en luttant désespérément pour que ses larmes ne quittent pas ses yeux.
+<0554> 幼い瞳に精一杯の強さを秘めて、じっと見つめ続けた。;;;<0554> Elle continuait à la fixer de toute la force qu'elle pouvait rassembler derrière ses prunelles enfantines.
+<0555> 手を伸ばし、指先が何かに触れるまで、少女は言葉では足りない想いを瞳に宿し続けた。;;;<0555> Le bras en avant, les doigts tendus à la recherche d'une chose à toucher, gardant dans ses yeux les émotions qu'elle ne savait pas exprimer.
+<0556> \{みちる}「だめだよ美凪…」;;;<0556> C'est pas bien, Minagi...
+<0557> \{みちる}「さみしいときはさみしいってちゃんと言わないと…だめだよ…」;;;<0557> Quand tu te sens seule... Tu dois me le dire.
+<0558> \{美凪}「………」;;;<0558> .........
+<0559> \{みちる}「そうじゃないと…みちるだってかなしいよ…」;;;<0559> Sinon... Moi aussi, je vais me sentir seule.
+<0560> \{みちる}「みちるは…そんな美凪をみてるの…かなしいよ…」;;;<0560> Te voir comme ça... me fait tellement... de peine...
+<0561> \{美凪}「………」;;;<0561> .........
+<0562> \{美凪}「…みちる…」;;;<0562> ... Michiru...
+<0563> \{みちる}「…だから…ね？」;;;<0563> ... Donc... S'il te plait ?
+<0564> \{美凪}「………」;;;<0564> .........
+<0565> \{みちる}「………」;;;<0565> .........
+<0566> \{美凪}「………」;;;<0566> .........
+<0567> \{美凪}「…うん」;;;<0567> ... D'accord.
+<0568> \{美凪}「…ごめんね」;;;<0568> ... Je suis désolée.
+<0569> 柔らかな翼をひろげるように、遠野は夕映えにみちるを優しく抱きしめていた。;;;<0569> Tohno étreignit tendrement Michiru, donnant l'impression qu'elle déployait ses douces ailes dans la lumière du crépuscule.
+<0570> \{みちる}「…んに…」;;;<0570> ... Hmnni...
+<0571> みちるは、目に涙を浮かべながら、遠野の温もりを小さな体いっぱいに受け止めようとしていた。;;;<0571> Toujours la larme à l'œil, le petit corps de Michiru reçut toute la chaleur de Tohno.
+<0572> つながる想いが黄昏てゆく海にまで届いて、波は夕凪に優しげな顔を見せていた。;;;<0572> Les sentiments qui les unissaient atteignaient jusqu'à la mer au crépuscule où les vagues montraient leurs doux visages dans le calme du soir.*
+<0573> 想いを込めて伸ばした指先が辿り着いたのは、どこまでも広がり、やがて水平線の彼方で空と交わる海。;;;<0573> Ses doigts tendus, chargés d'émotions, touchaient jusqu'à l'horizon infini où celle-ci se joignait au ciel.
+<0574> \{\m{A}}「………」;;;<0574> .........
+<0575> 俺は、そんな二人の姿を、少しうらやましく思いながら見つめ続けた。;;;<0575> Je les contemplais, pris d'une certaine jalousie.
+<0576> そして、二人のために俺ができることを考えていた。;;;<0576> Avant de réfléchir à ce que je pouvais faire pour ces deux-là.
+<0577> 俺にできること。;;;<0577> Quelque chose à ma portée.
+<0578> そんなことは、深く考えるほどのことではない。;;;<0578> Il n'y avait pas lieu d'y réfléchir aussi fort.
+<0579> 限られたことしかできないけれど、俺にしかできないことは、確かにあった。;;;<0579> L'éventail de mes capacités avait beau être limité, il y avait indéniablement quelque chose que je pouvais faire pour elles.
+<0580> そして、俺はそれをしなければならない。;;;<0580> Et c'était quelque chose que je ne pouvais pas me permettre de ne pas faire.
+<0581> 二人のために。;;;<0581> Pour elles.
+<0582> 俺自身のために。;;;<0582> Pour moi-même.
+<0583> だから…。;;;<0583> C'est pourquoi...
+<0584> ………。;;;<0584> ..........
+<0585> ……。;;;<0585> .......
+<0586> …。;;;<0586> ....
+<0587> \{みちる}「…ねえ…\m{B}\m{A}…」;;;<0587> ... Dis... \m{B}\m{A}...
+<0588> 帰り道。;;;<0588> Sur la route du retour.
+<0589> 前を歩く遠野の後ろ姿を見つめながら、みちるが俺の服を引っ張った。;;;<0589> Alors qu'elle regardait Tohno qui marchait devant nous, Michiru tira sur mes habits.
+<0590> 小さな手のひらから、精一杯の想いが伝わってくる。;;;<0590> Ses sentiments étaient si intenses que je pouvais les sentir dans sa petite paume.
+<0591> \{\m{A}}「…わかってる」;;;<0591> ... Je sais.
+<0592> 俺は、みちるの想いに、そう答えた。;;;<0592> répondis-je à Michiru.
+<0593> \{みちる}「…うん」;;;<0593> ... Ok.
+<0594> みちるは、少しだけ微笑みながら、頷いた。;;;<0594> Michiru acquiesça, un sourire discret sur le visage.
+<0595> そして、呟くような声で…。;;;<0595> Et enfin, d'une voix très basse...
+<0596> \{みちる}「…あとのことは…\m{B}\m{A}にまかせるよ…」;;;<0596> ... Pour ce qui est du reste... La balle est dans ton camp...
+<0597> \{みちる}「…これで…やっと永かった夢は終わることができるから…」;;;<0597> ... Ainsi... Ce long rêve peut enfin prendre fin...
+<0598> ………。;;;<0598> ..........
+<0599> ……。;;;<0599> .......
+<0600> …。;;;<0600> ....
+<0601> 夜更け。;;;<0601> Tard dans la nuit.
+<0602> 俺と遠野は、二人でベンチに腰掛け、いつものように星空を眺めていた。;;;<0602> Tohno et moi nous assîmes sur le banc comme à notre habitude pour contempler les étoiles.
+<0603> 深くなった夜の闇の中、星々の瞬きはその輝きを増していた。;;;<0603> Leur éclat se faisait encore plus intense sur les profondes ténèbres de la nuit.
+<0604> 吸い込まれそうな夜の世界に、小さなため息を吐く。;;;<0604> Je lâchai un léger soupir au monde nocturne qui semblait vouloir m'aspirer.
+<0605> \{美凪}「…みちるに…無理をさせてしまいました」;;;<0605> ... Je lui en ai... trop demandé.
+<0606> 申し訳なさそうに呟く遠野の声を聞きながら、俺は自分の考えをまとめていた。;;;<0606> Tout en écoutant les murmures désolés de Michiru, j'essayais d'organiser ma pensée.
+<0607> 俺は、俺にできることをしなければならなかった。;;;<0607> Il y avait quelque chose que je pouvais faire pour elles et je ne pouvais pas me permettre de ne pas le faire.
+<0608> \{\m{A}}「…なあ、遠野」;;;<0608> ... Hé, Tohno.
+<0609> 穏やかな声で、俺は切り出す。;;;<0609> Je lançai la conversation d'une voix tranquille.
+<0610> \{美凪}「…はい」;;;<0610> ... Oui ?
+<0611> \{\m{A}}「俺な、この町を出ていくことにした」;;;<0611> J'ai décidé de quitter le village.
+<0612> \{美凪}「え…」;;;<0612> Eh...
+<0613> \{\m{A}}「いい加減、長居しすぎたからな」;;;<0613> Ça commence à faire trop longtemps que je suis ici.
+<0614> \{\m{A}}「そろそろ潮時だと思うんだ」;;;<0614> Je pense que le moment est venu.
+<0615> \{美凪}「………」;;;<0615> .........
+<0616> \{美凪}「…そう…」;;;<0616> ... Ah bon...
+<0617> とても悲しげに、遠野はうつむく。;;;<0617> Elle baissa la tête, visiblement déçue.
+<0618> \{美凪}「…あの…お金の方はどうされるんですか」;;;<0618> ... Pardon... Mais comment comptez-vous gagner votre vie ?
+<0619> \{美凪}「…少しでよろしければ…」;;;<0619> ... Si vous voulez bien patienter un instant...
+<0620> ごそごそとスカートのポケットを探る。;;;<0620> Elle commença à fouiller dans la poche de sa jupe.
+<0621> \{\m{A}}「いや、いい。何とかなるだろ」;;;<0621> Nan, t'embête pas. Je saurai bien me débrouiller
+<0622> 路銀を貸してくれようとする遠野の手を押さえる。;;;<0622> Je retins son bras qui s'apprêtait à extraire de quoi me payer le trajet.
+<0623> \{美凪}「…でも…」;;;<0623> ... Mais...
+<0624> \{\m{A}}「大丈夫だって。もともと、その気になればこの町を出られないってことはなかったんだ」;;;<0624> Tout se passera bien. En fait, depuis le début, rien ne me force à rester coincé dans ce village.
+<0625> \{\m{A}}「まあ、意地みたいなところもあってな。こいつで金が稼げるまで、この町は出たくなかっただけだ」;;;<0625> Bah, c'est juste mon côté têtu : je voulais pas partir avant d'avoir réussi à me faire des sous avec ce petit gars :
+<0626> 人形を取りだして、それを遠野に示す。;;;<0626> Je sortis ma marionnette pour la faire voir à Tohno.
+<0627> ついでに、人形に軽くお辞儀をさせると、遠野もなぜか人形に対して頭をぺこりと垂れた。;;;<0627> Allez savoir pourquoi, mais au moment où celle-ci tira sa révérence, Tohno lui répondit en inclinant la tête à son tour.
+<0628> \{\m{A}}「それでな。実は、おまえにお願いがあるんだ」;;;<0628> Alors, en fait, j'ai une faveur à te demander.
+<0629> \{美凪}「…私に？」;;;<0629> ... À \bme\u demander ?
+<0630> \{\m{A}}「ああ」;;;<0630> Ouais.
+<0631> \{美凪}「…私にできることなら…」;;;<0631> ... Si je peux faire quelque chose...
+<0632> \{\m{A}}「できるさ。簡単なことだからな」;;;<0632> Tu \bpeux\u le faire. Ce sera simple.
+<0633> \{美凪}「…簡単？」;;;<0633> ... 'Simple' ?
+<0634> \{\m{A}}「そう、簡単なことだ」;;;<0634> Ouaip. Rien de plus simple.
+<0635> \{\m{A}}「俺と一緒に、この町を出てくれたらいいだけだからな」;;;<0635> Tu as juste à partir du village avec moi.
+<0636> \{美凪}「え…」;;;<0636> Eh...
+<0637> \{\m{A}}「嫌か？」;;;<0637> Ça t'embête ?
+<0638> \{美凪}「…あの…意味がよくわからないのですが…」;;;<0638> ... Excusez-moi... Je ne comprends pas trop ce que vous voulez dire...
+<0639> \{\m{A}}「………」;;;<0639> .........
+<0640> \{\m{A}}「…おまえに、見せてやりたくてな」;;;<0640> ... Je veux te montrer une chose.
+<0641> \{美凪}「…何をですか」;;;<0641> ... Quelle chose ?
+<0642> \{\m{A}}「世界を」;;;<0642> Le monde.
+<0643> \{美凪}「…世界？」;;;<0643> ... Le monde ?
+<0644> \{\m{A}}「そうだ。夢なんかじゃない、本当の世界を見せてやるよ」;;;<0644> Exact. Pas en rêve, le \bvrai\u monde.
+<0645> \{\m{A}}「だから…」;;;<0645> C'est pourquoi...
+<0646> 俺は、遠野の細い指を固く握りしめた。;;;<0646> Je serrai fermement ses doigts fins.
+<0647> \{\m{A}}「一緒に行こうぜ。世界を見つけに」;;;<0647> Partons ensemble. Pour voir le monde.
+<0648> 遠野の目を見つめる。;;;<0648> Je la regardais dans les yeux.
+<0649> これが、俺にできることだった。;;;<0649> C'était là tout ce qui était en mon pouvoir.
+<0650> これしか、俺は遠野やみちるに対してしてやれることがなかった。;;;<0650> C'était là tout ce que je pouvais faire pour Tohno et Michiru.
+<0651> \{美凪}「………」;;;<0651> .........
+<0652> 遠野は、俺の目を見つめ返しながら、何も言わなかった。;;;<0652> Tohno me regarda dans les yeux à son tour, sans dire un mot.
+<0653> 夜虫たちの声を背景に、二人の間に永い沈黙があった。;;;<0653> Un interminable silence s'installait entre nous, les cris des insectes nocturnes comme toile de fond.
+<0654> そして…。;;;<0654> Et enfin...
+<0655> \{美凪}「…はい」;;;<0655> ... D'accord.
+<0656> 遠野は、夏の夜に静かな微笑みを浮かべた。;;;<0656> Dans la nuit d'été, un paisible sourire se dessina sur le visage de Tohno.
