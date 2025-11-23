@@ -1,6 +1,9 @@
-####### Patch français pour AIR - Version 0.1 #######
+####### Patch français pour AIR - Version 0 #######
 
 ##### Changelog #####
+
+# 23/11/2025 #
+Minagi, c'est traduit ♪, Michiru, c'est derrière nous ♫.
 
 # 13/10/2025 #
 La route de Kano est traduite ! Maintenant, c'est au tour de Minagi !
@@ -9,13 +12,12 @@ La route de Kano est traduite ! Maintenant, c'est au tour de Minagi !
 L'entièreté de la route commune a été traduite. Les routes de Kano et Minagi devraient suivre prochainement™.
 
 # 25/08/2025 #
-Le texte de la route de Misuzu est complètement traduit ! (les images arriveront bientôt™)
-Une première version du patch devrait bientôt être mise en ligne.
+Le texte de la route de Misuzu est complètement traduit !
 
 ##### Avancement #####
 
 ### Traduction Dialogues ###
-Scènes    : 49/81
+Scènes    : 59/81
 Relecture : 13/81
 
 ### Traduction Interface ###
@@ -34,7 +36,7 @@ Remplacement des images    : ko
 
 ##### Présentation #####
 
-Ce patch est une simple traduction de AIR Standard Edition (2005) de Key/Visual Arts en français. À terme, l'intégralité du jeu devrait être traduit.
+Ce patch est une simple traduction de AIR de Key/Visual Arts en français. Plus précisément, ce patch est destiné à AIR Standard Edition (2005).
 
 ##### Installation #####
 
