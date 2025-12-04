@@ -17,7 +17,7 @@ Le texte de la route de Misuzu est complètement traduit !
 ##### Avancement #####
 
 ### Traduction Dialogues ###
-Scènes    : 59/81
+Scènes    : 60/81
 Relecture : 13/81
 
 ### Traduction Interface ###
