@@ -2,6 +2,9 @@
 
 ##### Changelog #####
 
+# 31/12/2025 #
+L'année s'achève, et en ce début d'hiver, c'est la traduction de SUMMER qui touche à sa fin... C'est parti pour la dernière ligne droite.
+
 # 23/11/2025 #
 Minagi, c'est traduit ♪, Michiru, c'est derrière nous ♫.
 
@@ -17,7 +20,7 @@ Le texte de la route de Misuzu est complètement traduit !
 ##### Avancement #####
 
 ### Traduction Dialogues ###
-Scènes    : 62/81
+Scènes    : 63/81
 Relecture : 13/81
 
 ### Traduction Interface ###
@@ -36,11 +39,11 @@ Remplacement des images    : ko
 
 ##### Présentation #####
 
-Ce patch est une simple traduction de AIR de Key/Visual Arts en français. Plus précisément, ce patch est destiné à AIR Standard Edition (2005).
+Ce patch propse une traduction complète de AIR de Key/Visual Arts (2000) en français. Plus précisément, ce patch est destiné à 'AIR Standard Edition' (version PC 18+ de 2005).
 
 ##### Installation #####
 
-Il suffit de glisser-déposer l'ensemble des fichiers présents dans l'archive (TODO) à la racine du dossier d'installation du jeu (là où se trouvent Gameexe.ini, RealLive.exe et Seen.txt), et d'accepter quand on vous demande de remplacer certains fichiers. Si vous souhaitez pouvoir remettre votre jeu en japonais, faites une copie des fichiers concernés avant de les écraser.
+Il suffit de glisser-déposer l'ensemble des fichiers présents dans l'archive (TODO) à la racine du dossier d'installation du jeu (là où se trouvent Gameexe.ini, RealLive.exe et Seen.txt), et d'accepter quand on vous demande de remplacer certains fichiers. Si vous souhaitez pouvoir remettre votre jeu en japonais, faites une copie des fichiers concernés (TODO) avant de les écraser.
 
 ##### Contacts (priorité décroissante) #####
 Discord: pokroro_
