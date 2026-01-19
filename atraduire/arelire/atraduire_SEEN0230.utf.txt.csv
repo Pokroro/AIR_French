@@ -19,7 +19,7 @@
 <0018> \{\m{A}}「そうか…？」;;;<0018> Vraiment...?
 <0019> \{観鈴}「こうやってみて、こう」;;;<0019> Essaie de faire ça, comme ça.
 <0020> ボディビルダーの真似事をさせられる。;;;<0020> Elle me fit imiter un bodybuilder.
-<0021> \{観鈴}「かっこいい」;;;<0021> Tellement cool...
+<0021> \{観鈴}「かっこいい」;;;<0021> Trop cool...
 <0022> \{\m{A}}「マジか…」;;;<0022> Sérieux...?
 <0023> \{観鈴}「マジマジ」;;;<0023> Sérieux, sérieux.
 <0024> \{観鈴}「あ、洗濯機、もう回してたんだ。じゃ、洗ってくるね」;;;<0024> Ah, la machine à laver tourne déjà. Bon, ben je vais ajouter ça.
@@ -62,7 +62,7 @@
 <0061> \{\m{A}}（そろそろ還元しないとな…）;;;<0061> Il est temps que je retourne à mes racines...
 <0062> 庭では、洗い立ての洗濯物を観鈴が物干しに並べていた。;;;<0062> Misuzu était dans le jardin, en train de pendre le linge qui venait de sortir de la machine.
 <0063> \{\m{A}}「観鈴、俺のＴシャツをくれ」;;;<0063> Misuzu, rends-moi mon T-shirt.
-<0064> \{観鈴}「え？  まだ濡れてるよ」;;;<0064> Hein ? Mais il est encore mouillé.
+<0064> \{観鈴}「え？  まだ濡れてるよ」;;;<0064> Hein ? Mais il est encore tout mouillé.
 <0065> \{\m{A}}「構わない。外を歩いていればすぐに乾く」;;;<0065> Je m'en fiche. Si je sors me balader, il séchera.
 <0066> \{観鈴}「出かけるの？」;;;<0066> Tu sors ?
 <0067> \{\m{A}}「ああ」;;;<0067> Ouais.
@@ -78,7 +78,7 @@
 <0077> \{観鈴}「そんなぁ…気持ち悪いよ」;;;<0077> Mais c'est... crade.
 <0078> \{\m{A}}「だから構わないって言ってるだろ」;;;<0078> J'ai dit que je m'en fichais.
 <0079> \{観鈴}「聞き分けのない人だなぁ…」;;;<0079> Qu'est-ce que tu es borné...
-<0080> \{観鈴}「ちょっと待っててね」;;;<0080> Attends un peu.
+<0080> \{観鈴}「ちょっと待っててね」;;;<0080> Attends un instant.
 <0081> ………。;;;<0081> ..........
 <0082> \{観鈴}「はい」;;;<0082> Tiens.
 <0083> 手渡されたＴシャツを着る。;;;<0083> J'enfilai le T-shirt qu'elle m'avait remis.
@@ -89,7 +89,7 @@
 <0088> \{観鈴}「干からびないようにね」;;;<0088> Ça a l'air d'avoir séché un peu.
 <0089> \{\m{A}}「ああ」;;;<0089> Ouais.
 <0090> \{\m{A}}「じゃ、出かけてくる」;;;<0090> Allez, je sors.
-<0091> \{\m{A}}「無地のはないのか」;;;<0091> T'en as pas un qui est uni ?
+<0091> \{\m{A}}「無地のはないのか」;;;<0091> T'en as pas un d'uni ?
 <0092> \{観鈴}「お母さんのなら、あるかも」;;;<0092> Ma mère doit en avoir.
 <0093> \{\m{A}}「サイズは」;;;<0093> Quelle taille ?
 <0094> \{観鈴}「Ｌ、あると思う。だぼーってだらしなく着るの、お母さん好きだから」;;;<0094> Du L, je crois. Elle aime bien porter des habits assez larges.
@@ -129,7 +129,7 @@
 <0128> 観鈴は俺にＴシャツを渡すと、また庭に出てゆく。;;;<0128> Misuzu me tendit le T-shirt, puis repartit dans le jardin.
 <0129> さっそく着て、自分の姿を鏡に映しだしてみる。;;;<0129> Je l'enfilai sans attendre, puis me dévisageai dans un miroir.
 <0130> \{\m{A}}「………」;;;<0130> .........
-<0131> \{\m{A}}「ステゴザウルス…」;;;<0131> Un stégosaure...
+<0131> \{\m{A}}「ステゴザウルス…」;;;<0131> Stégosaure...
 <0132> \{\m{A}}「がお、がお…」;;;<0132> Gao, gao...
 <0133> \{\m{A}}「………」;;;<0133> .........
 <0134> なんと俺は、こういった可愛いものが似合わない顔をしているのだろう…。;;;<0134> À croire que mon visage jurait avec des choses aussi mignonnes...
@@ -169,7 +169,7 @@
 <0168> \{観鈴}「…ステゴザウルス、がおがお」;;;<0168> ... Stégosaure, gao gao.
 <0169> \{\m{A}}「脱ぐ」;;;<0169> J'l'enlève.
 <0170> \{観鈴}「がおがおしてないよっ。がおがおしてないっ」;;;<0170> Pas gao gao ! Pas gao gao !
-<0171> \{\m{A}}「がおがおしてるじゃないか…思いっきり…」;;;<0171> Ça m'a l'air sacrément gao gao... tout ça...
+<0171> \{\m{A}}「がおがおしてるじゃないか…思いっきり…」;;;<0171> Ça m'a l'air sacrément gao gao tout ça...
 <0172> \{\m{A}}「はぁ…もうどうでもいい」;;;<0172> Haa... Bah, peu importe.
 <0173> \{\m{A}}「…出かけてくる」;;;<0173> ... Je sors.
 <0174> \{観鈴}「お昼食べてからにすればいいのに」;;;<0174> Tu devrais déjeuner d'abord.

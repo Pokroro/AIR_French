@@ -19,14 +19,14 @@
 <0018> \{\m{A}}「ハングリーだった頃を思い出すな…」;;;<0018> Ça me rappelle toutes les fois où j'ai crevé de faim...
 <0019> きゅぽっと、キャップを指でねじ込んで、飲む。;;;<0019> Je fis sauter le bouchon avec d'un doigt, et bus.
 <0020> ごきゅごきゅ…;;;<0020> \bGlou glou\u...
-<0021> \{\m{A}}「今も十分ハングリーか…」;;;<0021> C'est pas comme si je ne mourais pas de faim, là...
+<0021> \{\m{A}}「今も十分ハングリーか…」;;;<0021> C'est pas comme si je mourais pas de faim, encore maintenant...
 <0022> がちゃり。;;;<0022> \bClac\u.
 <0023> 玄関のドアが開いた。;;;<0023> Une porte d'entrée s'ouvrit.
 <0024> \{主婦}「あ…」;;;<0024> Ah...
 <0025> その家主と目が合う。;;;<0025> Le regard de la propriétaire croisa le mien.
-<0026> \{主婦}「牛乳泥棒ーっ！」;;;<0026> Au voleur ! Mon lait !!
+<0026> \{主婦}「牛乳泥棒ーっ！」;;;<0026> Mon lait ! Au voleur !!
 <0027> 大声をあげられる。;;;<0027> hurla-t-elle.
-<0028> \{\m{A}}「え…これか？」;;;<0028> Hein... ça ?
+<0028> \{\m{A}}「え…これか？」;;;<0028> Hein...? C'est de ça que vous parlez ?
 <0029> 相手に俺のそぼくな疑問に答える余裕などないようだった。;;;<0029> Mon interlocutrice avait l'air d'avoir autre chose à faire que répondre à ma question.
 <0030> 俺はただちに身を翻し、逃げることにする。;;;<0030> Je fis volte-face, et m'enfuis.
 <0031> \{\m{A}}（うーむ、しまった…）;;;<0031> Hmm... Oups.
@@ -53,18 +53,18 @@
 <0052> \{観鈴}「あ、\m{A}さん、おはよー」;;;<0052> Ah, \m{A}-san, salut—.
 <0053> 廊下から観鈴が現れる。;;;<0053> Misuzu surgit du couloir.
 <0054> \{\m{A}}「寝坊か？」;;;<0054> T'as fait la grasse matinée ?
-<0055> \{観鈴}「ううん、河原崎さんの家でなんか、泥棒だって」;;;<0055> C'est pas ça, c'est que Kawarazaki-san s'est fait cambrioler par quelqu'un.
+<0055> \{観鈴}「ううん、河原崎さんの家でなんか、泥棒だって」;;;<0055> C'est pas ça, c'est que Kawarazaki-san a eu affaire à un cambrioleur, ou quelque chose comme ça.
 <0056> ぎく…;;;<0056> \bGloups\u...
-<0057> \{観鈴}「牛乳盗まれたって」;;;<0057> On a volé leur lait.
+<0057> \{観鈴}「牛乳盗まれたって」;;;<0057> On a volé son lait.
 <0058> 俺は後ろを向く。;;;<0058> Je lui tournai le dos.
-<0059> \{観鈴}「若くて長身のとっぽい兄ちゃんだって」;;;<0059> Elle a dit que c'était un grand jeune homme impertinent.
+<0059> \{観鈴}「若くて長身のとっぽい兄ちゃんだって」;;;<0059> On dit que c'était un grand jeune homme impertinent.
 <0060> \{観鈴}「\m{A}さん、こっち向いて欲しいな」;;;<0060> \m{A}-san, tu peux te tourner par ici un instant ?
 <0061> \{\m{A}}「どうして」;;;<0061> Pour quoi faire ?
 <0062> \{観鈴}「納屋でちゃんと寝られたかなって。目の下にくまできてないか見る」;;;<0062> Je veux m'assurer que tu as bien dormi dans la remise, et que tu n'as pas de cernes sous les yeux.
 <0063> \{\m{A}}「快眠だったぞ。灯油缶がいい抱き枕になるんだ」;;;<0063> J'ai dormi comme un loir. Un jerrican d'essence fait un super polochon, tu sais.
 <0064> \{\m{A}}「寝返り打つと、ベコボコいうけどな」;;;<0064> Mais il fait 'pop' à chaque fois que je me retourne dans mon sommeil.
 <0065> \{観鈴}「いいからこっち向くの」;;;<0065> Peu importe. Tourne-toi vers moi.
-<0066> \{\m{A}}「ああ…」;;;<0066> Ouais...
+<0066> \{\m{A}}「ああ…」;;;<0066> Ok...
 <0067> 俺は観鈴に向き直る。;;;<0067> Je me tournai vers Misuzu.
 <0068> 無表情は得意だ。俺の嘘は見抜けまい。;;;<0068> J'avais un talent pour faire semblant de rien. Personne ne pouvait déceler quand je mentais.
 <0069> 観鈴が指を伸ばしてくる。;;;<0069> Misuzu tendit un doigt dans ma direction.
@@ -78,7 +78,7 @@
 <0077> \{観鈴}「牛乳」;;;<0077> Du lait.
 <0078> \{観鈴}「だって牛乳の味したもの」;;;<0078> Parce que ça a le goût du lait.
 <0079> \{\m{A}}「乳製の髭なんだ」;;;<0079> Juste une moustache faite de lait.
-<0080> \{観鈴}「それって、牛乳って言ってるのと同じ」;;;<0080> Ce qui revient donc à dire que c'est du lait.
+<0080> \{観鈴}「それって、牛乳って言ってるのと同じ」;;;<0080> Ce qui revient à dire que c'est du lait.
 <0081> \{\m{A}}「………」;;;<0081> .........
 <0082> \{観鈴}「謝りにいこっ」;;;<0082> Allons nous excuser.
 <0083> 俺の腕を引っ張る。;;;<0083> Elle me tira par le bras.
@@ -124,10 +124,10 @@
 <0123> \{\m{A}}「とにかく、朝飯食おうぜ。腹が減って、ぶっ倒れそうだ」;;;<0123> Quoi qu'il en soit, allons déjeuner. Je crève tellement de faim que j'vais finir par clamser ici.
 <0124> \{観鈴}「今朝は、朝食抜き」;;;<0124> Pas de petit-déjeuner pour toi ce matin.
 <0125> \{\m{A}}「………」;;;<0125> .........
-<0126> \{\m{A}}「冗談はよせ、神尾さんちの観鈴ちゃん」;;;<0126> Arrête les vannes, Misuzu-chan de chez les Kamio.
+<0126> \{\m{A}}「冗談はよせ、神尾さんちの観鈴ちゃん」;;;<0126> Arrête les vannes, Misuzu-chan-de-chez-les-Kamio.
 <0127> \{観鈴}「だって、もう時間ない」;;;<0127> Mais c'est que je n'ai pas le temps.
 <0128> \{\m{A}}「今日から夏休みだろ？」;;;<0128> C'est pas aujourd'hui que commencent tes vacances d'été ?
-<0129> \{観鈴}「うん、夏休み」;;;<0129> Oui, c'est les vacances d'été.
+<0129> \{観鈴}「うん、夏休み」;;;<0129> Oui, c'est les vacances d'été...
 <0130> \{観鈴}「だけど、補習あるの」;;;<0130> Mais j'ai des cours de soutien.
 <0131> \{\m{A}}「補習…？」;;;<0131> De soutien...?
 <0132> \{観鈴}「遅刻多いし、成績もよくないしね」;;;<0132> C'est que j'arrive souvent en retard, et mes notes ne sont pas bonnes.
@@ -140,19 +140,19 @@
 <0139> 観鈴が俺の腕を引っ張る。;;;<0139> Misuzu me tira par le bras.
 <0140> 今朝から、ずっと引っ張られているような気がする。;;;<0140> J'avais l'impression d'avoir passé la matinée à me faire traîner comme ça.
 <0141> \{\m{A}}「腹へった…」;;;<0141> Je crève de faim...
-<0142> \{観鈴}「はいはい、歩いて歩いて」;;;<0142> Oui, oui. Marche, marche.
+<0142> \{観鈴}「はいはい、歩いて歩いて」;;;<0142> Oui, oui. Allez, marche.
 <0143> \{\m{A}}「うぉぉ…」;;;<0143> Oooh...
 <0144> 全身全霊を込めて、一歩一歩を踏み出す。;;;<0144> J'avançais lentement, chaque pas me demandait toute mon énergie.
 <0145> \{観鈴}「ついたっ」;;;<0145> On y est !
 <0146> \{\m{A}}「この店か…」;;;<0146> Ce magasin...
-<0147> \{観鈴}「うん。武田商店。パンや駄菓子、なわとびまで売ってる」;;;<0147> Oui. Le Magasin Takeda. On peut y trouver du pain, des dagashi, et même des cordes à sauter.
+<0147> \{観鈴}「うん。武田商店。パンや駄菓子、なわとびまで売ってる」;;;<0147> Oui. C'est le Magasin Takeda. On peut y trouver du pain, des dagashi, et même des cordes à sauter.
 <0148> \{観鈴}「なにが欲しい？」;;;<0148> Qu'est-ce que tu veux ?
 <0149> パン;;;<0149> Du pain
 <0150> 駄菓子;;;<0150> Des dagashi
 <0151> なわとび;;;<0151> Une corde à sauter
 <0152> \{\m{A}}「パン」;;;<0152> Du pain.
 <0153> \{観鈴}「だよね。パンぐらいがいいよね」;;;<0153> C'est ce que je me disais aussi. Du pain, c'est ce qu'il te faut.
-<0154> \{観鈴}「買ってくるねー」;;;<0154> Je vais aller en acheter.
+<0154> \{観鈴}「買ってくるねー」;;;<0154> Je vais aller en acheter—.
 <0155> ぱたぱたと駆けていった。;;;<0155> Elle détalla.
 <0156> ………。;;;<0156> ..........
 <0157> …\m{A}さんっ。;;;<0157> ... \m{A}-san !
@@ -160,7 +160,7 @@
 <0159> \{\m{A}}「おっと…あまりの空腹に一瞬、気を失っていた」;;;<0159> Oups... Mon ventre est tellement vide que j'ai perdu connaissance pendant un instant.
 <0160> \{観鈴}「おおげさ」;;;<0160> Comme si.
 <0161> 半分マジだったが…。;;;<0161> C'était à moitié la vérité...
-<0162> \{観鈴}「えっと、イチゴメロンパンで良かったかな」;;;<0162> Euh, est-ce qu'un pain melon à la fraise ça t'ira ?
+<0162> \{観鈴}「えっと、イチゴメロンパンで良かったかな」;;;<0162> Euh, est-ce qu'un pain-melon à la fraise ça t'ira ?
 <0163> \{\m{A}}「ああ、なんでもいい」;;;<0163> Ouais, n'importe quoi.
 <0164> 俺は受け取り、その場で封を破り、口にくわえる。;;;<0164> J'acceptai le pain, déchirai son emballage, et l'apportai à ma bouche.
 <0165> …甘い。;;;<0165> ... Sucré.
@@ -170,7 +170,7 @@
 <0169> \{観鈴}「わ、詰まった？  はい、飲み物っ」;;;<0169> Wah, ça s'est coincé ? Tiens, à boire !
 <0170> 紙パックのジュースを受け取る。;;;<0170> Elle me passa une brique de jus de fruit.
 <0171> ラベルには『どろり濃厚ストロベリー味』。;;;<0171> L'emballage indiquait : 'Épaisseur extrême - saveur fraise'.
-<0172> \{\m{A}}「余計、詰まるだろっ！」;;;<0172> Ça va juste coincer encore plus !!
+<0172> \{\m{A}}「余計、詰まるだろっ！」;;;<0172> Ça va juste tout boucher !!
 <0173> \{観鈴}「イチゴにイチゴを合わせてみましたー」;;;<0173> Comme ça, ça fera fraise avec fraise—.
 <0174> \{\m{A}}「合わせるなっ！」;;;<0174> Pas besoin de ça !
 <0175> \{\m{A}}「ひくっ！」;;;<0175> Hic !!
@@ -213,7 +213,7 @@
 <0212> \{\m{A}}「なにやってんだ、俺は…」;;;<0212> Qu'est-ce que je fiche, moi...?
 <0213> \{観鈴}「買ってきたよ」;;;<0213> J'en ai achetés.
 <0214> ようやく観鈴が戻ってくる。;;;<0214> Misuzu revint enfin.
-<0215> \{\m{A}}「待ちくたびれたぞ…」;;;<0215> Je n'en pouvais plus d'attendre...
+<0215> \{\m{A}}「待ちくたびれたぞ…」;;;<0215> J'en pouvais plus d'attendre...
 <0216> \{観鈴}「これでも急いで買ってきたよ。わたしも時間ないし」;;;<0216> J'ai dû me dépêcher de les acheter pour ne pas perdre plus de temps.
 <0217> \{\m{A}}「そっか…」;;;<0217> Je vois...
 <0218> \{\m{A}}「って、なんだこりゃ」;;;<0218> Hé, c'est quoi, ce truc ?
@@ -222,7 +222,7 @@
 <0221> \{\m{A}}「飴じゃ、腹に貯まらんだろ…」;;;<0221> C'est pas avec des bonbons que je vais me remplir le ventre...
 <0222> \{観鈴}「そっか。じゃあ、これ」;;;<0222> Ah bon. Alors, tiens, ça.
 <0223> 次に手渡されたもの。１００円玉の形をした薄っぺらいお菓子。;;;<0223> Ensuite, elle me passa une sucrerie toute plate qui ressemblait à un billet de 100 yens.
-<0224> \{観鈴}「それチョコレート。当たりが出たら、本当に１００円もらえる」;;;<0224> C'est du chocolat. Si tu as de la chance, tu pourras vraiment gagner 100 yens.
+<0224> \{観鈴}「それチョコレート。当たりが出たら、本当に１００円もらえる」;;;<0224> C'est du chocolat. Si tu as de la chance, tu pourras vraiment 100 yens pour de vrai.
 <0225> \{\m{A}}「んなものより、もっとでかい食い物が欲しい」;;;<0225> Je voudrais quelque chose de plus consistant que ça.
 <0226> \{観鈴}「うーん…最後にこれ」;;;<0226> Hmm... celui-ci alors, c'est le dernier.
 <0227> 最後に渡されたものは、ピストルだった。;;;<0227> Elle me le tendit, c'était un pistolet.
@@ -250,8 +250,8 @@
 <0249> \{\m{A}}「だから、頼む…もっとマシなものを買ってきてくれないか…」;;;<0249> Et donc, je t'en supplie... tu ne peux pas aller m'acheter quelque chose de plus consistant...?
 <0250> \{観鈴}「\m{A}さん、すごく苦しそう」;;;<0250> Tu as l'air misérable, \m{A}-san.
 <0251> \{\m{A}}「大丈夫だから、行ってきてくれ」;;;<0251> Je vais m'en sortir, dépêche-toi.
-<0252> \{観鈴}「うん、もう少しがまんしててねー」;;;<0252> Ok, patiente encore un tout petit peu, d'accord ?
-<0253> 観鈴は再び走っていった。;;;<0253> Misuzu se mit une seconde fois à courir.
+<0252> \{観鈴}「うん、もう少しがまんしててねー」;;;<0252> Ok, patiente encore un tout petit peu, d'accord— ?
+<0253> 観鈴は再び走っていった。;;;<0253> Misuzu partit de nouveau en courant.
 <0254> \{\m{A}}（ほんと…なにやってんだよ、俺は…）;;;<0254> Mais vraiment... Qu'est-ce que je fiche, moi...
 <0255> そして、今日も遅刻だった。;;;<0255> Et elle finit par être encore en retard.
 <0256> \{観鈴}「うーん…残念」;;;<0256> Hmm... c'est dommage.
@@ -265,7 +265,7 @@
 <0264> \{観鈴}「はい、なわとび」;;;<0264> Tiens, une corde à sauter.
 <0265> 本当に戻ってきた観鈴の手にはなわとびが握られていた。;;;<0265> Elle revint réellement avec une corde à sauter dans les mains.
 <0266> \{\m{A}}「………」;;;<0266> .........
-<0267> \{\m{A}}「おまえさ…冗談だとは思わなかったのか」;;;<0267> Toi, là... Tu ne t'es jamais dite que c'était peut-être une blague ?
+<0267> \{\m{A}}「おまえさ…冗談だとは思わなかったのか」;;;<0267> Toi, là... Tu ne t'es jamais dit que c'était peut-être une blague ?
 <0268> \{観鈴}「え？  冗談だったの？」;;;<0268> Eh ? C'était une blague.
 <0269> \{\m{A}}「だって、よく思い出せよな。家を出るところからの俺とおまえのやり取りを」;;;<0269> Non mais, réfléchis un peu. Rappelle-toi de ce que je t'ai dit en sortant de la maison.
 <0270> \{\m{A}}「どこに、なわとびをせがむ俺が出てきた？」;;;<0270> À quel moment j'ai mentionné une corde à sauter ?
@@ -286,7 +286,7 @@
 <0285> \{\m{A}}「だから、頼む…もっとマシなものを買ってきてくれないか…」;;;<0285> Et donc, je t'en supplie... Tu ne peux pas aller m'acheter quelque chose de plus consistant...?
 <0286> \{観鈴}「\m{A}さん、すごく苦しそう」;;;<0286> Tu as l'air misérable, \m{A}-san.
 <0287> \{\m{A}}「大丈夫だから、行ってきてくれ」;;;<0287> Je vais m'en sortir, dépêche-toi.
-<0288> \{観鈴}「うん、もう少しがまんしててねー」;;;<0288> Ok, patiente encore un tout petit peu.
+<0288> \{観鈴}「うん、もう少しがまんしててねー」;;;<0288> Ok, patiente encore un tout petit peu, d'accord— ?
 <0289> 観鈴は再び走っていった。;;;<0289> Misuzu se mit une seconde fois à courir.
 <0290> \{\m{A}}「ふぅ…」;;;<0290> Fiou...
 <0291> \{\m{A}}（ほんと…なにやってんだよ、俺は…）;;;<0291> Non mais vraiment, qu'est-ce que je fiche, moi ?
@@ -298,8 +298,8 @@
 <0297> \{\m{A}}「どうするんだ」;;;<0297> On fait quoi, maintenant ?
 <0298> \{観鈴}「一時間、ここで潰す」;;;<0298> On tue le temps ici pendant une heure.
 <0299> \{観鈴}「それで、休み時間に入っていって、あたかも一時間目からいました～って顔して座ってるの」;;;<0299> Et après ça, je me faufile pendant l'intercours l'air de rien, en faisant comme si j'étais déjà là depuis la première période.
-<0300> \{観鈴}「それ、わたしの必殺技」;;;<0300> Ça, c'est ma botte secrète.
-<0301> \{\m{A}}「バレバレだろ」;;;<0301> Tu vas juste te faire chopper.
+<0300> \{観鈴}「それ、わたしの必殺技」;;;<0300> C'est ma technique secrète.
+<0301> \{\m{A}}「バレバレだろ」;;;<0301> Tu vas te faire choper.
 <0302> \{観鈴}「わたし、存在感ないから、みんな気にも留めないの」;;;<0302> Je ne suis pas du genre à attirer l'attention, personne ne fera attention à moi.
 <0303> 言って、堤防に登り、そして風をその体に受けた。;;;<0303> répondit-elle avant de monter sur la digue et de laisser son corps sentir le vent.
 <0304> 毎日のようにこいつは遅刻し続けて、そして、ここでこうしてひとり風を受けていた。;;;<0304> Comme tous les jours, elle était arrivée en retard puis était venue ici pour sentir le vent.
@@ -807,17 +807,17 @@
 <0806> ぽむっ！\shake{1};;;<0806> \bBam\u !! \shake{1}
 <0807> 突然現れた真っ黒なタイヤが、人形を空の彼方へと葬り去っていた。;;;<0807> Tout d'un coup, un pneu noir surgit de nulle part et envoya valser ma marionnette vers un monde meilleur.
 <0808> \{\m{A}}「………」;;;<0808> .........
-<0809> じーこじーこ…;;;<0809> Les oiseaux gazouillaient...
-<0810> みんみんみんみん…;;;<0810> Les cigales chantaient...
+<0809> じーこじーこ…;;;<0809> Les oiseaux gazouillent...
+<0810> みんみんみんみん…;;;<0810> Les cigales chantent...
 <0811> 空は青く澄み渡っている。;;;<0811> Pas un nuage à l'horizon.
 <0812> \{\m{A}}「そうだ。ラーメンセットを食いにいこう」;;;<0812> Je sais. Allons manger un rāmen.
 <0813> 俺は歩き出す。;;;<0813> Je me mis en marche.
 <0814> \{\m{A}}「………」;;;<0814> .........
 <0815> \{\m{A}}「ちがうっ…こら、誰だ！」;;;<0815> Ou plutôt... Hé, qui a fait ça ?!
 <0816> バイクが目の前で停まっていた。;;;<0816> Une moto était arrêtée juste devant moi.
-<0817> \{声}「ん…？  なんか、跳ねてもたなぁ」;;;<0817> Hmn...? Je crois que j'ai touché quelque chose.
+<0817> \{声}「ん…？  なんか、跳ねてもたなぁ」;;;<0817> Hmn...? Je crois que j'ai touché un truc.
 <0818> ライダーがヘルメットを取る。;;;<0818> La motarde retira son casque.
-<0819> \{晴子}「ごっつ軽かったし。別に気にせんでええかな～」;;;<0819> Bah, c'était quelque chose de léger. Pas besoin de s'inquiéter~.
+<0819> \{晴子}「ごっつ軽かったし。別に気にせんでええかな～」;;;<0819> Bah, c'était léger. Pas besoin de s'inquiéter~.
 <0820> \{\m{A}}「………」;;;<0820> .........
 <0821> \{晴子}「あ、あんた、おったんかいな」;;;<0821> Ah, t'es là, toi ?
 <0822> \{\m{A}}「………」;;;<0822> .........
@@ -844,7 +844,7 @@
 <0843> \{\m{A}}「ウッハウハ…」;;;<0843> Uhha-uha...
 <0844> \{晴子}「っと…時間ごっつやばいわ…」;;;<0844> Mince... j'ai plus l'temps...
 <0845> \{晴子}「うち、急いどるから。ほな、また」;;;<0845> Faut que j'me dépêche. Allez, à plus.
-<0846> メットをかぶり直すと、勢いよく発進する。;;;<0846> Elle remit son casque, puis repartit pleins gaz.
+<0846> メットをかぶり直すと、勢いよく発進する。;;;<0846> Elle remit son casque, puis repartit plein gaz.
 <0847> ぶろろろろろろろ…！！;;;<0847> \bVroooooooum\u... !!
 <0848> 田舎の情景をぶち壊しにしながら、エンジン音が遠ざかっていった。;;;<0848> Les bruits de moteur qui ruinaient ce tableau champêtre moururent au loin.
 <0849> そんなことで涼しくなるなら、こんなに文明は発達していなかったはずだ。;;;<0849> S'il suffisait de faire ça pour se rafraîchir, la civilisation ne serait pas arrivée aussi loin.
@@ -871,20 +871,20 @@
 <0870> \{晴子}「ちゃんと立っとるな。よし、無事や」;;;<0870> T'as l'air de tenir debout. Donc, pas de dégâts.
 <0871> \{晴子}「うち、急いどるんや。ほな、また」;;;<0871> Faut que j'me dépêche. Allez, à plus.
 <0872> \{\m{A}}「目視だけで無事を確認するなっ」;;;<0872> C'est pas juste en me jetant un petit coup d'œil que tu peux être sûre qu'il n'y a pas de dégâts !
-<0873> \{晴子}「あん？  無事なんやろ？」;;;<0873> Hé ? Mais il n'y a pas de dégâts, non ?
+<0873> \{晴子}「あん？  無事なんやろ？」;;;<0873> Hé ? Mais il y a pas de dégâts, si ?
 <0874> \{晴子}「うち、そっから出てきたところや。そないにスピード出てへんかったはずやで」;;;<0874> J'viens juste de sortir d'la rue là-bas. J'pouvais pas aller trop vite.
 <0875> \{晴子}「問題あらへんやろぅ？」;;;<0875> Y a un problème ?
 <0876> まるで脅されているようだった。;;;<0876> On aurait dit qu'elle était complètement en train de me menacer.
-<0877> \{\m{A}}「ひとつ大きな問題があるだろ。ひと一人轢いたという事実が」;;;<0877> Ouais, y a un problème, et un gros. Tu viens juste de renverser quelqu'un, en gros.
+<0877> \{\m{A}}「ひとつ大きな問題があるだろ。ひと一人轢いたという事実が」;;;<0877> Ouais, y a un problème, et pas des moindres. Tu viens juste de renverser quelqu'un, en gros.
 <0878> 両手で体についた土埃を落としながら、言ってやる。;;;<0878> lui dis-je en m'épousetant à deux mains.
 <0879> \{\m{A}}「ん…」;;;<0879> Hmn...
 <0880> そこで気づく。人形がなかった。;;;<0880> C'est là que je me rendis compte que ma marionnette manquait à l'appel.
 <0881> 今の衝撃でどこかに投げ出されてしまったようだった。;;;<0881> L'impact avait dû la faire voler quelque part.
-<0882> \{晴子}「あ、なんか落ちてる」;;;<0882> Ah, y a quelque chose qu'est tombé, là.
+<0882> \{晴子}「あ、なんか落ちてる」;;;<0882> Ah, y a un machin qu'est tombé, là.
 <0883> 晴子が地面から何かを拾い上げていた。;;;<0883> Elle ramassa quelque chose par terre.
 <0884> \{晴子}「なんやろなー。布で出来てるみたいや」;;;<0884> C'est quoi c'truc— ? Ça a l'air d'être en tissu.
 <0885> \{晴子}「こわっ…なんか顔ついとる」;;;<0885> Beurk... Y a un visage dessus.
-<0886> \{晴子}「呪いの人形かいな…」;;;<0886> C'est le genre qu'est possédé ?
+<0886> \{晴子}「呪いの人形かいな…」;;;<0886> C'est le genre qu'est possédé...?
 <0887> 俺の夢を売る商売道具だ。;;;<0887> C'était mon gagne-pain, qui me permettait de réaliser mes rêves.
 <0888> \{晴子}「焼いとこ」;;;<0888> Au bûcher.
 <0889> \{\m{A}}「俺の人形だっ！」;;;<0889> Elle est à moi, cette marionnette !!
@@ -902,15 +902,15 @@
 <0901> \{\m{A}}「ウッハウハ…」;;;<0901> Uhha-uha...
 <0902> \{晴子}「っと…時間ごっつやばいわ…」;;;<0902> Mince... j'ai plus l'temps...
 <0903> \{晴子}「うち、急いどるから。ほな、また」;;;<0903> Faut que j'me dépêche. Allez, à plus.
-<0904> メットをかぶり直すと、勢いよく発進する。;;;<0904> Elle remit son casque, puis repartit pleins gaz.
+<0904> メットをかぶり直すと、勢いよく発進する。;;;<0904> Elle remit son casque, puis repartit plein gaz.
 <0905> ぶろろろろろろろ…！！;;;<0905> \bVroooooooum\u... !!
 <0906> 田舎の情景をぶち壊しにしながら、エンジン音が遠ざかっていった。;;;<0906> Les bruits de moteur qui ruinaient ce tableau champêtre moururent au loin.
 <0907> じーこじーこ…;;;<0907> Les oiseaux gazouillaient...
 <0908> みんみんみんみん…;;;<0908> Les cigales chantaient...
 <0909> 空は青く澄み渡っている。;;;<0909> Pas un nuage à l'horizon.
-<0910> \{\m{A}}「…俺の十年ってなんだ」;;;<0910> ... Ça représentait quoi ces dix ans, pour moi ?
+<0910> \{\m{A}}「…俺の十年ってなんだ」;;;<0910> ... Ça représente quoi, ces dix ans, pour moi ?
 <0911> ぱんぱんぱん！;;;<0911> \bPaf paf paf\u !
-<0912> 俺は自分の頬をぶつ。;;;<0912> Je me donnais une paire de claque.
+<0912> 俺は自分の頬をぶつ。;;;<0912> L'homme s'était donné une paire de claques.
 <0913> 危うく、ウッハウハという言葉に騙されるところだった。;;;<0913> J'ai failli me laisser séduire par le 'uhha-uha'.
 <0914> この人形の代わりなんて存在しない。;;;<0914> Rien ne pouvait remplacer cette marionnette.
 <0915> 俺はこれで稼ぎ続ける。;;;<0915> Je continuerais de gagner ma vie grâce à elle.
@@ -1370,9 +1370,9 @@
 <1369> \{観鈴}「あ、帰ってきたねー」;;;<1369> Ah, elle doit être rentrée—.
 <1370> \{\m{A}}「そうだな」;;;<1370> On dirait bien.
 <1371> 俺も慣れたものだった。;;;<1371> Je commençais à m'y habituer.
-<1372> \{晴子}「帰ったで～」;;;<1372> J'suis là~.
+<1372> \{晴子}「帰ったで～」;;;<1372> J'suis d'retour~.
 <1373> 相変わらず赤い顔で姿を現す。;;;<1373> Elle fit son entrée, accompagnée de son habituel visage rubicond.
-<1374> \{晴子}「ほら、居候。おみやげや」;;;<1374> Hé, pique-assiettes. J'te ramène un souvenir.
+<1374> \{晴子}「ほら、居候。おみやげや」;;;<1374> Hé, pique-assiette. J'te ramène un souvenir.
 <1375> 四角い包みを渡される。;;;<1375> Elle me tendit un paquet rectangulaire.
 <1376> \{\m{A}}「食い物か。どれどれ」;;;<1376> À manger ? Voyons voir ça.
 <1377> 封を解きにかかる。;;;<1377> Je défis l'emballage.
@@ -1382,7 +1382,7 @@
 <1381> 包みを解いた箱の中から出てきたのは、手足の長い動物のぬいぐるみだった。;;;<1381> L'emballage défait, je découvris à l'intérieur de la boîte une peluche représentant un animal aux longs membres.
 <1382> \{\m{A}}「なんだ、こりゃ」;;;<1382> C'est quoi, ce truc ?
 <1383> \{観鈴}「わ…いいな、ナマケモノさん…」;;;<1383> Wah... Trop bien, un paresseux...
-<1384> \{\m{A}}「ナマケモノ…？  渡す相手、間違えてないか？」;;;<1384> Un paresseux...? T'as pas donné ça à la mauvaise personne ?
+<1384> \{\m{A}}「ナマケモノ…？  渡す相手、間違えてないか？」;;;<1384> Un paresseux...? T'as pas filé ça à la mauvaise personne ?
 <1385> \{晴子}「あんたでおうとる」;;;<1385> C'est pour toi.
 <1386> \{晴子}「欲しかったんやろ？  あの薄汚れた人形の代わり」;;;<1386> C'est pas c'que tu voulais ? Pour remplacer ta marionnette toute crade.
 <1387> \{\m{A}}「………」;;;<1387> .........
@@ -1391,7 +1391,7 @@
 <1390> \{観鈴}「わ、やった」;;;<1390> Wah, super !
 <1391> そのまま抱きしめる。;;;<1391> Elle la prit dans ses bras...
 <1392> が、それを晴子がもぎ取る。;;;<1392> ... Jusqu'à ce que Haruko la lui arrache des mains.
-<1393> \{晴子}「こらこら。うちは居候、あんたのために買うてきたったんやっ」;;;<1393> Hé, oh. Pique-assiettes, c'est pour toi que j'l'ai achetée !
+<1393> \{晴子}「こらこら。うちは居候、あんたのために買うてきたったんやっ」;;;<1393> Hé, oh. Pique-assiettes, c'est pour toi que j'l'ai acheté !
 <1394> 再び突きつけられる。;;;<1394> Elle la fourra de nouveau dans mes bras.
 <1395> \{晴子}「ひとの親切、踏みにじらんとってくれるか」;;;<1395> Sois poli avec les gens qui pensent à toi.
 <1396> \{\m{A}}「俺がいつ、こんなものを欲しいと言ったっ」;;;<1396> Quand est-ce que j'ai dit que je voulais ce truc ?
@@ -1403,8 +1403,8 @@
 <1402> \{晴子}「あんな汚い人形持って歩いてるよりも、これ持って歩いてたほうが愛嬌あってええやろ？」;;;<1402> Tu auras l'air plus abordable si tu te promènes avec ça plutôt qu'avec ta marionnette toute sale, non ?
 <1403> \{\m{A}}「俺の人形は飾りかっ」;;;<1403> Tu crois que ma marionnette n'est là que pour décorer ?
 <1404> \{晴子}「なんや、違（ちご）たんか」;;;<1404> Quoi, c'est pas le cas ?
-<1405> \{\m{A}}「違うだろ、見せてやったじゃないか。大道芸の小道具だ」;;;<1405> Au contraire, je te l'ai fait voir, non ? C'est un accessoire pour mon spectacle de rue.
-<1406> \{晴子}「そうか…そやったな」;;;<1406> Ah, oui... c'est vrai.
+<1405> \{\m{A}}「違うだろ、見せてやったじゃないか。大道芸の小道具だ」;;;<1405> Au contraire ! Je te l'ai fait voir, non ? C'est un accessoire pour mon spectacle de rue.
+<1406> \{晴子}「そうか…そやったな」;;;<1406> Ah, oui... C'est vrai.
 <1407> ぽん、と手を打つ。;;;<1407> Elle se joignit les mains.
 <1408> \{晴子}「インパクト弱すぎて、記憶になかったわ」;;;<1408> Ça m'a tellement peu marqué que j'avais oublié.
 <1409> …俺の法術ってなんだ。;;;<1409> ... Respecte un peu mon Houjutsu.
@@ -1420,13 +1420,13 @@
 <1419> が、晴子が不気味にすり寄ってくる。;;;<1419> Sauf que Haruko se glissa à côté de moi.
 <1420> \{晴子}「なんでそんなつれんこと言うねん…」;;;<1420> Dis pas des choses vilaines comme ça...
 <1421> 首筋に口を寄せて囁く。;;;<1421> Elle me susurra ça dans la nuque.
-<1422> \{晴子}「居候ちゃんの、いけずいけずぅ～」;;;<1422> Mon petit Pique-assiettes, arrête de faire le méchant garçon...
+<1422> \{晴子}「居候ちゃんの、いけずいけずぅ～」;;;<1422> Mon petit Pique-assiettes, arrête de jouer au vilain garçon...
 <1423> 絶好調モードに切り替わったようだった。;;;<1423> Elle avait complètement changé de mode.
 <1424> \{\m{A}}「酒臭いだろ、離れろ」;;;<1424> Tu pues l'alcool, éloigne-toi de moi.
 <1425> 晴子の手が俺の背中に回される。そして、その手が俺の尻に触れた。;;;<1425> Haruko passa une main autour de mon dos, avant que cette même main ne me touche les fesses.
 <1426> すっ…;;;<1426> \bHop\u...
 <1427> その意図に気づいて晴子の体を突き飛ばすが、遅かった。;;;<1427> Je réalisai alors son intention, et l'envoyai valdinguer, mais il était déjà trop tard.
-<1428> \{晴子}「しっし」;;;<1428> Hihi.
+<1428> \{晴子}「しっし」;;;<1428> Hi hi.
 <1429> いやらしく笑う晴子。その手には、俺の人形があった。;;;<1429> Elle triompha d'un rire insupportable. Ma marionnette était dans sa main.
 <1430> \{\m{A}}「………」;;;<1430> .........
 <1431> \{晴子}「これで、あんたはうちのプレゼントで芸するしかあらへん」;;;<1431> Comme ça, t'es obligé d'faire ton numéro avec mon cadeau.
@@ -1437,7 +1437,7 @@
 <1436> \{晴子}「ほな、ぬいぐるみをあんたが買い取り。そうしたら、うちも損したことにならへん」;;;<1436> Dans ce cas, achète-moi cette peluche. Comme ça, j'y perds rien.
 <1437> \{晴子}「後は、捨てるなり観鈴にやるなり、好きにしてええ」;;;<1437> Après ça, ce sera ton problème si tu veux la balancer ou la refiler à Misuzu.
 <1438> \{\m{A}}「ああ…わかった」;;;<1438> Ouais... J'ai compris.
-<1439> \{晴子}「それまで、これ預かっとくわ」;;;<1439> Mais en attendant, c'est moi qui m'occuperai de ça.
+<1439> \{晴子}「それまで、これ預かっとくわ」;;;<1439> Mais en attendant, c'est moi qui m'occuperai d'ça.
 <1440> \{\m{A}}「なんだそれは。どういう理屈だ」;;;<1440> Qu'est-ce que tu racontes ? C'est quoi cette logique ?
 <1441> \{晴子}「あんたがそれの代金踏み倒して、逃げる、いうこともあるさかいにな」;;;<1441> Sans ça, tu risques de t'enfuir sans payer.
 <1442> \{晴子}「もちろん、今、この場で代金が支払える言うんやったら、すぐ返したる」;;;<1442> Bien sûr, si tu m'dis qu't'es prêt à payer ici même, alors j'te la rends.
@@ -1448,7 +1448,7 @@
 <1447> \{晴子}「どない」;;;<1447> T'en dis quoi ?
 <1448> \{観鈴}「そんな…\m{A}さんが払えるわけないよ」;;;<1448> Mais... \m{A}-san n'aura jamais tout ça.
 <1449> そのフォローもキツイものがある。;;;<1449> Ce devait être pour me soutenir, mais ça piquait.
-<1450> \{晴子}「ほなまぁ、頑張って稼ぎや」;;;<1450> Allez, bonne chance pour te faire des sous.
+<1450> \{晴子}「ほなまぁ、頑張って稼ぎや」;;;<1450> Allez, bonne chance pour t'faire des sous.
 <1451> ぽんぽん、と肩を叩かれる。;;;<1451> Elle me tapota l'épaule.
 <1452> \{晴子}「それとな、あんたが買い取るまでは、ぬいぐるみはうちからの真心のこもったプレゼントや」;;;<1452> Une dernière chose. Jusqu'à ce que tu m'l'achètes, considère cette peluche comme un gage de ma bonne volonté.
 <1453> \{晴子}「むげに扱（あつこ）うたら、こっちの人形も手荒く扱うで」;;;<1453> Si tu n'en prends pas soin, ta marionnette va morfler.

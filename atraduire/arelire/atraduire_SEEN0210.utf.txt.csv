@@ -1,5 +1,5 @@
 <0000> ７月２１日(金);;;<0000> 21/07 (ven.)
-<0001> 目覚めると、眼前に猿の顔があった。;;;<0001> J'ouvris les yeux, et tombai nez à nez avec un visage simiesque.
+<0001> 目覚めると、眼前に猿の顔があった。;;;<0001> En ouvrant les yeux, je me retrouvai nez à nez avec un visage simiesque.
 <0002> \{\m{A}}「おわっ…」;;;<0002> Owah...!
 <0003> \{\m{A}}「…と、おまえか」;;;<0003> ... Ah, c'est juste toi.
 <0004> ナマケモノのぬいぐるみだった。;;;<0004> C'était le paresseux en peluche.
@@ -90,7 +90,7 @@
 <0089> \{観鈴}「ええ」;;;<0089> Oui.
 <0090> \{主婦}「観鈴ちゃんが？」;;;<0090> Pour toi ?
 <0091> \{観鈴}「ちがいます。このひと」;;;<0091> Non. Pour lui.
-<0092> ぴっ、と後ろに立っていた俺を指さす。;;;<0092> Elle me pointa du doigt, alors que je me tenais derrière elle.
+<0092> ぴっ、と後ろに立っていた俺を指さす。;;;<0092> Elle me désigna, moi qui me tenais derrière elle.
 <0093> \{主婦}「あぁ、そのひと…」;;;<0093> Aah, lui...
 <0094> ちょっと引いた。;;;<0094> Elle fit un pas en arrière.
 <0095> そして、人の面を吟味するような目線を寄こした。;;;<0095> Puis me dévisagea minutieusement.
@@ -98,7 +98,7 @@
 <0097> \{観鈴}「いけるよね」;;;<0097> Tu peux, dis ?
 <0098> ばっちりだ、と答える;;;<0098> Lui répondre que c'était juste ce qu'il me fallait
 <0099> 力自慢なところを見せつける;;;<0099> Lui montrer ma force
-<0100> \{\m{A}}「ああ、ばっちりだ」;;;<0100> Ouais, c'est juste ce qu'il me faut.
+<0100> \{\m{A}}「ああ、ばっちりだ」;;;<0100> Ouais, ce serait parfait.
 <0101> \{主婦}「それだったら、あるわよ」;;;<0101> Dans ce cas, j'ai quelque chose pour toi.
 <0102> 俺は逆立ちをする。;;;<0102> Je fis le poirier.
 <0103> そして、その状態で腕立て伏せを行った。;;;<0103> Puis, en gardant cette pose, je me mis à faire des pompes.
@@ -217,15 +217,15 @@
 <0216> 店は商店街の奥まった場所で見つかった。;;;<0216> Je trouvai le magasin tout au bout de la rue commerçante.
 <0217> 佐久間リサイクルショップ、と名を言う。;;;<0217> Il s'appelait 'Magasin de Seconde Main Sakuma'.
 <0218> 店内に入り、呼びかけると、愛想のいい女性が出てきた。;;;<0218> J'y entrai, signalai ma présence, et une femme accueillante fit son apparition.
-<0219> \{女性}「手伝ってもらえるって方ですよね？」;;;<0219> Vous êtes la personne qui vient donner un coup de main ?
+<0219> \{女性}「手伝ってもらえるって方ですよね？」;;;<0219> Vous êtes la personne venue donner un coup de main ?
 <0220> \{\m{A}}「ああ」;;;<0220> Ouais.
 <0221> \{女性}「ごめんなさいね、こんな暑い中」;;;<0221> Désolée que vous ayez à travailler sous cette chaleur.
 <0222> \{\m{A}}「ざけんなよってカンジだな」;;;<0222> J'ai l'impression qu'on se moque un peu de moi.
 <0223> \{女性}「でもほんと、若いのね。頼りになりそう」;;;<0223> Vous avez l'air vraiment jeune. Je pense pouvoir compter sur vous.
 <0224> \{\m{A}}「ギャラはずめよな」;;;<0224> Tant que la paie est bonne.
-<0225> \{女性}「うふふ、面白い子」;;;<0225> Hihi, vous êtes bien drôle.
+<0225> \{女性}「うふふ、面白い子」;;;<0225> Ufufu, vous êtes bien drôle.
 <0226> 笑顔で、てきぱきと用意を始める。;;;<0226> Elle s'attela à préparer mes affaires, en gardant le sourire.
-<0227> \{女性}「じゃ、頑張ってね」;;;<0227> Allez, bon courage.
+<0227> \{女性}「じゃ、頑張ってね」;;;<0227> Allez, faites de votre mieux.
 <0228> \{\m{A}}「適当にな」;;;<0228> Je vais essayer.
 <0229> 店先で別れる。;;;<0229> Je quittai le magasin.
 <0230> 俺の背後にはリヤカーがある。;;;<0230> Une charrette se trouvait derrière moi.
@@ -245,7 +245,7 @@
 <0244> …それだけしか書いてなかった。;;;<0244> ... C'était tout ce qui y était écrit.
 <0245> \{\m{A}}（どーしろってんだよ、これで…）;;;<0245> Qu'est-ce que je suis censé faire avec ça...?
 <0246> まさしく、観鈴が隣にいるようである。;;;<0246> Effectivement, c'était comme si Misuzu était à côté de moi.
-<0247> \{\m{A}}「まったく使えねぇ…」;;;<0247> Franchement inutile.
+<0247> \{\m{A}}「まったく使えねぇ…」;;;<0247> Franchement inutile...
 <0248> 自力で家を回ることにする;;;<0248> Me résoudre à faire le tour des maisons à l'instinct
 <0249> 観鈴を信じる;;;<0249> Croire en Misuzu
 <0250> こんな落書きは無視だ。自力で頑張ろう。;;;<0250> Autant ignorer ces gribouillages. Je me débrouillerais seul.
@@ -303,7 +303,7 @@
 <0302> \{\m{A}}「イツツ…」;;;<0302> Aïe aïe aïe...
 <0303> 俺も上体を起こす。;;;<0303> Je me redressai.
 <0304> \{\m{A}}「なんて危ない乗り物だ…二度と乗らないぞ」;;;<0304> Quel véhicule dangereux... Je ne monterai pas dessus une seconde fois !
-<0305> \{晴子}「ライダーと逆にハング切る奴なんか乗せるかっ！」;;;<0305> Tu crois que quiconque voudrait d'un passager comme toi ?!!
+<0305> \{晴子}「ライダーと逆にハング切る奴なんか乗せるかっ！」;;;<0305> Tu crois qu'quiconque voudrait d'un passager comme toi ?!!
 <0306> \{晴子}「はぁ…こんな奴、助けたろ思たうちがアホやったわ…」;;;<0306> Haa... C'est moi l'idiote, pour avoir voulu aider un boulet pareil...
 <0307> 転けていたバイクを立て直して、それに跨る晴子。;;;<0307> Haruko releva sa moto et l'enfourcha.
 <0308> \{晴子}「もううち、しらんで。ひとりで勝手に稼ぎや」;;;<0308> J'en ai plus rien à cirer. Débrouille-toi tout seul pour gagner des sous.
@@ -315,7 +315,7 @@
 <0314> \{\m{A}}「よし、飛ばしてくれ」;;;<0314> Allez, fais-moi décoller
 <0315> リヤカーの台にあぐらをかく。;;;<0315> Je m'assis en tailleur dans la charrette.
 <0316> \{晴子}「よっしゃ、いくで～」;;;<0316> Allez, en route~ !
-<0317> すちゃっと晴子がそのリヤカーを引きに入る。;;;<0317> Haruko se mit prestement à tirer la charrette.
+<0317> すちゃっと晴子がそのリヤカーを引きに入る。;;;<0317> Haruko se commença au quart de tour à tirer la charrette.
 <0318> \{晴子}「って、おのれは何様じゃいっ！」;;;<0318> Comme si ! Tu t'prends pour qui ?!!
 <0319> げしっ！\shake{1};;;<0319> \bBim\u ! \shake{1}
 <0320> 蹴落とされる。;;;<0320> Elle me fit descendre à coups de pied.
@@ -507,7 +507,7 @@
 <0506> \{\m{A}}「佐久間リサイクルショップを今後ともごひいきに…」;;;<0506> Merci d'avoir fait confiance au Magasin de Seconde Main Sakuma...
 <0507> \{主婦}「するわけないでしょっ！」;;;<0507> Tu peux rêver !!
 <0508> 最後の言葉は余分だったようだ。;;;<0508> Ces derniers mots n'étaient pas nécessaires.
-<0509> \{\m{A}}「たく…散々な目に遭ったぞ…」;;;<0509> Franchement... J'avais la vie dure...
+<0509> \{\m{A}}「たく…散々な目に遭ったぞ…」;;;<0509> Franchement... J'ai la vie dure...
 <0510> あれだけ頑張ったのに、戦利品のひとつもない。;;;<0510> Je faisais de mon mieux, et pourtant je n'avais pas encore récolté le moindre fruit de mon labeur.
 <0511> いまだリヤカーの荷台は空っぽだった。;;;<0511> Toujours rien dans la charrette.
 <0512> \{声}「いやっほう！  こりゃラクチン！」;;;<0512> Yahoo ! C'est trop de la balle !
@@ -515,13 +515,13 @@
 <0514> \{\m{A}}「こら、降りろっ」;;;<0514> Hé, descends !
 <0515> \{子供}「わーいっ」;;;<0515> Youpi !
 <0516> 飛び降りて、どこかに走り去っていった。;;;<0516> Il sauta et disparut je ne sais où.
-<0517> \{\m{A}}「えーと、次の家はと…」;;;<0517> Euh, la maison suivante...
+<0517> \{\m{A}}「えーと、次の家はと…」;;;<0517> Alors, la maison suivante...
 <0518> 路地の辺りに何か書き足してある。;;;<0518> Quelque chose était écrit près de cette allée.
 <0519> 『にけんめは、川内さんのいえ。なぜならいいことがあるから』;;;<0519> Ensuite, c'est chez les Kawauchi. Il y a toujours de bonnes choses qui t'attendent, là-bas.
 <0520> \{老婆}「よぅ、きたな。お兄ちゃん」;;;<0520> Oh, voilà un jeune homme.
 <0521> \{老婆}「ほら、お菓子あげよ」;;;<0521> Tiens, des bonbons.
 <0522> 『ぜったいおカシをくれるんだよ～。とってもおいしいの！  \m{A}さん、やったね！』;;;<0522> À chaque fois que j'y vais, on m'offre des bonbons~. Ils sont très bons ! Bravo, \m{A}-san !.
-<0523> ポリポリ…確かにおいしい。;;;<0523> \bScrunch scrunch\u... C'est vrai qu'ils étaient bons.
+<0523> ポリポリ…確かにおいしい。;;;<0523> \bScrunch scrunch\u... C'est vrai qu'ils sont bons.
 <0524> \{\m{A}}「やったね！」;;;<0524> Bravo !
 <0525> \{\m{A}}「じゃねえよっ…」;;;<0525> Et puis quoi encore...!?
 <0526> \{\m{A}}「な、婆さん、お菓子じゃなくて、不要物とかはないか。電化製品とか…」;;;<0526> Hé, grand-mère, mis à part des bonbons, vous n'auriez pas des choses dont vous ne vous servez plus ? Des appareils électroménagers, par exemple.
@@ -558,7 +558,7 @@
 <0557> 自分でもびびるほどだった。;;;<0557> Même moi, ce truc me mettait mal à l'aise.
 <0558> \{声}「あ、ナマケモノさん」;;;<0558> Ah, un paresseux.
 <0559> 遠くで声がした。;;;<0559> J'entendis une voix au loin.
-<0560> 見ると、小さな女の子がこっちを見ていた。;;;<0560> En relevant les yeux, je vis une petite fille qui regardait par ici.
+<0560> 見ると、小さな女の子がこっちを見ていた。;;;<0560> En la cherchant du regard, je finis par remarquer une petite fille qui regardait dans ma direction.
 <0561> そして走ってくる。;;;<0561> Puis elle courut vers moi.
 <0562> わしっ！と勢いよく、ナマケモノに抱きついた。;;;<0562> Elle sauta sur le paresseux et l'étreignit vigoureusement.
 <0563> \{女の子}「すごくかわいい」;;;<0563> Qu'est-ce qu'il est mignon.
@@ -616,7 +616,7 @@
 <0615> \{\m{A}}「馬鹿、泣くな。男の子だろ」;;;<0615> Idiot. T'es un garçon. Et les garçons, ça pleure pas
 <0616> \{\m{A}}「って、女の子か…」;;;<0616> Ou pas, t'es une fille...
 <0617> どうして泣いているかが、見当つかない。;;;<0617> Je n'avais pas la moindre idée de la raison pour laquelle elle pleurait.
-<0618> \{\m{A}}「どうした。人生に挫折したか」;;;<0618> Qu'y a t-il ? Des échecs dans la vie ?
+<0618> \{\m{A}}「どうした。人生に挫折したか」;;;<0618> Qu'y a-t-il ? Des échecs dans la vie ?
 <0619> \{\m{A}}「そりゃまあ、いろいろとあるもんだ。おまえ、まだ若いじゃないか」;;;<0619> Tu sais, il s'en passe des choses, dans la vie. T'es encore jeune, non ?
 <0620> \{\m{A}}「………」;;;<0620> .........
 <0621> まったく見当違いの慰めかたをしている気がする。;;;<0621> Quelque chose me dit que c'était franchement pas comme ça que j'allais la consoler.
@@ -669,20 +669,20 @@
 <0668> 顔を上げると、観鈴が目の前に立っていた。;;;<0668> Je relevai la tête, et vis Misuzu qui se tenait devant moi.
 <0669> \{\m{A}}「大変だったぞ」;;;<0669> Quelle galère.
 <0670> この時ばかりは、俺は、観鈴の登場をありがたく思った。;;;<0670> Pour la toute première fois, j'étais bien content de voir Misuzu débarquer.
-<0671> \{観鈴}「かわいい」;;;<0671> Trop mignonne.
+<0671> \{観鈴}「かわいい」;;;<0671> Trop mignonne...
 <0672> そう言って、女の子をあやした。;;;<0672> dit-elle en faisant un câlin à la petite fille.
 <0673> \{観鈴}「ずっと、この子と遊んでた？」;;;<0673> Tu as passé tout ce temps à jouer avec elle ?
 <0674> \{\m{A}}「馬鹿。こっちはそいつのせいで、どれだけ苦労したか」;;;<0674> Mais comme si. Tu n'as aucune idée de tout ce qu'elle m'a fait faire.
 <0675> \{\m{A}}「迷子なんだぞ、そいつは」;;;<0675> Elle s'est perdue.
 <0676> \{観鈴}「迷子？」;;;<0676> Perdue ?
 <0677> \{観鈴}「名前は？」;;;<0677> C'est quoi son nom ?
-<0678> \{\m{A}}「さあな。本人に聞いてくれ」;;;<0678> Qu'est-ce que j'en sais ? Demande à l'intéressée.
+<0678> \{\m{A}}「さあな。本人に聞いてくれ」;;;<0678> Qu'est-ce que j'en sais ? C'est à elle qu'il faut poser la question.
 <0679> \{観鈴}「うん。お名前は？」;;;<0679> Ok. C'est quoi ton nom ?
 <0680> \{女の子}「６さい」;;;<0680> Six ans.
 <0681> \{\m{A}}「すげぇ名前だな」;;;<0681> En voilà un sacré nom.
 <0682> \{観鈴}「\m{A}さんは黙ってて」;;;<0682> \m{A}-san, tu te tais.
 <0683> 怒られた。;;;<0683> Je l'avais fâchée.
-<0684> \{観鈴}「お名前は？  お歳の前に言うものでしょ？」;;;<0684> C'est quoi ton nom ? C'est que qui vient avant ton âge.
+<0684> \{観鈴}「お名前は？  お歳の前に言うものでしょ？」;;;<0684> C'est quoi ton nom ? C'est ce qui vient avant ton âge.
 <0685> \{女の子}「さいか、６さい」;;;<0685> Saika, six ans.
 <0686> \{観鈴}「さいかちゃん？」;;;<0686> Saika-chan ?
 <0687> \{女の子}「うん、さいか」;;;<0687> Oui, Saika.
@@ -735,11 +735,11 @@
 <0734> 俺は夕飯を食った後、テレビも見ずに居間の床に寝転がっていた。;;;<0734> Après avoir fini de dîner, je m'allongeai par terre dans la salle de séjour, sans même regarder la télévision.
 <0735> 目の前には、片手にかざした紙幣。;;;<0735> Je tenais un billet devant mes yeux.
 <0736> \{観鈴}「\m{A}さん、そんなものじっと見てないで、トランプして遊ぼ」;;;<0736> \m{A}-san, arrête de fixer ça. Jouons aux cartes.
-<0737> これ持って、このまま逃げようか。;;;<0737> Avec ça, je pouvais peut-être m'enfuir.
-<0738> いや、俺は商売道具を取り返していない。;;;<0738> Non, il me fallait récupérer mon gagne-pain.
-<0739> というか、これで新たな人形を買えばいいのではないか？;;;<0739> Ou plutôt, acheter une nouvelle marionnette ?
-<0740> 確かに、あれはボロだ。;;;<0740> C'est vrai que l'autre était en lambeaux.
-<0741> が、あれには、いろんな思い出が詰まっている。;;;<0741> Mais bon, elle était pleine de souvenirs.
+<0737> これ持って、このまま逃げようか。;;;<0737> Avec ça, peut-être que je peux m'enfuir ?
+<0738> いや、俺は商売道具を取り返していない。;;;<0738> Non, il faut que je récupére mon gagne-pain.
+<0739> というか、これで新たな人形を買えばいいのではないか？;;;<0739> Ou plutôt, que j'achète une nouvelle marionnette ?
+<0740> 確かに、あれはボロだ。;;;<0740> C'est vrai que l'autre est en lambeaux.
+<0741> が、あれには、いろんな思い出が詰まっている。;;;<0741> Mais bon, elle est pleine de souvenirs.
 <0742> 俺が大成する日には、その喜びを共に分かち合いたい存在だ。;;;<0742> Le jour où j'atteindrai mon but, il faudra que je partage cette joie avec elle.
 <0743> \{\m{A}}「思い出いっぱい、夢いっぱい」;;;<0743> Pleine de souvenirs, pleine de rêves.
 <0744> \{観鈴}「意味不明なこと言ってるし」;;;<0744> Encore en train de dire des bêtises.

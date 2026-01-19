@@ -20,8 +20,8 @@ Le texte de la route de Misuzu est complètement traduit !
 ##### Avancement #####
 
 ### Traduction Dialogues ###
-Scènes    : 63/81
-Relecture : 13/81
+Scènes    : 67/81
+Relecture : 0/81
 
 ### Traduction Interface ###
 Texte        : ok
@@ -39,7 +39,7 @@ Remplacement des images    : ko
 
 ##### Présentation #####
 
-Ce patch propse une traduction complète de AIR de Key/Visual Arts (2000) en français. Plus précisément, ce patch est destiné à 'AIR Standard Edition' (version PC 18+ de 2005).
+Ce patch propse une traduction complète de AIR de VisualArt's/Key (2000) en français. Plus précisément, ce patch est destiné à 'AIR Standard Edition' (PC, 2005).
 
 ##### Installation #####
 
