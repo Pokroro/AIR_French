@@ -1,12 +1,27 @@
 ####### Patch français pour AIR #######
 ####### Rotome Traductions ####### 
-####### V0.1 (Beta) - Build 27/05/2026 #######
+####### V0.2 (Beta) - Build 07/06/2026 #######
+
+##### Changelog #####
+
+- Bugs :
+	- "Save" et "Load" étaient mal affichés dans le menu contextuel en l'absence de Locale japonais
+	- 9 images ont été retouchées pour éviter que le texte qu'elles affichent soit coupé
+	- Il manquait un espace entre le nom et le prénom du protagoniste
+	- La mère de Minagi et Hijiri ne sont plus des "jeunes femmes" mais simplement des "femmes"
+
+- Autres corrections :
+	- Environ 500 lignes ont été reformulées pour rendre le style moins lourd en supprimant les marqueurs du discours direct ("dit-elle" etc.)
+	- Une vingtaine d'autres reformulations mineures
+	- Une paire de fautes de frappe
 
 ##### Présentation #####
 
 Ce patch propose une traduction complète et à la main de AIR de VisualArt's/Key (2000) en français. Plus précisément, ce patch est destiné à 'AIR Standard Edition' (PC, 2005, 18+).
 
-Ce patch a beau être encore marqué comme "Beta", l'intégralité des textes du jeu, de même que l'intégralité des images contenant du texte en japonais, sont traduits. Les notes du traducteur s'affichent en cliquant sur le texte apparaissant dans une couleur différente du reste (ne fonctionne pas dans le log ; seul le texte "actuel" est cliquable).
+Ce patch a beau être encore marqué comme "Beta", l'intégralité des textes du jeu, de même que l'intégralité des images contenant du texte en japonais, sont traduits.
+
+Les notes du traducteur s'affichent en cliquant sur le texte apparaissant dans une couleur différente du reste (ne fonctionne pas dans le log ; seul le texte "actuel" est cliquable).
 
 ##### Notes #####
 
@@ -75,5 +90,5 @@ Je vais peut-être aussi publier d'autres versions du patch :
 Discord : pokroro_
 Courriel : pokroro@gmail.com
 
-N'hésitez pas à me contacter si vous avez des suggestions ou des critiques, si vous avez trouvé des erreurs, ou simplement pour discuter :-)
+N'hésitez pas à me contacter si vous avez des suggestions, des critiques, des questions techniques, si vous avez trouvé des erreurs, ou simplement pour discuter :-)
 Vos retours sont les bienvenus.
