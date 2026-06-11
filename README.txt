@@ -1,19 +1,11 @@
 ####### Patch français pour AIR #######
 ####### Rotome Traductions ####### 
-####### V0.2 (Beta) - Build 07/06/2026 #######
+####### V0.2.1 (Beta) - Build 07/06/2026 #######
 
 ##### Changelog #####
 
-- Bugs :
-	- "Save" et "Load" étaient mal affichés dans le menu contextuel en l'absence de Locale japonais
-	- 9 images ont été retouchées pour éviter que le texte qu'elles affichent soit coupé
-	- Il manquait un espace entre le nom et le prénom du protagoniste
-	- La mère de Minagi et Hijiri ne sont plus des "jeunes femmes" mais simplement des "femmes"
-
-- Autres corrections :
-	- Environ 500 lignes ont été reformulées pour rendre le style moins lourd en supprimant les marqueurs du discours direct ("dit-elle" etc.)
-	- Une vingtaine d'autres reformulations mineures
-	- Une paire de fautes de frappe
+- Un des textes de l'opening était décalé
+- Correction d'une faute de frappe dans ce même texte
 
 ##### Présentation #####
 
